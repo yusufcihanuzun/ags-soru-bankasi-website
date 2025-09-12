@@ -3,9 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AGS Soru Bankası - Eğitim Uygulaması</title>
-    <meta name="description" content="AGS sınavlarına hazırlık için kapsamlı soru bankası uygulaması. Tarih, Coğrafya, Eğitim ve Mevzuat konularında binlerce soru.">
+    <title>AGS Soru Bankası - Profesyonel Eğitim Uygulaması</title>
+    <meta name="description" content="AGS sınavlarına hazırlık için kapsamlı soru bankası uygulaması. Tarih, Coğrafya, Eğitim ve Mevzuat konularında binlerce soru. +18 yaş ve üzeri profesyoneller için.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
+        :root {
+            --primary-color: #6D79EC;
+            --primary-dark: #5A66D9;
+            --primary-light: #8A94F0;
+            --secondary-color: #2C3E50;
+            --accent-color: #E74C3C;
+            --success-color: #27AE60;
+            --warning-color: #F39C12;
+            --text-dark: #2C3E50;
+            --text-light: #7F8C8D;
+            --background-light: #F8F9FA;
+            --white: #FFFFFF;
+            --shadow: 0 10px 30px rgba(109, 121, 236, 0.15);
+            --shadow-hover: 0 20px 40px rgba(109, 121, 236, 0.25);
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -13,255 +31,728 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.6;
-            color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: var(--text-dark);
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
             min-height: 100vh;
+            overflow-x: hidden;
         }
         
         .container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 0 20px;
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            padding: 15px 0;
+            border-bottom: 1px solid rgba(109, 121, 236, 0.1);
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            color: var(--text-dark);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary-color);
         }
         
-        header {
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             text-align: center;
-            padding: 60px 0;
-            color: white;
+            color: var(--white);
+            position: relative;
+            overflow: hidden;
         }
-        
-        .logo {
-            font-size: 3em;
-            font-weight: bold;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-        }
-        
-        .tagline {
-            font-size: 1.2em;
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
             opacity: 0.9;
-            margin-bottom: 30px;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .hero-title {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+            text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.1rem, 2vw, 1.3rem);
+            font-weight: 400;
+            margin-bottom: 2.5rem;
+            opacity: 0.95;
+            line-height: 1.6;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: var(--white);
+            color: var(--primary-color);
+            padding: 18px 36px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            box-shadow: var(--shadow);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-hover);
+            background: var(--background-light);
+        }
+
+        .cta-button i {
+            font-size: 1.2rem;
         }
         
+        /* Main Content */
         .main-content {
-            background: white;
-            border-radius: 15px;
-            padding: 40px;
-            margin: 20px 0;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            background: var(--white);
+            border-radius: 24px;
+            padding: 60px;
+            margin: -80px 20px 60px;
+            position: relative;
+            z-index: 10;
+            box-shadow: var(--shadow);
+        }
+        
+        /* Features Section */
+        .features-section {
+            padding: 80px 0;
+            background: var(--background-light);
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: clamp(2rem, 4vw, 3rem);
+            font-weight: 700;
+            color: var(--text-dark);
+            margin-bottom: 1rem;
+        }
+
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.2rem;
+            color: var(--text-light);
+            margin-bottom: 4rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         .features {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 30px;
-            margin: 40px 0;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+            margin: 60px 0;
         }
         
         .feature {
+            background: var(--white);
+            padding: 40px 30px;
+            border-radius: 20px;
             text-align: center;
-            padding: 30px 20px;
-            background: #f8f9fa;
-            border-radius: 10px;
-            transition: transform 0.3s ease;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+            border: 1px solid rgba(109, 121, 236, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .feature::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
         }
         
         .feature:hover {
-            transform: translateY(-5px);
+            transform: translateY(-8px);
+            box-shadow: var(--shadow-hover);
         }
         
         .feature-icon {
-            font-size: 3em;
-            margin-bottom: 15px;
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 24px;
+            font-size: 2rem;
+            color: var(--white);
         }
         
         .feature h3 {
-            color: #2c3e50;
-            margin-bottom: 15px;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 16px;
+        }
+
+        .feature p {
+            color: var(--text-light);
+            line-height: 1.7;
+            font-size: 1rem;
         }
         
-        .download-section {
-            text-align: center;
-            margin: 50px 0;
-            padding: 40px;
-            background: linear-gradient(45deg, #3498db, #2980b9);
-            border-radius: 15px;
-            color: white;
-        }
-        
-        .download-btn {
-            display: inline-block;
-            background: #e74c3c;
-            color: white;
-            padding: 15px 30px;
-            text-decoration: none;
-            border-radius: 50px;
-            font-weight: bold;
-            font-size: 1.1em;
-            transition: all 0.3s ease;
-            margin: 10px;
-        }
-        
-        .download-btn:hover {
-            background: #c0392b;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        /* Stats Section */
+        .stats-section {
+            padding: 80px 0;
+            background: var(--white);
         }
         
         .stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin: 40px 0;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 40px;
+            margin: 60px 0;
         }
         
         .stat {
             text-align: center;
-            padding: 20px;
-            background: #ecf0f1;
-            border-radius: 10px;
+            padding: 40px 30px;
+            background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+            border-radius: 20px;
+            color: var(--white);
+            transition: transform 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stat::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+            transform: rotate(45deg);
+        }
+        
+        .stat:hover {
+            transform: translateY(-5px);
         }
         
         .stat-number {
-            font-size: 2.5em;
-            font-weight: bold;
-            color: #3498db;
+            font-size: 3rem;
+            font-weight: 800;
+            margin-bottom: 8px;
+            position: relative;
+            z-index: 2;
         }
         
         .stat-label {
-            color: #7f8c8d;
+            font-size: 1.1rem;
             font-weight: 500;
+            opacity: 0.9;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* Download Section */
+        .download-section {
+            padding: 100px 0;
+            background: linear-gradient(135deg, var(--secondary-color) 0%, var(--text-dark) 100%);
+            text-align: center;
+            color: var(--white);
+        }
+
+        .download-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .download-title {
+            font-size: clamp(2rem, 4vw, 3rem);
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+        }
+
+        .download-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 3rem;
+            line-height: 1.6;
         }
         
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 15px;
+            background: var(--accent-color);
+            color: var(--white);
+            padding: 20px 40px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 25px rgba(231, 76, 60, 0.3);
+        }
+        
+        .download-btn:hover {
+            background: #c0392b;
+            transform: translateY(-3px);
+            box-shadow: 0 15px 35px rgba(231, 76, 60, 0.4);
+        }
+
+        .download-btn i {
+            font-size: 1.3rem;
+        }
+
+        .download-note {
+            margin-top: 2rem;
+            font-size: 0.95rem;
+            opacity: 0.7;
+        }
+        
+        /* Footer */
         footer {
-            background: rgba(255,255,255,0.1);
-            color: white;
+            background: var(--text-dark);
+            color: var(--white);
+            padding: 60px 0 30px;
+        }
+
+        .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
             text-align: center;
-            padding: 30px 0;
-            margin-top: 50px;
+        }
+
+        .footer-logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary-light);
+            margin-bottom: 1rem;
+        }
+
+        .footer-description {
+            font-size: 1rem;
+            opacity: 0.8;
+            margin-bottom: 2rem;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         .footer-links {
-            margin: 20px 0;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin: 30px 0;
+            flex-wrap: wrap;
         }
         
         .footer-links a {
-            color: white;
+            color: var(--white);
             text-decoration: none;
-            margin: 0 15px;
+            font-weight: 500;
             opacity: 0.8;
-            transition: opacity 0.3s ease;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
         
         .footer-links a:hover {
             opacity: 1;
+            color: var(--primary-light);
+        }
+
+        .footer-divider {
+            height: 1px;
+            background: rgba(255, 255, 255, 0.2);
+            margin: 30px 0;
+        }
+
+        .footer-bottom {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            font-size: 0.9rem;
+            opacity: 0.7;
+        }
+
+        .footer-copyright {
+            flex: 1;
+            text-align: left;
+        }
+
+        .footer-disclaimer {
+            flex: 1;
+            text-align: right;
+            font-size: 0.85rem;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .main-content {
+                padding: 40px 30px;
+                margin: -60px 20px 40px;
+            }
+            
+            .features {
+                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                gap: 30px;
+            }
         }
         
         @media (max-width: 768px) {
-            .logo {
-                font-size: 2em;
+            .nav-links {
+                display: none;
+            }
+            
+            .hero-content {
+                padding: 0 30px;
             }
             
             .main-content {
-                padding: 20px;
-                margin: 10px;
+                padding: 30px 20px;
+                margin: -40px 15px 30px;
+                border-radius: 16px;
             }
             
             .features {
                 grid-template-columns: 1fr;
+                gap: 25px;
             }
+
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 20px;
+            }
+
+            .footer-bottom {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .footer-copyright,
+            .footer-disclaimer {
+                text-align: center;
+            }
+
+            .footer-links {
+                gap: 20px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .stats {
+                grid-template-columns: 1fr;
+            }
+
+            .feature {
+                padding: 30px 20px;
+            }
+
+            .stat {
+                padding: 30px 20px;
+            }
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .fade-in-up {
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <div class="logo">📚 AGS Soru Bankası</div>
-            <div class="tagline">AGS Sınavlarına Hazırlık için Kapsamlı Eğitim Uygulaması</div>
-        </header>
-        
-        <div class="main-content">
-            <h1>AGS Soru Bankası Hakkında</h1>
-            <p>AGS (Adalet ve Güvenlik Sınavları) sınavlarına hazırlanan adaylar için özel olarak geliştirilmiş kapsamlı bir eğitim uygulamasıdır. Binlerce güncel soru ile sınavda başarılı olmak için ihtiyacınız olan tüm konuları kapsıyoruz.</p>
-            
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <a href="#" class="nav-logo">
+                <i class="fas fa-graduation-cap"></i> AGS Soru Bankası
+            </a>
+            <div class="nav-links">
+                <a href="#features">Özellikler</a>
+                <a href="#download">İndir</a>
+                <a href="privacy_policy.html">Gizlilik</a>
+                <a href="mailto:ags.sorubank@gmail.com">İletişim</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content fade-in-up">
+            <h1 class="hero-title">AGS Soru Bankası</h1>
+            <p class="hero-subtitle">
+                AGS sınavlarına hazırlık için profesyonel eğitim uygulaması. 
+                Binlerce güncel soru ile kariyerinizi ileriye taşıyın.
+            </p>
+            <a href="#download" class="cta-button">
+                <i class="fab fa-google-play"></i>
+                Hemen İndir
+            </a>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats-section">
+        <div class="container">
+            <h2 class="section-title">Rakamlarla AGS Soru Bankası</h2>
             <div class="stats">
                 <div class="stat">
-                    <div class="stat-number">1000+</div>
+                    <div class="stat-number">1500+</div>
                     <div class="stat-label">Güncel Soru</div>
                 </div>
                 <div class="stat">
                     <div class="stat-number">4</div>
-                    <div class="stat-label">Ana Ders</div>
+                    <div class="stat-label">Ana Ders Kategorisi</div>
                 </div>
                 <div class="stat">
-                    <div class="stat-number">50+</div>
-                    <div class="stat-label">Konu Başlığı</div>
+                    <div class="stat-number">60+</div>
+                    <div class="stat-label">Detaylı Konu</div>
                 </div>
                 <div class="stat">
-                    <div class="stat-number">100+</div>
-                    <div class="stat-label">Test</div>
+                    <div class="stat-number">150+</div>
+                    <div class="stat-label">Test Seçeneği</div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features-section">
+        <div class="container">
+            <h2 class="section-title">Ders Kategorileri</h2>
+            <p class="section-subtitle">
+                AGS sınavının tüm konularını kapsayan kapsamlı soru bankası ile hazırlanın
+            </p>
             
             <div class="features">
-                <div class="feature">
-                    <div class="feature-icon">📖</div>
+                <div class="feature fade-in-up">
+                    <div class="feature-icon">
+                        <i class="fas fa-scroll"></i>
+                    </div>
                     <h3>Tarih</h3>
-                    <p>Türk tarihinin tüm dönemlerini kapsayan sorular. Osmanlı'dan Cumhuriyet'e kadar detaylı test bankası.</p>
+                    <p>Türk tarihinin tüm dönemlerini kapsayan detaylı sorular. Osmanlı İmparatorluğu'ndan Cumhuriyet dönemine kadar kapsamlı test bankası ile hazırlanın.</p>
                 </div>
                 
-                <div class="feature">
-                    <div class="feature-icon">🌍</div>
+                <div class="feature fade-in-up">
+                    <div class="feature-icon">
+                        <i class="fas fa-globe-americas"></i>
+                    </div>
                     <h3>Coğrafya</h3>
-                    <p>Türkiye'nin fiziki ve beşeri coğrafyası konularında kapsamlı soru koleksiyonu.</p>
+                    <p>Türkiye'nin fiziki ve beşeri coğrafyası konularında uzman sorular. İklim, nüfus, ekonomi ve bölgesel özellikler detaylı şekilde işlenir.</p>
                 </div>
                 
-                <div class="feature">
-                    <div class="feature-icon">🎓</div>
-                    <h3>Eğitim</h3>
-                    <p>Eğitim bilimleri, öğretim yöntemleri ve eğitim sistemi konularında uzman sorular.</p>
+                <div class="feature fade-in-up">
+                    <div class="feature-icon">
+                        <i class="fas fa-chalkboard-teacher"></i>
+                    </div>
+                    <h3>Eğitim Bilimleri</h3>
+                    <p>Eğitim bilimleri, öğretim yöntemleri ve Türk Milli Eğitim Sistemi konularında profesyonel düzeyde hazırlanmış sorular.</p>
                 </div>
                 
-                <div class="feature">
-                    <div class="feature-icon">⚖️</div>
+                <div class="feature fade-in-up">
+                    <div class="feature-icon">
+                        <i class="fas fa-balance-scale"></i>
+                    </div>
                     <h3>Mevzuat</h3>
-                    <p>Anayasa, eğitim kanunları ve yasal düzenlemeler hakkında güncel sorular.</p>
+                    <p>1982 Anayasası, eğitim kanunları ve güncel yasal düzenlemeler hakkında sürekli güncellenen kapsamlı soru koleksiyonu.</p>
                 </div>
             </div>
-            
-            <div class="download-section">
-                <h2>🚀 Hemen İndir ve Başla!</h2>
-                <p>AGS sınavında başarılı olmak için bugün başla. Ücretsiz indir ve binlerce soruya erişim sağla.</p>
-                <a href="#" class="download-btn">📱 Google Play'den İndir</a>
-                <p style="margin-top: 20px; opacity: 0.8;">
-                    <small>Android 5.0 ve üzeri sürümler için uyumludur</small>
-                </p>
-            </div>
-            
-            <h2>🌟 Özellikler</h2>
-            <ul style="margin: 20px 0; padding-left: 20px;">
-                <li>✅ <strong>Offline Çalışma:</strong> İnternet bağlantısı olmadan kullanabilirsiniz</li>
-                <li>✅ <strong>Detaylı İstatistikler:</strong> İlerlemenizi takip edin</li>
-                <li>✅ <strong>Açıklamalı Cevaplar:</strong> Her sorunun detaylı açıklaması</li>
-                <li>✅ <strong>Kişiselleştirme:</strong> Kendi hızınızda öğrenin</li>
-                <li>✅ <strong>Güncel İçerik:</strong> Sürekli güncellenen soru bankası</li>
-                <li>✅ <strong>Kullanıcı Dostu:</strong> Modern ve sade arayüz</li>
-            </ul>
         </div>
-        
-        <footer>
-            <div class="footer-links">
-                <a href="privacy_policy.html">🔒 Gizlilik Politikası</a>
-                <a href="mailto:ags.sorubank@gmail.com">📧 İletişim</a>
-                <a href="#support">🆘 Destek</a>
-            </div>
-            <p>&copy; 2025 AGS Soru Bankası. Tüm hakları saklıdır.</p>
-            <p style="opacity: 0.7; margin-top: 10px;">
-                <small>Bu uygulama resmi AGS kurumu ile bağlantılı değildir. Eğitim amaçlı hazırlanmıştır.</small>
+    </section>
+
+    <!-- About Section -->
+    <div class="container">
+        <div class="main-content fade-in-up">
+            <h2>🎯 Profesyonel Hazırlık Platformu</h2>
+            <p style="font-size: 1.1rem; color: var(--text-light); margin-bottom: 2rem;">
+                AGS (Adalet ve Güvenlik Sınavları) sınavlarına hazırlanan profesyoneller için özel olarak geliştirilmiş kapsamlı eğitim uygulaması. 
+                Uzman kadro tarafından hazırlanan binlerce güncel soru ile kariyerinizde fark yaratın.
             </p>
-        </footer>
+            
+            <h2 style="color: var(--text-dark); margin: 3rem 0 2rem;">⭐ Premium Özellikler</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+                <div style="background: linear-gradient(135deg, var(--success-color), #2ECC71); color: white; padding: 25px; border-radius: 15px;">
+                    <h4 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                        <i class="fas fa-wifi-slash"></i> Offline Çalışma
+                    </h4>
+                    <p style="opacity: 0.9; font-size: 0.95rem;">İnternet bağlantısı olmadan her yerde çalışabilirsiniz</p>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, var(--primary-color), var(--primary-light)); color: white; padding: 25px; border-radius: 15px;">
+                    <h4 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                        <i class="fas fa-chart-line"></i> Detaylı İstatistikler
+                    </h4>
+                    <p style="opacity: 0.9; font-size: 0.95rem;">İlerlemenizi grafik ve raporlarla takip edin</p>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, var(--warning-color), #F1C40F); color: white; padding: 25px; border-radius: 15px;">
+                    <h4 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                        <i class="fas fa-lightbulb"></i> Açıklamalı Cevaplar
+                    </h4>
+                    <p style="opacity: 0.9; font-size: 0.95rem;">Her sorunun detaylı açıklaması ve çözüm yolları</p>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, var(--accent-color), #C0392B); color: white; padding: 25px; border-radius: 15px;">
+                    <h4 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                        <i class="fas fa-user-cog"></i> Kişiselleştirme
+                    </h4>
+                    <p style="opacity: 0.9; font-size: 0.95rem;">Kendi hızınızda öğrenin ve zayıf noktalarınızı güçlendirin</p>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #9B59B6, #8E44AD); color: white; padding: 25px; border-radius: 15px;">
+                    <h4 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                        <i class="fas fa-sync-alt"></i> Güncel İçerik
+                    </h4>
+                    <p style="opacity: 0.9; font-size: 0.95rem;">Sürekli güncellenen soru bankası ve yeni konular</p>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #1ABC9C, #16A085); color: white; padding: 25px; border-radius: 15px;">
+                    <h4 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                        <i class="fas fa-mobile-alt"></i> Modern Arayüz
+                    </h4>
+                    <p style="opacity: 0.9; font-size: 0.95rem;">Kullanıcı dostu tasarım ve kolay navigasyon</p>
+                </div>
+            </div>
+        </div>
     </div>
+
+    <!-- Download Section -->
+    <section id="download" class="download-section">
+        <div class="download-content fade-in-up">
+            <h2 class="download-title">🚀 Kariyerinizi İleriye Taşıyın</h2>
+            <p class="download-subtitle">
+                AGS sınavında başarılı olmak için bugün başlayın. 
+                Ücretsiz indirin ve binlerce profesyonel soruya erişim sağlayın.
+            </p>
+            <a href="#" class="download-btn">
+                <i class="fab fa-google-play"></i>
+                Google Play'den İndir
+            </a>
+            <p class="download-note">
+                Android 5.0 ve üzeri sürümler için uyumludur • Ücretsiz İndirme
+            </p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">
+                <i class="fas fa-graduation-cap"></i> AGS Soru Bankası
+            </div>
+            <p class="footer-description">
+                Profesyonel AGS sınav hazırlığı için güvenilir eğitim platformu. 
+                Kariyerinizde fark yaratmak için doğru adres.
+            </p>
+            
+            <div class="footer-links">
+                <a href="privacy_policy.html">
+                    <i class="fas fa-shield-alt"></i> Gizlilik Politikası
+                </a>
+                <a href="mailto:ags.sorubank@gmail.com">
+                    <i class="fas fa-envelope"></i> İletişim
+                </a>
+                <a href="#features">
+                    <i class="fas fa-star"></i> Özellikler
+                </a>
+                <a href="#download">
+                    <i class="fas fa-download"></i> İndir
+                </a>
+            </div>
+            
+            <div class="footer-divider"></div>
+            
+            <div class="footer-bottom">
+                <div class="footer-copyright">
+                    &copy; 2025 AGS Soru Bankası. Tüm hakları saklıdır.
+                </div>
+                <div class="footer-disclaimer">
+                    Bu uygulama resmi AGS kurumu ile bağlantılı değildir. Eğitim amaçlı hazırlanmıştır.
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
