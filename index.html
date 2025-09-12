@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGS Soru Bankası - Eğitim Uygulaması</title>
+    <meta name="description" content="AGS sınavlarına hazırlık için kapsamlı soru bankası uygulaması. Tarih, Coğrafya, Eğitim ve Mevzuat konularında binlerce soru.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 60px 0;
+            color: white;
+        }
+        
+        .logo {
+            font-size: 3em;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .tagline {
+            font-size: 1.2em;
+            opacity: 0.9;
+            margin-bottom: 30px;
+        }
+        
+        .main-content {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            margin: 20px 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin: 40px 0;
+        }
+        
+        .feature {
+            text-align: center;
+            padding: 30px 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+        
+        .feature:hover {
+            transform: translateY(-5px);
+        }
+        
+        .feature-icon {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+        
+        .feature h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        
+        .download-section {
+            text-align: center;
+            margin: 50px 0;
+            padding: 40px;
+            background: linear-gradient(45deg, #3498db, #2980b9);
+            border-radius: 15px;
+            color: white;
+        }
+        
+        .download-btn {
+            display: inline-block;
+            background: #e74c3c;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+            margin: 10px;
+        }
+        
+        .download-btn:hover {
+            background: #c0392b;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+        
+        .stat {
+            text-align: center;
+            padding: 20px;
+            background: #ecf0f1;
+            border-radius: 10px;
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #3498db;
+        }
+        
+        .stat-label {
+            color: #7f8c8d;
+            font-weight: 500;
+        }
+        
+        footer {
+            background: rgba(255,255,255,0.1);
+            color: white;
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 50px;
+        }
+        
+        .footer-links {
+            margin: 20px 0;
+        }
+        
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            opacity: 0.8;
+            transition: opacity 0.3s ease;
+        }
+        
+        .footer-links a:hover {
+            opacity: 1;
+        }
+        
+        @media (max-width: 768px) {
+            .logo {
+                font-size: 2em;
+            }
+            
+            .main-content {
+                padding: 20px;
+                margin: 10px;
+            }
+            
+            .features {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">📚 AGS Soru Bankası</div>
+            <div class="tagline">AGS Sınavlarına Hazırlık için Kapsamlı Eğitim Uygulaması</div>
+        </header>
+        
+        <div class="main-content">
+            <h1>AGS Soru Bankası Hakkında</h1>
+            <p>AGS (Adalet ve Güvenlik Sınavları) sınavlarına hazırlanan adaylar için özel olarak geliştirilmiş kapsamlı bir eğitim uygulamasıdır. Binlerce güncel soru ile sınavda başarılı olmak için ihtiyacınız olan tüm konuları kapsıyoruz.</p>
+            
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-number">1000+</div>
+                    <div class="stat-label">Güncel Soru</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">4</div>
+                    <div class="stat-label">Ana Ders</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">50+</div>
+                    <div class="stat-label">Konu Başlığı</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">100+</div>
+                    <div class="stat-label">Test</div>
+                </div>
+            </div>
+            
+            <div class="features">
+                <div class="feature">
+                    <div class="feature-icon">📖</div>
+                    <h3>Tarih</h3>
+                    <p>Türk tarihinin tüm dönemlerini kapsayan sorular. Osmanlı'dan Cumhuriyet'e kadar detaylı test bankası.</p>
+                </div>
+                
+                <div class="feature">
+                    <div class="feature-icon">🌍</div>
+                    <h3>Coğrafya</h3>
+                    <p>Türkiye'nin fiziki ve beşeri coğrafyası konularında kapsamlı soru koleksiyonu.</p>
+                </div>
+                
+                <div class="feature">
+                    <div class="feature-icon">🎓</div>
+                    <h3>Eğitim</h3>
+                    <p>Eğitim bilimleri, öğretim yöntemleri ve eğitim sistemi konularında uzman sorular.</p>
+                </div>
+                
+                <div class="feature">
+                    <div class="feature-icon">⚖️</div>
+                    <h3>Mevzuat</h3>
+                    <p>Anayasa, eğitim kanunları ve yasal düzenlemeler hakkında güncel sorular.</p>
+                </div>
+            </div>
+            
+            <div class="download-section">
+                <h2>🚀 Hemen İndir ve Başla!</h2>
+                <p>AGS sınavında başarılı olmak için bugün başla. Ücretsiz indir ve binlerce soruya erişim sağla.</p>
+                <a href="#" class="download-btn">📱 Google Play'den İndir</a>
+                <p style="margin-top: 20px; opacity: 0.8;">
+                    <small>Android 5.0 ve üzeri sürümler için uyumludur</small>
+                </p>
+            </div>
+            
+            <h2>🌟 Özellikler</h2>
+            <ul style="margin: 20px 0; padding-left: 20px;">
+                <li>✅ <strong>Offline Çalışma:</strong> İnternet bağlantısı olmadan kullanabilirsiniz</li>
+                <li>✅ <strong>Detaylı İstatistikler:</strong> İlerlemenizi takip edin</li>
+                <li>✅ <strong>Açıklamalı Cevaplar:</strong> Her sorunun detaylı açıklaması</li>
+                <li>✅ <strong>Kişiselleştirme:</strong> Kendi hızınızda öğrenin</li>
+                <li>✅ <strong>Güncel İçerik:</strong> Sürekli güncellenen soru bankası</li>
+                <li>✅ <strong>Kullanıcı Dostu:</strong> Modern ve sade arayüz</li>
+            </ul>
+        </div>
+        
+        <footer>
+            <div class="footer-links">
+                <a href="privacy_policy.html">🔒 Gizlilik Politikası</a>
+                <a href="mailto:ags.sorubank@gmail.com">📧 İletişim</a>
+                <a href="#support">🆘 Destek</a>
+            </div>
+            <p>&copy; 2025 AGS Soru Bankası. Tüm hakları saklıdır.</p>
+            <p style="opacity: 0.7; margin-top: 10px;">
+                <small>Bu uygulama resmi AGS kurumu ile bağlantılı değildir. Eğitim amaçlı hazırlanmıştır.</small>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
