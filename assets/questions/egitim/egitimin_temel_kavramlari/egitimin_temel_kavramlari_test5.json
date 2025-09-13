@@ -1,0 +1,135 @@
+﻿[
+    {
+        "question_text":  "Bir öğretmenin veya bir uzmanın yardımıyla, bir beceriyi deneme-yanılma yoluyla yapmaya çalışma basamağı hangisidir?",
+        "option_a":  "Kurulma",
+        "option_b":  "Kılavuzla Yapma",
+        "option_c":  "Beceri Haline Getirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir beceriyi istenilen düzeyde, kolayca ve hatasız bir şekilde yapabilme aşaması hangisidir?",
+        "option_a":  "Kılavuzla Yapma",
+        "option_b":  "Beceri Haline Getirme (Mekanikleşme)",
+        "option_c":  "Duruma Uydurma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrenilen bir beceriyi, farklı ve yeni durumlarda etkili bir şekilde kullanabilme basamağı hangisidir?",
+        "option_a":  "Beceri Haline Getirme",
+        "option_b":  "Duruma Uydurma (Uyum)",
+        "option_c":  "Yaratma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireyin tamamen özgün, yeni bir beceri, ürün veya davranış ortaya koyması psikomotor alanın en üst basamağı olan hangi basamaktır?",
+        "option_a":  "Duruma Uydurma",
+        "option_b":  "Yaratma (Orijinallik)",
+        "option_c":  "Beceri Haline Getirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tyler’in program geliştirme modeli hangi ögeye odaklanmasıyla bilinir?",
+        "option_a":  "Süreç",
+        "option_b":  "Hedef",
+        "option_c":  "Değerlendirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Program geliştirme sürecinde, değerlendirme sonuçlarına göre programın sürekli olarak geliştirilmesini savunan ve döngüsel bir yapıya sahip olan model hangisidir?",
+        "option_a":  "Taba Modeli",
+        "option_b":  "Tyler Modeli",
+        "option_c":  "Taba-Tyler Modeli",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Taba modelinin, Tyler modelinden en önemli farkı nedir?",
+        "option_a":  "Öğretmen merkezli olması",
+        "option_b":  "Tümevarımcı bir yaklaşım benimsemesi (özelden genele gitmesi)",
+        "option_c":  "Değerlendirme ögesine yer vermemesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İçerik düzenleme yaklaşımlarından hangisinde, konular herhangi bir önkoşul veya ardışıklık ilişkisi gözetilmeden bağımsız üniteler halinde düzenlenir?",
+        "option_a":  "Doğrusal Yaklaşım",
+        "option_b":  "Sarmal Yaklaşım",
+        "option_c":  "Modüler Yaklaşım",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Konuların önkoşul ve ardışıklık ilişkisine göre, basitten karmaşığa, somuttan soyuta doğru sıralandığı içerik düzenleme yaklaşımı hangisidir?",
+        "option_a":  "Doğrusal Yaklaşım",
+        "option_b":  "Piramitsel Yaklaşım",
+        "option_c":  "Çekirdek Yaklaşım",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Konuların her defasında daha genişletilerek ve derinleştirilerek tekrar tekrar öğretildiği içerik düzenleme yaklaşımı hangisidir?",
+        "option_a":  "Modüler Yaklaşım",
+        "option_b":  "Sarmal (Helezonik) Yaklaşım",
+        "option_c":  "Doğrusal Yaklaşım",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İçeriğin merkezine temel bir konu veya kavramın konulduğu ve diğer konuların bu merkezdeki konuyla ilişkili olarak düzenlendiği yaklaşım hangisidir?",
+        "option_a":  "Çekirdek (Core) Yaklaşım",
+        "option_b":  "Piramitsel Yaklaşım",
+        "option_c":  "Sorgulama Merkezli Yaklaşım",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Belirtke tablosunun en temel işlevi nedir?",
+        "option_a":  "Dersin süresini belirlemek",
+        "option_b":  "Hedefler ile içerik arasındaki ilişkiyi göstermek",
+        "option_c":  "Öğrenci başarısını notlandırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencinin bir ünite veya konudaki öğrenme eksikliklerini ve yanlışlarını belirlemek amacıyla, süreç içinde yapılan değerlendirme türü hangisidir?",
+        "option_a":  "Tanılayıcı Değerlendirme (Diagnostik)",
+        "option_b":  "Biçimlendirici Değerlendirme (Formatif)",
+        "option_c":  "Düzey Belirleyici Değerlendirme (Summatif)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir dersin, kursun veya dönemin sonunda öğrencinin başarı düzeyini belirleyerek not vermek amacıyla yapılan değerlendirme türü hangisidir?",
+        "option_a":  "Formatif Değerlendirme",
+        "option_b":  "Summatif Değerlendirme",
+        "option_c":  "Diagnostik Değerlendirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin bir derse veya programa başlamadan önce sahip oldukları ön bilgileri ve hazırbulunuşluk düzeylerini belirlemek için yapılan değerlendirme hangisidir?",
+        "option_a":  "Summatif Değerlendirme",
+        "option_b":  "Formatif Değerlendirme",
+        "option_c":  "Tanılayıcı Değerlendirme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Öğrenme-öğretme sürecinde kullanılan en geleneksel ve öğretmen merkezli yöntem hangisidir?",
+        "option_a":  "Buluş Yoluyla Öğrenme",
+        "option_b":  "Anlatım (Sunuş) Yöntemi",
+        "option_c":  "Araştırma-İnceleme Yoluyla Öğrenme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencinin kendi keşifleri ve deneyimleri yoluyla bilgiye ulaşmasını hedefleyen, örneklerden yola çıkarak genellemelere varmasını sağlayan öğrenme stratejisi hangisidir?",
+        "option_a":  "Sunuş Yoluyla Öğrenme",
+        "option_b":  "Buluş (Keşfetme) Yoluyla Öğrenme",
+        "option_c":  "Tam Öğrenme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Problemin öğrenci tarafından hissedilmesiyle başlayan ve bilimsel araştırma sürecinin basamaklarını izleyerek problemin çözümünü hedefleyen strateji hangisidir?",
+        "option_a":  "Sunuş Yoluyla Öğrenme",
+        "option_b":  "Buluş Yoluyla Öğrenme",
+        "option_c":  "Araştırma-İnceleme Yoluyla Öğrenme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Yeterli zaman ve uygun koşullar sağlandığında her öğrenci öğrenebilir\u0027 varsayımına dayanan öğrenme modeli hangisidir?",
+        "option_a":  "Programlı Öğretim",
+        "option_b":  "Tam Öğrenme Modeli",
+        "option_c":  "İşbirlikli Öğrenme",
+        "correct_answer":  "b"
+    }
+]

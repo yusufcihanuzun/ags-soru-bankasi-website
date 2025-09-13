@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Nüfus artış hızının en fazla olduğu dönem hangisidir?",
+        "option_a":  "1950-1960",
+        "option_b":  "1980-1990",
+        "option_c":  "2000-2010",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’de nüfus artış hızının en düşük olduğu dönem hangisidir?",
+        "option_a":  "1990-2000",
+        "option_b":  "1960-1970",
+        "option_c":  "1940-1950",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1980 sonrası nüfus politikaları hangi yönde olmuştur?",
+        "option_a":  "Nüfus artırıcı",
+        "option_b":  "Nüfus azaltıcı",
+        "option_c":  "Nüfus sabitleyici",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’de nüfusun yaş yapısının genç olmasının en önemli nedeni nedir?",
+        "option_a":  "Göçler",
+        "option_b":  "Doğum oranlarının yüksek olması",
+        "option_c":  "Ölüm oranlarının artması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu ve Güneydoğu Anadolu’da nüfusun genç olmasının temel nedeni nedir?",
+        "option_a":  "Sanayinin gelişmiş olması",
+        "option_b":  "Doğurganlığın fazla olması",
+        "option_c":  "Göçlerin fazla olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’de nüfusun yaşlanmaya başlaması hangi dönemde belirginleşmiştir?",
+        "option_a":  "1950 sonrası",
+        "option_b":  "1980 sonrası",
+        "option_c":  "2000 sonrası",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aktif nüfus hangi yaş grubundaki insanları kapsar?",
+        "option_a":  "0-14",
+        "option_b":  "15-64",
+        "option_c":  "65 yaş üstü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bağımlı nüfus oranı hangi yaş gruplarını kapsar?",
+        "option_a":  "0-14 ve 65+",
+        "option_b":  "15-64",
+        "option_c":  "Sadece 65+",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye nüfusunun cinsiyet oranı (kadın-erkek dengesi) en çok hangi göç türünden etkilenir?",
+        "option_a":  "İç göç",
+        "option_b":  "Dış göç",
+        "option_c":  "Mevsimlik göç",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Karadeniz’den büyük şehirlere yapılan göç hangi nedene bağlıdır?",
+        "option_a":  "İklim koşulları",
+        "option_b":  "Tarım arazilerinin yetersizliği",
+        "option_c":  "Depremler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’de kırsal kesimden kentlere yapılan göçlerin temel nedeni nedir?",
+        "option_a":  "Sanayileşme ve iş imkânlarının artması",
+        "option_b":  "Turizm faaliyetleri",
+        "option_c":  "Ulaşımın gelişmesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstanbul, Ankara ve İzmir’in nüfuslarının artışında en etkili faktör nedir?",
+        "option_a":  "Doğum oranlarının yüksekliği",
+        "option_b":  "Göçler",
+        "option_c":  "Turizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Göç eden nüfusun en fazla olduğu bölgemiz hangisidir?",
+        "option_a":  "Marmara Bölgesi",
+        "option_b":  "Karadeniz Bölgesi",
+        "option_c":  "İç Anadolu Bölgesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "En fazla göç alan bölgemiz hangisidir?",
+        "option_a":  "Marmara",
+        "option_b":  "Doğu Anadolu",
+        "option_c":  "Güneydoğu Anadolu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’de iç göçlerin sonucunda ortaya çıkan en önemli sorun nedir?",
+        "option_a":  "Çarpık kentleşme ve gecekondu",
+        "option_b":  "Tarımda modernleşme",
+        "option_c":  "Ulaşımın gelişmesi",
+        "correct_answer":  "a"
+    }
+]

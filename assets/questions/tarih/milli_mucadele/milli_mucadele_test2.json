@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Moskova Antlaşması ile Misakımillî\u0027den verilen ilk taviz neresidir?",
+        "option_a":  "Hatay",
+        "option_b":  "Batum",
+        "option_c":  "Musul",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in, İsmet Paşa\u0027ya \"Siz orada yalnız düşmanı değil, milletin makus (kötü) talihini de yendiniz\" dediği savaş hangisidir?",
+        "option_a":  "I. İnönü Muharebesi",
+        "option_b":  "II. İnönü Muharebesi",
+        "option_c":  "Sakarya Meydan Muharebesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "II. İnönü Zaferi\u0027nin ardından Anadolu\u0027dan çekilme kararı alan ilk İtilaf devleti hangisidir?",
+        "option_a":  "Fransa",
+        "option_b":  "İngiltere",
+        "option_c":  "İtalya",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kurtuluş Savaşı\u0027nda Batı Cephesi\u0027nde alınan tek yenilgi hangisidir?",
+        "option_a":  "I. İnönü Muharebesi",
+        "option_b":  "Eskişehir-Kütahya Muharebeleri",
+        "option_c":  "Gediz Muharebeleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eskişehir-Kütahya yenilgisi sonrası, ordunun daha fazla kayıp vermesini engellemek için Mustafa Kemal\u0027in verdiği emir ne olmuştur?",
+        "option_a":  "Derhal saldırıya geçilmesi",
+        "option_b":  "Ordunun Sakarya Nehri\u0027nin doğusuna çekilmesi",
+        "option_c":  "Ateşkes istenmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eskişehir-Kütahya yenilgisinin ardından TBMM\u0027nin tüm yetkilerini (yasama, yürütme, yargı) üç aylığına Mustafa Kemal\u0027e devrettiği kanun hangisidir?",
+        "option_a":  "Teşkilat-ı Esasiye Kanunu",
+        "option_b":  "Hıyanet-i Vataniye Kanunu",
+        "option_c":  "Başkomutanlık Kanunu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Mustafa Kemal, Başkomutanlık yetkisini aldıktan sonra ordunun ihtiyaçlarını karşılamak için halktan yardım istediği emirlerin genel adı nedir?",
+        "option_a":  "Hıyanet-i Vataniye",
+        "option_b":  "Tekalif-i Milliye",
+        "option_c":  "Nisab-ı Müzakere",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sakarya Meydan Muharebesi öncesi, Maarif Vekaleti tarafından eğitim meselelerini görüşmek üzere Ankara\u0027da toplanan kongre hangisidir?",
+        "option_a":  "Sivas Kongresi",
+        "option_b":  "Tıp Kongresi",
+        "option_c":  "Maarif Kongresi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sakarya Meydan Muharebesi\u0027nin, çok sayıda subay şehit verildiği için aldığı diğer isim nedir?",
+        "option_a":  "Melhame-i Kübra",
+        "option_b":  "Subaylar Savaşı",
+        "option_c":  "Başkomutanlık Meydan Muharebesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in \"Hatt-ı müdafaa yoktur, sath-ı müdafaa vardır. O satıh, bütün vatandır.\" emrini verdiği savaş hangisidir?",
+        "option_a":  "I. İnönü Muharebesi",
+        "option_b":  "Büyük Taarruz",
+        "option_c":  "Sakarya Meydan Muharebesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1683 II. Viyana Kuşatması\u0027ndan beri devam eden Türk geri çekilişini sona erdiren savaş hangisidir?",
+        "option_a":  "II. İnönü Muharebesi",
+        "option_b":  "Sakarya Meydan Muharebesi",
+        "option_c":  "Büyük Taarruz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sakarya Zaferi\u0027nin ardından TBMM tarafından Mustafa Kemal\u0027e verilen unvan ve rütbeler hangileridir?",
+        "option_a":  "Başkomutan ve Paşa",
+        "option_b":  "Gazi ve Mareşal",
+        "option_c":  "Cumhurbaşkanı ve Başöğretmen",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sakarya Zaferi\u0027nden sonra Fransa ile imzalanan ve bir İtilaf Devleti\u0027nin TBMM\u0027yi ilk kez resmen tanıdığı antlaşma hangisidir?",
+        "option_a":  "1921 Ankara Antlaşması",
+        "option_b":  "Moskova Antlaşması",
+        "option_c":  "Kars Antlaşması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Büyük Taarruz\u0027un diğer adları arasında yer alan ve \"Rumların Kırıldığı Savaş\" anlamına gelen isim nedir?",
+        "option_a":  "Melhame-i Kübra",
+        "option_b":  "Rum Sındığı",
+        "option_c":  "Başkomutanlık Meydan Muharebesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Büyük Taarruz sırasında Mustafa Kemal\u0027in \"Ordular! İlk hedefiniz Akdeniz\u0027dir. İleri!\" emrini vermesinin temel amacı nedir?",
+        "option_a":  "İtalyanları Anadolu\u0027dan atmak",
+        "option_b":  "Yunan ordusunu tamamen yok etmek ve denize dökmek",
+        "option_c":  "İstanbul\u0027u kurtarmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Büyük Taarruz sırasında esir alınan Yunan Orduları Başkomutanı kimdir?",
+        "option_a":  "Venizelos",
+        "option_b":  "General Trikopis",
+        "option_c":  "Metaksas",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurtuluş Savaşı\u0027nın silahlı mücadele dönemini sona erdiren ateşkes antlaşması hangisidir?",
+        "option_a":  "Mondros Ateşkes Antlaşması",
+        "option_b":  "Mudanya Ateşkes Antlaşması",
+        "option_c":  "Sevr Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mudanya Ateşkes Görüşmeleri\u0027nde TBMM Hükümeti\u0027ni kim temsil etmiştir?",
+        "option_a":  "Mustafa Kemal Paşa",
+        "option_b":  "Kazım Karabekir Paşa",
+        "option_c":  "İsmet Paşa",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Mudanya Ateşkes Antlaşması ile savaş yapılmadan kurtarılan yerler nerelerdir?",
+        "option_a":  "İzmir, Bursa ve Uşak",
+        "option_b":  "Doğu Trakya, Boğazlar ve İstanbul",
+        "option_c":  "Ankara, Sivas ve Erzurum",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mudanya Ateşkes Antlaşması\u0027na hangi devletin doğrudan katılmadığı, görüşmeleri bir general aracılığıyla takip ettiği belirtilmektedir?",
+        "option_a":  "İngiltere",
+        "option_b":  "Fransa",
+        "option_c":  "Yunanistan",
+        "correct_answer":  "c"
+    }
+]

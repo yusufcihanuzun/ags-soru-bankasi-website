@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question_text":  "Konya, Karaman, Niğde ve Aksaray gibi illeri kapsayan ve temel hedefi bölgedeki sulama sorununu çözmek olan proje hangisidir?",
+        "option_a":  "Konya Ovası Projesi (KOP)",
+        "option_b":  "Yeşilırmak Havzası Gelişim Projesi",
+        "option_c":  "Doğu Anadolu Projesi (DAP)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "KOP projesi kapsamında, Göksu Nehri\u0027nin sularını Konya Ovası\u0027na aktaran yapının adı nedir?",
+        "option_a":  "Mavi Tünel",
+        "option_b":  "Avrasya Tüneli",
+        "option_c":  "Şanlıurfa Sulama Tünelleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdaki illerden hangisi sonradan yapılan eklemelerle KOP projesine dahil edilmemiştir?",
+        "option_a":  "Nevşehir ve Kırşehir",
+        "option_b":  "Yozgat ve Kırıkkale",
+        "option_c":  "Ankara ve Sivas",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Amasya, Çorum, Samsun ve Tokat illerini kapsayan, havzadaki erozyon, sel ve taşkın gibi sorunları çözmeyi amaçlayan proje hangisidir?",
+        "option_a":  "DOKAP",
+        "option_b":  "ZBK",
+        "option_c":  "Yeşilırmak Havzası Gelişim Projesi (YHGP)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "GAP projesi tamamlandığında, bölge için beklenen sonuçlar arasında aşağıdakilerden hangisi yer almaz?",
+        "option_a":  "Bölge dışına göçlerin artması",
+        "option_b":  "İşsizliğin ve tarıma dayalı sanayinin gelişmesi",
+        "option_c":  "Tarımsal üretimin ve çeşitliliğin artması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Şanlıurfa Sulama Tünelleri aracılığıyla Harran Ovası\u0027na taşınan sular, hangi barajdan alınmaktadır?",
+        "option_a":  "Keban Barajı",
+        "option_b":  "Atatürk Barajı",
+        "option_c":  "Karakaya Barajı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "DOKAP kapsamında, Doğu Karadeniz\u0027deki yaylaları birbirine bağlayarak turizmi canlandırmayı hedefleyen projenin adı nedir?",
+        "option_a":  "Mavi Tünel Projesi",
+        "option_b":  "Yeşil Yol Projesi",
+        "option_c":  "Kırsal Kalkınma Projesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Başlangıçta 8 ili kapsayan DOKAP projesine sonradan hangi iki ilimiz daha dahil edilmiştir?",
+        "option_a":  "Tokat ve Amasya",
+        "option_b":  "Sivas ve Yozgat",
+        "option_c":  "Çorum ve Kastamonu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Zonguldak, Bartın ve Karabük\u0027ü kapsayan ZBK Projesi\u0027nin, demir-çelik ve kömür sanayisini çeşitlendirmenin yanı sıra diğer bir hedefi de nedir?",
+        "option_a":  "Bölgede seracılık faaliyetlerini geliştirmek",
+        "option_b":  "Nükleer santral kurmak",
+        "option_c":  "Yüksek hızlı tren hattı inşa etmek",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Konya Ovası Projesi\u0027nin (KOP) sulama olanaklarını artırmanın yanı sıra en önemli çevresel hedefi nedir?",
+        "option_a":  "Bölgedeki rüzgâr enerjisi potansiyelini kullanmak",
+        "option_b":  "Bilinçsiz yer altı suyu kullanımını önlemek",
+        "option_c":  "Yeni orman alanları oluşturmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yeşilırmak Havzası Gelişim Projesi\u0027nin (YHGP) erozyon ve taşkınları önlemenin yanı sıra bir diğer amacı da nedir?",
+        "option_a":  "Nehrin akış rejimini düzenlemek ve su kirliliğini önlemek",
+        "option_b":  "Havzadaki madenleri işletmeye açmak",
+        "option_c":  "Bölgeye yeni sanayi tesisleri kurmak",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Samsun, Ordu ve Çorum gibi illeri kapsayan Yeşilırmak Havzası Gelişim Projesi\u0027nin temel hedeflerinden biri nedir?",
+        "option_a":  "Havzadaki taşkın ve erozyon sorunlarını çözmek",
+        "option_b":  "Bölgede ağır sanayi tesisleri kurmak",
+        "option_c":  "Petrol ve doğal gaz aramak",
+        "correct_answer":  "a"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Sivas Kongresi\u0027ne katılımın az olmasının nedenlerinden biri olan ve delegeleri engellemeye çalışan Elazığ Valisi kimdir?",
+        "option_a":  "Muhittin Paşa",
+        "option_b":  "Ali Galip",
+        "option_c":  "Reşit Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Manda ve himaye fikrinin kesin olarak reddedildiği ve bir daha gündeme gelmediği kongre hangisidir?",
+        "option_a":  "Erzurum Kongresi",
+        "option_b":  "Sivas Kongresi",
+        "option_c":  "Pozantı Kongresi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sivas Kongresi\u0027nde alınan kararla, tüm yararlı cemiyetler hangi isim altında birleştirilmiştir?",
+        "option_a":  "Millî Kongre Cemiyeti",
+        "option_b":  "Müdafaa-i Vatan Cemiyeti",
+        "option_c":  "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Temsil Heyeti\u0027nin, Ali Fuat Cebesoy\u0027u Batı Cephesi Komutanlığı\u0027na ataması, hangi yetkiyi ilk kez kullandığını gösterir?",
+        "option_a":  "Yasama",
+        "option_b":  "Yargı",
+        "option_c":  "Yürütme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milli Mücadele\u0027nin yayın organı olarak Sivas Kongresi\u0027nde çıkarılmasına karar verilen gazetenin adı nedir?",
+        "option_a":  "Hakimiyet-i Milliye",
+        "option_b":  "İrade-i Milliye",
+        "option_c":  "Albayrak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Temsil Heyeti\u0027nin İstanbul Hükümeti\u0027ne karşı kazandığı ilk siyasi zafer nedir?",
+        "option_a":  "Amasya Görüşmeleri\u0027nin yapılması",
+        "option_b":  "Damat Ferit Paşa Hükümeti\u0027nin istifa ettirilmesi",
+        "option_c":  "Mebusan Meclisi\u0027nin açılması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İstanbul Hükümeti\u0027nin Temsil Heyeti\u0027ni resmen tanıdığı olay hangisidir?",
+        "option_a":  "Havza Genelgesi",
+        "option_b":  "Amasya Görüşmeleri",
+        "option_c":  "Sivas Kongresi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Amasya Görüşmeleri\u0027nde İstanbul Hükümeti\u0027ni temsil eden kişi kimdir?",
+        "option_a":  "Damat Ferit Paşa",
+        "option_b":  "Ali Rıza Paşa",
+        "option_c":  "Salih Paşa",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Amasya Görüşmeleri\u0027nde alınan kararlardan hangisi İstanbul Hükümeti tarafından kabul edilmemiştir?",
+        "option_a":  "Mebusan Meclisi\u0027nin açılması",
+        "option_b":  "Seçimlerin yapılması",
+        "option_c":  "Meclisin İstanbul dışında toplanması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Temsil Heyeti\u0027nin İstanbul\u0027daki gelişmeleri daha yakından takip etmek ve Batı Cephesi\u0027ne yakın olmak gibi nedenlerle merkez olarak seçtiği şehir hangisidir?",
+        "option_a":  "Sivas",
+        "option_b":  "Erzurum",
+        "option_c":  "Ankara",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Son Osmanlı Mebusan Meclisi\u0027ne Mustafa Kemal hangi ilden milletvekili seçilmiştir?",
+        "option_a":  "Ankara",
+        "option_b":  "Sivas",
+        "option_c":  "Erzurum",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in İstanbul\u0027a giden milletvekillerinden kurmalarını istediği \"Müdafaa-i Hukuk Grubu\" yerine, mecliste hangi isimle bir grup kurulmuştur?",
+        "option_a":  "Felah-ı Vatan Grubu",
+        "option_b":  "Tesanüt Grubu",
+        "option_c":  "İstiklal Grubu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Son Osmanlı Mebusan Meclisi\u0027nde kabul edilen son kanun hangisidir?",
+        "option_a":  "Hıyanet-i Vataniye Kanunu",
+        "option_b":  "Teşkilat-ı Esasiye",
+        "option_c":  "Misakımillî (Millî Yemin)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Misakımillî kararlarına göre Kars, Ardahan ve Batum\u0027un (Elviye-i Selase) geleceğinin nasıl belirlenmesi öngörülmüştür?",
+        "option_a":  "Halk oylaması (referandum) ile",
+        "option_b":  "İtilaf Devletleri\u0027nin kararı ile",
+        "option_c":  "TBMM\u0027nin kararı ile",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Misakımillî\u0027de yer alan \"Mali, adli, siyasi gelişmemizi engelleyen her türlü kısıtlamalar kaldırılacaktır\" maddesi ile ilk kez açıkça karşı çıkılan konu nedir?",
+        "option_a":  "Dış borçlar",
+        "option_b":  "Kapitülasyonlar",
+        "option_c":  "Azınlık hakları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Misakımillî\u0027nin kabul edilmesinin en önemli sonucu ne olmuştur?",
+        "option_a":  "İstanbul Hükümeti\u0027nin istifa etmesi",
+        "option_b":  "İtilaf Devletleri\u0027nin İstanbul\u0027u resmen işgal etmesi",
+        "option_c":  "Sevr Antlaşması\u0027nın imzalanması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "16 Mart 1920\u0027de İstanbul\u0027un işgalini Ankara\u0027daki Mustafa Kemal\u0027e telgrafla haber veren ve bu nedenle \"Martonaltı\" soyadını alan kişi kimdir?",
+        "option_a":  "Cevat Abbas",
+        "option_b":  "Manastırlı Hamdi Bey",
+        "option_c":  "Rauf Orbay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Misakımillî kararları arasında hangisiyle ilgili bir madde yoktur?",
+        "option_a":  "Boğazlar",
+        "option_b":  "Sınırlar",
+        "option_c":  "Ulusal Egemenlik (Yönetim Şekli)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Mustafa Kemal, İstanbul\u0027un işgaline karşı bir önlem olarak hangi demir yolu hatlarını tahrip ettirmiştir?",
+        "option_a":  "İzmir-Aydın ve Ankara-Sivas",
+        "option_b":  "Geyve ve Ulukışla",
+        "option_c":  "Haydarpaşa-Bağdat",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\"Eğer, Mondros Mütarekesi\u0027ni takip eden aylarda, bir teyyareden Anadolu\u0027ya bakarsanız yer yer yanan ışıklar görülecektir. Bunlar ışıldayan çoban ateşleridir.\" sözü kime aittir?",
+        "option_a":  "Mustafa Kemal Atatürk",
+        "option_b":  "Kazım Karabekir",
+        "option_c":  "Mareşal Fevzi Çakmak",
+        "correct_answer":  "c"
+    }
+]

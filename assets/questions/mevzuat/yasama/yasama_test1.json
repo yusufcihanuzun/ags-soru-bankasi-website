@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Yasama yetkisinin, TBMM\u0027nin Anayasa\u0027ya aykırı olmamak kaydıyla her konuda düzenleme yapabilmesi anlamına gelen özelliği hangisidir?",
+        "option_a":  "Asliliği",
+        "option_b":  "Genelliği",
+        "option_c":  "Devredilmezliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "2017 Anayasa değişikliği ile Türkiye Büyük Millet Meclisi\u0027nin üye sayısı kaç olarak belirlenmiştir?",
+        "option_a":  "550",
+        "option_b":  "450",
+        "option_c":  "600",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, seçimlerin ertelenmesine sadece hangi durumda ve kim tarafından karar verilebilir?",
+        "option_a":  "Savaş sebebiyle Cumhurbaşkanı tarafından",
+        "option_b":  "Savaş sebebiyle TBMM tarafından",
+        "option_c":  "Doğal afet sebebiyle YSK tarafından",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM\u0027nin seçimlerin yenilenmesine karar verebilmesi için gereken asgari çoğunluk nedir?",
+        "option_a":  "Üye tamsayısının salt çoğunluğu (301)",
+        "option_b":  "Toplantıya katılanların salt çoğunluğu",
+        "option_c":  "Üye tamsayısının beşte üç çoğunluğu (360)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir ilin TBMM\u0027de hiç milletvekili kalmaması durumunda, ara seçimin ne zaman yapılması zorunludur?",
+        "option_a":  "Boşalmayı takip eden 30 gün içindeki ilk Pazar",
+        "option_b":  "Boşalmayı takip eden 90 gün sonraki ilk Pazar",
+        "option_c":  "Genel seçimlere bir yıldan az kalmışsa seçim sonrasına ertelenir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yüksek Seçim Kurulu\u0027nun 11 üyesi hangi iki kurum tarafından seçilir?",
+        "option_a":  "Anayasa Mahkemesi ve Danıştay",
+        "option_b":  "Yargıtay ve Sayıştay",
+        "option_c":  "Yargıtay ve Danıştay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milletvekili adayı olmak için görevinden çekilmesi gerekenlerden hangisi, seçilememesi durumunda mesleğine geri dönemez?",
+        "option_a":  "Öğretim elemanları",
+        "option_b":  "Hâkimler ve savcılar",
+        "option_c":  "Devlet memurları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre milletvekilleri öncelikli olarak kimi temsil eder?",
+        "option_a":  "Seçildikleri siyasi partiyi",
+        "option_b":  "Bütün milleti",
+        "option_c":  "Seçildikleri şehri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir milletvekilinin, Meclis çalışmalarındaki oy ve sözlerinden dolayı sorumlu tutulmamasını ifade eden kavrama ne ad verilir?",
+        "option_a":  "Yasama dokunulmazlığı",
+        "option_b":  "Yasama sorumsuzluğu",
+        "option_c":  "Yasama uyumsuzluğu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yasama dokunulmazlığının kaldırılması kararına karşı, kararın iptali için hangi mahkemeye ve kaç gün içinde başvurulabilir?",
+        "option_a":  "Anayasa Mahkemesi\u0027ne 7 gün içinde",
+        "option_b":  "Danıştay\u0027a 15 gün içinde",
+        "option_c":  "Yargıtay\u0027a 7 gün içinde",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir milletvekilinin Meclis çalışmalarına özürsüz veya izinsiz olarak bir ay içinde toplam kaç birleşim günü katılmaması, vekilliğinin düşürülmesi için bir gerekçe oluşturur?",
+        "option_a":  "3",
+        "option_b":  "10",
+        "option_c":  "5",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Devamsızlık nedeniyle bir milletvekilinin üyeliğinin düşürülmesine karar verilebilmesi için gereken çoğunluk nedir?",
+        "option_a":  "Toplantıya katılanların salt çoğunluğu",
+        "option_b":  "Üye tamsayısının salt çoğunluğu (301)",
+        "option_c":  "Üye tamsayısının beşte üçü (360)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi bir milletvekilinin üyeliğini sona erdiren bir durum değildir?",
+        "option_a":  "Bakan olarak atanması",
+        "option_b":  "Partisinden istifa etmesi",
+        "option_c":  "Cumhurbaşkanı seçilmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi TBMM\u0027nin \"kanun\" ile yaptığı işlerden biri değildir?",
+        "option_a":  "Para basılmasına karar vermek",
+        "option_b":  "Savaş ilanına karar vermek",
+        "option_c":  "Genel af ilan etmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi\u0027nin denetimine tabi olan parlamento kararları arasında hangisi yer almaz?",
+        "option_a":  "TBMM İç Tüzüğü",
+        "option_b":  "Milletvekili dokunulmazlığının kaldırılması kararı",
+        "option_c":  "Savaş ilanı kararı",
+        "correct_answer":  "c"
+    }
+]

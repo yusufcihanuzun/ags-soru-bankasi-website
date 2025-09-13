@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "İzmir\u0027in Yunanlar tarafından ilhakını önlemek amacıyla kurulan ve Balıkesir-Alaşehir Kongrelerinin toplanmasında etkili olan cemiyet hangisidir?",
+        "option_a":  "Redd-i İlhak Cemiyeti",
+        "option_b":  "Kilikyalılar Cemiyeti",
+        "option_c":  "Trakya Paşaeli Cemiyeti",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Trabzon ve çevresinde bir Pontus Rum Devleti\u0027nin kurulmasını engellemek amacıyla kurulan ve Erzurum Kongresi\u0027nin toplanmasında etkili olan cemiyet hangisidir?",
+        "option_a":  "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+        "option_b":  "Trabzon Muhafaza-i Hukuk Cemiyeti",
+        "option_c":  "Millî Kongre Cemiyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Anadolu\u0027da bir Ermeni Devleti\u0027nin kurulmasını engellemek amacıyla kurulan ve \"Albayrak\", \"Hadisat\" gibi gazeteleri çıkaran cemiyet hangisidir?",
+        "option_a":  "Kars İslam Şurası",
+        "option_b":  "Kilikyalılar Cemiyeti",
+        "option_c":  "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin yıkılması halinde \"Trakya Cumhuriyeti\"ni kuracaklarını ilan eden cemiyet hangisidir?",
+        "option_a":  "Trakya Paşaeli Cemiyeti",
+        "option_b":  "Millî Kongre Cemiyeti",
+        "option_c":  "Redd-i İlhak Cemiyeti",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Adana ve çevresini Fransız ve Ermeni işgalinden kurtarmayı amaçlayan ve merkezi İstanbul\u0027da olan cemiyet hangisidir?",
+        "option_a":  "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+        "option_b":  "Kilikyalılar Cemiyeti",
+        "option_c":  "Trabzon Muhafaza-i Hukuk Cemiyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in isteğiyle Sivas Valisi\u0027nin eşi Melek Reşit Hanım\u0027ın gayretleriyle kurulan cemiyet hangisidir?",
+        "option_a":  "Vatan ve Hürriyet Cemiyeti",
+        "option_b":  "Teali-i Nisvan Cemiyeti",
+        "option_c":  "Anadolu Kadınları Müdafaa-i Vatan Cemiyeti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İşgalleri silahla değil, basın ve yayın yoluyla protesto etmeyi amaçlayan ve Dr. Esat Işık tarafından kurulan cemiyet hangisidir?",
+        "option_a":  "Millî Kongre Cemiyeti",
+        "option_b":  "Trakya Paşaeli Cemiyeti",
+        "option_c":  "Gizli Karakol Cemiyeti",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Raporunda ilk defa \"Kuvayımilliye\" tabirini kullanan cemiyet hangisidir?",
+        "option_a":  "Kars İslam Şurası",
+        "option_b":  "Millî Kongre Cemiyeti",
+        "option_c":  "Redd-i İlhak Cemiyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İstanbul\u0027dan Anadolu\u0027ya silah ve cephane kaçıran, istihbarat faaliyetlerinde bulunan cemiyet hangisidir?",
+        "option_a":  "Millî Kongre Cemiyeti",
+        "option_b":  "Gizli Karakol (Mim-Mim) Cemiyeti",
+        "option_c":  "Kilikyalılar Cemiyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurulan ilk yararlı cemiyet olan ve İngiliz işgaline karşı kısa süreliğine \"Cenubi Garbi Kafkas Hükümeti\" adında bir hükümet kuran cemiyet hangisidir?",
+        "option_a":  "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+        "option_b":  "Trabzon Muhafaza-i Hukuk Cemiyeti",
+        "option_c":  "Kars İslam Şûrası",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\"Megali İdea\"yı (Büyük Yunanistan) gerçekleştirmek amacıyla Fener Rum Patrikhanesi\u0027ne bağlı olarak çalışan zararlı cemiyet hangisidir?",
+        "option_a":  "Pontus Rum",
+        "option_b":  "Etnik-i Eterya",
+        "option_c":  "Mavri Mira",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Trabzon merkezli bir Pontus Rum Devleti kurmayı amaçlayan zararlı cemiyet hangisidir?",
+        "option_a":  "Mavri Mira",
+        "option_b":  "Pontus Rum",
+        "option_c":  "Kardos Cemiyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Anadolu\u0027da \"Büyük Ermenistan\" (Megali Armenia) devletini kurmayı hedefleyen ve Ermeni Patriği Zaven Efendi tarafından desteklenen cemiyetler hangileridir?",
+        "option_a":  "Hınçak ve Taşnak",
+        "option_b":  "Etnik-i Eterya ve Mavri Mira",
+        "option_c":  "Alyans İsrailit ve Makabi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Filistin topraklarında bir Yahudi devleti kurmayı amaçlayan zararlı cemiyet hangisidir?",
+        "option_a":  "Pontus Rum",
+        "option_b":  "Hınçak ve Taşnak",
+        "option_c":  "Makabi (Alyans İsrailit)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kurtuluşu Amerikan mandasına girmekte gören ve Halide Edip gibi aydınların da bir dönem desteklediği zararlı cemiyet hangisidir?",
+        "option_a":  "İngiliz Muhipleri Cemiyeti",
+        "option_b":  "Wilson Prensipleri Cemiyeti",
+        "option_c":  "Sulh ve Selamet-i Osmaniye Fırkası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurtuluşu İngiliz himayesine girmekte gören ve Damat Ferit Paşa hükümeti tarafından desteklenen zararlı cemiyet hangisidir?",
+        "option_a":  "Wilson Prensipleri Cemiyeti",
+        "option_b":  "Kürt Teali Cemiyeti",
+        "option_c":  "İngiliz Muhipleri Cemiyeti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kurtuluşu padişahın emirlerine ve halifeliğe bağlı kalmakta gören zararlı cemiyet hangisidir?",
+        "option_a":  "Hürriyet ve İtilaf Fırkası",
+        "option_b":  "Nigehban Cemiyeti",
+        "option_c":  "Sulh ve Selamet-i Osmaniye Fırkası",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İttihat ve Terakki düşmanlığı yapan ve Milli Mücadele\u0027ye karşı çıkan zararlı cemiyet hangisidir?",
+        "option_a":  "Teali İslam Cemiyeti",
+        "option_b":  "Hürriyet ve İtilaf Fırkası",
+        "option_c":  "Kürt Teali Cemiyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İzmir\u0027in işgali sırasında \"Yaşa Venizelos\" diye bağırmayı reddettiği için şehit edilen komutan kimdir?",
+        "option_a":  "Hasan Tahsin",
+        "option_b":  "Albay Süleyman Fethi Bey",
+        "option_c":  "Fethi Okyar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. Dünya Savaşı sırasında İtalya\u0027nın İtilaf Devletleri tarafına geçmesine neden olan ve kendisine Konya ile çevresini vaat eden gizli antlaşma hangisidir?",
+        "option_a":  "İstanbul Antlaşması",
+        "option_b":  "Londra Antlaşması",
+        "option_c":  "Sykes-Picot Antlaşması",
+        "correct_answer":  "b"
+    }
+]

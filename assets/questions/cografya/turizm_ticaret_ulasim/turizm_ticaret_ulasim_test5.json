@@ -1,0 +1,156 @@
+﻿[
+    {
+        "question_text":  "Geniş hinterlandı sayesinde Ege Bölgesi\u0027nin tarım ve sanayi ürünlerinin yurt dışına satıldığı en önemli ihracat limanı hangisidir?",
+        "option_a":  "Mersin Limanı",
+        "option_b":  "İzmir Limanı",
+        "option_c":  "Samsun Limanı",
+        "correct_ganswer":  "b"
+    },
+    {
+        "question_text":  "İstanbul ile birlikte, Ege kıyılarında kruvaziyer (büyük yolcu gemisi) turizminin en çok geliştiği limanlarımız arasında hangisi sayılabilir?",
+        "option_a":  "Kuşadası",
+        "option_b":  "Sinop",
+        "option_c":  "Trabzon",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin en önemli doğalgaz ithalat limanlarından biri hangisidir?",
+        "option_a":  "Samsun Limanı",
+        "option_b":  "Marmara Ereğlisi LNG Terminali",
+        "option_c":  "Antalya Limanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’de en çok turist ağırlayan şehir hangisidir?",
+        "option_a":  "İstanbul",
+        "option_b":  "Antalya",
+        "option_c":  "Muğla",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Efes Antik Kenti’nin de içinde bulunduğu UNESCO alanı hangi şehirdedir?",
+        "option_a":  "İzmir",
+        "option_b":  "Denizli",
+        "option_c":  "Muğla",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’nin en uzun köprüsü hangisidir?",
+        "option_a":  "Yavuz Sultan Selim Köprüsü",
+        "option_b":  "1915 Çanakkale Köprüsü",
+        "option_c":  "Osman Gazi Köprüsü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Pamukkale travertenleri hangi turizm türü için önemlidir?",
+        "option_a":  "Sağlık Turizmi",
+        "option_b":  "Kış Turizmi",
+        "option_c":  "İnanç Turizmi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’de kayak turizminin yapıldığı merkezlerden biri olmayan yer aşağıdakilerden hangisidir?",
+        "option_a":  "Uludağ",
+        "option_b":  "Erciyes",
+        "option_c":  "Kapadokya",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye’nin ilk şehir planı hangi ilde yapılmıştır?",
+        "option_a":  "Ankara",
+        "option_b":  "İzmir",
+        "option_c":  "Bursa",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "UNESCO Dünya Miras Listesi’ndeki Göreme Milli Parkı hangi ilimizdedir?",
+        "option_a":  "Nevşehir",
+        "option_b":  "Kayseri",
+        "option_c":  "Niğde",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstanbul’daki üç büyük havaalanından biri olmayan hangisidir?",
+        "option_a":  "Sabiha Gökçen",
+        "option_b":  "Atatürk Havalimanı",
+        "option_c":  "Adnan Menderes",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye’nin en yoğun kullanılan kara sınır kapısı hangisidir?",
+        "option_a":  "Kapıkule",
+        "option_b":  "Habur",
+        "option_c":  "Sarp",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’nin en büyük barajı hangisidir?",
+        "option_a":  "Atatürk Barajı",
+        "option_b":  "Keban Barajı",
+        "option_c":  "Ilısu Barajı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstanbul ile İzmir’i birbirine bağlayan otoyolun en önemli yapılarından biri olan köprü hangisidir?",
+        "option_a":  "Osman Gazi Köprüsü",
+        "option_b":  "Yavuz Sultan Selim Köprüsü",
+        "option_c":  "Fatih Sultan Mehmet Köprüsü",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "UNESCO listesine alınan Divriği Ulu Camii hangi ilimizdedir?",
+        "option_a":  "Sivas",
+        "option_b":  "Erzurum",
+        "option_c":  "Tokat",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’nin en işlek hava yolu hattı hangisidir?",
+        "option_a":  "İstanbul - Ankara",
+        "option_b":  "İstanbul - İzmir",
+        "option_c":  "İstanbul - Antalya",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’nin en uzun tüneli hangisidir?",
+        "option_a":  "Yeni Zigana Tüneli",
+        "option_b":  "Ovit Tüneli",
+        "option_c":  "Bolu Dağı Tüneli",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’nin en büyük serbest bölgesi hangisidir?",
+        "option_a":  "Ege Serbest Bölgesi",
+        "option_b":  "Mersin Serbest Bölgesi",
+        "option_c":  "İstanbul Atatürk Havalimanı Serbest Bölgesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Ani Harabeleri hangi ilimizdedir?",
+        "option_a":  "Van",
+        "option_b":  "Kars",
+        "option_c":  "Ağrı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’nin en büyük gölü hangisidir?",
+        "option_a":  "Tuz Gölü",
+        "option_b":  "Van Gölü",
+        "option_c":  "Beyşehir Gölü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’nin en yüksek dağı hangisidir?",
+        "option_a":  "Erciyes",
+        "option_b":  "Ağrı Dağı",
+        "option_c":  "Kaçkar Dağı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’nin dış ticaret açığını kapatmada en etkili gelir kaynağı hangisidir?",
+        "option_a":  "Turizm",
+        "option_b":  "Tarım",
+        "option_c":  "Sanayi",
+        "correct_answer":  "a"
+    }
+]

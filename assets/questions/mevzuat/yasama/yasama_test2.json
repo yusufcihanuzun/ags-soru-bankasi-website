@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Bütçe ve Kesin Hesap Kanunu teklifini verme yetkisi kime aittir?",
+        "option_a":  "Milletvekilleri",
+        "option_b":  "Plan ve Bütçe Komisyonu",
+        "option_c":  "Cumhurbaşkanı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "TBMM Genel Kurulu\u0027nda bir kanunun kabul edilebilmesi için, Anayasa\u0027da başka bir hüküm yoksa, gereken en az olumlu oy sayısı kaçtır?",
+        "option_a":  "200",
+        "option_b":  "151",
+        "option_c":  "301",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın veto ettiği bir kanunun, Meclis tarafından değiştirilmeden aynen kabul edilmesi için gereken asgari oy sayısı kaçtır?",
+        "option_a":  "360",
+        "option_b":  "200",
+        "option_c":  "301",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın veto edemediği tek kanun hangisidir?",
+        "option_a":  "Af Kanunu",
+        "option_b":  "Bütçe Kanunu",
+        "option_c":  "Anayasa Değişikliği Kanunu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa değişikliği tekliflerinin TBMM Genel Kurulu\u0027nda görüşülmesi ile ilgili özel kural nedir?",
+        "option_a":  "Tek bir defa görüşülür.",
+        "option_b":  "İki defa görüşülür ve görüşmeler arasında en az 48 saat olmalıdır.",
+        "option_c":  "Üç defa görüşülür.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir Anayasa değişikliği teklifinin TBMM\u0027de 380 oyla kabul edilmesi durumunda Cumhurbaşkanı\u0027nın yetkisi aşağıdakilerden hangisidir?",
+        "option_a":  "Onaylamak veya halkoyuna sunmak",
+        "option_b":  "Meclis\u0027e geri göndermek veya zorunlu halkoyuna sunmak",
+        "option_c":  "Sadece onaylamak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bütçe kanun teklifi, mali yılbaşından en az kaç gün önce Cumhurbaşkanı tarafından TBMM\u0027ye sunulur?",
+        "option_a":  "60",
+        "option_b":  "75",
+        "option_c":  "90",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Genel ve özel af ilanı için TBMM\u0027de aranan karar yeter sayısı nedir?",
+        "option_a":  "Üye tamsayısının salt çoğunluğu (301)",
+        "option_b":  "Üye tamsayısının beşte üç çoğunluğu (360)",
+        "option_c":  "Üye tamsayısının üçte iki çoğunluğu (400)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM bir yasama yılında en fazla ne kadar süre tatil yapabilir?",
+        "option_a":  "1 ay",
+        "option_b":  "45 gün",
+        "option_c":  "3 ay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "TBMM Başkanlık Divanı için bir yasama döneminde kaç defa seçim yapılır?",
+        "option_a":  "Bir",
+        "option_b":  "İki",
+        "option_c":  "Her yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM Başkanı\u0027nın görev ve yetkileriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+        "option_a":  "TBMM\u0027yi temsil eder.",
+        "option_b":  "Genel Kurul\u0027daki oylamalara katılamaz.",
+        "option_c":  "Partisiyle ilişiği kesilir.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir siyasi partinin TBMM\u0027de grup kurabilmesi için en az kaç milletvekiline sahip olması gerekir?",
+        "option_a":  "10",
+        "option_b":  "20",
+        "option_c":  "30",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM\u0027nin kendi çalışma usullerini belirlediği ve bir parlamento kararı olmasına rağmen Anayasa Mahkemesi denetimine tabi olan belge hangisidir?",
+        "option_a":  "Kanun Teklifi",
+        "option_b":  "Genelge",
+        "option_c":  "İç Tüzük",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "TBMM\u0027nin bir konuda karar alabilmesi için, Anayasa\u0027da özel bir çoğunluk belirtilmemişse, gereken asgari \u0027kabul\u0027 oyu sayısı kaçtır?",
+        "option_a":  "200",
+        "option_b":  "151",
+        "option_c":  "301",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "2017 Anayasa değişikliği ile TBMM\u0027nin bilgi edinme ve denetim yolları arasından çıkarılan yöntem hangisidir?",
+        "option_a":  "Meclis Araştırması",
+        "option_b":  "Gensoru",
+        "option_c":  "Yazılı Soru",
+        "correct_answer":  "b"
+    }
+]

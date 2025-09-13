@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "1982 Anayasası\u0027na göre idarenin kuruluş ve görevleri hangi iki temel esasa dayanır?",
+        "option_a":  "Merkezden yönetim ve yerinden yönetim",
+        "option_b":  "Yetki genişliği ve yetki devri",
+        "option_c":  "Hiyerarşi ve idari vesayet",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, kamu tüzel kişiliği nasıl kurulur?",
+        "option_a":  "Sadece kanunla",
+        "option_b":  "Sadece Cumhurbaşkanlığı Kararnamesi ile",
+        "option_c":  "Kanunla veya Cumhurbaşkanlığı Kararnamesi ile",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İdarenin her türlü eylem ve işlemlerine karşı hangi yolun açık olduğu Anayasa\u0027da temel bir ilke olarak belirtilmiştir?",
+        "option_a":  "İdari başvuru yolu",
+        "option_b":  "Yargı yolu",
+        "option_c":  "Ombudsmanlık yolu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişilerinin; kendi görev alanlarını ilgilendiren kanunların ve kararnamelerin uygulanmasını sağlamak üzere çıkardıkları düzenleyici işleme ne ad verilir?",
+        "option_a":  "Genelge",
+        "option_b":  "Tebliğ",
+        "option_c":  "Yönetmelik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hangi yönetmeliklerin Resmî Gazete\u0027de yayımlanacağı nerede belirtilir?",
+        "option_a":  "Anayasa\u0027da",
+        "option_b":  "Kanunda",
+        "option_c":  "İlgili yönetmelikte",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yüksek Askeri Şûra\u0027nın (YAŞ) kararlarından hangilerine karşı yargı yolu kapalıdır?",
+        "option_a":  "İlişik kesme kararları",
+        "option_b":  "Terfi ve kadrosuzluk nedeniyle emekliye ayırma kararları",
+        "option_c":  "Tüm kararlarına karşı yargı yolu açıktır",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İdarenin kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlü olması, hangi ilkenin bir gereğidir?",
+        "option_a":  "İdarenin bütünlüğü",
+        "option_b":  "İdarenin mali sorumluluğu",
+        "option_c":  "Kanuni idare",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin merkezi idare kuruluşu bakımından illere ayrılmasının temel gerekçeleri arasında hangisi yoktur?",
+        "option_a":  "Coğrafya durumu ve ekonomik şartlar",
+        "option_b":  "Kültürel ve sosyal yapı",
+        "option_c":  "Kamu hizmetlerinin gerekleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İllerin idaresi hangi temel esasa dayanır?",
+        "option_a":  "Hiyerarşi",
+        "option_b":  "İdari Vesayet",
+        "option_c":  "Yetki Genişliği",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Birden çok ili içine alan merkezî idare teşkilatı (bölge idareleri) kurmanın temel amacı nedir?",
+        "option_a":  "Kamu hizmetlerinde verim ve uyumu sağlamak",
+        "option_b":  "Mahalli idareleri denetlemek",
+        "option_c":  "Yargısal faaliyetleri kolaylaştırmak",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İl, belediye veya köy halkının mahalli müşterek ihtiyaçlarını karşılamak üzere kurulan kamu tüzel kişilerine ne ad verilir?",
+        "option_a":  "Merkezi İdare",
+        "option_b":  "Mahallî İdare",
+        "option_c":  "Kamu Kurumları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi Anayasa\u0027da sayılan bir mahallî idare türü değildir?",
+        "option_a":  "İl özel idaresi",
+        "option_b":  "Büyükşehir belediyesi",
+        "option_c":  "Köy",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mahallî idarelerin genel karar organları nasıl oluşturulur?",
+        "option_a":  "Merkezi idare tarafından atanarak",
+        "option_b":  "Seçmenler tarafından seçilerek",
+        "option_c":  "Meslek kuruluşları tarafından belirlenerek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mahallî idareler seçimleri kaç yılda bir yapılır?",
+        "option_a":  "4 yıl",
+        "option_b":  "5 yıl",
+        "option_c":  "6 yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Göreviyle ilgili bir suç sebebiyle hakkında soruşturma veya kovuşturma açılan bir belediye başkanını, geçici bir tedbir olarak görevden uzaklaştırma yetkisi kime aittir?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "İçişleri Bakanı",
+        "option_c":  "Vali",
+        "correct_answer":  "b"
+    }
+]

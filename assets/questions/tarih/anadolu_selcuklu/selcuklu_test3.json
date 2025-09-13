@@ -1,0 +1,30 @@
+﻿[
+    {
+        "question_text":  "Anadolu Selçuklu Devleti\u0027nde donanma komutanına verilen unvan nedir?",
+        "option_a":  "Pervaneci",
+        "option_b":  "Atabey",
+        "option_c":  "Reisül Bahr (Meliküs Sevahil)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türk tarihinin ilk dinî nitelikli toplumsal ayaklanması olan Baba İshak İsyanı hangi devlet döneminde çıkmıştır?",
+        "option_a":  "Büyük Selçuklu Devleti",
+        "option_b":  "Anadolu Selçuklu Devleti",
+        "option_c":  "Osmanlı Devleti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\"Risaletü\u0027n Nushiyye\" adlı eserin yazarı olan ve sade Türkçesiyle tanınan halk şairi ve düşünürü kimdir?",
+        "option_a":  "Yunus Emre",
+        "option_b":  "Gülşehri",
+        "option_c":  "Aşık Paşa",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anadolu\u0027da yapılan, dünyanın ilk tıp fakültesi olarak kabul edilen ve Anadolu\u0027nun en eski şifahanesi olan yapı hangisidir?",
+        "option_a":  "Kayseri Gevher Nesibe Darüşşifası",
+        "option_b":  "Konya Alaaddin Camii",
+        "option_c":  "Sivas Gök Medrese",
+        "correct_answer":  "a"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Müzik öğretmeni yetiştirmek amacıyla 1924\u0027te kurulan ve daha sonra Ankara Devlet Konservatuvarı\u0027na dönüşen okul hangisidir?",
+        "option_a":  "Darülelhan",
+        "option_b":  "Darülbedayi",
+        "option_c":  "Musiki Muallim Mektebi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye Cumhuriyeti\u0027nin ilk operası olan \"Özsoy Operası\"nın bestecisi kimdir?",
+        "option_a":  "Adnan Saygun",
+        "option_b":  "Cemal Reşit Rey",
+        "option_c":  "Ulvi Cemal Erkin",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Mücadele dönemini anlatan ve Halide Edip Adıvar tarafından yazılan roman hangisidir?",
+        "option_a":  "Yaban",
+        "option_b":  "Ateşten Gömlek",
+        "option_c":  "Sodom ve Gomore",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yakup Kadri Karaosmanoğlu\u0027nun, Kurtuluş Savaşı yıllarında aydın ile köylü arasındaki yabancılaşmayı anlattığı eseri hangisidir?",
+        "option_a":  "Kiralık Konak",
+        "option_b":  "Yaban",
+        "option_c":  "Sodom ve Gomore",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Falih Rıfkı Atay\u0027ın, Atatürk\u0027ün doğumundan ölümüne kadar olan anılarını anlattığı eseri hangisidir?",
+        "option_a":  "Zeytindağı",
+        "option_b":  "Çankaya",
+        "option_c":  "Ateş ve Güneş",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Mücadele döneminde halkı doğru bilgilendirmek amacıyla Mustafa Kemal\u0027in talimatıyla kurulan ve günümüzde de devam eden haber ajansı hangisidir?",
+        "option_a":  "Anadolu Ajansı",
+        "option_b":  "İhlas Haber Ajansı",
+        "option_c":  "Demirören Haber Ajansı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Temsil Heyeti\u0027nin Sivas\u0027tan Ankara\u0027ya gelmesinden sonra, Milli Mücadele\u0027nin yayın organı haline gelen gazete hangisidir?",
+        "option_a":  "İrade-i Milliye",
+        "option_b":  "Minber",
+        "option_c":  "Hakimiyet-i Milliye",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1932\u0027de kurulan Halkevlerinin yayın organı olan derginin adı nedir?",
+        "option_a":  "Varlık",
+        "option_b":  "Ülkü",
+        "option_c":  "Kadro",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İstanbul\u0027da yayımlanmasına rağmen Milli Mücadele\u0027yi destekleyen ve \"Atatürk\u0027ün isimsiz yazıları yayımlanmıştır\" bilgisi verilen gazete hangisidir?",
+        "option_a":  "İleri",
+        "option_b":  "Akşam",
+        "option_c":  "Vakit",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Nyon Konferansı (1937), hangi denizde artan korsanlık faaliyetlerine karşı toplanmıştır?",
+        "option_a":  "Karadeniz",
+        "option_b":  "Ege Denizi",
+        "option_c":  "Akdeniz",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milli Mücadele döneminde Anadolu basınının karşılaştığı en büyük zorluklar arasında hangisi yer alır?",
+        "option_a":  "Nitelikli yazar bulamamak",
+        "option_b":  "Kağıt ve mürekkep sıkıntısı, dağıtım zorlukları",
+        "option_c":  "Halkın okuma yazma bilmemesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Mücadele döneminde, İstanbul\u0027daki gazetelerin en büyük sorunu ne olmuştur?",
+        "option_a":  "Sansür ve İtilaf Devletleri\u0027nin baskısı",
+        "option_b":  "Yeterli sermaye bulamamaları",
+        "option_c":  "Anadolu\u0027ya ulaşamamaları",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in \"Benim gazetem\" dediği, Temsil Heyeti\u0027nin Sivas\u0027tan Ankara\u0027ya taşınmasından sonra çıkarılan yarı resmi gazete hangisidir?",
+        "option_a":  "İrade-i Milliye",
+        "option_b":  "Hakimiyet-i Milliye",
+        "option_c":  "Albayrak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sivas Kongresi\u0027nde alınan kararla, Milli Mücadele\u0027nin ilk yayın organı olarak çıkarılan gazete hangisidir?",
+        "option_a":  "Hakimiyet-i Milliye",
+        "option_b":  "İrade-i Milliye",
+        "option_c":  "Albayrak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Mücadele hakkında yurt içine ve yurt dışına doğru bilgi akışı sağlamak amacıyla Mustafa Kemal\u0027in talimatıyla kurulan haber ajansı hangisidir?",
+        "option_a":  "Türk Haberler Ajansı",
+        "option_b":  "Milli Haber Ajansı",
+        "option_c":  "Anadolu Ajansı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anadolu Ajansı\u0027nın kurucuları arasında yer alan ünlü yazar ve siyasetçi kimdir?",
+        "option_a":  "Yakup Kadri Karaosmanoğlu",
+        "option_b":  "Halide Edip Adıvar",
+        "option_c":  "Falih Rıfkı Atay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Temsil Heyeti\u0027nin Sivas\u0027a gelmesinden önce, Doğu Anadolu Müdafaa-i Hukuk Cemiyeti\u0027nin yayın organı olarak Erzurum\u0027da çıkarılan gazete hangisidir?",
+        "option_a":  "Vakit",
+        "option_b":  "Albayrak",
+        "option_c":  "İleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İzmir\u0027in işgaline karşı ilk kurşunu atan Hasan Tahsin\u0027in başyazarı olduğu gazete hangisidir?",
+        "option_a":  "Hukuk-u Beşer",
+        "option_b":  "Yenigün",
+        "option_c":  "Akşam",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstiklal Marşı\u0027nı Ankara\u0027da Hakimiyet-i Milliye\u0027den önce yayımlayan ve Kastamonu\u0027da çıkarılan gazete hangisidir?",
+        "option_a":  "Açıksöz",
+        "option_b":  "Sebilürreşad",
+        "option_c":  "Öğüt",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Mehmet Akif Ersoy\u0027un başyazarlığını yaptığı ve Milli Mücadele\u0027yi destekleyen, Ankara\u0027da da yayımlanan dergi/gazete hangisidir?",
+        "option_a":  "Tanin",
+        "option_b":  "Vakit",
+        "option_c":  "Sebilürreşad",
+        "correct_answer":  "c"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Okulun fiziksel ve sosyal ortamından, kurallarından, öğretmen tutumlarından kaynaklanan ve resmi programda yazılı olmayan öğrenmeleri kapsayan program türü hangisidir?",
+        "option_a":  "İhmal Edilen Program",
+        "option_b":  "Uygulamadaki Program",
+        "option_c":  "Örtük (Gizil) Program",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Resmi programda yer almasına rağmen, zaman yetersizliği, öğretmen yetkinliği veya kaynak eksikliği gibi nedenlerle öğretilmeyen, atlanan konular hangi program türüne girer?",
+        "option_a":  "İhmal Edilen (Geçersiz) Program",
+        "option_b":  "Ekstra Program",
+        "option_c":  "Destekleyici Program",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Okulun planladığı, ders dışı sanatsal, sportif ve kültürel faaliyetleri (tiyatro, spor kulüpleri vb.) içeren program türü hangisidir?",
+        "option_a":  "Resmi Program",
+        "option_b":  "Ekstra Program",
+        "option_c":  "Örtük Program",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Ne öğretelim?\u0027 sorusu, program geliştirmenin hangi temel ögesine karşılık gelir?",
+        "option_a":  "Hedef",
+        "option_b":  "İçerik",
+        "option_c":  "Değerlendirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Niçin öğretelim?\u0027 sorusu, program geliştirmenin hangi ögesini belirlemeye yöneliktir?",
+        "option_a":  "Hedef (Amaç)",
+        "option_b":  "Öğrenme-Öğretme Süreci",
+        "option_c":  "İçerik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Ne kadar öğrettik?\u0027 sorusuna cevap arayan program geliştirme ögesi hangisidir?",
+        "option_a":  "İçerik",
+        "option_b":  "Hedef",
+        "option_c":  "Ölçme ve Değerlendirme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Nasıl öğretelim?\u0027 sorusu, programın hangi ögesiyle ilgilidir?",
+        "option_a":  "Hedef",
+        "option_b":  "Eğitim Durumları (Öğrenme-Öğretme Süreci)",
+        "option_c":  "Değerlendirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bloom taksonomisine göre, bir bilginin ezberlenerek aynen tekrar edilmesi hangi düzeydeki bir hedeftir?",
+        "option_a":  "Bilgi",
+        "option_b":  "Kavrama",
+        "option_c":  "Uygulama",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir metni okuyup kendi cümleleriyle özetleyebilme becerisi, Bloom taksonomisinin hangi basamağına örnektir?",
+        "option_a":  "Bilgi",
+        "option_b":  "Kavrama",
+        "option_c":  "Analiz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrenilen bir formülü kullanarak bir problemi çözme, hangi bilişsel alan basamağına girer?",
+        "option_a":  "Kavrama",
+        "option_b":  "Uygulama",
+        "option_c":  "Sentez",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir problemi oluşturan temel parçaları, unsurları ve aralarındaki ilişkileri belirleyebilme becerisi hangi basamaktır?",
+        "option_a":  "Analiz",
+        "option_b":  "Sentez",
+        "option_c":  "Değerlendirme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Farklı ögeleri bir araya getirerek özgün, yeni bir bütün oluşturma (örneğin bir kompozisyon yazma) hangi basamaktır?",
+        "option_a":  "Uygulama",
+        "option_b":  "Analiz",
+        "option_c":  "Sentez",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Belli ölçütler kullanarak bir durumu, bir ürünü veya bir fikri yargılama, eleştirme becerisi hangi basamaktır?",
+        "option_a":  "Sentez",
+        "option_b":  "Değerlendirme",
+        "option_c":  "Analiz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Krathwohl\u0027un duyuşsal alan taksonomisinde, bir uyarıcının farkında olma ve onu fark etmeye istekli olma durumu hangi basamaktır?",
+        "option_a":  "Alma",
+        "option_b":  "Tepkide Bulunma",
+        "option_c":  "Değer Verme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir öğrencinin derse aktif olarak katılması, sorulara cevap vermesi duyuşsal alanın hangi basamağına örnektir?",
+        "option_a":  "Alma",
+        "option_b":  "Tepkide Bulunma",
+        "option_c":  "Değer Verme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir davranışın veya bir düşüncenin önemini kabul edip ona kendini adama durumu hangi duyuşsal alan basamağıdır?",
+        "option_a":  "Tepkide Bulunma",
+        "option_b":  "Değer Verme",
+        "option_c":  "Örgütleme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Farklı değerleri birbiriyle ilişkilendirip tutarlı bir değerler sistemi oluşturma basamağı hangisidir?",
+        "option_a":  "Değer Verme",
+        "option_b":  "Örgütleme",
+        "option_c":  "Kişilik Haline Getirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireyin oluşturduğu değerler sistemiyle tam bir uyum içinde davranması, bu değerlerin onun yaşam felsefesi haline gelmesi hangi basamaktır?",
+        "option_a":  "Örgütleme",
+        "option_b":  "Kişilik Haline Getirme (Niteleme)",
+        "option_c":  "Değer Verme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Psikomotor alanın (beceri alanı) ilk basamağı olan, bir becerinin nasıl yapıldığını gözlemleme aşaması hangisidir?",
+        "option_a":  "Uyarılma (Algılama)",
+        "option_b":  "Kurulma",
+        "option_c":  "Kılavuzla Yapma",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir davranışı yapmak için vücudunu ve organlarını hazır hale getirme aşaması psikomotor alanın hangi basamağıdır?",
+        "option_a":  "Uyarılma",
+        "option_b":  "Kurulma",
+        "option_c":  "Beceri Haline Getirme",
+        "correct_answer":  "b"
+    }
+]

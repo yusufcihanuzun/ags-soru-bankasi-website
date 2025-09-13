@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Şeyhülislamın yetkilerini kısıtlayan ilk padişah hangisidir?",
+        "option_a":  "Fatih Sultan Mehmet",
+        "option_b":  "Genç Osman (II. Osman)",
+        "option_c":  "I. Ahmet",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Başkenti İstanbul\u0027dan Anadolu\u0027ya taşımayı düşünen padişah kimdir?",
+        "option_a":  "I. Ahmet",
+        "option_b":  "Genç Osman",
+        "option_c":  "IV. Murat",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. Ahmet döneminde sadrazamlık yapan ve Celali İsyanlarını büyük bir şiddetle bastırmasıyla tanınan devlet adamı kimdir?",
+        "option_a":  "Tarhuncu Ahmet Paşa",
+        "option_b":  "Kuyucu Murat Paşa",
+        "option_c":  "Köprülü Mehmet Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\"Bağdat Fatihi\" olarak anılan ve saray kadınlarını devlet yönetiminden uzaklaştıran padişah kimdir?",
+        "option_a":  "I. Ahmet",
+        "option_b":  "IV. Murat",
+        "option_c":  "Genç Osman",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "IV. Murat\u0027ın İstanbul\u0027daki yangınların önüne geçmek amacıyla getirdiği yasaklar arasında hangisi bulunur?",
+        "option_a":  "Sokağa çıkma, içki ve tütün yasağı",
+        "option_b":  "Yeni kıyafetler giyme yasağı",
+        "option_c":  "Saray dışından evlenme yasağı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "IV. Murat\u0027a, devletin kötü gidişatının nedenleri ve çözüm yolları hakkında raporlar (risale) sunan alimler kimlerdir?",
+        "option_a":  "Koçi Bey ve Katip Çelebi",
+        "option_b":  "Evliya Çelebi ve Naima",
+        "option_c":  "Hezarfen Ahmet ve Lagari Hasan",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Osmanlı tarihinde ilk kez bir şeyhülislamı idam ettiren padişah kimdir?",
+        "option_a":  "Fatih Sultan Mehmet",
+        "option_b":  "Yavuz Sultan Selim",
+        "option_c":  "IV. Murat",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Osmanlı veraset sisteminde, hanedanın en yaşlı ve en olgun üyesinin tahta geçmesi kuralını (\"Ekber ve Erşed\") getiren padişah kimdir?",
+        "option_a":  "III. Mehmet",
+        "option_b":  "I. Ahmet",
+        "option_c":  "Genç Osman",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Saraya şartlar öne sürerek sadrazamlık makamına gelen ilk devlet adamı kimdir?",
+        "option_a":  "Tarhuncu Ahmet Paşa",
+        "option_b":  "Köprülü Mehmet Paşa",
+        "option_c":  "Kuyucu Murat Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Köprülü Mehmet Paşa\u0027nın sadrazamlığı döneminde Venedik\u0027in hangi boğazdaki ablukasını kaldırdığı belirtilmektedir?",
+        "option_a":  "İstanbul Boğazı",
+        "option_b":  "Çanakkale Boğazı",
+        "option_c":  "Kerç Boğazı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Girit\u0027i 24 yıllık bir kuşatmanın ardından fetheden ve \"Girit Fatihi\" olarak anılan Köprülü ailesinden sadrazam kimdir?",
+        "option_a":  "Köprülü Fazıl Ahmet Paşa",
+        "option_b":  "Merzifonlu Kara Mustafa Paşa",
+        "option_c":  "Amcazade Hüseyin Paşa",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Köprülüler ailesinin sadrazamlık yaptığı dönem için hangi ifade kullanılır?",
+        "option_a":  "Lale Devri",
+        "option_b":  "Fetret Devri",
+        "option_c":  "Duraklama içinde bir Yükselme Dönemi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "18. yüzyılda Avrupa devletlerinin, hedeflerine ulaşmak için her türlü yola başvurmayı meşru sayan politikasına ne ad verilir?",
+        "option_a":  "Merkantilizm",
+        "option_b":  "Panslavizm",
+        "option_c":  "Makyavelizm",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Rusya\u0027nın, Balkanlar\u0027da yaşayan tüm Slav halklarını kendi liderliğinde birleştirme politikasına ne ad verilir?",
+        "option_a":  "Panslavizm",
+        "option_b":  "Grek Projesi",
+        "option_c":  "Dakya Projesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Rus Prensi Potemkin tarafından \"Doğu Sisteminin En Büyük Planı\" olarak adlandırılan ve Bizans\u0027ı yeniden canlandırmayı hedefleyen proje hangisidir?",
+        "option_a":  "Dakya Projesi",
+        "option_b":  "Grek Projesi",
+        "option_c":  "Panslavizm Projesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1711 Prut Savaşı\u0027nın çıkmasına, Ruslardan kaçarak Osmanlı\u0027ya sığınan İsveç Kralı kim neden olmuştur?",
+        "option_a":  "XII. Karl (Demirbaş Şarl)",
+        "option_b":  "I. Petro",
+        "option_c":  "II. Katerina",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin, Rusya ile imzaladığı 1711 tarihli Prut Antlaşması ile geri aldığı ve Karlofça\u0027daki kayıpları telafi etme umudunu doğuran kale neresidir?",
+        "option_a":  "Kırım",
+        "option_b":  "Azak Kalesi",
+        "option_c":  "Belgrat",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Prut Savaşı\u0027nda Rus ordusunu zor durumda bırakan ve Prut Antlaşması\u0027nı imzalayan Osmanlı sadrazamı kimdir?",
+        "option_a":  "Nevşehirli Damat İbrahim Paşa",
+        "option_b":  "Baltacı Mehmet Paşa",
+        "option_c":  "Koca Ragıp Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin 1718\u0027de Avusturya ile imzaladığı, Batı\u0027nın üstünlüğünü ilk kez kabul ederek Lale Devri\u0027ne girmesine neden olan antlaşma hangisidir?",
+        "option_a":  "Belgrat Antlaşması",
+        "option_b":  "Pasarofça Antlaşması",
+        "option_c":  "Prut Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1718 Pasarofça Antlaşması\u0027ndan hemen önce Avusturya ile yapılan ve Osmanlı\u0027nın kaybettiği savaş hangisidir?",
+        "option_a":  "Zenta Muharebesi",
+        "option_b":  "Salankamen Muharebesi",
+        "option_c":  "Petervaradin Savaşı",
+        "correct_answer":  "c"
+    }
+]

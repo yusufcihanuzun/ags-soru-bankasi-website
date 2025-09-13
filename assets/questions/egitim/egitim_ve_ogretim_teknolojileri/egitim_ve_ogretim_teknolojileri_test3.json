@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Renk, doku ve şekil gibi ögelerin uyumlu bir şekilde kullanılmasıyla elde edilen tasarım ilkesi hangisidir?",
+        "option_a":  "Ahenk (Uyum)",
+        "option_b":  "Zıtlık",
+        "option_c":  "Bütünlük",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir afiş hazırlarken en önemli bilginin en büyük puntolarla yazılması hangi ilkeyle doğrudan ilişkilidir?",
+        "option_a":  "Denge",
+        "option_b":  "Hizalama",
+        "option_c":  "Vurgu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir materyaldeki tüm öğelerin (metin, görsel vb.) birbiriyle hizalı olması hangi tasarım ilkesine girer?",
+        "option_a":  "Bütünlük",
+        "option_b":  "Hizalama",
+        "option_c":  "Ritim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dale\u0027nin Yaşantı Konisi\u0027ne göre \u0027Model ve numunelerle edinilen yaşantılar\u0027 hangisinden daha somuttur?",
+        "option_a":  "Geziler yoluyla edinilen yaşantılar",
+        "option_b":  "Televizyonda edinilen yaşantılar",
+        "option_c":  "Dramatizasyonla edinilen yaşantılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Çevremizi tanıyalım\u0027 konusunun en etkili şekilde öğretilmesi için Dale\u0027nin konisine göre hangi yöntem tercih edilmelidir?",
+        "option_a":  "Televizyon programı izletmek",
+        "option_b":  "Gezi düzenlemek",
+        "option_c":  "Konuyla ilgili bir film izletmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrenmede en çok hangi duyu organı etkilidir?",
+        "option_a":  "İşitme",
+        "option_b":  "Dokunma",
+        "option_c":  "Görme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Öğrenmede en az kalıcılığa sahip duyu organı hangisidir?",
+        "option_a":  "Koklama",
+        "option_b":  "Tatma",
+        "option_c":  "İşitme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Materyal seçerken \u0027öğrencinin yaşına, zekasına ve geçmiş deneyimlerine uygun olmalıdır\u0027 ilkesi hangisidir?",
+        "option_a":  "Hedef-Davranış İlkesi",
+        "option_b":  "Öğrenciye Uygunluk İlkesi",
+        "option_c":  "Basitlik İlkesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir dil öğrenme uygulamasında konuşma pratiği yaptıran modüllerin olması, hangi materyal hazırlama ilkesine örnektir?",
+        "option_a":  "Hedef-Davranış İlkesi",
+        "option_b":  "Yenilik İlkesi",
+        "option_c":  "Çok Örnek İlkesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Slayt gösterisi hazırlanırken, sunumun hangi renk bir slaytla başlayıp bitmesi önerilir?",
+        "option_a":  "Beyaz",
+        "option_b":  "Siyah",
+        "option_c":  "Mavi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yazılı materyallerde okuma hızını düşürdüğü için satır sonuna sığmayan kelimelerin alt satıra yazılması neden önerilmez?",
+        "option_a":  "Heceleme hatası yaratır.",
+        "option_b":  "Anlam karışıklığına yol açar.",
+        "option_c":  "Okuma hızını düşürür.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Simülasyon (benzetim) tekniği kullanılırken en çok hangi tür materyallerden yararlanılır?",
+        "option_a":  "Yazılı materyaller",
+        "option_b":  "Gerçek eşyalar ve modeller",
+        "option_c":  "Grafik ve tablolar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyaldeki öğelerin göz tarafından kolayca algılanıp gruplandırılabilmesi hangi tasarım ilkesiyle ilgilidir?",
+        "option_a":  "Yakınlık (Gruplama)",
+        "option_b":  "Zıtlık",
+        "option_c":  "Denge",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir materyalde kullanılan sıcak renkler (kırmızı, sarı) izleyicide hangi etkiyi yaratır?",
+        "option_a":  "Sakinlik ve dinginlik",
+        "option_b":  "Heyecan ve enerji",
+        "option_c":  "Uzaklık ve derinlik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Soğuk renkler (mavi, yeşil) bir tasarımda ne hissi uyandırır?",
+        "option_a":  "Yakınlık ve sıcaklık",
+        "option_b":  "Uzaklık ve rahatlama",
+        "option_c":  "Hareket ve canlılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretim materyalinin, dersin sonunda ulaşılması beklenen davranışları desteklemesi hangi ilkeyle açıklanır?",
+        "option_a":  "Öğrenciye Uygunluk İlkesi",
+        "option_b":  "Anlamlılık İlkesi",
+        "option_c":  "Hedef-Davranış İlkesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Grafikler hangi öğrenme alanında daha az etkilidir?",
+        "option_a":  "Bilişsel Alan",
+        "option_b":  "Duyuşsal Alan",
+        "option_c":  "Psikomotor Alan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir sunumda zemin ile şekil (yazı) arasında zıtlık olması hangi amaca hizmet eder?",
+        "option_a":  "Estetik görünüm",
+        "option_b":  "Okunabilirliği artırma",
+        "option_c":  "Dikkat dağıtma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrenme-öğretme sürecinde \u0027zamandan ve emekten tasarruf sağlamak\u0027 hangi materyal kullanma faydasıyla ilgilidir?",
+        "option_a":  "Açıklık",
+        "option_b":  "Ekonomiklik",
+        "option_c":  "Güdüleme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tepegöz kullanılırken her saydam (asetat) değişikliğinde aracın kapatılması neden önerilir?",
+        "option_a":  "Enerji tasarrufu için",
+        "option_b":  "Öğrencinin dikkatinin dağılmaması için",
+        "option_c":  "Ampulün ömrünü uzatmak için",
+        "correct_answer":  "b"
+    }
+]

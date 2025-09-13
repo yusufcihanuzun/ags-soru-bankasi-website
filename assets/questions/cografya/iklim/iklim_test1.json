@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Aşağıdakilerden hangisi Türkiye\u0027nin Orta Kuşak\u0027ta yer almasının iklim üzerindeki sonuçlarından biri değildir?",
+        "option_a":  "Dört mevsimin belirgin olarak görülmesi",
+        "option_b":  "Bakının etkisiyle güney yamaçların daha fazla ısınması",
+        "option_c":  "Kısa mesafelerde iklimin değişmesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027de kuzeyden esen rüzgârların sıcaklığı azaltması, güneyden esenlerin ise artırması neyin bir sonucudur?",
+        "option_a":  "Matematik konumun",
+        "option_b":  "Yükseltinin",
+        "option_c":  "Yer şekillerinin",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Karadeniz ve Akdeniz\u0027de dağların kıyıya paralel uzanması, aşağıdakilerden hangisine neden olur?",
+        "option_a":  "Denizel etkilerin iç kısımlara kolayca girmesine",
+        "option_b":  "Kıyılar ile iç kesimler arasında belirgin iklim farkları oluşmasına",
+        "option_c":  "Kıyıların daha az yağış almasına",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kış aylarında Türkiye\u0027yi etkisi altına alarak havanın çok soğuk ve sert geçmesine neden olan basınç merkezi hangisidir?",
+        "option_a":  "İzlanda Alçak Basıncı",
+        "option_b":  "Sibirya Yüksek Basıncı",
+        "option_c":  "Basra Alçak Basıncı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yaz aylarında Güneydoğu Anadolu Bölgesi\u0027nde etkili olup bu alanı Türkiye\u0027nin en kurak ve en sıcak yeri yapan basınç merkezi hangisidir?",
+        "option_a":  "Asor Yüksek Basıncı",
+        "option_b":  "İzlanda Alçak Basıncı",
+        "option_c":  "Basra Alçak Basıncı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027de sıcaklığın batıdan doğuya doğru azalmasının temel sebebi nedir?",
+        "option_a":  "Enlem etkisi",
+        "option_b":  "Yükselti ve karasallık",
+        "option_c":  "Bakı etkisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yükseltinin iklim üzerindeki etkisini ortadan kaldırarak hesaplanan sıcaklık değerlerine ne ad verilir?",
+        "option_a":  "Gerçek sıcaklık",
+        "option_b":  "Hissedilen sıcaklık",
+        "option_c":  "İndirgenmiş sıcaklık",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Ocak ayında en düşük sıcaklıkların Erzurum-Kars bölümünde görülmesinin sebebi nedir?",
+        "option_a":  "Enlem ve denizellik",
+        "option_b":  "Yükselti ve karasallık",
+        "option_c":  "Sadece enlem etkisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ocak ayında Doğu Karadeniz kıyılarının, Batı Karadeniz kıyılarından daha sıcak olmasının sebeplerinden biri nedir?",
+        "option_a":  "Fön rüzgârlarının sıcak etki yapması",
+        "option_b":  "Güneş ışınlarını daha dik alması",
+        "option_c":  "Daha fazla kar yağışı alması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Temmuz ayında Türkiye\u0027nin en yüksek sıcaklıklarının Güneydoğu Anadolu Bölgesi\u0027nde görülmesinin sebebi nedir?",
+        "option_a":  "Denizellik ve yükselti",
+        "option_b":  "Enlem, karasallık ve Basra alçak basıncının etkisi",
+        "option_c":  "Sadece enlem etkisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de yıllık sıcaklık farkının en az olduğu bölge hangisidir?",
+        "option_a":  "Doğu Anadolu Bölgesi",
+        "option_b":  "İç Anadolu Bölgesi",
+        "option_c":  "Karadeniz Bölgesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Donlu gün sayısının en az (1-2 gün) yaşandığı ve bu sayede seracılık faaliyetlerinin geliştiği bölgemiz hangisidir?",
+        "option_a":  "Akdeniz Bölgesi",
+        "option_b":  "Ege Bölgesi",
+        "option_c":  "Marmara Bölgesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\"KaYıP\" olarak kodlanan Karayel, Yıldız ve Poyraz rüzgârlarının ortak özelliği nedir?",
+        "option_a":  "Sıcaklığı artırmaları",
+        "option_b":  "Sıcaklığı azaltmaları",
+        "option_c":  "Mevsimlik esmeleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ege Bölgesi\u0027nde denizden karaya doğru esen ve serinletici etki yapan meltem rüzgârına ne ad verilir?",
+        "option_a":  "Etezyen",
+        "option_b":  "İmbat",
+        "option_c":  "Lodos",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dağları aşarak alçalan havanın sıcaklığı artırmasıyla oluşan ve Doğu Karadeniz\u0027de kış ılıklığına neden olan rüzgâr hangisidir?",
+        "option_a":  "Meltem",
+        "option_b":  "Fön rüzgârı",
+        "option_c":  "Samyeli",
+        "correct_answer":  "b"
+    }
+]

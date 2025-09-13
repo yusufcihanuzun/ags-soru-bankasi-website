@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Eğitim felsefesi olarak \u0027İnsanın fıtratını ve biricikliğini\u0027 merkeze alan model, hangi yaklaşıma vurgu yapar?",
+        "option_a":  "Tek tipleştirme",
+        "option_b":  "Bireysel farklılıklara saygı",
+        "option_c":  "Kolektif kimlik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027beceri\u0027 kavramı nasıl tanımlanır?",
+        "option_a":  "Sadece doğuştan gelen yetenek",
+        "option_b":  "Bilginin eyleme dönüşmüş, uygulanabilir hali",
+        "option_c":  "Ezberlenmiş bilgi yığını",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Erdem-Değer-Eylem Çerçevesi\u0027nde \u0027eylem\u0027 basamağının önemi nedir?",
+        "option_a":  "Değerlerin sadece düşüncede kalması",
+        "option_b":  "Değerlerin hayata geçirilmesi ve davranışa dönüşmesi",
+        "option_c":  "Eylemlerin değerlerden bağımsız olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Bütüncül Eğitim\u0027 yaklaşımında zihin, kalp ve beden uyumu neyi ifade eder?",
+        "option_a":  "Bu üç alanın birbirinden bağımsız gelişmesini",
+        "option_b":  "Düşünce, duygu ve eylemin birbiriyle tutarlı ve dengeli olmasını",
+        "option_c":  "Sadece bedensel gelişime odaklanılmasını",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Ontolojik bütünlük\u0027 çerçevesinde öğrencinin kendisini nasıl algılaması beklenir?",
+        "option_a":  "Sadece düşünen bir varlık olarak",
+        "option_b":  "Ruh ve bedenden oluşan bir bütün olarak",
+        "option_c":  "Sadece sosyal bir varlık olarak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Epistemolojik bütünlük\u0027 hangi soruyu merkeze alır?",
+        "option_a":  "\u0027Varlık nedir?\u0027",
+        "option_b":  "\u0027Doğru bilgiye nasıl ulaşılır ve bilgi nasıl yapılandırılır?\u0027",
+        "option_c":  "\u0027Değerli olan nedir?\u0027",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Aksiyolojik olgunluk\u0027 kazanmış bir bireyden ne beklenir?",
+        "option_a":  "Değer yargılarından yoksun olması",
+        "option_b":  "Evrensel ve milli değerleri benimseyip davranışlarına yansıtması",
+        "option_c":  "Sadece kendi çıkarlarına uygun değerler geliştirmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027öğretmen\u0027 nasıl bir role sahiptir?",
+        "option_a":  "Bilginin tek kaynağı",
+        "option_b":  "Öğrenme yolculuğunda ilham veren, rehberlik eden rol model",
+        "option_c":  "Sadece sınıf düzenini sağlayan yönetici",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Okul temelli program geliştirme\u0027nin en önemli gerekçesi nedir?",
+        "option_a":  "Merkezi programların yetersiz olması",
+        "option_b":  "Her okulun ve bölgenin kendine özgü koşulları ve ihtiyaçları olması",
+        "option_c":  "Öğretmenlere ek iş yükü çıkarmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Sarmal\u0027 içerik düzenleme yaklaşımının öğrenciye faydası nedir?",
+        "option_a":  "Konuları bir kez görüp unutmasını sağlamak",
+        "option_b":  "Önceki öğrenmelerle yeni öğrenmeler arasında bağ kurarak bilgiyi pekiştirmek",
+        "option_c":  "Her konuyu birbirinden bağımsız olarak öğrenmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Süreç ve sonuç odaklı bütünleşik değerlendirme\u0027 ne demektir?",
+        "option_a":  "Sadece final sınavı yapmak",
+        "option_b":  "Hem öğrencinin süreçteki gelişimini hem de sonuçtaki başarısını birlikte değerlendirmek",
+        "option_c":  "Sadece öğrencinin derse katılımını notla değerlendirmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Programda yer alan \u0027okuryazarlıklar\u0027 alanının temel işlevi nedir?",
+        "option_a":  "Öğrencilere sadece okuma yazma öğretmek",
+        "option_b":  "Öğrencilere farklı alanlardaki bilgileri anlama, yorumlama ve kullanma becerisi kazandırmak",
+        "option_c":  "Öğrencileri mesleki hayata hazırlamak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Sosyal-Duygusal Öğrenme Becerileri\u0027nin amacı nedir?",
+        "option_a":  "Öğrencilerin duygularını bastırmasını sağlamak",
+        "option_b":  "Öğrencilerin kendilerini ve başkalarını anlamalarını, duygularını yönetmelerini sağlamak",
+        "option_c":  "Öğrencileri daha rekabetçi yapmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve erdemli insan\u0027 profili hangi iki temel unsuru birleştirir?",
+        "option_a":  "Zenginlik ve popülerlik",
+        "option_b":  "Bilgi/beceri (yeterlilik) ve ahlaki olgunluk (değerler)",
+        "option_c":  "Fiziksel güç ve sosyal statü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Türkçenin bütüncül ve zengin yapısının\u0027 korunması ilkesi neyi hedefler?",
+        "option_a":  "Dilin sadece gramer kurallarından ibaret olduğunu öğretmek",
+        "option_b":  "Düşünce, duygu ve kültür taşıyıcısı olarak dil bilincini geliştirmek",
+        "option_c":  "Yabancı kelimelerin kullanımını tamamen yasaklamak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Öğrenme yaşantısı\u0027 kavramı neyi ifade eder?",
+        "option_a":  "Öğrencinin ezberlediği bilgileri",
+        "option_b":  "Öğrencinin öğrenme sürecinde aktif olarak katıldığı ve deneyimlediği her şeyi",
+        "option_c":  "Öğretmenin anlattığı ders notlarını",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027değer\u0027 kavramı nasıl ele alınır?",
+        "option_a":  "Sadece soyut ve teorik kavramlar olarak",
+        "option_b":  "Bireyin davranışlarına yön veren, yol gösteren ilkeler olarak",
+        "option_c":  "Sadece belirli günlerde hatırlanması gereken unsurlar olarak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Bütünleşik beceriler\u0027 ne anlama gelmektedir?",
+        "option_a":  "Tek bir alana özgü beceriler",
+        "option_b":  "Farklı bilgi ve beceri alanlarının bir arada kullanılmasını gerektiren karmaşık beceriler",
+        "option_c":  "Sadece motor beceriler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Bağlam temelli öğrenme\u0027nin temel avantajı nedir?",
+        "option_a":  "Öğrenmeyi soyut ve teorik hale getirmek",
+        "option_b":  "Öğrenilen bilginin gerçek hayatla ilişkilendirilmesini sağlayarak kalıcılığı artırmak",
+        "option_c":  "Öğrencilerin sadece tek bir bağlamda düşünmesini sağlamak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Okul Gelişim Planı\u0027nın hazırlanmasında kimlerin katılımı esastır?",
+        "option_a":  "Sadece okul müdürü",
+        "option_b":  "Okulun tüm paydaşları (yönetici, öğretmen, öğrenci, veli)",
+        "option_c":  "Sadece Milli Eğitim Bakanlığı yetkilileri",
+        "correct_answer":  "b"
+    }
+]

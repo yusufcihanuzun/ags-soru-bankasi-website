@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Akademik Kurul\u0027un, Akademi İzleme ve Yönlendirme Kurulu tarafından belirlenen politikaların uygulanmasına ilişkin hazırladığı standartlar, programlar ve planlar kimin onayına sunulur?",
+        "option_a":  "Cumhurbaşkanı onayına",
+        "option_b":  "Bakan onayına",
+        "option_c":  "Doğrudan yürürlüğe girer.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademide sözleşmeli personel olarak istihdam edilen bir kamu görevlisinin sözleşmesi feshedilirse, önceki kadrosuna dönme hakkı var mıdır?",
+        "option_a":  "Hayır, memuriyetle ilişiği tamamen kesilir.",
+        "option_b":  "Evet, başka bir işleme gerek kalmaksızın önceki kadrosuna atanmış sayılır.",
+        "option_c":  "Sadece dava açarak dönebilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademide görevlendirilen bir profesörün, haftada asgari olarak vermesi gereken 10 saatlik dersi aşan dersleri için, haftada en çok kaç saate kadar ek ders ücreti ödenir?",
+        "option_a":  "10 saate kadar",
+        "option_b":  "15 saate kadar",
+        "option_c":  "20 saate kadar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Akademideki sözleşmeli personelin siyasi partilere üye olması mümkün müdür?",
+        "option_a":  "Evet, üye olabilirler.",
+        "option_b":  "Hayır, siyasi partilere üye olamazlar.",
+        "option_c":  "Sadece partilerin gençlik kollarına üye olabilirler.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim personeli dışında, yüksek öğrenimli olmak koşuluyla Akademide ders vermek üzere görevlendirilenlere haftada en fazla kaç saate kadar ek ders görevi verilebilir?",
+        "option_a":  "20 saate",
+        "option_b":  "25 saate",
+        "option_c":  "30 saate",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitim çalışanlarına karşı görevleri sebebiyle işlenen \u0027görevi yaptırmamak için direnme\u0027 suçunda (TCK 265), ceza ne olur?",
+        "option_a":  "Yarı oranında artırılır ve hapis cezasının ertelenmesi hükümleri uygulanmaz.",
+        "option_b":  "Aynen uygulanır.",
+        "option_c":  "Sadece para cezasına çevrilir.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "7528 sayılı kanuna göre \u0027öğretmen\u0027 tanımı, 657 sayılı Devlet Memurları Kanunu kapsamındaki öğretmenlerin yanı sıra, bu kurumlarda görev yapan hangi idarecileri de kapsar?",
+        "option_a":  "Sadece okul müdürlerini",
+        "option_b":  "Atanma şartlarını taşıyan yöneticileri",
+        "option_c":  "Tüm idari personeli",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kanunda, öğretmenlerin uyması gereken eğitim-öğretim faaliyetlerinin, 1739 sayılı Milli Eğitim Temel Kanunu\u0027nda düzenlenen hangi iki unsura uygun olması gerektiği belirtilmiştir?",
+        "option_a":  "Türk Milli Eğitimi\u0027nin genel amaçları ve temel ilkeleri",
+        "option_b":  "Okulun fiziki imkanları ve teknolojik altyapısı",
+        "option_c":  "Öğrenci mevcudu ve derslik sayısı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sınavlarda kopya çekmeye \u0027teşebbüs etmek\u0027 fiili \u0027Kınama\u0027 cezası gerektirirken, kopya çekmek veya çektirmek fiilinin kendisi hangi disiplin cezasını gerektirir?",
+        "option_a":  "Yine Kınama",
+        "option_b":  "Ödeme kesintisi",
+        "option_c":  "Akademiden çıkarma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademide 6136 sayılı Ateşli Silahlar ve Bıçaklar Hakkında Kanun\u0027a aykırı olarak ateşli silah veya bıçak bulundurmanın cezası nedir?",
+        "option_a":  "Ödeme kesintisi",
+        "option_b":  "Kınama",
+        "option_c":  "Akademiden çıkarma",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Disiplin Kurulu\u0027nun bir üyesi, bizzat soruşturmasını yürüttüğü bir dosyanın görüşüldüğü toplantıya katılıp oy kullanabilir mi?",
+        "option_a":  "Evet, rapotör olarak katılır ve oy kullanır.",
+        "option_b":  "Hayır, katılamaz ve oy kullanamaz.",
+        "option_c":  "Sadece görüş bildirebilir, oy kullanamaz.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Disiplin soruşturmasını yürüten muhakkikler, ifade aldıkları tanık ve bilirkişilere ne yaptırmakla yükümlüdür?",
+        "option_a":  "Sadece kimlik tespiti yapmakla",
+        "option_b":  "Yemin ettirmekle",
+        "option_c":  "Yazılı beyanlarını notere onaylatmakla",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademik Kurul\u0027da, Akademiden çıkarma cezasına yapılan itiraz oylamasında oyların eşit çıkması durumunda karar nasıl belirlenir?",
+        "option_a":  "İtiraz reddedilmiş sayılır.",
+        "option_b":  "Konu bir sonraki toplantıya ertelenir.",
+        "option_c":  "Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Öğretmen adaylarına yapılan aylık ödeme, sağlık sorunları gibi nedenlerle kayıtları dondurulduğunda bu süre boyunca devam eder mi?",
+        "option_a":  "Evet, yarısı ödenmeye devam eder.",
+        "option_b":  "Hayır, kaydı dondurulanlara bu süre boyunca ödeme yapılmaz.",
+        "option_c":  "Evet, tam olarak ödenir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sözleşmeli öğretmenlikten kadroya geçenlerin, daha önce sözleşmeli pozisyonda çalışırken kendilerine ödenmiş olan iş sonu tazminatı süreleri, emekli ikramiyesi hesabına dahil edilir mi?",
+        "option_a":  "Evet, tamamı dahil edilir.",
+        "option_b":  "Hayır, önceden iş sonu tazminatı ödenmiş süreler hariç tutulur.",
+        "option_c":  "Sadece yarısı dahil edilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmen ve yöneticilere verilen \u0027Başarı Belgesi\u0027, \u0027Üstün Başarı Belgesi\u0027 ve \u0027Ödül\u0027 hangi kanunun ilgili maddesi kapsamında verilir?",
+        "option_a":  "7528 sayılı Öğretmenlik Meslek Kanunu\u0027nun kendi maddeleriyle",
+        "option_b":  "657 sayılı Devlet Memurları Kanunu\u0027nun 122\u0027nci maddesi kapsamında",
+        "option_c":  "1739 sayılı Milli Eğitim Temel Kanunu kapsamında",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim çalışanlarına karşı görevleri sebebiyle işlenen suçlarda, Türk Ceza Kanunu\u0027nun 51. maddesinde düzenlenen \u0027hapis cezasının ertelenmesi\u0027 hükümleri uygulanır mı?",
+        "option_a":  "Evet, hakim takdirine göre uygulanabilir.",
+        "option_b":  "Hayır, bu suçlarda erteleme hükümleri uygulanmaz.",
+        "option_c":  "Sadece tehdit suçunda uygulanmaz.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademide görev yapan sözleşmeli personelin hizmet sözleşmesi standart olarak ne kadar sürelik yapılır?",
+        "option_a":  "Süresiz",
+        "option_b":  "Bir yıllık",
+        "option_c":  "Üç yıllık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademideki sözleşmeli personelin sözleşme süresi bittiğinde, yeni sözleşme yapılana kadar mevcut sözleşme en fazla ne kadar süre uzatılabilir?",
+        "option_a":  "1 aya kadar",
+        "option_b":  "3 aya kadar",
+        "option_c":  "Uzatılamaz, derhal yenilenmesi gerekir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doktor öğretim üyesi unvanına sahip bir eğitim personeline, fiilen yaptığı ek dersler için ders saati başına kaç gösterge rakamı üzerinden ödeme yapılır?",
+        "option_a":  "160",
+        "option_b":  "270",
+        "option_c":  "220",
+        "correct_answer":  "c"
+    }
+]

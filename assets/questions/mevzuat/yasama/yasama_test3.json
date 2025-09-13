@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Milletvekillerinin, Cumhurbaşkanı yardımcıları ve bakanlara yazılı olarak sordukları ve en geç 15 gün içinde cevaplanması gereken denetim yolu hangisidir?",
+        "option_a":  "Genel Görüşme",
+        "option_b":  "Meclis Soruşturması",
+        "option_c":  "Yazılı Soru",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı yardımcıları ve bakanların Yüce Divan\u0027a sevk edilebilmesi için TBMM\u0027de gereken çoğunluk nedir?",
+        "option_a":  "Üye tamsayısının beşte üçü (360)",
+        "option_b":  "Üye tamsayısının üçte ikisi (400)",
+        "option_c":  "Üye tamsayısının salt çoğunluğu (301)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Meclis açıldığında yeni başkan seçilene kadar genel kurul oturumlarını kim yönetir?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "En yaşlı milletvekili",
+        "option_c":  "Bir önceki Meclis Başkanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM Başkanı seçilen bir milletvekilinin hukuki durumu ile ilgili aşağıdakilerden hangisi doğrudur?",
+        "option_a":  "Partisinden istifa etmek zorundadır.",
+        "option_b":  "Milletvekilliği sona erer.",
+        "option_c":  "Partisinin Meclis içi ve dışı faaliyetlerine katılamaz.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Seçim kanunlarında yapılan bir değişiklik, yürürlüğe girdikten sonra ne kadar süre geçmeden yapılacak seçimlerde uygulanamaz?",
+        "option_a":  "2 yıl",
+        "option_b":  "1 yıl",
+        "option_c":  "6 ay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milletvekilliğinin düşürülmesi kararına karşı Anayasa Mahkemesi\u0027ne itiraz süresi ne kadardır?",
+        "option_a":  "15 gün",
+        "option_b":  "10 gün",
+        "option_c":  "7 gün",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "TBMM\u0027nin herhangi bir konuda toplanabilmesi için gereken asgari üye sayısı (toplantı yeter sayısı) kaçtır?",
+        "option_a":  "151",
+        "option_b":  "301",
+        "option_c":  "200",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir yasama döneminde sonuçlandırılamadığı için geçerliliğini yitiren kanun teklifleri için kullanılan hukuki terim nedir?",
+        "option_a":  "Mülga olmak",
+        "option_b":  "Kadük olmak",
+        "option_c":  "İptal olmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Meclis tarafından reddedilen bir kanun teklifinin aynı yasama dönemi içinde tekrar sunulabilmesi için ne kadar süre geçmesi gerekir?",
+        "option_a":  "6 ay",
+        "option_b":  "1 tam yıl",
+        "option_c":  "Süre sınırı yoktur",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yasama yetkisinin, TBMM\u0027nin bir konuyu araya başka bir işlem girmeden doğrudan düzenleyebilmesi özelliğine ne denir?",
+        "option_a":  "Genellik",
+        "option_b":  "Süreklilik",
+        "option_c":  "Aslilik (İlkellik)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın ikinci döneminde, Meclis tarafından seçimlerin yenilenmesine karar verilirse, Cumhurbaşkanı için nasıl bir durum ortaya çıkar?",
+        "option_a":  "Tekrar aday olamaz.",
+        "option_b":  "Bir defa daha aday olabilir.",
+        "option_c":  "Adaylığı Anayasa Mahkemesi\u0027nin onayına bağlıdır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM üyeliklerinde boşalmaların üye tamsayısının yüzde beşini bulması halinde ara seçim ne kadar süre içinde yapılmalıdır?",
+        "option_a":  "90 gün",
+        "option_b":  "6 ay",
+        "option_c":  "3 ay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Yüksek Seçim Kurulu üyelerinin görev süresi kaç yıldır?",
+        "option_a":  "4 yıl",
+        "option_b":  "6 yıl",
+        "option_c":  "12 yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Affa uğramış olsalar bile, hangi suçtan hüküm giyenler hiçbir şekilde milletvekili olamaz?",
+        "option_a":  "Taksirli suçlar",
+        "option_b":  "Zimmet gibi yüz kızartıcı suçlar",
+        "option_c":  "Askeri suçlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milletvekilliği sıfatı ne zaman kazanılır?",
+        "option_a":  "Meclis\u0027te yemin edildiği an",
+        "option_b":  "Seçim sonuçlarının YSK tarafından açıklandığı an",
+        "option_c":  "İl Seçim Kurulu tarafından mazbatanın düzenlendiği an",
+        "correct_answer":  "c"
+    }
+]

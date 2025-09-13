@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Görevden geçici olarak uzaklaştırılan bir mahalli idare organı üyesi hakkındaki kesin kararı hangi yargı mercii verir?",
+        "option_a":  "Anayasa Mahkemesi",
+        "option_b":  "Yargıtay",
+        "option_c":  "Danıştay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Merkezî idarenin, mahallî idareler üzerinde sahip olduğu denetim yetkisine ne ad verilir?",
+        "option_a":  "Hiyerarşik denetim",
+        "option_b":  "İdarî vesayet",
+        "option_c":  "Mali denetim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İdari vesayet yetkisinin temel amacı nedir?",
+        "option_a":  "Mahalli hizmetlerin idarenin bütünlüğü ilkesine uygun yürütülmesini sağlamak",
+        "option_b":  "Mahalli idarelerin gelirlerini artırmak",
+        "option_c":  "Mahalli idare yöneticilerini cezalandırmak",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre üniversiteler ne ile kurulur?",
+        "option_a":  "YÖK kararı ile",
+        "option_b":  "Cumhurbaşkanlığı Kararnamesi ile",
+        "option_c":  "Kanunla",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre üniversite rektörlerini kim seçer ve atar?",
+        "option_a":  "Yükseköğretim Kurulu (YÖK)",
+        "option_b":  "Üniversitelerarası Kurul",
+        "option_c":  "Cumhurbaşkanı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Üniversitelerde fakülte dekanlarını kim seçer ve atar?",
+        "option_a":  "Rektör",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "Yükseköğretim Kurulu (YÖK)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Üniversitelerin idari ve mali denetimini yapan kurum hangisidir?",
+        "option_a":  "Devlet Denetleme Kurulu",
+        "option_b":  "Sayıştay",
+        "option_c":  "Yükseköğretim Denetleme Kurulu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Radyo ve Televizyon Üst Kurulu (RTÜK) üyeleri kim tarafından seçilir?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "Radyo ve Televizyon kuruluşları",
+        "option_c":  "Türkiye Büyük Millet Meclisi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu, Anayasa\u0027ya göre kimin gözetim ve desteğindedir?",
+        "option_a":  "TBMM Başkanı\u0027nın",
+        "option_b":  "Cumhurbaşkanı\u0027nın",
+        "option_c":  "Milli Eğitim Bakanı\u0027nın",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdaki kurumlardan hangisi Atatürk Kültür, Dil ve Tarih Yüksek Kurumu çatısı altında yer almaz?",
+        "option_a":  "Türk Dil Kurumu",
+        "option_b":  "Türk Tarih Kurumu",
+        "option_c":  "Türk Ocakları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Diyanet İşleri Başkanlığı\u0027nın Anayasa\u0027daki konumu nedir?",
+        "option_a":  "Mahalli idareler içinde yer alır.",
+        "option_b":  "Genel idare içinde yer alır.",
+        "option_c":  "Bağımsız bir kamu kurumudur.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre kamu hizmeti görevlilerine verilen hangi disiplin cezalarına karşı yargı yolu kapatılamaz?",
+        "option_a":  "Sadece meslekten çıkarma cezasına",
+        "option_b":  "Sadece uyarma ve kınama cezalarına",
+        "option_c":  "Tüm disiplin kararlarına",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Disiplin kararlarına karşı yargı yolunun açık olması kuralının istisnası hangi meslek grupları için geçerlidir?",
+        "option_a":  "Öğretmenler ve doktorlar",
+        "option_b":  "Silahlı Kuvvetler mensupları ile hâkimler ve savcılar",
+        "option_c":  "Belediye çalışanları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Memurların görevleriyle ilgili işledikleri suçlardan dolayı haklarında ceza kovuşturması açılabilmesi, kural olarak neye bağlıdır?",
+        "option_a":  "İdari merciin iznine",
+        "option_b":  "Cumhuriyet savcısının doğrudan soruşturmasına",
+        "option_c":  "TBMM\u0027nin kararına",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, üniversitelerin sahip olduğu temel özellikler nelerdir?",
+        "option_a":  "Mali ve idari özerklik",
+        "option_b":  "Siyasi özerklik ve kamu tüzel kişiliği",
+        "option_c":  "Kamu tüzel kişiliği ve bilimsel özerklik",
+        "correct_answer":  "c"
+    }
+]

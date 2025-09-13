@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Tefenni, Acıpayam, Korkuteli, Kestel ve Elmalı ovaları hangi oluşum türüne örnektir?",
+        "option_a":  "Delta Ovaları",
+        "option_b":  "Tektonik Ovalar",
+        "option_c":  "Karstik Ovalar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Yeryüzüne çıkan lavların tektonik çukurları doldurmasıyla oluşan ovalara ne denir?",
+        "option_a":  "Volkanik Ovalar",
+        "option_b":  "Delta Ovaları",
+        "option_c":  "Karstik Ovalar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kayseri\u0027de bulunan ve volkanik oluşumlu ovalara örnek gösterilen ova hangisidir?",
+        "option_a":  "Develi Ovası",
+        "option_b":  "Konya Ovası",
+        "option_c":  "Erzincan Ovası",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Akarsuların taşıdığı materyalleri dağların eteklerinde biriktirmesiyle oluşan ovalara en iyi örnek hangisidir?",
+        "option_a":  "Çarşamba Ovası",
+        "option_b":  "Bursa Ovası",
+        "option_c":  "Muş Ovası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027deki ovaların çoğunun deprem riskinin yüksek olmasının temel nedeni nedir?",
+        "option_a":  "Verimli tarım alanları olmaları",
+        "option_b":  "Genellikle tektonik kökenli olmaları",
+        "option_c":  "Kıyı bölgelerde yer almaları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Fiziki haritalarda İç Anadolu ve Güneydoğu Anadolu\u0027daki ovalar genellikle hangi renkle gösterilir?",
+        "option_a":  "Yeşil",
+        "option_b":  "Sarı",
+        "option_c":  "Kahverengi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kuzey Anadolu Fay Hattı üzerinde yer alan tektonik ovalara aşağıdakilerden hangisi örnek gösterilebilir?",
+        "option_a":  "Konya Ovası",
+        "option_b":  "Pasinler Ovası",
+        "option_c":  "Elmalı Ovası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Anadolu Fay Hattı üzerinde bulunan ve tektonik kökenli olan ova hangisidir?",
+        "option_a":  "Varto Ovası",
+        "option_b":  "Develi Ovası",
+        "option_c":  "Tosya Ovası",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Güneydoğu Anadolu\u0027da yer alan ve tektonik kökenli olan Altınbaşak Ovası\u0027nın diğer adı nedir?",
+        "option_a":  "Bismil Ovası",
+        "option_b":  "Siverek Ovası",
+        "option_c":  "Harran Ovası",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Akdeniz Bölgesi\u0027nde, Göller Yöresi\u0027nde bulunan karstik (polye) ovalara bir örnek hangisidir?",
+        "option_a":  "Niksar Ovası",
+        "option_b":  "Gembos Ovası",
+        "option_c":  "Adapazarı Ovası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akarsuların taşıdıkları malzemeyi kıyının hemen gerisinde biriktirmesiyle oluşan kıyı düzlüğü ovalarına hangisi örnektir?",
+        "option_a":  "Bursa Ovası",
+        "option_b":  "Finike Ovası",
+        "option_c":  "Bafra Ovası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Anadolu\u0027daki ovalar fiziki haritalarda genelde kahverengi ile gösterilirken, hangisi daha alçakta olduğu için sarı renkle gösterilen istisnalardan biridir?",
+        "option_a":  "Muş Ovası",
+        "option_b":  "Iğdır Ovası",
+        "option_c":  "Pasinler Ovası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Meriç Nehri\u0027nin Ege Denizi\u0027ne döküldüğü yerde oluşturduğu delta ovası hangi bölgemiz sınırları içindedir?",
+        "option_a":  "Marmara Bölgesi",
+        "option_b":  "Ege Bölgesi",
+        "option_c":  "Karadeniz Bölgesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Tektonik hareketlerle oluşan çukurlara suların dolmasıyla oluşan ve Türkiye\u0027de en yaygın görülen göl türü hangisidir?",
+        "option_a":  "Volkanik Göller",
+        "option_b":  "Tektonik Göller",
+        "option_c":  "Buzul Gölleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sapanca, İznik, Manyas, Eber ve Tuz Gölü hangi oluşum türüne sahip göllere örnektir?",
+        "option_a":  "Tektonik Göller",
+        "option_b":  "Heyelan Set Gölleri",
+        "option_c":  "Karstik Göller",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Volkanik patlama sonucu oluşan krater veya maar gibi çukurlara suların dolmasıyla oluşan göllere ne ad verilir?",
+        "option_a":  "Tektonik Göller",
+        "option_b":  "Volkanik Göller",
+        "option_c":  "Karstik Göller",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Konya\u0027da bulunan ve bir maar gölü olan, \u0027Dünya\u0027nın nazar boncuğu\u0027 olarak da bilinen göl hangisidir?",
+        "option_a":  "Nemrut Gölü",
+        "option_b":  "Meke Gölü",
+        "option_c":  "Aygır Gölü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bitlis\u0027te bulunan ve bir volkanın kraterinde oluşmuş gölümüz hangisidir?",
+        "option_a":  "Meke Gölü",
+        "option_b":  "Gölcük",
+        "option_c":  "Nemrut Gölü",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kalker ve jips gibi eriyebilen kayaçların çözünmesiyle oluşan çukurlarda meydana gelen göllere ne ad verilir?",
+        "option_a":  "Karstik Göller",
+        "option_b":  "Volkanik Göller",
+        "option_c":  "Buzul Gölleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Salda, Suğla, Kestel ve Elmalı gölleri hangi oluşum türüne örnektir?",
+        "option_a":  "Tektonik Göller",
+        "option_b":  "Karstik Göller",
+        "option_c":  "Volkanik Set Gölleri",
+        "correct_answer":  "b"
+    }
+]

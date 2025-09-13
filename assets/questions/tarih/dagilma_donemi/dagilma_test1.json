@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "18. yüzyılda Avrupa devletlerinin, amaca ulaşmak için her türlü yola başvurmayı meşru sayan politikasına ne ad verilir?",
+        "option_a":  "Merkantilizm",
+        "option_b":  "Panslavizm",
+        "option_c":  "Makyavelizm",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Rus Çarı I. Petro\u0027nun, Balkanlar\u0027daki Slav halklarını birleştirerek Akdeniz\u0027e inme politikasına ne ad verilir?",
+        "option_a":  "Panslavizm",
+        "option_b":  "Grek Projesi",
+        "option_c":  "Dakya Projesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Rusya ve Avusturya\u0027nın, Eflak ve Boğdan\u0027da kendilerine bağlı \u0027Dakya\u0027 adında ortak bir devlet kurmayı amaçladıkları proje hangisidir?",
+        "option_a":  "Grek Projesi",
+        "option_b":  "Dakya Projesi",
+        "option_c":  "Şark Projesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Rus Prensi Potemkin tarafından \u0027Doğu Sisteminin En Büyük Planı\u0027 olarak adlandırılan ve İstanbul merkezli bir Rus devleti kurarak Bizans\u0027ı canlandırmayı hedefleyen proje hangisidir?",
+        "option_a":  "Dakya Projesi",
+        "option_b":  "Panslavizm Projesi",
+        "option_c":  "Grek Projesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İsveç Kralı Demirbaş Şarl\u0027ın Osmanlı\u0027ya sığınması üzerine çıkan savaş sonucunda, Rusya ile 1711\u0027de imzalanan antlaşma hangisidir?",
+        "option_a":  "Pasarofça Antlaşması",
+        "option_b":  "Prut Antlaşması",
+        "option_c":  "Belgrat Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Prut Antlaşması ile Osmanlı Devleti\u0027nin Rusya\u0027dan geri alarak Karlofça\u0027daki kayıplarını telafi etme umudunu artırdığı yer neresidir?",
+        "option_a":  "Kırım",
+        "option_b":  "Belgrat",
+        "option_c":  "Azak Kalesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1718 yılında Avusturya ile imzalanan ve Osmanlı Devleti\u0027nin Batı\u0027nın üstünlüğünü ilk kez kabul ederek Lale Devri\u0027ne girmesine neden olan antlaşma hangisidir?",
+        "option_a":  "Ziştovi Antlaşması",
+        "option_b":  "Pasarofça Antlaşması",
+        "option_c":  "Belgrat Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı Devleti ile Rusya\u0027nın 1724 İstanbul Antlaşması ile hangi devletin topraklarını kendi aralarında paylaştıkları görülmektedir?",
+        "option_a":  "Lehistan",
+        "option_b":  "Venedik",
+        "option_c":  "İran",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "18. yüzyılda İran ile imzalanan ve \u0027II. Kasr-ı Şirin\u0027 olarak da bilinen, 1639 Kasr-ı Şirin Antlaşması\u0027nın sınırlarını esas alan antlaşma hangisidir?",
+        "option_a":  "Ahmet Paşa Antlaşması",
+        "option_b":  "Kerden Antlaşması",
+        "option_c":  "İstanbul Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1739 yılında imzalanan hangi antlaşma ile Belgrat, Avusturya\u0027dan geri alınmıştır?",
+        "option_a":  "Pasarofça Antlaşması",
+        "option_b":  "Belgrat Antlaşması",
+        "option_c":  "Ziştovi Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. Mahmut döneminde, Belgrat Antlaşması\u0027nda arabuluculuk yaptığı için kapitülasyonları sürekli (daimi) hale getirilen devlet hangisidir?",
+        "option_a":  "İngiltere",
+        "option_b":  "Fransa",
+        "option_c":  "Hollanda",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1768-1774 Osmanlı-Rus Savaşı sırasında, Rus donanması 1770 yılında Osmanlı donanmasını nerede yakmıştır?",
+        "option_a":  "Navarin",
+        "option_b":  "Sinop",
+        "option_c":  "Çeşme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1774 yılında imzalanan ve Kırım\u0027ın bağımsız olmasına yol açan ağır antlaşma hangisidir?",
+        "option_a":  "Yaş Antlaşması",
+        "option_b":  "Küçük Kaynarca Antlaşması",
+        "option_c":  "Aynalıkavak Tenkihnamesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Küçük Kaynarca Antlaşması ile ilk defa tamamı Türk ve Müslüman olan hangi toprak parçası kaybedilmiştir?",
+        "option_a":  "Mora Yarımadası",
+        "option_b":  "Eflak ve Boğdan",
+        "option_c":  "Kırım",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Osmanlı padişahının, halifelik sıfatını ilk kez siyasi bir güç olarak kullandığı antlaşma hangisidir?",
+        "option_a":  "Küçük Kaynarca Antlaşması",
+        "option_b":  "Karlofça Antlaşması",
+        "option_c":  "Belgrat Antlaşması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin tarihinde ilk defa bir başka devlete savaş tazminatı ödemesine neden olan antlaşma hangisidir?",
+        "option_a":  "Karlofça Antlaşması",
+        "option_b":  "Yaş Antlaşması",
+        "option_c":  "Küçük Kaynarca Antlaşması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Rusya\u0027nın kendi adayı olan Şahin Giray\u0027ı Kırım hanı olarak atamasını Osmanlı\u0027nın kabul ettiği 1779 tarihli belge hangisidir?",
+        "option_a":  "Ziştovi Antlaşması",
+        "option_b":  "Aynalıkavak Tenkihnamesi",
+        "option_c":  "Yaş Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Fransız İhtilali\u0027nin etkisiyle Avusturya\u0027nın savaştan çekildiği 1791 tarihli antlaşma hangisidir?",
+        "option_a":  "Yaş Antlaşması",
+        "option_b":  "Ziştovi Antlaşması",
+        "option_c":  "Belgrat Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kırım\u0027ın kesin olarak Rusya\u0027ya ait olduğunun kabul edildiği 1792 tarihli antlaşma hangisidir?",
+        "option_a":  "Bükreş Antlaşması",
+        "option_b":  "Edirne Antlaşması",
+        "option_c":  "Yaş Antlaşması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Napolyon\u0027un 1798\u0027de Mısır\u0027ı işgali üzerine, Osmanlı Devleti\u0027nin İngiltere ve Rusya\u0027dan yardım istemesi, hangi dış politikayı ilk kez izlediğini göstermektedir?",
+        "option_a":  "İttifak politikası",
+        "option_b":  "Denge politikası",
+        "option_c":  "Yalnızlık politikası",
+        "correct_answer":  "b"
+    }
+]

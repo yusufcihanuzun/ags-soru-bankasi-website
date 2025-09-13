@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın üyeleri hangi makamın onayı ile kesinleşir?",
+        "option_a":  "TBMM",
+        "option_b":  "Milli Eğitim Bakanlığı",
+        "option_c":  "Cumhurbaşkanlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TTKB\u0027nin ders kitapları üzerindeki yetkisi nedir?",
+        "option_a":  "Kitap yazmak",
+        "option_b":  "İnceleyip uygunluğunu onaylamak",
+        "option_c":  "Basımını yapmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın toplantı tarihleri nasıl belirlenir?",
+        "option_a":  "Cumhurbaşkanı tarafından",
+        "option_b":  "Milli Eğitim Bakanı tarafından",
+        "option_c":  "TBMM tarafından",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TTKB\u0027nin görevleri arasında aşağıdakilerden hangisi bulunmaz?",
+        "option_a":  "Eğitim programlarını hazırlamak",
+        "option_b":  "Eğitim araçlarını incelemek",
+        "option_c":  "Öğrenci affı çıkarmak",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın çalışmaları hangi kanuna dayanır?",
+        "option_a":  "1739 sayılı Milli Eğitim Temel Kanunu",
+        "option_b":  "222 sayılı İlköğretim ve Eğitim Kanunu",
+        "option_c":  "657 sayılı Devlet Memurları Kanunu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB kararlarının bağlayıcılığı nedir?",
+        "option_a":  "Milli Eğitim Bakanı onaylarsa bağlayıcıdır",
+        "option_b":  "Cumhurbaşkanı onaylarsa bağlayıcıdır",
+        "option_c":  "Her durumda bağlayıcıdır",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın gündemini kim belirler?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "Milli Eğitim Bakanı",
+        "option_c":  "TBMM",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TTKB\u0027nin onayladığı müfredatlar nasıl yürürlüğe girer?",
+        "option_a":  "Milli Eğitim Bakanı onayıyla",
+        "option_b":  "Resmi Gazete\u0027de yayımlanarak",
+        "option_c":  "Cumhurbaşkanı kararıyla",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın tavsiye kararlarının önemi nedir?",
+        "option_a":  "Eğitim politikalarına yön verir",
+        "option_b":  "Yasal zorunluluk oluşturur",
+        "option_c":  "Eğitim bütçesini belirler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB üyelerinin görev süresi dolunca ne olur?",
+        "option_a":  "Görev otomatik uzar",
+        "option_b":  "Yeniden atanabilirler",
+        "option_c":  "TBMM tarafından seçilirler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın kuruluş amacı aşağıdakilerden hangisidir?",
+        "option_a":  "Eğitim sorunlarını tartışmak",
+        "option_b":  "Üniversite sınavlarını yapmak",
+        "option_c":  "Kamu harcamalarını incelemek",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB hangi alanlarda görüş bildirir?",
+        "option_a":  "Müfredat ve eğitim araçları",
+        "option_b":  "Askeri bütçe",
+        "option_c":  "Vergi düzenlemeleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın başkanlığını kim yapar?",
+        "option_a":  "Milli Eğitim Bakanı",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "Meclis Başkanı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB hangi eğitim düzeylerinin programlarını hazırlar?",
+        "option_a":  "Sadece ortaokul",
+        "option_b":  "Tüm örgün eğitim kurumları",
+        "option_c":  "Yalnızca lisans programları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası kararlarının hukuki niteliği nedir?",
+        "option_a":  "Danışma niteliğinde",
+        "option_b":  "Yasal bağlayıcı",
+        "option_c":  "Cumhurbaşkanlığı kararı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB\u0027nin aldığı kararlar hangi makam tarafından uygulanır?",
+        "option_a":  "Milli Eğitim Bakanı",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "TBMM",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın toplanma sıklığı nasıldır?",
+        "option_a":  "Her yıl",
+        "option_b":  "İhtiyaç duyuldukça",
+        "option_c":  "Her 10 yılda bir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TTKB\u0027nin inceleme alanı hangi konuyu kapsamaz?",
+        "option_a":  "Müfredat",
+        "option_b":  "Ders kitapları",
+        "option_c":  "Vergi kanunları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın en son toplantısı hangi tarihte yapılmıştır?",
+        "option_a":  "2010",
+        "option_b":  "2014",
+        "option_c":  "2021",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "TTKB üyelerinin atanmasında son sözü kim söyler?",
+        "option_a":  "Milli Eğitim Bakanı",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "TBMM",
+        "correct_answer":  "a"
+    }
+]

@@ -1,0 +1,27 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    prefer_const_declarations: true
+    avoid_print: true
+    prefer_single_quotes: true
+    always_use_package_imports: true
+    
+    # RESPONSİVE TASARIM KURALLARI
+    # Sabit değer kullanımını uyar
+    avoid_hard_coded_values: true
+    
+    # ResponsiveHelper kullanımını teşvik et
+    prefer_responsive_values: true
+    
+    # SizedBox ve EdgeInsets için responsive kullanımı zorla
+    require_responsive_sizedbox: true
+    require_responsive_edgeinsets: true
+    
+    # Font boyutları için responsive kullanımı zorla
+    require_responsive_font_size: true
+    
+    # Icon boyutları için responsive kullanımı zorla
+    require_responsive_icon_size: true 

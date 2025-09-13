@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Esasicilik eğitim felsefesi hangi felsefi akımlardan etkilenmiştir?",
+        "option_a":  "Pragmatizm ve Natüralizm",
+        "option_b":  "Realizm ve Varoluşçuluk",
+        "option_c":  "İdealizm ve Realizm",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İlerlemecilik eğitim felsefesi hangi felsefi akımlardan etkilenmiştir?",
+        "option_a":  "İdealizm ve Realizm",
+        "option_b":  "Pragmatizm ve Varoluşçuluk",
+        "option_c":  "Daimicilik ve Esasicilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yeniden Kurmacılık eğitim felsefesi hangi felsefi akımlardan etkilenmiştir?",
+        "option_a":  "Realizm ve İdealizm",
+        "option_b":  "Pragmatizm ve Varoluşçuluk",
+        "option_c":  "Natüralizm ve Realizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Klasik edebiyat çözümleri, Sokratik tartışma ve buluş yolu gibi yöntemleri kullanan eğitim felsefesi hangisidir?",
+        "option_a":  "Esasicilik",
+        "option_b":  "Daimicilik",
+        "option_c":  "İlerlemecilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sunuş yolu, anlatım, deney ve gösteri gibi yöntemlerin kullanıldığı, disiplinli, katı ve kuralcı olan eğitim felsefesi hangisidir?",
+        "option_a":  "İlerlemecilik",
+        "option_b":  "Yeniden Kurmacılık",
+        "option_c":  "Esasicilik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Problem çözme yöntemini bireyin \u0027kendi için\u0027 kullandığı eğitim felsefesi hangisidir?",
+        "option_a":  "Daimicilik",
+        "option_b":  "İlerlemecilik",
+        "option_c":  "Yeniden Kurmacılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Problem çözme yöntemini bireyin \u0027toplumun geleceği için\u0027 kullandığı eğitim felsefesi hangisidir?",
+        "option_a":  "Yeniden Kurmacılık",
+        "option_b":  "İlerlemecilik",
+        "option_c":  "Esasicilik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Eğitim felsefelerinin en gelenekselden en çağdaşa doğru sıralaması\u0027 aşağıdakilerden hangisidir?",
+        "option_a":  "İlerlemeci - Yeniden Kurmacı - Esasici - Daimîci",
+        "option_b":  "Daimîci - Esasici - İlerlemeci - Yeniden Kurmacı",
+        "option_c":  "Esasici - Daimîci - Yeniden Kurmacı - İlerlemeci",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Teorik bilgi ile pratik becerileri birleştiren, uygulamalı eğitime odaklanan eğitim sistemi hangisidir?",
+        "option_a":  "Politeknik Eğitim",
+        "option_b":  "Klasik Eğitim",
+        "option_c":  "Hümanist Eğitim",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Geleneksel toplumda eğitimin temel işlevi nedir?",
+        "option_a":  "Kültürü değiştirme, yenileme",
+        "option_b":  "Kültürü aktarma",
+        "option_c":  "Bireyselleşmeyi sağlama",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Çağdaş toplumda eğitimin temel işlevi nedir?",
+        "option_a":  "Kültürü olduğu gibi aktarma",
+        "option_b":  "Sadece sosyalleşmeyi sağlama",
+        "option_c":  "Kültürü değiştirme, yenileme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sosyolojinin kurucusu olarak kabul edilen isim kimdir?",
+        "option_a":  "Emile Durkheim",
+        "option_b":  "Karl Marx",
+        "option_c":  "Auguste Comte",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitim sistemini ve eğitim süreçlerini toplumsal bir bakış açısıyla inceleyen sosyolojinin alt dalı hangisidir?",
+        "option_a":  "Eğitim Felsefesi",
+        "option_b":  "Eğitim Sosyolojisi",
+        "option_c":  "Eğitim Psikolojisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulun, öğrencilere toplumsal roller ve davranış kalıpları kazandırdığı işlevi aşağıdakilerden hangisidir?",
+        "option_a":  "Eğitimde fırsat eşitliği",
+        "option_b":  "Okulda sosyal roller",
+        "option_c":  "Toplumsal sınıflar ve eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimdeki fırsat eşitsizliklerini; sınıfsal, cinsiyet, etnik kimlik ve ekonomik faktörlere dayalı olarak inceleyen eğitim sosyolojisi çalışma alanı hangisidir?",
+        "option_a":  "Eğitim ve Kültür",
+        "option_b":  "Eğitimde Eşitsizlik ve Sosyal Adalet",
+        "option_c":  "Eğitim ve Toplumsal Yapı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulun sosyal atmosferi, öğretmen-öğrenci ilişkilerinin dinamikleri gibi konuları inceleyen eğitim sosyolojisi çalışma alanı hangisidir?",
+        "option_a":  "Eğitim Politikaları",
+        "option_b":  "Okul Kültürü ve Öğretmen-Öğrenci İlişkileri",
+        "option_c":  "Eğitim ve Teknoloji",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim, aşağıdaki toplumsal kurumların hangisiyle en az doğrudan ilişkilidir?",
+        "option_a":  "Aile",
+        "option_b":  "Siyaset",
+        "option_c":  "Moda",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Aile, bir çocuğun ilk öğretmeni gibidir\u0027 ifadesi eğitimin hangi kurumla ilişkisini vurgular?",
+        "option_a":  "Aile ve Eğitim",
+        "option_b":  "Ekonomi ve Eğitim",
+        "option_c":  "Din ve Eğitim",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Hükümetlerin okulda hangi derslerin okutulacağını belirlemesi, eğitimin hangi kurumla ilişkisine örnektir?",
+        "option_a":  "Din ve Eğitim",
+        "option_b":  "Siyaset ve Eğitim",
+        "option_c":  "Ekonomi ve Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimin, bireylerin bilgi ve becerilerini artırarak onları daha nitelikli bir iş gücü haline getirmesi hangi kurumla ilişkisini gösterir?",
+        "option_a":  "Ekonomi ve Eğitim",
+        "option_b":  "Kültür ve Eğitim",
+        "option_c":  "Hukuk ve Eğitim",
+        "correct_answer":  "a"
+    }
+]

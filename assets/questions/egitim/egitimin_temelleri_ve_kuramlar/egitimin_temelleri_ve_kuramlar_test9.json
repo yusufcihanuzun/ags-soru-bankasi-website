@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Bir toplumun başka bir kültürle etkileşime girerek değişmesi, ne tür bir toplumsal değişmedir?",
+        "option_a":  "İç kaynaklı değişim",
+        "option_b":  "Dış kaynaklı değişim (kültürleşme)",
+        "option_c":  "Planlı değişim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim yoluyla elde edilen bir diplomanın bireye daha yüksek bir sosyal statü kazandırması, eğitimin hangi işleviyle ilgilidir?",
+        "option_a":  "Toplumsal hareketliliğe etkisi",
+        "option_b":  "Toplumsal kontrol işlevi",
+        "option_c":  "Sosyalleştirme işlevi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Eğitimde verimlilik ve etkililik kavramları, eğitimin hangi temeliyle daha çok ilgilidir?",
+        "option_a":  "Felsefi Temel",
+        "option_b":  "Ekonomik Temel",
+        "option_c":  "Tarihsel Temel",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Eğitim programı hedefleri, toplumun ihtiyaç ve beklentilerini yansıtmalıdır.\u0027 ifadesi program geliştirmenin hangi temeline vurgu yapar?",
+        "option_a":  "Psikolojik Temel",
+        "option_b":  "Toplumsal (Sosyal) Temel",
+        "option_c":  "Konu Alanı Temeli",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir eğitim programının, hitap ettiği yaş grubunun gelişim özelliklerine uygun olması gerekliliği, hangi temelin önemini gösterir?",
+        "option_a":  "Tarihsel Temel",
+        "option_b":  "Felsefi Temel",
+        "option_c":  "Psikolojik Temel",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Türk\u0027 adının geçtiği ilk Türkçe metinler olan Orhun Yazıtları hangi devlete aittir?",
+        "option_a":  "Uygurlar",
+        "option_b":  "Göktürkler",
+        "option_c":  "Karahanlılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nde Batı tarzı ilk yükseköğretim kurumu olan Darülfünun hangi dönemde açılmıştır?",
+        "option_a":  "Lale Devri",
+        "option_b":  "Tanzimat Dönemi",
+        "option_c":  "Meşrutiyet Dönemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi Milli Eğitim Temel Kanunu\u0027nda yer alan \u0027Türk Milli Eğitiminin Temel İlkeleri\u0027nden biri değildir?",
+        "option_a":  "Karma Eğitim",
+        "option_b":  "Bilimsellik",
+        "option_c":  "Seçkincilik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Bireylerin eğitimlerini hayatları boyunca sürdürmeleri esastır.\u0027 ilkesi, Milli Eğitim Temel Kanunu\u0027nun hangi ilkesidir?",
+        "option_a":  "Süreklilik",
+        "option_b":  "Planlılık",
+        "option_c":  "Her Yerde Eğitim",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Jean-Jacques Rousseau\u0027nun \u0027Emile\u0027 adlı eserinde savunduğu, çocuğun doğasına uygun bir eğitim verilmesi gerektiğini öne süren felsefi akım hangisidir?",
+        "option_a":  "Realizm",
+        "option_b":  "Natüralizm",
+        "option_c":  "İdealizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İlerlemecilik eğitim felsefesinin en önemli temsilcisi kimdir?",
+        "option_a":  "Platon",
+        "option_b":  "John Dewey",
+        "option_c":  "Aristo",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulun temel görevinin kültürel mirası yeni kuşaklara aktarmak olduğunu savunan ve öğretmen merkezli bir yaklaşımı benimseyen eğitim felsefesi hangisidir?",
+        "option_a":  "İlerlemecilik",
+        "option_b":  "Esasicilik",
+        "option_c":  "Yeniden Kurmacılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Toplumsal tabakalaşma sisteminde, statünün doğuştan belirlendiği ve değiştirilmesinin neredeyse imkansız olduğu sistem hangisidir?",
+        "option_a":  "Sınıf Sistemi",
+        "option_b":  "Kast Sistemi",
+        "option_c":  "Zümre Sistemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modern toplumlarda görülen ve ekonomik duruma dayalı olan toplumsal tabakalaşma sistemi hangisidir?",
+        "option_a":  "Kast Sistemi",
+        "option_b":  "Kölelik",
+        "option_c":  "Sınıf Sistemi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir doktorun, Ankara\u0027dan İstanbul\u0027a taşınarak aynı mesleği yapmaya devam etmesi ne tür bir hareketliliktir?",
+        "option_a":  "Dikey Hareketlilik",
+        "option_b":  "Yatay Hareketlilik",
+        "option_c":  "Kuşaklararası Hareketlilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimin, bireylere yeniliklere açık olma ve eleştirel düşünme becerisi kazandırarak toplumsal değişime öncülük etmesi, eğitimin hangi işlevidir?",
+        "option_a":  "Toplumsal değişimi başlatma ve denetleme",
+        "option_b":  "Kültürü aktarma",
+        "option_c":  "Toplumsal kontrolü sağlama",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir ülkenin eğitim seviyesi yükseldikçe, kişi başına düşen milli gelirin de artması eğilimi, eğitimin hangi alandaki etkisini gösterir?",
+        "option_a":  "Siyasal",
+        "option_b":  "Ekonomik",
+        "option_c":  "Kültürel",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Gelişmiş ülkelerin, eğitim sistemlerini sürekli olarak bilimsel ve teknolojik yeniliklere göre güncellemeleri, eğitimin hangi özelliğini vurgular?",
+        "option_a":  "Eğitimin dinamik ve yenilikçi yapısı",
+        "option_b":  "Eğitimin geleneksel yapısı",
+        "option_c":  "Eğitimin statik yapısı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de \u0027Maarif Teşkilatı Hakkında Kanun\u0027 hangi yıl çıkarılmıştır?",
+        "option_a":  "1924",
+        "option_b":  "1926",
+        "option_c":  "1928",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimin politik temelinin en önemli amacı nedir?",
+        "option_a":  "Toplumsal refahı artırmak",
+        "option_b":  "Nitelikli iş gücü yetiştirmek",
+        "option_c":  "Devletin bekasını ve rejimin devamlılığını sağlamak",
+        "correct_answer":  "c"
+    }
+]

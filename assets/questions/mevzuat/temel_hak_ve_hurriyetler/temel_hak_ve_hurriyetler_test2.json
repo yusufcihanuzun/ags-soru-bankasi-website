@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Anayasa\u0027ya göre devlet, sosyal ve ekonomik alanlardaki görevlerini hangi ölçüte göre yerine getirir?",
+        "option_a":  "Uluslararası standartların gerekliliği",
+        "option_b":  "Toplumsal beklentilerin önceliği",
+        "option_c":  "Mali kaynaklarının yeterliliği",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, \"vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vatandaşlıktan çıkarılamama\" güvencesi kime aittir?",
+        "option_a":  "Herkes",
+        "option_b":  "Sadece Türkiye\u0027de doğanlar",
+        "option_c":  "Hiçbir Türk",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, aşağıdakilerden hangisi seçimlerde oy kullanamaz?",
+        "option_a":  "Taksirli suçlardan hüküm giyenler",
+        "option_b":  "Tutuklular",
+        "option_c":  "Silahaltında bulunan er ve erbaşlar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi siyasi partilere üye olabilir?",
+        "option_a":  "Devlet memurları",
+        "option_b":  "İşçi niteliği taşıyan kamu görevlileri",
+        "option_c":  "Hâkimler ve savcılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Siyasi partilerin mali denetimini Anayasa Mahkemesi hangi kurumdan yardım alarak yapar?",
+        "option_a":  "Hazine ve Maliye Bakanlığı",
+        "option_b":  "Devlet Denetleme Kurulu",
+        "option_c":  "Sayıştay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir siyasi partinin temelli kapatılmasına sebep olan üyeleri hakkında kaç yıl süreyle siyaset yasağı uygulanır?",
+        "option_a":  "3 yıl",
+        "option_b":  "5 yıl",
+        "option_c":  "10 yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi bir siyasi partinin kesin olarak ve temelli kapatılmasına neden olur?",
+        "option_a":  "Ticari faaliyetlere girişmek",
+        "option_b":  "Yabancı devletlerden maddi yardım almak",
+        "option_c":  "Kadın veya gençlik kolları kurmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, Kamu Denetçiliği Kurumu (Ombudsmanlık) hangi makama bağlı olarak kurulmuştur?",
+        "option_a":  "Cumhurbaşkanlığı",
+        "option_b":  "TBMM Başkanlığı",
+        "option_c":  "Adalet Bakanlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027da hak olmasının yanı sıra \"ödev\" boyutu da olduğu belirtilen haklar arasında hangisi yer almaz?",
+        "option_a":  "Çalışma hakkı ve ödevi",
+        "option_b":  "Vatan hizmeti",
+        "option_c":  "Mülkiyet hakkı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "2001 Anayasa değişikliği ile temel hak ve hürriyetlerin sınırlandırılmasında getirilen en önemli yenilik nedir?",
+        "option_a":  "Sınırlamanın sadece kanunla yapılabileceği",
+        "option_b":  "Genel sınırlama sebeplerinin kaldırılıp her hak için özel sebep belirtilmesi",
+        "option_c":  "Sınırlamanın hakkın özüne dokunamayacağı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027nda, karşılıksız ve zorunlu çalıştırma anlamına gelen ve kesin olarak yasaklanan kavram hangisidir?",
+        "option_a":  "Angarya",
+        "option_b":  "İmece",
+        "option_c":  "Vakfiye",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kişisel verilerin korunmasını isteme hakkı, Anayasa\u0027da \"Özel Hayatın Gizliliği\" maddesine hangi yıl yapılan değişiklikle eklenmiştir?",
+        "option_a":  "2001",
+        "option_b":  "2004",
+        "option_c":  "2010",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kamulaştırma bedelinin taksitle ödenebildiği durumlarda dahi, arazisi kamulaştırılan hangi grubun bedelinin her hâlde peşin ödenmesi zorunludur?",
+        "option_a":  "Büyük şirketlerin",
+        "option_b":  "Toprağı doğrudan işleyen küçük çiftçinin",
+        "option_c":  "Yabancı yatırımcıların",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İşçilerin grev hakkına karşılık, işverenlerin toplu olarak işçileri işten uzaklaştırması anlamına gelen ve Anayasa\u0027da düzenlenen hak hangisidir?",
+        "option_a":  "Fesih",
+        "option_b":  "İhbar",
+        "option_c":  "Lokavt",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren ne kadar süre içinde yapılacak seçimlerde uygulanmaz?",
+        "option_a":  "6 ay",
+        "option_b":  "1 yıl",
+        "option_c":  "2 yıl",
+        "correct_answer":  "b"
+    }
+]

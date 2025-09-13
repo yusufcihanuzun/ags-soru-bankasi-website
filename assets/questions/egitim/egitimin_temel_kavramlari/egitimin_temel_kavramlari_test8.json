@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Puanların dağılımında en çok tekrar eden puana ne ad verilir?",
+        "option_a":  "Medyan",
+        "option_b":  "Aritmetik Ortalama",
+        "option_c":  "Mod (Tepe Değer)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Puanların büyüklük sırasına dizildiğinde tam ortada yer alan puana ne ad verilir?",
+        "option_a":  "Mod",
+        "option_b":  "Medyan (Ortanca)",
+        "option_c":  "Aritmetik Ortalama",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir dağılımdaki en yüksek puan ile en düşük puan arasındaki farka ne denir?",
+        "option_a":  "Standart Sapma",
+        "option_b":  "Ranj (Dizi Genişliği)",
+        "option_c":  "Varyans",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin puanının, grubun aritmetik ortalamasından kaç standart sapma uzakta olduğunu gösteren standart puana ne ad verilir?",
+        "option_a":  "T Puanı",
+        "option_b":  "Z Puanı",
+        "option_c":  "Yüzdelik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencinin bireysel performansının ve gelişiminin, belirli bir süreç boyunca toplandığı ürünlerden oluşan dosyaya ne ad verilir?",
+        "option_a":  "Rubrik",
+        "option_b":  "Kontrol Listesi",
+        "option_c":  "Portfolyo (Ürün Seçki Dosyası)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir performansın veya ürünün değerlendirilmesinde kullanılacak ölçütleri ve her bir ölçütün puanlama düzeyini ayrıntılı olarak gösteren dereceli puanlama anahtarına ne denir?",
+        "option_a":  "Kontrol Listesi",
+        "option_b":  "Rubrik (Dereceli Puanlama Anahtarı)",
+        "option_c":  "Yapılandırılmış Grid",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Formal eğitimin \u0027yaygın eğitim\u0027 ve \u0027örgün eğitim\u0027 olarak ikiye ayrılmasının temel nedeni aşağıdakilerden hangisidir?",
+        "option_a":  "Eğitimin verildiği mekanlar",
+        "option_b":  "Hitap edilen yaş grubu ve eğitimin yapısı",
+        "option_c":  "Eğitimin zorunlu olup olmaması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1739 Sayılı Kanun\u0027a göre, hiç kimsenin temel eğitim hakkından mahrum bırakılamayacağını belirten ilke hangisidir?",
+        "option_a":  "Genellik ve Eşitlik",
+        "option_b":  "Eğitim Hakkı",
+        "option_c":  "Fırsat ve İmkan Eşitliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir kimya deneyinin aşamalarını öğrencilere gösteren bir öğretmenin kullandığı öğretim tekniği hangisidir?",
+        "option_a":  "Benzetim",
+        "option_b":  "Rol Oynama",
+        "option_c":  "Gösteri (Demonstrasyon)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Birinci sınıfa başlayan bir öğrencinin, okula ve arkadaşlarına alışmakta zorlanması durumunda, okul rehberlik servisinin öncelikli olarak sunması gereken hizmet hangisidir?",
+        "option_a":  "Mesleki Rehberlik",
+        "option_b":  "Kişisel-Sosyal Rehberlik",
+        "option_c":  "Eğitsel Rehberlik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Programlı Öğretim\u0027 modelinin temel ilkelerinden olan \u0027KebaP\u0027 kısaltmasındaki \u0027P\u0027 harfi neyi ifade eder?",
+        "option_a":  "Pekiştirme",
+        "option_b":  "Planlama",
+        "option_c":  "Bireysel Hız (Pace)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir testin başarıyı ölçmek yerine, sadece kapağının güzel olması veya yazı tipinin okunaklı olması nedeniyle \u0027iyi bir test\u0027 olarak algılanması hangi geçerlik türüyle ilgilidir?",
+        "option_a":  "Yapı Geçerliği",
+        "option_b":  "Görünüş Geçerliği",
+        "option_c":  "Kapsam Geçerliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aday memurun, asil memur olarak atanabilmesi için aşağıdakilerden hangisi temel bir şarttır?",
+        "option_a":  "Adaylık süresini başarıyla tamamlamış olmak",
+        "option_b":  "Yüksek lisans yapmış olmak",
+        "option_c":  "En az bir yabancı dil bilmek",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir öğrencinin, öğrendiği çarpım tablosunu bakkaldan alışveriş yaparken para hesabı yapmak için kullanması, Bloom taksonomisinin hangi basamağına örnektir?",
+        "option_a":  "Kavrama",
+        "option_b":  "Uygulama",
+        "option_c":  "Analiz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Sınıf kurallarına uymayan öğrencinin teneffüse çıkmasına izin verilmemesi\u0027 hangi tür cezaya örnektir?",
+        "option_a":  "Olumsuz Pekiştirme",
+        "option_b":  "1. Tip Ceza",
+        "option_c":  "2. Tip Ceza (Mahrum Bırakma)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Devlet memurları için verilen \u0027aylıktan kesme\u0027 cezası, memurun brüt aylığının en fazla ne kadarı oranında uygulanabilir?",
+        "option_a":  "1/10 - 1/5 arası",
+        "option_b":  "1/30 - 1/8 arası",
+        "option_c":  "1/5 - 1/2 arası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretim programlarının çerçevesini oluşturan ve Milli Eğitim Bakanlığı tarafından hazırlanan temel program hangisidir?",
+        "option_a":  "Ders Programı",
+        "option_b":  "Öğretim Programı",
+        "option_c":  "Müfredat Programı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir davranışın pekiştirilmemesi sonucunda zamanla ortadan kalkması veya sıklığının azalması sürecine ne denir?",
+        "option_a":  "Sönme",
+        "option_b":  "Genelleme",
+        "option_c":  "Ayırt Etme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi okuldaki rehberlik hizmetlerini yürütmekle sorumlu olan komisyonun adıdır?",
+        "option_a":  "Disiplin Kurulu",
+        "option_b":  "Okul Aile Birliği",
+        "option_c":  "Okul Rehberlik ve Psikolojik Danışma Hizmetleri Yürütme Komisyonu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğretmenin, sınav kağıtlarını isimleri kapatarak puanlaması, ölçmenin hangi özelliğini artırmaya yöneliktir?",
+        "option_a":  "Geçerlik",
+        "option_b":  "Objektiflik",
+        "option_c":  "Kullanışlılık",
+        "correct_answer":  "b"
+    }
+]

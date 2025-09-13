@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "1739 sayılı kanuna göre, öğretmenlik mesleğinin temel dayanağı nedir?",
+        "option_a":  "Gönüllülük",
+        "option_b":  "İhtisas (uzmanlık)",
+        "option_c":  "İdari görev",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okul gezileri ve sosyal etkinliklerin düzenlenmesi hangi ilke kapsamında değerlendirilir?",
+        "option_a":  "Her Yerde Eğitim",
+        "option_b":  "Bilimsellik",
+        "option_c":  "Laiklik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Eğitim sisteminde \u0027yatay ve dikey geçişlere\u0027 imkan tanınması hangi ilkenin bir gereğidir?",
+        "option_a":  "Süreklilik",
+        "option_b":  "Fırsat ve imkan eşitliği",
+        "option_c":  "Planlılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimde \u0027bilgi ve teknoloji üretmek ve kültürümüzü geliştirmek\u0027 hangi kurumun temel görevidir?",
+        "option_a":  "Ortaöğretim",
+        "option_b":  "Yükseköğretim",
+        "option_c":  "İlköğretim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir okulun eğitim-öğretim faaliyetlerinin kanuna ve yönetmeliklere uygunluğunu yerinde inceleyen kişilere ne ad verilir?",
+        "option_a":  "Müfettiş/Denetmen",
+        "option_b":  "Koordinatör",
+        "option_c":  "Danışman",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Hangi temel ilke, eğitimde ezberciliğin yerine kavrayarak öğrenmeyi ve uygulamayı teşvik eder?",
+        "option_a":  "Demokrasi Eğitimi",
+        "option_b":  "Bilimsellik",
+        "option_c":  "Süreklilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin ilköğretim diploması alabilmesi için temel şart nedir?",
+        "option_a":  "İlkokul ve ortaokulu başarıyla tamamlaması",
+        "option_b":  "Sadece ilkokulu bitirmesi",
+        "option_c":  "14 yaşını doldurması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir lise mezununun, diplomasıyla doğrudan bir kamu görevine atanması mümkün müdür?",
+        "option_a":  "Evet, lise diploması yeterlidir.",
+        "option_b":  "Hayır, ilgili sınavları kazanması ve diğer şartları taşıması gerekir.",
+        "option_c":  "Sadece meslek lisesi mezunları atanabilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yükseköğretimde \u0027bilimsel özerklik\u0027 ne anlama gelir?",
+        "option_a":  "Üniversitelerin mali olarak bağımsız olması",
+        "option_b":  "Üniversitelerin siyasi etkilerden uzak, bilimsel faaliyetlerini serbestçe yapması",
+        "option_c":  "Üniversitelerin kendi binalarını yapma serbestisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Halk eğitimi merkezleri\u0027 hangi eğitim türü içinde faaliyet gösterir?",
+        "option_a":  "Örgün Eğitim",
+        "option_b":  "Yaygın Eğitim",
+        "option_c":  "Yükseköğretim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmenlerin atamalarında esas alınan temel kriter nedir?",
+        "option_a":  "İkamet adresi",
+        "option_b":  "Sınav başarısı ve branş ihtiyacı",
+        "option_c":  "Mezuniyet tarihi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulların fiziki altyapı standartlarını kim belirler?",
+        "option_a":  "Milli Eğitim Bakanlığı",
+        "option_b":  "Belediyeler",
+        "option_c":  "İl Özel İdareleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir ders kitabının okullarda okutulabilmesi için ilk ve en önemli şart nedir?",
+        "option_a":  "Yayınevi tarafından tavsiye edilmesi",
+        "option_b":  "Talim ve Terbiye Kurulu\u0027nca onaylanması",
+        "option_c":  "Öğretmenler tarafından beğenilmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Milli ahlak\u0027 ve \u0027milli kültür\u0027 kavramlarının öğrencilere kazandırılması, hangi temel ilkenin bir parçasıdır?",
+        "option_a":  "Laiklik",
+        "option_b":  "Atatürk Milliyetçiliği",
+        "option_c":  "Bilimsellik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İlköğretimden ortaöğretime geçişte uygulanan merkezi sınavların yasal dayanağı hangi ilkedir?",
+        "option_a":  "Yöneltme",
+        "option_b":  "Fırsat ve imkan eşitliği",
+        "option_c":  "Planlılık",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Mesleki ve teknik ortaöğretim kurumlarının temel amacı, öğrencileri neye hazırlamaktır?",
+        "option_a":  "Sadece yükseköğretime",
+        "option_b":  "Sadece meslek hayatına",
+        "option_c":  "Hem meslek hayatına hem de yükseköğretime",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Usta öğretici\u0027 belgesi, hangi eğitim türü sonucunda verilir?",
+        "option_a":  "Örgün Eğitim",
+        "option_b":  "Yaygın Eğitim",
+        "option_c":  "Yükseköğretim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmenlerin, kanunda belirtilen haller dışında meslekten çıkarılmaması, hangi güvence kapsamındadır?",
+        "option_a":  "Sendikal güvence",
+        "option_b":  "Meslek güvencesi",
+        "option_c":  "Mali güvence",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir okula bağış yapan bir kişinin, okula kendi adını vermesi mümkün müdür?",
+        "option_a":  "Hayır, yasaktır.",
+        "option_b":  "Evet, yönetmeliklere uygun şekilde mümkündür.",
+        "option_c":  "Sadece vefatından sonra mümkündür.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1739 sayılı Milli Eğitim Temel Kanunu\u0027nun yürütmesinden kim sorumludur?",
+        "option_a":  "Milli Eğitim Bakanı",
+        "option_b":  "TBMM",
+        "option_c":  "Cumhurbaşkanı",
+        "correct_answer":  "c"
+    }
+]

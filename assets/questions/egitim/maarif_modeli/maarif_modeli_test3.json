@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nde yer alan \u0027algoritmik düşünme\u0027 hangi alanla doğrudan ilişkilidir?",
+        "option_a":  "Sosyal bilimler",
+        "option_b":  "Sanat ve estetik",
+        "option_c":  "Bilişimsel düşünme ve teknoloji",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Programların \u0027sade ve anlaşılır\u0027 bir dille yazılmış olması, kimin için bir kolaylık sağlamayı hedefler?",
+        "option_a":  "Sadece öğrenciler",
+        "option_b":  "Sadece politika yapıcılar",
+        "option_c":  "Tüm paydaşlar (öğretmen, öğrenci, veli)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve erdemli insan\u0027 profilinin \u0027ahlaklı\u0027 alt boyutu, hangi davranışı önceler?",
+        "option_a":  "Kişisel çıkarları gözetme",
+        "option_b":  "Doğruluk, dürüstlük ve merhamet",
+        "option_c":  "Rekabetçi olma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin kendi güçlü ve zayıf yönlerini tanıması, hangi sosyal-duygusal öğrenme becerisinin temelidir?",
+        "option_a":  "Öz farkındalık",
+        "option_b":  "İlişki kurma",
+        "option_c":  "Empati",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Bütüncül Gelişim\u0027 ilkesi, eğitimde neyin göz ardı edilmemesi gerektiğini vurgular?",
+        "option_a":  "Sadece akademik notların",
+        "option_b":  "Öğrencinin sosyal, duygusal, fiziksel ve zihinsel gelişiminin bir bütün olduğunun",
+        "option_c":  "Sadece yetenekli öğrencilerin gelişiminin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nin program felsefesi hangi temele dayanır?",
+        "option_a":  "Davranışçı yaklaşım",
+        "option_b":  "Yapılandırmacı yaklaşım",
+        "option_c":  "Ezberci yaklaşım",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027eğilim\u0027 kavramı neyi ifade eder?",
+        "option_a":  "Öğrencinin doğuştan gelen yetenekleri",
+        "option_b":  "Öğrencinin bir konuya olan doğal ilgisi ve yönelimi",
+        "option_c":  "Öğrencinin ezberleme kapasitesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrenme-öğretme sürecinin \u0027esnek\u0027 olması ne anlama gelir?",
+        "option_a":  "Her dersin içeriğinin tamamen aynı olması",
+        "option_b":  "Öğrencilerin bireysel farklılıklarına ve ihtiyaçlarına göre sürecin uyarlanabilmesi",
+        "option_c":  "Müfredatın hiçbir şekilde değiştirilememesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Bilgi okuryazarlığı\u0027 becerisine sahip bir bireyden ne beklenir?",
+        "option_a":  "Tüm bilgileri sorgulamadan kabul etmesi",
+        "option_b":  "Bilginin doğruluğunu, geçerliliğini ve güvenilirliğini sorgulaması",
+        "option_c":  "Sadece basılı kaynaklardan bilgi edinmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027millî ve manevi değerlere\u0027 yapılan vurgunun amacı nedir?",
+        "option_a":  "Öğrencileri evrensel değerlerden uzaklaştırmak",
+        "option_b":  "Öğrencilere kendi kültürüne ve kimliğine sahip çıkma bilinci kazandırmak",
+        "option_c":  "Sadece belirli bir ideolojiyi benimsetmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Sorumlu karar alma\u0027 becerisi, bireyin kararlarının sonuçlarını kimin için düşünmesini gerektirir?",
+        "option_a":  "Sadece kendisi",
+        "option_b":  "Sadece ailesi",
+        "option_c":  "Kendisi, başkaları ve toplum",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Disiplinler arası yaklaşım, öğretimde neyi hedefler?",
+        "option_a":  "Her dersi birbirinden tamamen bağımsız işlemeyi",
+        "option_b":  "Farklı dersler arasında bağlantılar kurarak öğrenmeyi daha anlamlı hale getirmeyi",
+        "option_c":  "Sadece tek bir disipline odaklanmayı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve Erdemli İnsan\u0027 profilinin \u0027sağlıklı\u0027 alt boyutu, hangi alışkanlıkları kapsar?",
+        "option_a":  "Sadece zihinsel sağlık",
+        "option_b":  "Dengeli beslenme, düzenli spor ve hijyen",
+        "option_c":  "Sadece başkalarına yardım etme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okul-aile iş birliğinin modeldeki önemi nedir?",
+        "option_a":  "Ailenin eğitim sürecine müdahalesini engellemek",
+        "option_b":  "Öğrencinin gelişimini bütüncül bir yaklaşımla desteklemek",
+        "option_c":  "Sadece okulun sorumluluğunu artırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Finansal okuryazarlık\u0027 ne anlama gelir?",
+        "option_a":  "Sadece para saymayı bilmek",
+        "option_b":  "Bütçe yapma, tasarruf etme ve yatırım gibi konularda bilgi ve beceri sahibi olma",
+        "option_c":  "Sadece matematiksel işlemleri yapabilme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nde değerlendirme sürecinin temel amacı nedir?",
+        "option_a":  "Öğrencileri sıralamak ve etiketlemek",
+        "option_b":  "Öğrenme sürecini desteklemek ve geri bildirim sağlamak",
+        "option_c":  "Sadece not vermek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yaratıcı düşünme\u0027 becerisi, bireye ne kazandırır?",
+        "option_a":  "Kurallara harfiyen uyma",
+        "option_b":  "Problemlere özgün ve farklı çözümler üretebilme",
+        "option_c":  "Var olan bilgiyi sadece tekrar etme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Medya okuryazarlığı\u0027, bireyin medya mesajlarını nasıl algılamasına yardımcı olur?",
+        "option_a":  "Tüm medya mesajlarını doğru kabul etmesine",
+        "option_b":  "Eleştirel bir bakış açısıyla analiz etmesine ve sorgulamasına",
+        "option_c":  "Medyadan tamamen uzak durmasına",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve Erdemli İnsan\u0027 profilinin \u0027vatansever\u0027 alt boyutu, aşağıdakilerden hangisini içerir?",
+        "option_a":  "Sadece kendi çıkarlarını düşünme",
+        "option_b":  "Ülkesine, milletine ve değerlerine bağlılık ve hizmet etme bilinci",
+        "option_c":  "Diğer kültürleri yok sayma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Çevre okuryazarlığı\u0027, bireyin hangi konuda bilinçlenmesini sağlar?",
+        "option_a":  "Sadece şehir hayatı",
+        "option_b":  "Doğal kaynakların korunması, sürdürülebilirlik ve ekolojik denge",
+        "option_c":  "Sadece teknolojik gelişmeler",
+        "correct_answer":  "b"
+    }
+]

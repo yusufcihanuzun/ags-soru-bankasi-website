@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Bir ders kitabının öğretmenin yerini almaması, sadece destekleyici bir araç olarak kullanılması gerektiği uyarısı, kitabın hangi özelliğine dikkat çeker?",
+        "option_a":  "Kitabın içeriğinin yetersizliğine",
+        "option_b":  "Öğretmenin rolünün önemine",
+        "option_c":  "Öğrencilerin aktif olmamasına",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencinin ders sırasında veya sonrasında kendince hazırladığı, öznellik taşıyan yazılı araç-gereç hangisidir?",
+        "option_a":  "Ders Kitabı",
+        "option_b":  "Çalışma Kartları",
+        "option_c":  "Ders Notları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir konunun ana hatlarını, önemli noktalarını ve bunlar arasındaki ilişkileri gösteren şema türü hangisidir?",
+        "option_a":  "Akış Şeması",
+        "option_b":  "Kavram Haritası",
+        "option_c":  "Organizasyon Şeması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyalde resim ve metin dengesi nasıl olmalıdır?",
+        "option_a":  "Sadece metin kullanılmalıdır.",
+        "option_b":  "Resimler metinden daha fazla olmalıdır.",
+        "option_c":  "Birbirini desteklemeli ve dengelemelidir.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir objeyi kesit alarak iç yapısını gösteren model türü hangisidir?",
+        "option_a":  "Basitleştirilmiş Model",
+        "option_b":  "Kesit Model",
+        "option_c":  "Çalışan Model",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyal hazırlarken ilk adım ne olmalıdır?",
+        "option_a":  "Materyali tasarlamak",
+        "option_b":  "Hedefleri belirlemek",
+        "option_c":  "Araç-gereç seçmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrenme-öğretme sürecinde çok sayıda duyu organına hitap etmek neden önemlidir?",
+        "option_a":  "Öğrenmeyi kolaylaştırır ve kalıcı hale getirir.",
+        "option_b":  "Dersin daha eğlenceli geçmesini sağlar.",
+        "option_c":  "Öğretmenin daha az yorulmasını sağlar.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Algıda değişmezlik\u0027 ilkesi neyi ifade eder?",
+        "option_a":  "Nesnelerin farklı koşullarda farklı algılanmasını",
+        "option_b":  "Nesnelerin farklı koşullarda bile aynı şekilde algılanmasını",
+        "option_c":  "Algının sürekli değiştiğini",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir sunumda her slaytta en fazla kaç satır olması önerilir?",
+        "option_a":  "3-4 satır",
+        "option_b":  "6-8 satır",
+        "option_c":  "10-12 satır",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Materyal tasarımında \u0027ritim\u0027 ilkesi nasıl sağlanır?",
+        "option_a":  "Öğelerin rastgele yerleştirilmesiyle",
+        "option_b":  "Öğelerin düzenli bir şekilde tekrar etmesiyle",
+        "option_c":  "Sadece zıt renkler kullanarak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dale\u0027nin Yaşantı Konisi\u0027nin en altında (en somut) ne yer alır?",
+        "option_a":  "Model ve numunelerle edinilen yaşantılar",
+        "option_b":  "Doğrudan doğruya edinilen maksatlı yaşantılar",
+        "option_c":  "Dramatizasyonla edinilen yaşantılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyalin öğrenci seviyesine uygun olmaması, iletişim sürecindeki hangi engele örnektir?",
+        "option_a":  "Fiziksel gürültü",
+        "option_b":  "Anlamsal gürültü (semantik)",
+        "option_c":  "Psikolojik gürültü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir tasarımda gözün belirli bir yolu izlemesini sağlamak hangi ilkeyle ilgilidir?",
+        "option_a":  "Denge",
+        "option_b":  "Vurgu",
+        "option_c":  "Yön",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İki boyutlu yüzeylerde üç boyutlu bir görünüm illüzyonu yaratmak için hangi tasarım ögesi kullanılır?",
+        "option_a":  "Renk",
+        "option_b":  "Çizgi",
+        "option_c":  "Perspektif (Derinlik)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir materyalin bütünlüğünü sağlamak için en etkili yöntemlerden biri hangisidir?",
+        "option_a":  "Farklı yazı tipleri kullanmak",
+        "option_b":  "Kenar boşlukları bırakmak ve çerçeve kullanmak",
+        "option_c":  "Çok fazla renk kullanmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyalin \u0027açık ve anlaşılır\u0027 olması hangi ilkeyle doğrudan ilişkilidir?",
+        "option_a":  "Basitlik",
+        "option_b":  "Hedefe uygunluk",
+        "option_c":  "Anlamlılık",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Öğretim materyallerinin en temel işlevi nedir?",
+        "option_a":  "Sınıfı güzelleştirmek",
+        "option_b":  "Öğretimi desteklemek ve zenginleştirmek",
+        "option_c":  "Öğretmenin işini kolaylaştırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Şekil-zemin\u0027 ilişkisi hangi algı ilkesine bir örnektir?",
+        "option_a":  "Tamamlama",
+        "option_b":  "Gruplama",
+        "option_c":  "Ayırt etme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir materyalde kullanılan görsellerin (resim, fotoğraf) en önemli özelliği ne olmalıdır?",
+        "option_a":  "Çok renkli olması",
+        "option_b":  "Konuyla doğrudan ilgili olması",
+        "option_c":  "Sanatsal bir değer taşıması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir akış şemasının temel amacı nedir?",
+        "option_a":  "Bir kavramın alt başlıklarını göstermek",
+        "option_b":  "Bir sürecin adımlarını sırasıyla göstermek",
+        "option_c":  "Sayısal verileri karşılaştırmak",
+        "correct_answer":  "b"
+    }
+]

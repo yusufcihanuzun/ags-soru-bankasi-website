@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Aşağıdakilerden hangisi tam öğrenme modelinin temel değişkenlerinden biri değildir?",
+        "option_a":  "Öğrenci nitelikleri (Giriş davranışları)",
+        "option_b":  "Öğretim hizmetinin niteliği (PİDE)",
+        "option_c":  "Öğrencinin zeka seviyesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir konunun küçük adımlara bölündüğü, her adımdan sonra öğrenciye anında dönüt verildiği ve öğrencinin kendi hızında ilerlediği öğretim modeli hangisidir?",
+        "option_a":  "Programlı Öğretim",
+        "option_b":  "Tam Öğrenme",
+        "option_c":  "Buluş Yoluyla Öğrenme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Öğrencilerin küçük, heterojen gruplar oluşturarak ortak bir amaç doğrultusunda birlikte çalışmalarına dayanan öğrenme yaklaşımı hangisidir?",
+        "option_a":  "Bireyselleştirilmiş Öğretim",
+        "option_b":  "İşbirlikli (Kubaşık) Öğrenme",
+        "option_c":  "Probleme Dayalı Öğrenme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Gerçek yaşamla ilişkili, karmaşık bir problemin senaryo olarak sunulduğu ve öğrencilerin bu problemi çözmek için aktif olarak araştırma yaptığı öğrenme yaklaşımı hangisidir?",
+        "option_a":  "Proje Tabanlı Öğrenme",
+        "option_b":  "Probleme Dayalı Öğrenme",
+        "option_c":  "Örnek Olay Yöntemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin bir konu üzerinde uzun süreli çalışarak somut bir ürün veya performans ortaya koydukları öğrenme yaklaşımı hangisidir?",
+        "option_a":  "Probleme Dayalı Öğrenme",
+        "option_b":  "Proje Tabanlı Öğrenme",
+        "option_c":  "Beyin Fırtınası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin bir konu hakkında kısa sürede çok sayıda ve yaratıcı fikir üretmelerini sağlamak amacıyla kullanılan öğretim tekniği hangisidir?",
+        "option_a":  "Görüş Geliştirme",
+        "option_b":  "Beyin Fırtınası",
+        "option_c":  "Altı Şapkalı Düşünme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir konuya farklı bakış açılarıyla yaklaşmayı sağlayan, her rengin farklı bir düşünce biçimini (tarafsız, iyimser, eleştirel vb.) temsil ettiği düşünme tekniği hangisidir?",
+        "option_a":  "İstasyon",
+        "option_b":  "Altı Şapkalı Düşünme Tekniği",
+        "option_c":  "Görüş Geliştirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin farklı öğrenme aktivitelerini gerçekleştirmek için sınıf içinde oluşturulan merkezlerde gruplar halinde dolaşarak çalıştıkları teknik hangisidir?",
+        "option_a":  "Köşelenme",
+        "option_b":  "İstasyon",
+        "option_c":  "Konuşma Halkası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin empati kurma becerilerini geliştirmek amacıyla kendilerini başkasının yerine koyarak duygu ve düşüncelerini ifade ettikleri teknik hangisidir?",
+        "option_a":  "Görüş Geliştirme",
+        "option_b":  "Konuşma Halkası",
+        "option_c":  "Münazara",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Gerçek bir durumun veya olayın yapay bir ortamda canlandırılarak öğretim amacıyla kullanıldığı teknik hangisidir?",
+        "option_a":  "Drama",
+        "option_b":  "Benzetim (Simülasyon)",
+        "option_c":  "Rol Oynama",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir sınıf başkanı seçiminin öğrenciler tarafından canlandırılması hangi öğretim tekniğine örnektir?",
+        "option_a":  "Gösteri",
+        "option_b":  "Rol Oynama",
+        "option_c":  "Benzetim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğretmenin bir becerinin nasıl yapıldığını sınıf önünde yaparak ve açıklayarak göstermesi hangi tekniktir?",
+        "option_a":  "Gösterip Yaptırma",
+        "option_b":  "Gösteri (Demonstrasyon)",
+        "option_c":  "Benzetim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin bir konuyla ilgili \u0027Katılıyorum\u0027, \u0027Kararsızım\u0027, \u0027Katılmıyorum\u0027 gibi ifadelere nedenleriyle birlikte katılarak bir doğru üzerinde yer değiştirdiği teknik hangisidir?",
+        "option_a":  "Köşelenme",
+        "option_b":  "Görüş Geliştirme",
+        "option_c":  "Münazara",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir konunun zıt yönlerinin iki farklı grup tarafından jüri önünde savunulmasına dayanan tartışma tekniği hangisidir?",
+        "option_a":  "Panel",
+        "option_b":  "Münazara",
+        "option_c":  "Açık Oturum",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir konunun farklı yönlerinin, küçük bir uzman grup tarafından dinleyiciler önünde samimi bir sohbet havasında tartışıldığı teknik hangisidir?",
+        "option_a":  "Sempozyum",
+        "option_b":  "Panel",
+        "option_c":  "Forum",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tartışmanın sonunda dinleyicilerin de soru ve görüşleriyle tartışmaya aktif olarak katıldığı teknik hangisidir?",
+        "option_a":  "Panel",
+        "option_b":  "Forum",
+        "option_c":  "Münazara",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Piaget\u0027nin bilişsel gelişim kuramına göre, çocuğun dünyayı duyusal ve motor eylemlerle anladığı dönem hangisidir?",
+        "option_a":  "Duyusal-Motor Dönem",
+        "option_b":  "İşlem Öncesi Dönem",
+        "option_c":  "Somut İşlemler Dönemi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Nesne sürekliliği\u0027 hangi bilişsel gelişim döneminde kazanılır?",
+        "option_a":  "Duyusal-Motor Dönem",
+        "option_b":  "İşlem Öncesi Dönem",
+        "option_c":  "Soyut İşlemler Dönemi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Benmerkezci düşünme, sembolik oyun ve tek yönlü sınıflama gibi özelliklerin görüldüğü dönem hangisidir?",
+        "option_a":  "Duyusal-Motor Dönem",
+        "option_b":  "İşlem Öncesi Dönem",
+        "option_c":  "Somut İşlemler Dönemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Korunum\u0027 ilkesinin kazanıldığı ve çocuğun mantıksal düşünmeye başladığı ancak düşünmenin somut nesnelere bağlı kaldığı dönem hangisidir?",
+        "option_a":  "İşlem Öncesi Dönem",
+        "option_b":  "Somut İşlemler Dönemi",
+        "option_c":  "Soyut İşlemler Dönemi",
+        "correct_answer":  "b"
+    }
+]

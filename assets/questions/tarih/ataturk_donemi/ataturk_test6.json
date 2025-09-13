@@ -1,0 +1,135 @@
+﻿[
+    {
+        "question_text":  "Türk Medeni Kanunu\u0027nun kabulü ile hukuk alanında hangisi gerçekleşmiştir?",
+        "option_a":  "Şeri mahkemeler kurulmuştur.",
+        "option_b":  "Mecelle yürürlükten kaldırılmıştır.",
+        "option_c":  "Kapitülasyonlar kaldırılmıştır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Medeni Kanun\u0027un kadınlara getirdiği haklar arasında hangisi yer almaz?",
+        "option_a":  "Mirasta erkekle eşit pay hakkı",
+        "option_b":  "Boşanma hakkı",
+        "option_c":  "Seçme ve seçilme hakkı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Medeni Kanun ile getirilen en önemli sosyal yeniliklerden biri hangisidir?",
+        "option_a":  "Kadınların istediği mesleğe girebilmesi",
+        "option_b":  "Tek eşle evlilik ve resmi nikah zorunluluğu",
+        "option_c":  "Kadınlara mirastan pay verilmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Patrikhanelerin ve konsoloslukların yargı yetkileri hangi kanunun kabulü ile sona ermiştir?",
+        "option_a":  "Tevhid-i Tedrisat Kanunu",
+        "option_b":  "Türk Medeni Kanunu",
+        "option_c":  "Kabotaj Kanunu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk kadınına \"Belediye seçimlerine katılma hakkı\" hangi yıl verilmiştir?",
+        "option_a":  "1930",
+        "option_b":  "1933",
+        "option_c":  "1934",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türk kadınına \"Muhtar seçme ve seçilme hakkı\" hangi yıl verilmiştir?",
+        "option_a":  "1930",
+        "option_b":  "1933",
+        "option_c":  "1934",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk kadınına \"Milletvekili seçme ve seçilme hakkı\" hangi yıl tanınmıştır?",
+        "option_a":  "1930",
+        "option_b":  "1933",
+        "option_c":  "1934",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin ilk kadın belediye başkanı olan Sadiye Hanım, hangi ilin ilçesine bağlı Kılıçkaya beldesinde seçilmiştir?",
+        "option_a":  "Aydın",
+        "option_b":  "Mersin",
+        "option_c":  "Artvin",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin ilk kadın muhtarı olan Gül Esin, hangi ilin Çine ilçesine bağlı Demirdere köyünde seçilmiştir?",
+        "option_a":  "Aydın",
+        "option_b":  "Muğla",
+        "option_c":  "İzmir",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Lozan\u0027dan kalan Musul sorunu, hangi devlet ile Türkiye arasında yaşanmıştır?",
+        "option_a":  "Fransa",
+        "option_b":  "İngiltere",
+        "option_c":  "İtalya",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Musul meselesinin çözümü için 1924 yılında toplanan ve Türkiye\u0027yi Fethi Okyar\u0027ın temsil ettiği konferans hangisidir?",
+        "option_a":  "Haliç Konferansı",
+        "option_b":  "Londra Konferansı",
+        "option_c":  "San Remo Konferansı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Musul\u0027un, Milletler Cemiyeti kararıyla İngiliz mandasındaki Irak\u0027a bırakılmasında hangi iç olayın etkisi olmuştur?",
+        "option_a":  "İzmir Suikastı",
+        "option_b":  "Menemen Olayı",
+        "option_c":  "Şeyh Sait İsyanı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Yabancı okullar konusunda Türkiye, en çok hangi devletle sorun yaşamış ve konunun bir \"iç mesele\" olduğunu vurgulamıştır?",
+        "option_a":  "ABD",
+        "option_b":  "İngiltere",
+        "option_c":  "Fransa",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye ile Yunanistan arasında yaşanan nüfus mübadelesi sorununda, hangi kavramın tanımı üzerine anlaşmazlık çıkmıştır?",
+        "option_a":  "Etabli (Yerleşik)",
+        "option_b":  "Mütekabiliyet (Karşılıklılık)",
+        "option_c":  "Patrikhane",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Nüfus Mübadelesi sorunu, 1930 yılında imzalanan hangi antlaşma ile çözüme kavuşmuştur?",
+        "option_a":  "Ankara Antlaşması",
+        "option_b":  "Atina Antlaşması",
+        "option_c":  "Ahali Antlaşması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye, dünya barışına katkıda bulunmak amacıyla 1932 yılında hangi iki ülkenin daveti üzerine Milletler Cemiyeti\u0027ne (Cemiyet-i Akvam) üye olmuştur?",
+        "option_a":  "İngiltere ve Fransa",
+        "option_b":  "ABD ve Sovyet Rusya",
+        "option_c":  "İspanya ve Yunanistan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Almanya ve İtalya\u0027nın saldırgan politikalarına karşı Türkiye\u0027nin batı sınırını güvence altına almak amacıyla 1934\u0027te kurduğu pakt hangisidir?",
+        "option_a":  "Sadabat Paktı",
+        "option_b":  "Balkan Paktı (Antantı)",
+        "option_c":  "Bağdat Paktı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Balkan Paktı\u0027na, yayılmacı politikalar izledikleri için hangi iki Balkan devleti katılmamıştır?",
+        "option_a":  "Arnavutluk ve Bulgaristan",
+        "option_b":  "Macaristan ve Avusturya",
+        "option_c":  "Polonya ve Çekoslovakya",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Balkan Paktı\u0027nı imzalayan ve \"TAYYAR\" olarak kodlanan devletler hangileridir?",
+        "option_a":  "Türkiye, Arnavutluk, Yugoslavya, Yunanistan",
+        "option_b":  "Türkiye, Yunanistan, Yugoslavya, Romanya",
+        "option_c":  "Türkiye, Azerbaycan, Yugoslavya, Romanya",
+        "correct_answer":  "b"
+    }
+]

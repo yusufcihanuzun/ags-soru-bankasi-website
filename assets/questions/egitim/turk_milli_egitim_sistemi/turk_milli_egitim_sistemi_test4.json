@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Milli Eğitim Şûrası kararlarının uygulanabilirliğini kim değerlendirir?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "Milli Eğitim Bakanı",
+        "option_c":  "Danıştay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TTKB hangi görevlerden sorumludur?",
+        "option_a":  "Müfredat hazırlamak ve ders kitaplarını incelemek",
+        "option_b":  "Vergi düzenlemelerini yapmak",
+        "option_c":  "Askeri harcamaları planlamak",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası kararlarının niteliği nedir?",
+        "option_a":  "Tavsiye ve danışma niteliğinde",
+        "option_b":  "Kesin yasal zorunluluk",
+        "option_c":  "Mahkeme kararı niteliğinde",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB\u0027nin kuruluş amacı nedir?",
+        "option_a":  "Milli Eğitim politikalarını belirlemek",
+        "option_b":  "TBMM kanunlarını yapmak",
+        "option_c":  "Üniversite sınavlarını düzenlemek",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027na kimler katılabilir?",
+        "option_a":  "Akademisyenler, öğretmenler, bürokratlar",
+        "option_b":  "Sadece TBMM üyeleri",
+        "option_c":  "Sadece sendika temsilcileri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB üyelerinin görev süresi kaç yıldır?",
+        "option_a":  "3 yıl",
+        "option_b":  "5 yıl",
+        "option_c":  "7 yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nda alınan kararlar hangi niteliğe sahiptir?",
+        "option_a":  "Danışma",
+        "option_b":  "Bağlayıcı",
+        "option_c":  "Kesin hüküm",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB\u0027nin onaylamadığı bir ders kitabı uygulanabilir mi?",
+        "option_a":  "Hayır",
+        "option_b":  "Evet",
+        "option_c":  "TBMM isterse uygulanır",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası hangi makamın başkanlığında toplanır?",
+        "option_a":  "Milli Eğitim Bakanı",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "Başbakan",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB\u0027nin en önemli görevi nedir?",
+        "option_a":  "Müfredat hazırlama ve ders kitaplarını inceleme",
+        "option_b":  "Üniversite kontenjanlarını belirleme",
+        "option_c":  "Maliye bütçesini düzenleme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nda görüşülen konular nelerdir?",
+        "option_a":  "Eğitim politikaları",
+        "option_b":  "Askeri bütçe",
+        "option_c":  "Vergi düzenlemeleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB\u0027nin hazırladığı müfredatlar kim tarafından onaylanır?",
+        "option_a":  "Milli Eğitim Bakanı",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "Resmi Gazete",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nda alınan kararların niteliği nedir?",
+        "option_a":  "Danışma ve tavsiye",
+        "option_b":  "Kesin bağlayıcı",
+        "option_c":  "Yargısal",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB\u0027nin görevlerinden biri hangisidir?",
+        "option_a":  "Ders kitaplarını incelemek",
+        "option_b":  "Vergi düzenlemek",
+        "option_c":  "Ekonomi politikası oluşturmak",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın kararları kim için yol göstericidir?",
+        "option_a":  "Milli Eğitim Bakanlığı için",
+        "option_b":  "TBMM için",
+        "option_c":  "Cumhurbaşkanı için",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB\u0027nin bağlı olduğu kurum hangisidir?",
+        "option_a":  "Milli Eğitim Bakanlığı",
+        "option_b":  "Cumhurbaşkanlığı",
+        "option_c":  "TBMM",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası kararlarının önemi nedir?",
+        "option_a":  "Eğitim politikalarına yön verir",
+        "option_b":  "Yasal bağlayıcıdır",
+        "option_c":  "Kesin hüküm doğurur",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB hangi alanlarda karar verir?",
+        "option_a":  "Müfredat, ders kitapları, eğitim araçları",
+        "option_b":  "Vergi kanunları",
+        "option_c":  "Maliye bütçesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Şûrası\u0027nın tavsiye kararlarını uygulamak zorunlu mudur?",
+        "option_a":  "Hayır",
+        "option_b":  "Evet",
+        "option_c":  "Cumhurbaşkanı isterse",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TTKB üyeleri kim tarafından atanır?",
+        "option_a":  "Milli Eğitim Bakanı",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "TBMM",
+        "correct_answer":  "a"
+    }
+]

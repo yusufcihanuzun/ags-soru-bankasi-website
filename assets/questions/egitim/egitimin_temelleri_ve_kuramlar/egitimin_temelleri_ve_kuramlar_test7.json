@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Bir işçinin, kendi çabasıyla eğitimini tamamlayıp mühendis olması ne tür bir toplumsal hareketliliktir?",
+        "option_a":  "Yatay Hareketlilik",
+        "option_b":  "Yukarı Yönlü Dikey Hareketlilik",
+        "option_c":  "Aşağı Yönlü Dikey Hareketlilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireylerin veya grupların toplumsal yapı içindeki konumlarının değişmesine ne denir?",
+        "option_a":  "Toplumsal Tabakalaşma",
+        "option_b":  "Toplumsal Hareketlilik",
+        "option_c":  "Sosyalleşme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aile, din, siyaset, ekonomi gibi yapılar, toplumun hangi unsurunu oluşturur?",
+        "option_a":  "Toplumsal Kurumlar",
+        "option_b":  "Toplumsal Gruplar",
+        "option_c":  "Toplumsal Değerler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Okulun temel işlevlerinden biri olan, bireylere bilgi ve beceri kazandırma işlevi eğitimin hangi toplumsal işlevine girer?",
+        "option_a":  "Ekonomik İşlev",
+        "option_b":  "Toplumsal İşlev",
+        "option_c":  "Siyasal İşlev",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim sisteminin, toplumun iş gücü ihtiyacını karşılaması, eğitimin hangi toplumsal işlevidir?",
+        "option_a":  "Bireysel İşlev",
+        "option_b":  "Toplumsal İşlev",
+        "option_c":  "Ekonomik İşlev",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitim yoluyla bireylerin iyi birer vatandaş olarak yetiştirilmesi, eğitimin hangi toplumsal işlevidir?",
+        "option_a":  "Siyasal İşlev",
+        "option_b":  "Ekonomik İşlev",
+        "option_c":  "Kültürel İşlev",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Toplumun düzenini ve devamlılığını sağlamak amacıyla bireylerin davranışlarını denetleyen mekanizmaların tümüne ne denir?",
+        "option_a":  "Toplumsal Kontrol",
+        "option_b":  "Toplumsal Hareketlilik",
+        "option_c":  "Toplumsal Değişim",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bireylerin eğitim yoluyla edindikleri bilgi ve becerilerle ülke ekonomisine katkıda bulunmaları, hangi sermaye türünün önemini gösterir?",
+        "option_a":  "Fiziksel Sermaye",
+        "option_b":  "Beşeri (İnsan) Sermaye",
+        "option_c":  "Finansal Sermaye",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin üniversite eğitimi almak için harcadığı zamandan dolayı çalışıp para kazanamaması, ne tür bir eğitim maliyetidir?",
+        "option_a":  "Gizli Maliyet",
+        "option_b":  "Doğrudan Maliyet",
+        "option_c":  "Dolaylı (Fırsat) Maliyet",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Devletin okullar inşa etmesi ve öğretmenlere maaş ödemesi, hangi tür eğitim maliyetine girer?",
+        "option_a":  "Doğrudan Maliyet",
+        "option_b":  "Dolaylı Maliyet",
+        "option_c":  "Bireysel Maliyet",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Eğitim yatırımlarının GSYİH (Gayri Safi Yurt İçi Hasıla) üzerindeki olumlu etkisi, eğitimin hangi yönünü gösterir?",
+        "option_a":  "Eğitimin bireysel faydası",
+        "option_b":  "Eğitimin toplumsal faydası ve ekonomik kalkınmaya etkisi",
+        "option_c":  "Eğitimin maliyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ülkelerin teknolojik gelişmelere ayak uydurabilmesi için eğitim sistemlerinde hangi alana yatırım yapmaları önceliklidir?",
+        "option_a":  "Geleneksel Sanatlar",
+        "option_b":  "AR-GE ve İnovasyon",
+        "option_c":  "Tarımsal Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Vakıflar, dernekler ve özel şirketlerin eğitime yaptığı katkılar, ne tür bir finansman kaynağıdır?",
+        "option_a":  "Kamu Kaynakları",
+        "option_b":  "Özel Kaynaklar",
+        "option_c":  "Uluslararası Kaynaklar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimde fırsat eşitliğini sağlamak ve sosyoekonomik dezavantajları azaltmak için uygulanan burs ve kredi programları, eğitimin hangi ekonomik ilkesiyle ilgilidir?",
+        "option_a":  "Verimlilik",
+        "option_b":  "Sosyal Adalet",
+        "option_c":  "Karlılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitime yapılan harcamaların, gelecekte daha yüksek gelir ve toplumsal refah olarak geri dönmesi, eğitimin hangi özelliğini gösterir?",
+        "option_a":  "Eğitimin bir tüketim harcaması olması",
+        "option_b":  "Eğitimin bir yatırım olması",
+        "option_c":  "Eğitimin bir lüks olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı Dönemi\u0027nde eğitim sisteminin temelini oluşturan kurumlar hangileridir?",
+        "option_a":  "Sıbyan Mektepleri ve Medreseler",
+        "option_b":  "Köy Enstitüleri",
+        "option_c":  "Millet Mektepleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "3 Mart 1924\u0027te kabul edilen Tevhid-i Tedrisat Kanunu\u0027nun en önemli sonucu nedir?",
+        "option_a":  "Medreselerin kapatılması",
+        "option_b":  "Eğitim ve öğretimde birliğin sağlanması",
+        "option_c":  "Yeni harflerin kabul edilmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhuriyetin ilk yıllarında Türkiye\u0027ye davet edilerek eğitim sistemi hakkında raporlar hazırlayan Amerikalı eğitimci kimdir?",
+        "option_a":  "Hilda Taba",
+        "option_b":  "John Dewey",
+        "option_c":  "Ralph Tyler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hasan Ali Yücel\u0027in Milli Eğitim Bakanlığı döneminde, köylere öğretmen ve zanaatkar yetiştirmek amacıyla kurulan özgün eğitim kurumu hangisidir?",
+        "option_a":  "Halk Evleri",
+        "option_b":  "Köy Enstitüleri",
+        "option_c":  "Millet Mektepleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1973 yılında kabul edilen 1739 sayılı kanun ile Türk Eğitim Sisteminin temel yapısı ve ilkeleri belirlenmiştir. Bu kanunun adı nedir?",
+        "option_a":  "Yükseköğretim Kanunu",
+        "option_b":  "Milli Eğitim Temel Kanunu",
+        "option_c":  "Tevhid-i Tedrisat Kanunu",
+        "correct_answer":  "b"
+    }
+]

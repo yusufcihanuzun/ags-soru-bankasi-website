@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Anayasa Mahkemesi, bir kanunun iptal edilmesiyle doğacak hukuki boşluğu önlemek için iptal kararının yürürlüğe girişini en fazla ne kadar erteleyebilir?",
+        "option_a":  "6 ay",
+        "option_b":  "2 yıl",
+        "option_c":  "1 yıl",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Adliye mahkemelerince verilen kararların son inceleme mercii (temyiz mercii) olan yüksek mahkeme hangisidir?",
+        "option_a":  "Danıştay",
+        "option_b":  "Yargıtay",
+        "option_c":  "Uyuşmazlık Mahkemesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yargıtay üyelerini kim seçer?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "TBMM",
+        "option_c":  "Hâkimler ve Savcılar Kurulu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Yargıtay Cumhuriyet Başsavcısını, Yargıtay Genel Kurulu\u0027nun kendi üyeleri arasından göstereceği 5 aday içinden kim seçer?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "Adalet Bakanı",
+        "option_c":  "Hâkimler ve Savcılar Kurulu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İdari mahkemelerce verilen kararların son inceleme mercii olan yüksek mahkeme hangisidir?",
+        "option_a":  "Yargıtay",
+        "option_b":  "Bölge İdare Mahkemesi",
+        "option_c":  "Danıştay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Danıştay üyelerinin dörtte üçünü Hâkimler ve Savcılar Kurulu seçerken, kalan dörtte birini kim seçer?",
+        "option_a":  "Adalet Bakanı",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "TBMM",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Danıştay\u0027ın kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında düşüncesini bildirmesi için tanınan süre ne kadardır?",
+        "option_a":  "1 ay",
+        "option_b":  "2 ay",
+        "option_c":  "60 gün",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözümleyen mahkeme hangisidir?",
+        "option_a":  "Anayasa Mahkemesi",
+        "option_b":  "Yargıtay",
+        "option_c":  "Uyuşmazlık Mahkemesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Uyuşmazlık Mahkemesi\u0027nin başkanını, kendi üyeleri arasından kim görevlendirir?",
+        "option_a":  "Anayasa Mahkemesi",
+        "option_b":  "Yargıtay",
+        "option_c":  "Danıştay",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir davanın aynı zamanda hem adli hem de idari yargıda görülmesi gibi bir görev uyuşmazlığında son kararı kim verir?",
+        "option_a":  "Danıştay",
+        "option_b":  "Uyuşmazlık Mahkemesi",
+        "option_c":  "Yargıtay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hâkimler ve Savcılar Kurulu kaç üyeden oluşur?",
+        "option_a":  "11",
+        "option_b":  "13",
+        "option_c":  "15",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hâkimler ve Savcılar Kurulu\u0027nun (HSK) doğal başkanı kimdir?",
+        "option_a":  "Cumhurbaşkanı",
+        "option_b":  "Adalet Bakanı",
+        "option_c":  "Yargıtay Başkanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hâkimler ve Savcılar Kurulu\u0027na TBMM kaç üye seçer?",
+        "option_a":  "3",
+        "option_b":  "5",
+        "option_c":  "7",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hâkimler ve Savcılar Kurulu\u0027na Cumhurbaşkanı kaç üye seçer?",
+        "option_a":  "4",
+        "option_b":  "7",
+        "option_c":  "12",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "HSK üyelerinin görev süresi kaç yıldır?",
+        "option_a":  "12 yıl",
+        "option_b":  "6 yıl",
+        "option_c":  "4 yıl",
+        "correct_answer":  "c"
+    }
+]

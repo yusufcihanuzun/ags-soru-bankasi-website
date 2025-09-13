@@ -1,0 +1,86 @@
+﻿[
+    {
+        "question_text":  "Üzüm üretiminde ilk sırada yer alan bölgemiz hangisidir?",
+        "option_a":  "İç Anadolu Bölgesi",
+        "option_b":  "Ege Bölgesi",
+        "option_c":  "Güneydoğu Anadolu Bölgesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tropikal bir meyve olan ve Türkiye\u0027de sadece Akdeniz kıyılarındaki Anamur, Alanya gibi çok dar bir alanda (mikroiklim) yetiştirilebilen ürün hangisidir?",
+        "option_a":  "Avokado",
+        "option_b":  "Kivi",
+        "option_c":  "Muz",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin kuru kayısı üretiminde dünya birincisi olmasını sağlayan ve kayısı tarımının en yoğun yapıldığı ilimiz hangisidir?",
+        "option_a":  "Malatya",
+        "option_b":  "Elazığ",
+        "option_c":  "Erzincan",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kuraklığa dayanıklı olması nedeniyle en çok Güneydoğu Anadolu Bölgesi\u0027nde (Şanlıurfa, Gaziantep) yetiştirilen ürün hangisidir?",
+        "option_a":  "Antep Fıstığı",
+        "option_b":  "Yer Fıstığı",
+        "option_c":  "Fındık",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kış mevsiminde sebze üretimi yapmak amacıyla kurulan, kış ılıklığı ve güneşli gün sayısının fazla olmasını gerektiren tarımsal faaliyet hangisidir?",
+        "option_a":  "Nöbetleşe ekim",
+        "option_b":  "Seracılık",
+        "option_c":  "Nadas",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de seracılık faaliyetlerinin en gelişmiş olduğu bölge hangisidir?",
+        "option_a":  "Ege Bölgesi",
+        "option_b":  "Akdeniz Bölgesi",
+        "option_c":  "Marmara Bölgesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Çiftçinin ürününü korumak ve piyasayı düzenlemek amacıyla 1930-1950 döneminde kurulan ve bugün de faaliyet gösteren önemli devlet kurumu hangisidir?",
+        "option_a":  "Ziraat Bankası",
+        "option_b":  "Toprak Mahsulleri Ofisi (TMO)",
+        "option_c":  "Tarım Kredi Kooperatifleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Şeker pancarı fabrikasyonundan arta kalan ve hayvan yemi olarak kullanıldığı için besi hayvancılığını destekleyen yan ürünün adı nedir?",
+        "option_a":  "Melas",
+        "option_b":  "Küspe",
+        "option_c":  "Posa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Lifleri için yetiştirilen ve üretimi devlet kontrolünde olan kenevir ve keten tarımı en çok hangi bölgemizde yapılır?",
+        "option_a":  "Doğu Anadolu",
+        "option_b":  "Batı Karadeniz",
+        "option_c":  "İç Anadolu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Trakya\u0027da ayçiçeği ile birlikte ekimi yaygınlaşan ve bir yağ bitkisi olan ürün hangisidir?",
+        "option_a":  "Susam",
+        "option_b":  "Kanola",
+        "option_c":  "Soya Fasulyesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027deki muz üretimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+        "option_a":  "Üretim ülke ihtiyacını karşıladığı için ihraç edilir.",
+        "option_b":  "Üretim ülke ihtiyacını karşılamadığı için ithal edilir.",
+        "option_c":  "Türkiye muz üretiminde dünyada ilk sıradadır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Trakya dışında, pirinç (çeltik) tarımının yapıldığı önemli alanlara hangisi örnek gösterilebilir?",
+        "option_a":  "Konya Ovası",
+        "option_b":  "Samsun (Bafra Ovası)",
+        "option_c":  "Ankara (Polatlı)",
+        "correct_answer":  "b"
+    }
+]

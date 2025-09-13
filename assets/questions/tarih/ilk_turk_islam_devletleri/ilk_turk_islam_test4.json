@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Gaznelilerin, Selçuklularla yaptıkları ve kaybetmeleri sonucu yıkılış sürecine girmelerine neden olan savaş hangisidir?",
+        "option_a":  "Pasinler Savaşı",
+        "option_b":  "Malazgirt Savaşı",
+        "option_c":  "Dandanakan Savaşı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Büyük Selçuklular ile Bizans İmparatorluğu arasında yapılan ilk büyük ve önemli savaş hangisidir?",
+        "option_a":  "Dandanakan",
+        "option_b":  "Pasinler",
+        "option_c":  "Malazgirt",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Büyük Selçuklu Devleti hangi hükümdar döneminde en parlak zamanını yaşamıştır?",
+        "option_a":  "Tuğrul Bey",
+        "option_b":  "Alparslan",
+        "option_c":  "Sultan Melikşah",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Büyük Selçuklu Devleti\u0027nde devlet adamlarına suikastler düzenleyen ve devletin yıkılmasında etkili olan Batıni (Haşhaşilik) hareketinin lideri kimdir?",
+        "option_a":  "Nizamülmülk",
+        "option_b":  "Hasan Sabbah",
+        "option_c":  "Sultan Sencer",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tolunoğulları Devleti hangi hükümdar zamanında en parlak dönemini yaşamıştır?",
+        "option_a":  "Tolunoğlu Ahmet",
+        "option_b":  "Muhammed Bin Togaç",
+        "option_c":  "Baybars",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Abbasi halifesinin, Hicaz\u0027a sahip olmasından dolayı Muhammed bin Togaç\u0027a verdiği \u0027güneş gibi parlak\u0027 anlamına gelen unvan hangisidir?",
+        "option_a":  "İhşid",
+        "option_b":  "Akşit",
+        "option_c":  "Emir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Mama Hatun Türbesi\u0027 ve \u0027Üç Kümbetler\u0027 hangi Anadolu beyliğine ait önemli mimari eserlerdir?",
+        "option_a":  "Saltuklular",
+        "option_b":  "Danişmentliler",
+        "option_c":  "Mengücekler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sibernetik biliminin kurucusu olarak kabul edilen El-Cezeri, hangi beyliğin himayesinde çalışmalarını yürütmüştür?",
+        "option_a":  "Saltuklular",
+        "option_b":  "Mengücekler",
+        "option_c":  "Artuklular",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İlk Türk denizcisi Çaka Bey\u0027in 1081 yılında kurduğu donanma, günümüzde hangi kurumun kuruluş yıl dönümü olarak kutlanmaktadır?",
+        "option_a":  "Kara Kuvvetleri Komutanlığı",
+        "option_b":  "Deniz Kuvvetleri Komutanlığı",
+        "option_c":  "Jandarma Genel Komutanlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kendilerini Büyük Selçuklu Devleti\u0027nin mirasçısı olarak gören ve Otrar Faciası\u0027nı yaşayan devlet hangisidir?",
+        "option_a":  "Harzemşahlar",
+        "option_b":  "Akkoyunlular",
+        "option_c":  "Timur Devleti",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Astronomi ve matematik alanında büyük çalışmalar yapan Ali Kuşçu ve Uluğ Bey gibi bilim insanları hangi devlet döneminde yetişmiştir?",
+        "option_a":  "Babür İmparatorluğu",
+        "option_b":  "Akkoyunlular",
+        "option_c":  "Timur Devleti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türk-İslam devletlerinde hükümdarın atlarının bakımından sorumlu olan saray görevlisi kimdir?",
+        "option_a":  "Camedar",
+        "option_b":  "Serhenk",
+        "option_c":  "Emir-i Ahur",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hükümdarın av partilerini organize eden saray görevlisine ne ad verilirdi?",
+        "option_a":  "Emir-i Şikar",
+        "option_b":  "Taştdar",
+        "option_c":  "Candar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Selçuklularda mali işlerden sorumlu olan Divan-ı İstifa\u0027nın başındaki görevliye ne ad verilirdi?",
+        "option_a":  "Müstevfi",
+        "option_b":  "Müşrif",
+        "option_c":  "Emir-i Arz",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Gayrimüslimlerin mülkiyetinde olan topraklara ne ad verilirdi?",
+        "option_a":  "Öşri",
+        "option_b":  "Haraci",
+        "option_c":  "Has",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk-İslam medreselerinden mezun olanlara verilen diplomaya ne ad verilirdi?",
+        "option_a":  "Danişment",
+        "option_b":  "İcazetname",
+        "option_c":  "Müderris",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Gümüş işleme sanatına ne ad verilir?",
+        "option_a":  "Malakâri",
+        "option_b":  "Telkâri",
+        "option_c":  "Vitray",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Duvarları alçı kabartmalarla süsleme sanatına ne ad verilir?",
+        "option_a":  "Malakâri",
+        "option_b":  "Vitray",
+        "option_c":  "Ebru",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Karahanlılardan günümüze kalan mimari eserler arasında yer alan ve Bibi Hatun Türbesi olarak da bilinen yapı hangisidir?",
+        "option_a":  "Arap Ata Türbesi",
+        "option_b":  "Ayşe Bibi Türbesi",
+        "option_c":  "Talhatan Baba Camii",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Huccet-ül İslam\u0027 (İslam\u0027ın Delili) lakabıyla bilinen, Nizamiye Medresesi\u0027nde rektörlük yapmış ve \u0027İhyaül Ulumuddin\u0027 eserinin sahibi olan alim kimdir?",
+        "option_a":  "Farabi",
+        "option_b":  "Gazali",
+        "option_c":  "Ömer Hayyam",
+        "correct_answer":  "b"
+    }
+]

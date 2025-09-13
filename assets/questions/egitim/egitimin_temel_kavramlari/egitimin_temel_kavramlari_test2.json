@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Okul ve ailenin iş birliği içinde çalışarak eğitimin hedeflerine daha etkili bir şekilde ulaşmasını amaçlayan ilke hangisidir?",
+        "option_a":  "Demokrasi Eğitimi",
+        "option_b":  "Ferdin ve Toplumun İhtiyaçları",
+        "option_c":  "Okul ile Ailenin İş Birliği",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Okulda kız ve erkek öğrencilerin bir arada eğitim görmesi esasına dayanan Milli Eğitim Temel İlkesi hangisidir?",
+        "option_a":  "Karma Eğitim",
+        "option_b":  "Genellik ve Eşitlik",
+        "option_c":  "Laiklik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "1739 Sayılı Milli Eğitim Temel Kanunu hangi konuyu düzenlemektedir?",
+        "option_a":  "Yükseköğretim personel rejimini",
+        "option_b":  "Türk Milli Eğitim sisteminin temel ilkelerini ve yapısını",
+        "option_c":  "İlköğretim ve Eğitim Kanunu\u0027nu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk milli eğitiminin hem bireyin hem de toplumun beklentilerini dengeleyerek karşılamasını ifade eden ilke aşağıdakilerden hangisidir?",
+        "option_a":  "Fırsat ve İmkân Eşitliği",
+        "option_b":  "Ferdin ve Toplumun İhtiyaçları",
+        "option_c":  "Her Yerde Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sadece okulda değil, evde, iş yerinde, kısacası her ortamda eğitimin devamlılığını savunan ilke hangisidir?",
+        "option_a":  "Süreklilik",
+        "option_b":  "Her Yerde Eğitim",
+        "option_c":  "Planlılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Din kültürü ve ahlak öğretiminin, ilköğretim ve ortaöğretim kurumlarında zorunlu dersler arasında okutulması, hangi temel ilkenin bir gereğidir?",
+        "option_a":  "Bilimsellik",
+        "option_b":  "Laiklik",
+        "option_c":  "Demokrasi Eğitimi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretim programlarına Atatürk\u0027ün ilke ve inkılaplarını, düşünce sistemini ve milliyetçilik anlayışını yansıtan konuların konulması hangi temel ilkeyle doğrudan ilişkilidir?",
+        "option_a":  "Laiklik",
+        "option_b":  "Demokrasi Eğitimi",
+        "option_c":  "Atatürk İnkılap ve İlkeleri ve Atatürk Milliyetçiliği",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitim kurumlarında öğrencilere seçme, seçilme ve kendi kendini yönetme becerilerinin kazandırılması hangi ilkenin önemini vurgular?",
+        "option_a":  "Demokrasi Eğitimi",
+        "option_b":  "Yöneltme",
+        "option_c":  "Eşitlik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "222 Sayılı Kanun aşağıdakilerden hangisini düzenler?",
+        "option_a":  "Milli Eğitim Temel Kanunu",
+        "option_b":  "Yükseköğretim Kanunu",
+        "option_c":  "İlköğretim ve Eğitim Kanunu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "222 Sayılı Kanun\u0027a göre mecburi ilköğretim çağı hangi yaş aralığını kapsar?",
+        "option_a":  "5-13 yaş grubu",
+        "option_b":  "6-14 yaş grubu",
+        "option_c":  "7-15 yaş grubu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin ilköğretim diploması alabilmesi için hangi kademeyi başarıyla tamamlaması gerekir?",
+        "option_a":  "İlkokul",
+        "option_b":  "Ortaokul",
+        "option_c":  "Lise",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okul öncesi eğitimin temel amacı nedir?",
+        "option_a":  "Çocuklara okuma yazma öğretmek",
+        "option_b":  "Çocukları ilköğretime hazırlamak",
+        "option_c":  "Çocukları mesleğe yöneltmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi okul öncesi eğitimin zorunlu olmamasının bir istisnası veya hedeflenen durumudur?",
+        "option_a":  "Zihinsel engelli çocuklar için zorunludur.",
+        "option_b":  "Kalkınmada öncelikli yörelerde zorunlu hale getirilebilir.",
+        "option_c":  "Milli Eğitim Bakanlığı, ihtiyaca göre 5 yaş grubunu zorunlu eğitim kapsamına alabilir.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İlköğretimin temel amacı aşağıdakilerden hangisidir?",
+        "option_a":  "Öğrencileri doğrudan bir mesleğe hazırlamak",
+        "option_b":  "Çocukların iyi birer vatandaş olmalarını sağlamak ve onları ortaöğretime hazırlamak",
+        "option_c":  "Öğrencilere bilimsel araştırma becerileri kazandırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ortaöğretimin (Lise) en temel amacı nedir?",
+        "option_a":  "Öğrencileri sadece mesleğe hazırlamak",
+        "option_b":  "Öğrencilere genel kültür kazandırmak ve onları yükseköğretime veya hayata hazırlamak",
+        "option_c":  "Tüm öğrencilerin üniversiteye gitmesini sağlamak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "657 Sayılı Devlet Memurları Kanunu\u0027na göre, memurların bulundukları sınıfta ilerleyebilecekleri en son kademeye ne ad verilir?",
+        "option_a":  "Derece",
+        "option_b":  "Kademe",
+        "option_c":  "Kazanılmış Hak Aylığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir memurun, bulunduğu derecede bir ilerleme basamağı yukarı çıkmasına ne denir?",
+        "option_a":  "Derece Yükselmesi",
+        "option_b":  "Kademe İlerlemesi",
+        "option_c":  "Terfi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Devlet memurunun kademe ilerlemesi yapabilmesi için bulunduğu kademede en az ne kadar süre çalışmış olması gerekir?",
+        "option_a":  "6 ay",
+        "option_b":  "1 yıl",
+        "option_c":  "2 yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir memurun derece yükselmesi yapabilmesi için temel şartlardan biri nedir?",
+        "option_a":  "Üst dereceden boş bir kadronun bulunması",
+        "option_b":  "En az 5 yıl aynı kademede çalışması",
+        "option_c":  "Yüksek lisans yapmış olması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "657 Sayılı Kanun\u0027a göre aday memurluk süresi en az ve en çok ne kadardır?",
+        "option_a":  "6 ay - 1 yıl",
+        "option_b":  "1 yıl - 2 yıl",
+        "option_c":  "1 yıl - 3 yıl",
+        "correct_answer":  "b"
+    }
+]

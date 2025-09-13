@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "İdari yargıda \u0027istinaf\u0027 mercii olarak görev yapan mahkeme hangisidir?",
+        "option_a":  "Danıştay",
+        "option_b":  "İdare Mahkemesi",
+        "option_c":  "Bölge İdare Mahkemesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Adli yargı ile idari yargı dışında kalan bir uyuşmazlığın çözüm yeri neresidir?",
+        "option_a":  "Anayasa Mahkemesi",
+        "option_b":  "Uyuşmazlık Mahkemesi",
+        "option_c":  "Konuyla ilgili kanunlarda belirtilir.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "HSK\u0027nın doğal üyesi olan Adalet Bakanlığı Müsteşarı\u0027nın üyeliği hangi anayasa değişikliği ile kaldırılmıştır?",
+        "option_a":  "2010",
+        "option_b":  "2017",
+        "option_c":  "Hiçbir zaman üye olmamıştır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM\u0027nin HSK\u0027ya seçeceği 7 üye için başvurular nereye yapılır?",
+        "option_a":  "Adalet Komisyonu\u0027na",
+        "option_b":  "TBMM Başkanlığı\u0027na",
+        "option_c":  "Anayasa Komisyonu\u0027na",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "HSK üyeleri görevleri süresince başka bir görev alabilirler mi?",
+        "option_a":  "Evet, kanundaki istisnalar dışında alabilirler.",
+        "option_b":  "Hayır, kanunda belirtilenler dışında başka bir görev alamazlar.",
+        "option_c":  "Sadece bilimsel görevler alabilirler.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mahkemelerin kuruluşu, görev ve yetkileri ne ile düzenlenir?",
+        "option_a":  "Anayasa",
+        "option_b":  "Kanun",
+        "option_c":  "Cumhurbaşkanlığı Kararnamesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yüksek Seçim Kurulu, Anayasa\u0027nın hangi bölümünde düzenlenmiştir?",
+        "option_a":  "Yargı",
+        "option_b":  "Yürütme",
+        "option_c":  "Yasama",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "TBMM, Anayasa Mahkemesi\u0027ne baro başkanlarının göstereceği kaç aday arasından 1 üye seçer?",
+        "option_a":  "Üç",
+        "option_b":  "Beş",
+        "option_c":  "Yedi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi, bir kanunun iptal edilmesi yönünde karar verirken, kanun koyucu gibi hareket ederek yeni bir uygulamaya yol açacak biçimde hüküm kurabilir mi?",
+        "option_a":  "Evet, kurabilir.",
+        "option_b":  "Hayır, kuramaz.",
+        "option_c":  "Sadece TBMM\u0027nin onayıyla kurabilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi\u0027ne bireysel başvuru hakkı ilk kez hangi yıl yapılan anayasa değişikliği ile getirilmiştir?",
+        "option_a":  "2007",
+        "option_b":  "2010",
+        "option_c":  "2017",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir mahkemenin veya kadronun kaldırılması sebebiyle hâkim ve savcılar aylık ve ödeneklerinden yoksun bırakılabilir mi?",
+        "option_a":  "Evet, bütçe imkanlarına göre bırakılabilir.",
+        "option_b":  "Hayır, hiçbir suretle yoksun kılınamaz.",
+        "option_c":  "Sadece Cumhurbaşkanı kararıyla yoksun bırakılabilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Danıştay Başkanı\u0027nın görev süresi kaç yıldır?",
+        "option_a":  "12 yıl",
+        "option_b":  "6 yıl",
+        "option_c":  "4 yıl",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "HSK\u0027nın meslekten çıkarma kararlarına karşı yargı denetimini hangi mahkeme yapar?",
+        "option_a":  "Anayasa Mahkemesi",
+        "option_b":  "Danıştay",
+        "option_c":  "Yargıtay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027İstinaf\u0027 hangi anlama gelen bir kanun yoludur?",
+        "option_a":  "İlk derece mahkemesi kararının bir üst mahkemede yeniden incelenmesi",
+        "option_b":  "Davanın en baştan başka bir mahkemede görülmesi",
+        "option_c":  "Yüksek mahkeme kararının düzeltilmesi istemi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Yargıtay Cumhuriyet Başsavcısı\u0027nın görev süresi kaç yıldır?",
+        "option_a":  "6 yıl",
+        "option_b":  "5 yıl",
+        "option_c":  "4 yıl",
+        "correct_answer":  "c"
+    }
+]

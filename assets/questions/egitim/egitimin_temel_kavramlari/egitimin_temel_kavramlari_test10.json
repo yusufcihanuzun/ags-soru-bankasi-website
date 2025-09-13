@@ -1,0 +1,135 @@
+﻿[
+    {
+        "question_text":  "Holland\u0027ın Tipoloji Kuramı\u0027na göre, alet ve makinelerle çalışmayı seven, açık havada olmayı tercih eden, sabırlı ve pratik bireyler hangi kişilik tipine aittir?",
+        "option_a":  "Araştırmacı Tip",
+        "option_b":  "Gerçekçi Tip",
+        "option_c":  "Girişimci Tip",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bilimsel faaliyetlere ilgi duyan, gözlem yapmayı, araştırmayı seven, eleştirel ve analitik düşünen bireyler hangi kişilik tipindedir?",
+        "option_a":  "Sanatçı Tip",
+        "option_b":  "Sosyal Tip",
+        "option_c":  "Araştırmacı (Aydın) Tip",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Başkalarına yardım etmekten hoşlanan, iş birliğine yatkın, sabırlı ve empati kurabilen bireyler (öğretmen, hemşire vb.) hangi kişilik tipine girer?",
+        "option_a":  "Sosyal Tip",
+        "option_b":  "Gelenekçi Tip",
+        "option_c":  "Girişimci Tip",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Liderlik özelliklerine sahip, başkalarını ikna etmeyi seven, dışa dönük, enerjik ve kendine güvenen bireyler (politikacı, pazarlamacı vb.) hangi kişilik tipindedir?",
+        "option_a":  "Gerçekçi Tip",
+        "option_b":  "Girişimci Tip",
+        "option_c":  "Araştırmacı Tip",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurallara uymayı, düzenli ve sistemli çalışmayı seven, ayrıntılara dikkat eden, titiz ve dikkatli bireyler (muhasebeci, kütüphaneci vb.) hangi kişilik tipine aittir?",
+        "option_a":  "Gelenekçi Tip",
+        "option_b":  "Sosyal Tip",
+        "option_c":  "Sanatçı Tip",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Hayal gücü geniş, estetik kaygıları olan, bağımsız çalışmayı seven ve yaratıcı bireyler (müzisyen, yazar, ressam vb.) hangi kişilik tipindedir?",
+        "option_a":  "Girişimci Tip",
+        "option_b":  "Sanatçı Tip",
+        "option_c":  "Gerçekçi Tip",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ginzberg\u0027in Mesleki Gelişim Kuramı\u0027na göre, çocukların meslekleri sadece hayallerine ve oyunlarına göre değerlendirdiği dönem hangisidir?",
+        "option_a":  "İlgi Aşaması",
+        "option_b":  "Fantezi (Hayal) Dönemi",
+        "option_c":  "Yetenek Aşaması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ergenlik döneminde bireyin meslek seçiminde kendi değerlerini, beklentilerini ve hedeflerini göz önünde bulundurmaya başladığı aşama Ginzberg\u0027e göre hangisidir?",
+        "option_a":  "Geçiş Aşaması",
+        "option_b":  "Değer Aşaması",
+        "option_c":  "Keşfetme Aşaması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireyin kendi özellikleriyle mesleklerin gerektirdiği nitelikleri karşılaştırarak bir denge kurmaya çalıştığı ve bir mesleğe karar verdiği Super\u0027in kuramındaki evre hangisidir?",
+        "option_a":  "Büyüme Evresi",
+        "option_b":  "Araştırma (Keşfetme) Evresi",
+        "option_c":  "Yerleşme Evresi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir bireyin, \u0027Ben kimim?\u0027, \u0027Nasıl biriyim?\u0027 gibi sorulara verdiği cevapların tümünün oluşturduğu kavrama ne ad verilir?",
+        "option_a":  "Benlik Tasarımı",
+        "option_b":  "Öz Yeterlilik",
+        "option_c":  "Kişilik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir okulda rehberlik hizmetlerinin planlanması, yürütülmesi ve değerlendirilmesinden birinci derecede sorumlu olan kişi kimdir?",
+        "option_a":  "Sınıf Rehber Öğretmeni",
+        "option_b":  "Okul Müdürü",
+        "option_c":  "Psikolojik Danışman",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sınıfındaki öğrencilerin gelişimlerini takip eden, onları daha yakından tanıyan ve okul rehberlik servisiyle iş birliği içinde çalışan öğretmen kimdir?",
+        "option_a":  "Branş Öğretmeni",
+        "option_b":  "Sınıf Rehber Öğretmeni",
+        "option_c":  "Müdür Yardımcısı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulun rehberlik ve psikolojik danışma programını hazırlayan ve yürüten, bireysel ve grupla psikolojik danışma hizmeti sunan uzman kimdir?",
+        "option_a":  "Sınıf Rehber Öğretmeni",
+        "option_b":  "Okul Psikolojik Danışmanı",
+        "option_c":  "Rehberlik Araştırma Merkezi Müdürü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Özel eğitim gerektiren öğrencilerin tanılanması, yerleştirilmesi ve izlenmesi süreçlerini yürüten il/ilçe düzeyindeki kurum hangisidir?",
+        "option_a":  "Halk Eğitim Merkezi",
+        "option_b":  "Okul Rehberlik Servisi",
+        "option_c":  "Rehberlik ve Araştırma Merkezi (RAM)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Okulda şiddet olaylarının artması üzerine, tüm okula yönelik olarak \u0027Akran Zorbalığı\u0027 konulu bir seminer düzenlenmesi, hangi rehberlik modeline uygundur?",
+        "option_a":  "Krize Müdahale Edici Rehberlik",
+        "option_b":  "Gelişimsel Rehberlik",
+        "option_c":  "İyileştirici Rehberlik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sınav kaygısı yaşayan bir grup öğrenciyle, kaygılarını yönetme becerilerini geliştirmek amacıyla grup rehberliği yapılması, hangi işlevdeki rehberliğe örnektir?",
+        "option_a":  "Önleyici",
+        "option_b":  "İyileştirici (Çare Bulucu)",
+        "option_c":  "Krize Müdahale",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulda yaşanan bir doğal afet veya bir öğrencinin ani kaybı gibi travmatik bir olay sonrasında sunulan acil psikolojik destek hizmeti, hangi işlevdeki rehberliğe girer?",
+        "option_a":  "Ayarlayıcı",
+        "option_b":  "Geliştirici",
+        "option_c":  "Krize Müdahale",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir okulun rehberlik programının, o okulun ve çevresinin ihtiyaçlarına göre özel olarak planlanıp hazırlanması, rehberliğin hangi ilkesiyle doğrudan ilgilidir?",
+        "option_a":  "Gizlilik",
+        "option_b":  "Gönüllülük",
+        "option_c":  "Rehberlik programı okulun ihtiyaçlarına göre hazırlanır.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğrencinin psikolojik danışma sürecinde paylaştığı özel bilgilerin, yasal zorunluluklar dışında onun izni olmadan kimseyle paylaşılmaması, hangi etik ilkenin gereğidir?",
+        "option_a":  "Yetkinlik",
+        "option_b":  "Gizlilik",
+        "option_c":  "Dürüstlük",
+        "correct_answer":  "b"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "I. Jeolojik zamanda oluşmuş ve demir-çelik sanayisinin temel enerji kaynağı olan taş kömürü yatakları hangi ilimizdedir?",
+        "option_a":  "Zonguldak",
+        "option_b":  "Manisa",
+        "option_c":  "Kahramanmaraş",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kahramanmaraş (Afşin-Elbistan), Manisa (Soma) ve Kütahya (Tunçbilek) gibi yerlerde çıkarılarak termik santrallerde elektrik üretilen enerji kaynağı hangisidir?",
+        "option_a":  "Taş Kömürü",
+        "option_b":  "Doğal Gaz",
+        "option_c":  "Linyit",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027de petrolün çıkarıldığı Batman, Adıyaman ve Siirt gibi iller hangi coğrafi bölgemizde yer alır?",
+        "option_a":  "İç Anadolu Bölgesi",
+        "option_b":  "Güneydoğu Anadolu Bölgesi",
+        "option_c":  "Ege Bölgesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi Türkiye\u0027de bulunan petrol rafinerilerinden biri değildir?",
+        "option_a":  "Aliağa (İzmir)",
+        "option_b":  "Tüpraş (İzmit)",
+        "option_c":  "Seydişehir (Konya)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kırklareli (Hamitabat), İstanbul (Ambarlı) ve Bursa (Ovaakça) ne tür enerji santrallerine ev sahipliği yapmaktadır?",
+        "option_a":  "Doğal Gaz Çevrim Santralleri",
+        "option_b":  "Hidroelektrik Santralleri",
+        "option_c":  "Jeotermal Santraller",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Uranyum ve Toryum gibi radyoaktif mineraller kullanılarak elektrik üretilecek olan Türkiye\u0027nin ilk nükleer santrali hangi ilimizde inşa edilmektedir?",
+        "option_a":  "Sinop",
+        "option_b":  "Mersin (Akkuyu)",
+        "option_c":  "Kırklareli (İğneada)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin yer şekillerinin engebeli ve akarsu debilerinin yüksek olması, en çok hangi yenilenebilir enerji kaynağının potansiyelini artırmaktadır?",
+        "option_a":  "Güneş Enerjisi",
+        "option_b":  "Hidroelektrik Enerji",
+        "option_c":  "Rüzgâr Enerjisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Fay hatlarına bağlı olarak sıcak su kaynaklarının bol olduğu Denizli (Sarayköy) ve Aydın (Germencik) hangi enerji türü için önemli bir potansiyele sahiptir?",
+        "option_a":  "Jeotermal Enerji",
+        "option_b":  "Biyokütle Enerjisi",
+        "option_c":  "Nükleer Enerji",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin ilk rüzgâr santralinin kurulduğu İzmir (Çeşme) ile birlikte Balıkesir, Çanakkale ve Hatay gibi iller hangi enerji türünde öne çıkmaktadır?",
+        "option_a":  "Güneş Enerjisi",
+        "option_b":  "Rüzgâr Enerjisi",
+        "option_c":  "Hidroelektrik Enerji",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bulutluluğun en az olduğu Güneydoğu Anadolu Bölgesi\u0027nin, hangi yenilenebilir enerji kaynağı açısından en yüksek potansiyele sahip olduğu söylenebilir?",
+        "option_a":  "Rüzgâr Enerjisi",
+        "option_b":  "Güneş Enerjisi",
+        "option_c":  "Jeotermal Enerji",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Demir madeni yatakları arasında sayılan Balıkesir (Eymir), Bingöl (Avnik) ve Kırıkkale (Kesikköprü) gibi yerlerin ortak özelliği nedir?",
+        "option_a":  "İşletmeye henüz açılmamış olmaları",
+        "option_b":  "İkincil derecede öneme sahip demir yatakları olmaları",
+        "option_c":  "Sadece demir-çelik fabrikalarına yakın olmaları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Rize (Çayeli) ve Elazığ (Maden) hangi metalik madenin çıkarıldığı diğer önemli sahalardır?",
+        "option_a":  "Bakır",
+        "option_b":  "Demir",
+        "option_c":  "Krom",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Krom madeni çıkarılan yerler arasında Elazığ (Guleman) ve Muğla (Köyceğiz) dışında aşağıdakilerden hangisi de sayılmıştır?",
+        "option_a":  "Bursa",
+        "option_b":  "Zonguldak",
+        "option_c":  "Artvin",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Boksit (Alüminyum) madeninin çıkarıldığı yerler arasında Konya (Seydişehir) dışında hangi ilimiz de yer almaktadır?",
+        "option_a":  "Antalya (Akseki)",
+        "option_b":  "Mardin (Mazıdağı)",
+        "option_c":  "Kastamonu (Küre)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin dünya rezervlerinde lider olduğu bor madeninin çıkarıldığı yerler arasında aşağıdakilerden hangisi yoktur?",
+        "option_a":  "Eskişehir (Kırka)",
+        "option_b":  "Bursa (Kestelek)",
+        "option_c":  "İzmir (Ödemiş)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Günümüzde kükürt ihtiyacının, kapatılan Isparta (Keçiborlu) madeni yerine hangi tesislerden karşılandığı belirtilmiştir?",
+        "option_a":  "Demir-çelik fabrikalarından",
+        "option_b":  "Petrol rafinerilerinden",
+        "option_c":  "Ferrokrom tesislerinden",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurşun ve çinko yataklarının genellikle bir arada bulunduğu belirtilerek, hangi iki ilimiz bu madenler için önemli örnek olarak verilmiştir?",
+        "option_a":  "Elazığ ve Kayseri",
+        "option_b":  "Zonguldak ve Bartın",
+        "option_c":  "Manisa ve Balıkesir",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sanayide pas önleyici olarak ve pil yapımında kullanılan, Türkiye\u0027de yatakları olmasına rağmen genellikle ithal edilen maden hangisidir?",
+        "option_a":  "Antimon",
+        "option_b":  "Manganez",
+        "option_c":  "Kalay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Çok sert ve ısıya dayanıklı olduğu için özel alaşımlı çelik ve uzay araçları yapımında kullanılan Volfram (Tungsten) madeni en çok nerede çıkarılır?",
+        "option_a":  "Bursa (Uludağ)",
+        "option_b":  "Sivas (Divriği)",
+        "option_c":  "Konya (Seydişehir)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de kaya tuzu yataklarının bulunduğu yerler arasında aşağıdakilerden hangisi sayılmamıştır?",
+        "option_a":  "Çankırı, Kars, Iğdır",
+        "option_b":  "Nevşehir, Yozgat, Kırşehir",
+        "option_c":  "Mersin, Antalya, Adana",
+        "correct_answer":  "c"
+    }
+]

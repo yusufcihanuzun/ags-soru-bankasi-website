@@ -1,0 +1,170 @@
+﻿[
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, aşağıdakilerden hangisi Anayasa metnine dâhil değildir?",
+        "option_a":  "Başlangıç metni",
+        "option_b":  "Geçici hükümler",
+        "option_c":  "Madde kenar başlıkları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türk anayasalarında \u0027Başlangıç\u0027 metnine ilk kez hangi anayasada yer verilmiştir?",
+        "option_a":  "1924 Anayasası\u0027nda",
+        "option_b":  "1961 Anayasası\u0027nda",
+        "option_c":  "1982 Anayasası\u0027nda",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, aşağıdakilerden hangisi değiştirilemez ve değiştirilmesi teklif edilemez hükümler arasında yer almaz?",
+        "option_a":  "Devletin şeklinin Cumhuriyet olduğu",
+        "option_b":  "Cumhuriyetin nitelikleri",
+        "option_c":  "Yasama yetkisinin TBMM\u0027ye ait olması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027nın 1. Maddesi\u0027nde belirtilen Türkiye Devleti\u0027nin şekli aşağıdakilerden hangisidir?",
+        "option_a":  "Cumhuriyet",
+        "option_b":  "Parlamenter sistem",
+        "option_c":  "Başkanlık sistemi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027nın 3. Maddesi\u0027ne göre, Türkiye Devleti\u0027nin bayrağının şekli nerede belirtilmiştir?",
+        "option_a":  "Anayasada",
+        "option_b":  "Kanunda",
+        "option_c":  "Cumhurbaşkanlığı Kararnamesi\u0027nde",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi 1982 Anayasası\u0027nın 2. Maddesi\u0027nde sayılan Cumhuriyet\u0027in niteliklerinden biri değildir?",
+        "option_a":  "Sosyalist devlet",
+        "option_b":  "Sosyal bir hukuk devleti",
+        "option_c":  "Atatürk milliyetçiliğine bağlı devlet",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "1961 Anayasası\u0027nda \u0027insan haklarına dayanan devlet\u0027 olarak ifade edilen ilke, 1982 Anayasası\u0027nda nasıl ifade edilmiştir?",
+        "option_a":  "İnsan haklarını koruyan devlet",
+        "option_b":  "İnsan haklarına saygılı devlet",
+        "option_c":  "İnsan haklarını gözeten devlet",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027nda benimsenen subjektif millet anlayışına göre \u0027Türk\u0027 tanımı neye dayanır?",
+        "option_a":  "Irk ve din birliğine",
+        "option_b":  "Vatandaşlık bağına",
+        "option_c":  "Coğrafi kökene",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Seçimlerde servet, öğrenim, cinsiyet gibi sınırlamalar olmadan herkesin oy hakkına sahip olması hangi ilkeyi ifade eder?",
+        "option_a":  "Eşit oy",
+        "option_b":  "Genel oy",
+        "option_c":  "Tek dereceli seçim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de gizli oy ve açık sayım ilkesi ilk kez hangi yıl yapılan seçimlerde benimsenmiştir?",
+        "option_a":  "1946",
+        "option_b":  "1950",
+        "option_c":  "1961",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi laik devletin unsurlarından biri değildir?",
+        "option_a":  "Devletin bütün dinlere karşı tarafsız olması",
+        "option_b":  "Dinî ayin ve ibadet hürriyetinin mutlak olması",
+        "option_c":  "Resmî bir devlet dininin olmaması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sosyal devlet ilkesi ve sosyal ekonomik haklara ilk kez hangi anayasada yer verilmiştir?",
+        "option_a":  "1924 Anayasası",
+        "option_b":  "1961 Anayasası",
+        "option_c":  "1982 Anayasası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi hukuk devletinin bir gereği olan ve idarenin işlem ve eylemlerine karşı yargı yolunun açık olmasına Anayasa ile getirilen istisnalardan biridir?",
+        "option_a":  "Yüksek Askerî Şûranın terfi işlemleri",
+        "option_b":  "Cumhurbaşkanının tek başına yaptığı işlemler",
+        "option_c":  "Bakanlar Kurulu kararları",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre egemenliğin kullanılması hangi organlar eliyle gerçekleşir?",
+        "option_a":  "Sadece Yasama organı",
+        "option_b":  "Sadece Yürütme organı",
+        "option_c":  "Yetkili organlar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre yasama yetkisi kime aittir ve devredilebilir mi?",
+        "option_a":  "TBMM\u0027ye aittir ve devredilemez.",
+        "option_b":  "Cumhurbaşkanına aittir ve devredilebilir.",
+        "option_c":  "TBMM\u0027ye aittir ve Cumhurbaşkanına devredilebilir.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Yürütme yetkisi ve görevi, 1982 Anayasası\u0027na göre kim tarafından yerine getirilir?",
+        "option_a":  "Bakanlar Kurulu",
+        "option_b":  "Cumhurbaşkanı",
+        "option_c":  "Türkiye Büyük Millet Meclisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027nda \u0027pozitif ayrımcılık\u0027 yapılabileceği belirtilen gruplar arasında aşağıdakilerden hangisi yer almaz?",
+        "option_a":  "Çocuklar, yaşlılar, özürlüler",
+        "option_b":  "İşçiler",
+        "option_c":  "Harp ve vazife şehitlerinin dul ve yetimleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027nın bağlayıcılığı ve üstünlüğünü ifade eden temel ilke aşağıdakilerden hangisidir?",
+        "option_a":  "Egemenliğin millete ait olması",
+        "option_b":  "Kanunların Anayasa\u0027ya aykırı olamaması",
+        "option_c":  "Herkesin kanun önünde eşit olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre aşağıdakilerden hangisi Devletin temel amaç ve görevlerinden biri değildir?",
+        "option_a":  "Cumhuriyeti ve demokrasiyi korumak",
+        "option_b":  "Kişinin temel hak ve hürriyetlerini sınırlayan engelleri kaldırmak",
+        "option_c":  "Yasama faaliyetlerini denetlemek",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Seçmenlerin, seçilecek kişileri araya başka seçmenler girmeden doğrudan seçmesi hangi ilkeyi ifade eder?",
+        "option_a":  "Genel oy",
+        "option_b":  "Tek dereceli seçim",
+        "option_c":  "Seçimlerin serbestliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Laiklik ilkesi, Türk anayasasına ilk kez hangi yıl yapılan değişiklikle girmiştir?",
+        "option_a":  "1928",
+        "option_b":  "1937",
+        "option_c":  "1961",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi sosyal devleti gerçekleştirme araçlarından biri değildir?",
+        "option_a":  "Vergi adaleti",
+        "option_b":  "Kamulaştırma",
+        "option_c":  "Tek dereceli seçim ilkesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Hiç kimse kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarılamaz.\u0027 hükmü, hukuk devletinin hangi temel unsurunu ifade eder?",
+        "option_a":  "Adil yargılanma hakkı",
+        "option_b":  "Kanuni hâkim güvencesi",
+        "option_c":  "Yargı bağımsızlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, temel devlet organlarından hangisi hem \u0027yetki\u0027 hem de \u0027görev\u0027 olarak düzenlenmiştir?",
+        "option_a":  "Yasama",
+        "option_b":  "Yürütme",
+        "option_c":  "Yargı",
+        "correct_answer":  "b"
+    }
+]

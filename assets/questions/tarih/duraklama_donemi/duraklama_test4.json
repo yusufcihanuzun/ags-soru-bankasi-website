@@ -1,0 +1,156 @@
+﻿[
+    {
+        "question_text":  "Lale Devri\u0027nde Doğu klasiklerini Türkçeye çevirmek amacıyla kurulan kurum hangisidir?",
+        "option_a":  "Encümen-i Daniş",
+        "option_b":  "Darülfünun",
+        "option_c":  "Tercüme Heyetleri",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Osmanlı\u0027da modern itfaiye teşkilatının temeli sayılan \"Tulumbacılar Ocağı\" hangi dönemde kurulmuştur?",
+        "option_a":  "I. Mahmut Dönemi",
+        "option_b":  "Lale Devri",
+        "option_c":  "III. Mustafa Dönemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Lale Devri\u0027nde, günümüzdeki modern itfaiye teşkilatının temeli olan Tulumbacılar Ocağı\u0027nı kuran kişi kimdir?",
+        "option_a":  "İbrahim Müteferrika",
+        "option_b":  "Gerçek Davut Ağa",
+        "option_c":  "28 Mehmet Çelebi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Lale Devri\u0027nde, Paris\u0027teki Versay Sarayı örnek alınarak inşa edilen saray hangisidir?",
+        "option_a":  "Çırağan Sarayı",
+        "option_b":  "Dolmabahçe Sarayı",
+        "option_c":  "Sadabad Sarayı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Osmanlı mimarisinde Batı etkileriyle (Barok-Rokoko) yapılan ilk eser olan yapı hangisidir?",
+        "option_a":  "Nuruosmaniye Camii",
+        "option_b":  "Dolmabahçe Sarayı",
+        "option_c":  "III. Ahmet Çeşmesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Osmanlı mimarisinde Batı tarzında (Barok-Rokoko) yapılan ilk cami hangisidir?",
+        "option_a":  "Nuruosmaniye Camii",
+        "option_b":  "Ortaköy Camii",
+        "option_c":  "Laleli Camii",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Osmanlı\u0027ya Batı\u0027dan getirilen ilk askeri uzman olan ve Humbaracı Ocağı\u0027nı ıslah eden Fransız subay (Comte de Bonneval) kimdir?",
+        "option_a":  "Baron de Tott",
+        "option_b":  "Humbaracı Ahmet Paşa",
+        "option_c":  "Moltke",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. Mahmut döneminde açılan ve Batı tarzındaki ilk teknik okul olan kurumun adı nedir?",
+        "option_a":  "Hendesehane",
+        "option_b":  "Mühendishane-i Bahri Hümayun",
+        "option_c":  "Mekteb-i Harbiye",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "III. Mustafa döneminde, devletin iç borçlanma senetleri çıkararak gelir elde etmesini sağlayan ve kağıt paraya geçişin ilk adımı sayılan sistem hangisidir?",
+        "option_a":  "İltizam Sistemi",
+        "option_b":  "Esham Sistemi",
+        "option_c":  "Malikane Sistemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "III. Mustafa\u0027nın ıslahatlarında kendisine yardımcı olan ve dönemin en yetenekli sadrazamlarından biri olarak kabul edilen devlet adamı kimdir?",
+        "option_a":  "Nevşehirli Damat İbrahim Paşa",
+        "option_b":  "Koca Ragıp Paşa",
+        "option_c":  "Alemdar Mustafa Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Günümüzdeki Deniz Harp Okulu\u0027nun temeli sayılan \"Tersane Hendesehanesi\" hangi padişah döneminde açılmıştır?",
+        "option_a":  "I. Mahmut",
+        "option_b":  "III. Mustafa",
+        "option_c":  "I. Abdülhamit",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. Abdülhamit döneminde açılan ve günümüzdeki Deniz Harp Okulu\u0027nun temelini oluşturan kurum hangisidir?",
+        "option_a":  "Mühendishane-i Berrî-i Hümâyun",
+        "option_b":  "Mühendishane-i Bahrî-i Hümâyun",
+        "option_c":  "Hendesehane",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cülus bahşişi verme geleneğini kaldıran padişah kimdir?",
+        "option_a":  "III. Mustafa",
+        "option_b":  "I. Abdülhamit",
+        "option_c":  "III. Selim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "III. Selim\u0027in yaptığı tüm yeniliklere verilen genel ad nedir?",
+        "option_a":  "Tanzimat",
+        "option_b":  "Islahat",
+        "option_c":  "Nizam-ı Cedit",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "III. Selim\u0027in, yapacağı ıslahatlar için devlet adamlarından ve alimlerden istediği raporlara ne ad verilir?",
+        "option_a":  "Ferman",
+        "option_b":  "Lahiya",
+        "option_c":  "Hatt-ı Hümayun",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı tarihinde ilk kalıcı (daimi) elçilik hangi padişah döneminde ve hangi şehirde açılmıştır?",
+        "option_a":  "III. Ahmet - Paris",
+        "option_b":  "I. Mahmut - Viyana",
+        "option_c":  "III. Selim - Londra",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "III. Selim döneminde kurulan ilk devlet matbaasının adı nedir?",
+        "option_a":  "Matbaa-yı Amire",
+        "option_b":  "Takvimhane",
+        "option_c":  "Darü\u0027t-Tıbâati\u0027l-Amire",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "III. Selim döneminde kurulan ve bugünkü İstanbul Teknik Üniversitesi\u0027nin temelini oluşturan kara mühendislik okulu hangisidir?",
+        "option_a":  "Mühendishane-i Bahrî-i Hümâyun",
+        "option_b":  "Mühendishane-i Berrî-i Hümâyun",
+        "option_c":  "Mekteb-i Harbiye",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı tarihinde ilk kez zorunlu ve resmi yabancı dil olarak askeri okullarda okutulmaya başlanan dil hangisidir?",
+        "option_a":  "İngilizce",
+        "option_b":  "Almanca",
+        "option_c":  "Fransızca",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "III. Selim döneminde Nizam-ı Cedit askerleri için yaptırılan modern yapılar olan Levent ve Selimiye, hangi amaca hizmet etmiştir?",
+        "option_a":  "Saray",
+        "option_b":  "Kışla",
+        "option_c":  "Hastane",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "III. Selim\u0027in kurduğu Nizam-ı Cedit ordusunun masraflarını karşılamak için oluşturduğu özel hazinenin adı nedir?",
+        "option_a":  "Hazine-i Amire",
+        "option_b":  "İrad-ı Cedit",
+        "option_c":  "Hazine-i Hassa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "III. Selim\u0027in kurduğu Nizam-ı Cedit ordusunun ilk ve son askeri başarısı, hangi devlete karşı ve nerede kazanılmıştır?",
+        "option_a":  "Rusya\u0027ya karşı Kırım\u0027da",
+        "option_b":  "Avusturya\u0027ya karşı Belgrat\u0027ta",
+        "option_c":  "Fransa\u0027ya karşı Akka Kalesi\u0027nde",
+        "correct_answer":  "c"
+    }
+]

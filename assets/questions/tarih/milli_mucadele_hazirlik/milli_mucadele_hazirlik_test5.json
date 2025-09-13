@@ -1,0 +1,149 @@
+﻿[
+    {
+        "question_text":  "I. TBMM\u0027nin ayaklanmalara karşı aldığı önlemler arasında hangisi yer almaz?",
+        "option_a":  "Hıyanet-i Vataniye Kanunu\u0027nun çıkarılması",
+        "option_b":  "İstanbul Hükümeti ile tüm haberleşmenin kesilmesi",
+        "option_c":  "Padişaha bağlılık bildirilmesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Urfa\u0027da isyan eden ve bölgedeki otorite boşluğundan yararlanmaya çalışan aşiret hangisidir?",
+        "option_a":  "Koçgiri Aşireti",
+        "option_b":  "Cemil Çeto Aşireti",
+        "option_c":  "Milli Aşireti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sevr Antlaşması hangi olaydan sonra hazırlanıp Osmanlı\u0027ya sunulmuştur?",
+        "option_a":  "I. TBMM\u0027nin açılması ve ayaklanmaları bastırması",
+        "option_b":  "I. İnönü Zaferi\u0027nin kazanılması",
+        "option_c":  "Milli Mücadele\u0027nin başlaması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstiklal Mahkemeleri\u0027nin baktığı suçlar arasında hangisi yer alır?",
+        "option_a":  "Vergi kaçakçılığı",
+        "option_b":  "Casusluk, bozgunculuk ve vatana ihanet",
+        "option_c":  "Miras ve boşanma davaları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. TBMM\u0027nin açılışından hemen sonra karşılaştığı en büyük sorun ne olmuştur?",
+        "option_a":  "Ekonomik sıkıntılar",
+        "option_b":  "Ülke genelinde çıkan iç isyanlar",
+        "option_c":  "İtilaf Devletleri ile diplomatik ilişkiler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027nın maddelerinin belirlendiği ve İtalya\u0027da toplanan konferansın adı nedir?",
+        "option_a":  "Paris Barış Konferansı",
+        "option_b":  "Londra Konferansı",
+        "option_c":  "San Remo Konferansı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Paris\u0027e antlaşmayı imzalamak için giden Osmanlı heyetinde yer alan ancak \"Milli Mücadele\u0027nin\" tepkisinden çekinerek başlangıçta antlaşmayı imzalamayan devlet adamları kimlerdir?",
+        "option_a":  "Damat Ferit Paşa, Ali Rıza Paşa, Salih Paşa",
+        "option_b":  "Tevfik Paşa, Hadi Paşa, Rıza Tevfik Bey",
+        "option_c":  "Talat Paşa, Enver Paşa, Cemal Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027nı onaylamak üzere toplanan ancak yalnızca bir üyenin (Topçu Feriki Rıza Paşa) reddettiği danışma meclisinin adı nedir?",
+        "option_a":  "Saltanat Şurası",
+        "option_b":  "Meclis-i Mebusan",
+        "option_c":  "Divan-ı Hümayun",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027nın hukuken geçersiz sayılmasının temel nedeni nedir?",
+        "option_a":  "TBMM tarafından reddedilmesi",
+        "option_b":  "Padişah tarafından onaylanmaması",
+        "option_c":  "Osmanlı Mebusan Meclisi tarafından onaylanmamış olması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027nın maddelerine göre İzmir ve çevresi ile Doğu Trakya\u0027nın hangi devlete bırakılması öngörülmüştür?",
+        "option_a":  "İtalya",
+        "option_b":  "Fransa",
+        "option_c":  "Yunanistan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sevr Antlaşması hangi tarihte imzalanmıştır?",
+        "option_a":  "23 Nisan 1920",
+        "option_b":  "10 Ağustos 1920",
+        "option_c":  "30 Ekim 1918",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "433 maddeden oluşan ve Osmanlı Devleti için çok ağır şartlar içeren antlaşma hangisidir?",
+        "option_a":  "Mondros Ateşkes Antlaşması",
+        "option_b":  "Sevr Barış Antlaşması",
+        "option_c":  "Londra Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı idarecileri başlangıçta Sevr\u0027i kabul etmeyince, İngilizlerin emriyle \"Milne Hattı\"nı geçerek Bursa ve Uşak\u0027ı işgal eden devlet hangisidir?",
+        "option_a":  "İtalya",
+        "option_b":  "Fransa",
+        "option_c":  "Yunanistan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027nı Fransa\u0027da Osmanlı Devleti adına imzalayan heyette aşağıdakilerden hangisi yer almıştır?",
+        "option_a":  "Damat Ferit Paşa",
+        "option_b":  "Salih Paşa",
+        "option_c":  "Bağdatlı Hadi Paşa",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027nın taslağı İtalya\u0027da hazırlanmışken, antlaşma hangi ülkenin Sèvres kasabasında imzalanmıştır?",
+        "option_a":  "İngiltere",
+        "option_b":  "Fransa",
+        "option_c":  "İsviçre",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027na göre Güneybatı Anadolu, Konya ve Antalya çevresi hangi devlete bırakılmıştır?",
+        "option_a":  "İtalyanlara",
+        "option_b":  "Fransızlara",
+        "option_c":  "İngilizlere",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027na göre Vilayet-i Sitte olarak bilinen Doğu Anadolu\u0027da hangi devletin kurulması planlanmıştır?",
+        "option_a":  "Pontus Rum devleti",
+        "option_b":  "Ermeni devleti",
+        "option_c":  "Kürt devleti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027na göre Trabzon ve çevresinde hangi devletin kurulması planlanmıştır?",
+        "option_a":  "Pontus Rum devleti",
+        "option_b":  "Ermeni devleti",
+        "option_c":  "Gürcü devleti",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027na göre, antlaşma şartlarına uyulmazsa İstanbul\u0027un statüsü ne olacaktır?",
+        "option_a":  "Başkent olarak kalacak ancak Osmanlı\u0027dan alınacak.",
+        "option_b":  "Yunanistan\u0027a verilecek.",
+        "option_c":  "Milletler Cemiyeti\u0027ne devredilecek.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027nın ekonomik hükümlerine göre kapitülasyonların durumu ne olacaktı?",
+        "option_a":  "Kaldırılacak",
+        "option_b":  "Sadece İngiltere\u0027ye verilecek",
+        "option_c":  "Genişletilerek devam edecek",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sevr Antlaşması\u0027na göre Boğazların yönetimi, içinde Türk üye bulunmayan hangi yapıya bırakılmıştır?",
+        "option_a":  "İtilaf Devletleri Konseyi\u0027ne",
+        "option_b":  "Milletler Cemiyeti\u0027ne",
+        "option_c":  "Uluslararası Boğazlar Komisyonu\u0027na",
+        "correct_answer":  "c"
+    }
+]

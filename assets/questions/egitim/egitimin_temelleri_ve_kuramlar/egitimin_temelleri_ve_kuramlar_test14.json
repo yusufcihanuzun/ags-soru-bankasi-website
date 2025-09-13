@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "\u0027Varlık fenomendir\u0027 diyerek varlığın insan bilinci tarafından algılanan yönüyle ilgilenen felsefi akım hangisidir?",
+        "option_a":  "Realizm",
+        "option_b":  "Fenomenoloji",
+        "option_c":  "Pragmatizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim programının temel ögeleri (hedef, içerik, eğitim durumları, değerlendirme) arasında nasıl bir ilişki olmalıdır?",
+        "option_a":  "Birbirinden bağımsız olmalıdır.",
+        "option_b":  "Dinamik ve birbirleriyle tutarlı bir ilişki olmalıdır.",
+        "option_c":  "Sadece hedef ve içerik arasında ilişki olmalıdır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulun, aile ve çevre gibi diğer toplumsal kurumlarla iş birliği içinde olması, eğitimin başarısını nasıl etkiler?",
+        "option_a":  "Olumsuz etkiler.",
+        "option_b":  "Olumlu yönde artırır.",
+        "option_c":  "Hiçbir etkisi olmaz.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitime yapılan yatırımların geri dönüşünün uzun zaman alması, bu yatırımların hangi özelliğini gösterir?",
+        "option_a":  "Kısa vadeli bir yatırım olduğunu",
+        "option_b":  "Uzun vadeli bir yatırım olduğunu",
+        "option_c":  "Riskli bir yatırım olduğunu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de karma eğitime geçiş, hangi kanunla birlikte yasal bir zemine oturmuştur?",
+        "option_a":  "Maarif Teşkilatı Kanunu (1926)",
+        "option_b":  "Tevhid-i Tedrisat Kanunu (1924)",
+        "option_c":  "Milli Eğitim Temel Kanunu (1973)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi\u0027nin eğitimle ilgili bir kanunu iptal etmesi, hangi devlet ilkesinin bir gereğidir?",
+        "option_a":  "Sosyal Devlet",
+        "option_b":  "Laik Devlet",
+        "option_c":  "Hukuk Devleti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Okul müdürü, okulun politik lideridir\u0027 ifadesi ne anlama gelir?",
+        "option_a":  "Okul müdürü bir siyasi partiye üye olmalıdır.",
+        "option_b":  "Okul müdürü, okulun vizyonunu ve politikalarını belirleyen ve uygulayan kişidir.",
+        "option_c":  "Okul müdürü sadece idari işlerle ilgilenmelidir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Bilgi, zihindeki ideaların hatırlanmasıdır\u0027 görüşü kime aittir?",
+        "option_a":  "Aristo",
+        "option_b":  "Platon",
+        "option_c":  "Sokrates",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Toplum, bireylerin toplamından daha fazlasıdır\u0027 diyerek toplumsal olguların kendine özgü bir gerçekliği olduğunu savunan sosyolog kimdir?",
+        "option_a":  "Emile Durkheim",
+        "option_b":  "Max Weber",
+        "option_c":  "Auguste Comte",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Eğitimin, bireyleri toplumdaki farklı statü ve rollere hazırlaması, eğitimin hangi işlevine örnektir?",
+        "option_a":  "Seçme ve Yönlendirme İşlevi",
+        "option_b":  "Kültürel Mirası Aktarma İşlevi",
+        "option_c":  "Toplumsal Değişimi Sağlama İşlevi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Yükseköğretim mezunlarının, ilköğretim mezunlarına göre daha yüksek gelir elde etmesi, neyin bir göstergesidir?",
+        "option_a":  "Eğitimin maliyetinin",
+        "option_b":  "Eğitimin ekonomik getirisinin",
+        "option_c":  "Eğitimde fırsat eşitsizliğinin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Harf İnkılabı\u0027nın yapıldığı yıl hangisidir?",
+        "option_a":  "1924",
+        "option_b":  "1926",
+        "option_c":  "1928",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğrencinin, ailesinin izni olmadan okuldan alınamaması, hangi temel hakkın bir gereğidir?",
+        "option_a":  "Yaşama Hakkı",
+        "option_b":  "Eğitim Hakkı",
+        "option_c":  "Mülkiyet Hakkı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Okul Aile Birliği\u0027nin kurulması ve işleyişi hangi hukuki metinle düzenlenir?",
+        "option_a":  "Kanun",
+        "option_b":  "Anayasa",
+        "option_c":  "Yönetmelik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir eğitim programının amaçlarının, ülkenin genel eğitim politikasıyla tutarlı olması zorunluluğu, eğitimin hangi temeliyle açıklanır?",
+        "option_a":  "Felsefi Temel",
+        "option_b":  "Politik Temel",
+        "option_c":  "Psikolojik Temel",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Felsefenin, doğru düşünme kurallarını ve geçerli akıl yürütme biçimlerini inceleyen dalı hangisidir?",
+        "option_a":  "Epistemoloji",
+        "option_b":  "Mantık",
+        "option_c":  "Etik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Varoluşçu eğitim anlayışında müfredat nasıl olmalıdır?",
+        "option_a":  "Katı ve önceden belirlenmiş olmalıdır.",
+        "option_b":  "Esnek olmalı ve öğrencinin seçim yapmasına olanak tanımalıdır.",
+        "option_c":  "Sadece klasik eserlerden oluşmalıdır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir toplumda nesiller arası çatışmanın temel nedenlerinden biri, hangi toplumsal sürecin hızındaki farklılıktır?",
+        "option_a":  "Toplumsal Hareketlilik",
+        "option_b":  "Toplumsal Değişim",
+        "option_c":  "Sosyalleşme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim harcamalarının bir \u0027tüketim\u0027 mi yoksa \u0027yatırım\u0027 mı olduğu tartışması, eğitimin hangi temelinin konusudur?",
+        "option_a":  "Ekonomik Temel",
+        "option_b":  "Sosyal Temel",
+        "option_c":  "Tarihsel Temel",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Tarih, tekerrürden ibarettir\u0027 sözü, program geliştirmede tarihsel temelin hangi yönüne dikkat çeker?",
+        "option_a":  "Geçmişteki hatalardan ders çıkararak geleceği daha iyi planlamanın önemine",
+        "option_b":  "Geçmişi tamamen reddetmenin gerekliliğine",
+        "option_c":  "Geleceğin tahmin edilemez olduğuna",
+        "correct_answer":  "a"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Öğretmen adaylarında genel kültür, özel alan eğitimi ve pedagojik formasyon dışında hangi nitelikler aranır?",
+        "option_a":  "Yabancı dil bilgisi",
+        "option_b":  "Kanunda belirtilen diğer nitelikler",
+        "option_c":  "Bilgisayar kullanma becerisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yurt dışında görevlendirilecek öğretmenlerin seçimi ve yetiştirilmesi kimin görevidir?",
+        "option_a":  "Dışişleri Bakanlığı",
+        "option_b":  "Milli Eğitim Bakanlığı",
+        "option_c":  "Kültür ve Turizm Bakanlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmenlerin hizmet bölgeleri ve ihtiyaçlara göre yer değiştirme esasları ne ile düzenlenir?",
+        "option_a":  "Kanun",
+        "option_b":  "Yönetmelik",
+        "option_c":  "Genelge",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Her derece ve türdeki okul binalarının donatım ve standartlarını kim tespit eder?",
+        "option_a":  "Bayındırlık Bakanlığı",
+        "option_b":  "Milli Eğitim Bakanlığı",
+        "option_c":  "Okulun bulunduğu belediye",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Örgün ve yaygın eğitim kurumlarında okutulan ders kitapları için hangi kural geçerlidir?",
+        "option_a":  "Devlet okullarında parasız olarak dağıtılır.",
+        "option_b":  "Sadece özel yayınevleri tarafından basılabilir.",
+        "option_c":  "Öğrenciler tarafından satın alınır.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Askeri okullar dışındaki özel okulları açma izni verme yetkisi kime aittir?",
+        "option_a":  "Valiliklere",
+        "option_b":  "Milli Savunma Bakanlığı\u0027na",
+        "option_c":  "Milli Eğitim Bakanlığı\u0027na",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milli Eğitim Bakanlığı dışındaki bakanlıklar tarafından açılan okulların denetimi nasıl yapılır?",
+        "option_a":  "Sadece kendi bakanlıkları tarafından denetlenir.",
+        "option_b":  "Program ve yönetmelikleri ilgili bakanlıkla birlikte hazırlanır ve MEB tarafından denetlenir.",
+        "option_c":  "Hiçbir denetime tabi değildir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Askeri eğitim kurumlarının denetimi kime aittir?",
+        "option_a":  "Milli Eğitim Bakanlığı",
+        "option_b":  "Milli Savunma Bakanlığı",
+        "option_c":  "Genelkurmay Başkanlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk vatandaşlarının yurt dışındaki eğitim, öğrenim ve ihtisas görmeleri ile ilgili hizmetlerin düzenlenmesinden kim sorumludur?",
+        "option_a":  "Dışişleri Bakanlığı",
+        "option_b":  "Milli Eğitim Bakanlığı",
+        "option_c":  "Aile ve Sosyal Hizmetler Bakanlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1739 sayılı kanuna göre çıkarılan yönetmelikler, kanunun yayımı tarihinden itibaren ne kadar süre içinde çıkarılmalıdır?",
+        "option_a":  "6 ay",
+        "option_b":  "1 yıl",
+        "option_c":  "2 yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okul öncesi eğitim kurumları nerelerde açılabilir?",
+        "option_a":  "Sadece bağımsız anaokulları olarak",
+        "option_b":  "Sadece ilköğretim okulları bünyesinde",
+        "option_c":  "Bağımsız anaokulları veya gerekli görülen yerlerde diğer öğretim kurumları bünyesinde",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İmam-hatip liselerini bitirenler, hangi alanlarda istihdam edilebilir?",
+        "option_a":  "Sadece din hizmetlerinde",
+        "option_b":  "Sadece yükseköğretime devam edebilirler",
+        "option_c":  "Hem din hizmetlerinde hem de diğer meslek alanlarında",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Yükseköğretim kurumlarının amaçları arasında, ülkenin bilim politikasına ve toplumun kültürel gelişimine hizmet etmek var mıdır?",
+        "option_a":  "Evet, temel amaçlarındandır.",
+        "option_b":  "Hayır, bu Kültür Bakanlığı\u0027nın görevidir.",
+        "option_c":  "Sadece bilim politikasına hizmet ederler.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Okul-aile işbirliğinin temel amacı nedir?",
+        "option_a":  "Okula maddi kaynak sağlamak",
+        "option_b":  "Eğitim kurumlarının amaçlarının gerçekleşmesine katkıda bulunmak",
+        "option_c":  "Okul yönetimine müdahale etmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yaygın eğitim programlarının bitiminde verilen belge hangisi olamaz?",
+        "option_a":  "Kurs bitirme belgesi",
+        "option_b":  "Diploma",
+        "option_c":  "Sertifika",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmenlik mesleğine hazırlık aşamaları nelerdir?",
+        "option_a":  "Sadece alan bilgisi",
+        "option_b":  "Sadece öğretmenlik becerileri",
+        "option_c":  "Genel kültür, özel alan eğitimi ve pedagojik formasyon",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Özel eğitime ihtiyacı olan öğrenciler için fırsat eşitliğini sağlamak, hangi temel ilkenin bir gereğidir?",
+        "option_a":  "Laiklik",
+        "option_b":  "Fırsat ve imkan eşitliği",
+        "option_c":  "Bilimsellik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ortaöğretim kurumlarına, sınavla veya sınavsız öğrenci alınması neye göre belirlenir?",
+        "option_a":  "Okul müdürünün kararına",
+        "option_b":  "Milli Eğitim Bakanlığı\u0027nca belirlenen esaslara",
+        "option_c":  "Öğrencinin ilköğretim not ortalamasına",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yükseköğretime hazırlık, hangi eğitim kademesinin temel görevlerinden biridir?",
+        "option_a":  "İlköğretim",
+        "option_b":  "Ortaöğretim",
+        "option_c":  "Okul Öncesi Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yükseköğretimde \u0027ara insangücü\u0027 yetiştiren kurumlar hangileridir?",
+        "option_a":  "Fakülteler",
+        "option_b":  "Enstitüler",
+        "option_c":  "Meslek yüksekokulları",
+        "correct_answer":  "c"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Modern kimyanın kurucusu sayılan, atomun parçalanabileceğini öne süren ve hassas teraziyi kullanan bilim insanı kimdir?",
+        "option_a":  "Cabir bin Hayyan",
+        "option_b":  "Zekeriya Er-Razi",
+        "option_c":  "Harezmi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Hisabül Cebr Vel Mukabele\u0027 adlı eseriyle cebrin kurucusu kabul edilen bilim insanı kimdir?",
+        "option_a":  "İbni Rüşt",
+        "option_b":  "Ömer Hayyam",
+        "option_c":  "Harezmi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aristo\u0027yu Avrupa\u0027ya tanıttığı için Batı\u0027da \u0027Averroes\u0027 adıyla bilinen ve \u0027Zamanın Voltaire\u0027i\u0027 olarak anılan Endülüslü filozof kimdir?",
+        "option_a":  "İbni Heysem",
+        "option_b":  "İbni Rüşt",
+        "option_c":  "İdrisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yusuf Has Hacip, \u0027Kutadgu Bilig\u0027 adlı eserini hangi Karahanlı hükümdarına sunmuştur?",
+        "option_a":  "Satuk Buğra Han",
+        "option_b":  "Tamgaç Buğra Han",
+        "option_c":  "Harun Buğra Han",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Edip Ahmet Yükneki\u0027nin yazdığı, \u0027gerçeklerin eşiği\u0027 anlamına gelen ve ahlaki öğütler içeren eserin adı nedir?",
+        "option_a":  "Divan-ı Hikmet",
+        "option_b":  "Kutadgu Bilig",
+        "option_c":  "Atabet\u0027ül Hakayık",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Büyük Selçuklu veziri Nizamülmülk\u0027ün, devlet yönetimiyle ilgili görüşlerini anlattığı ve Sultan Melikşah\u0027a sunduğu eserinin adı nedir?",
+        "option_a":  "Şehname",
+        "option_b":  "Siyasetname",
+        "option_c":  "Tarih-i Yemin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Karahanlılar Devleti\u0027nin kurucusu kimdir?",
+        "option_a":  "Satuk Buğra Han",
+        "option_b":  "Bilge Kül Kadir Han",
+        "option_c":  "Tamgaç Buğra Han",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet\u0027i kabul ettikten sonra Satuk Buğra Han\u0027a verilen unvanlar arasında hangisi bulunur?",
+        "option_a":  "El-Mücahit ve El-Gazi",
+        "option_b":  "Sultan-ı Azam",
+        "option_c":  "Ebu\u0027l Feth",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Gazneli Devleti\u0027nin yıkılmasında etkili olan, ordusunun yapısıyla ilgili sorun aşağıdakilerden hangisidir?",
+        "option_a":  "Ordunun sayıca yetersiz olması",
+        "option_b":  "Orduda farklı milletlerden askerlerin bulunması ve sık isyan çıkması",
+        "option_c":  "Ordunun modern silahlara sahip olmaması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1048 Pasinler Savaşı\u0027nın ardından Büyük Selçuklular tarafından esir alınan Gürcü kralı kimdir?",
+        "option_a":  "IV. Bagrat",
+        "option_b":  "Romen Diyojen",
+        "option_c":  "Liparit",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Malazgirt Zaferi\u0027nden sonra Abbasi halifesinin Sultan Alparslan\u0027a verdiği unvan hangisidir?",
+        "option_a":  "İslam Ülkelerinin Sultanı",
+        "option_b":  "Ebu\u0027l Feth",
+        "option_c":  "Sultan-ı Azam",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Ölümüyle Büyük Selçuklu Devleti\u0027nin yıkıldığı kabul edilen son büyük hükümdar Sultan Sencer\u0027in unvanı nedir?",
+        "option_a":  "Sultan-ı İklim",
+        "option_b":  "Sultan-ı İslam",
+        "option_c":  "Sultan-ı Azam",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Şair Mehmet Akif Ersoy\u0027un \u0027Şarkın en sevgili sultanı\u0027 olarak nitelendirdiği hükümdar kimdir?",
+        "option_a":  "Sultan Baybars",
+        "option_b":  "Selahaddin Eyyubi",
+        "option_c":  "Gazneli Mahmut",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mısır\u0027da kurulan ve resmi adı \u0027Devlet-i Türkiyye\u0027 (Türkiye Devleti) olan devlet hangisidir?",
+        "option_a":  "Eyyübiler",
+        "option_b":  "Tolunoğulları",
+        "option_c":  "Memlükler",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1258\u0027de İlhanlıların Bağdat\u0027ı işgal ederek Abbasi Devleti\u0027ne son vermesi üzerine, Abbasi halifesi hangi devlete sığınmıştır?",
+        "option_a":  "Memlükler",
+        "option_b":  "Osmanlı Devleti",
+        "option_c":  "Eyyübiler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İran\u0027da kurulan ve 1514 Çaldıran Savaşı\u0027nda Osmanlı Devleti\u0027ne yenilen Şii karakterli Türk devleti hangisidir?",
+        "option_a":  "Akkoyunlular",
+        "option_b":  "Safeviler",
+        "option_c":  "Karakoyunlular",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ünlü seyyah Marco Polo, Cengiz İmparatorluğu\u0027nun parçalanmasından sonra Çin\u0027de kurulan hangi Moğol devletini ziyaret etmiştir?",
+        "option_a":  "İlhanlılar",
+        "option_b":  "Altınorda",
+        "option_c":  "Kubilay Hanlığı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hükümdarın kıyafetleriyle ilgilenen saray görevlisine ne ad verilirdi?",
+        "option_a":  "Camedar",
+        "option_b":  "Silahdar",
+        "option_c":  "Taştdar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sarayda önemli bir görevli olan Hacip\u0027e Karahanlılarda hangi isim verilirdi?",
+        "option_a":  "Yuğruş",
+        "option_b":  "Tayangu",
+        "option_c":  "Hacib-i Bozorg",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Karahanlılarda \u0027Yuğruş\u0027 olarak bilinen devlet görevlisinin Selçuklulardaki karşılığı nedir?",
+        "option_a":  "Vezir",
+        "option_b":  "Melik",
+        "option_c":  "Atabey",
+        "correct_answer":  "a"
+    }
+]

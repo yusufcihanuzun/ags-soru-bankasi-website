@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Akarsuların akış gücünden yararlanılarak üretilen, Türkiye\u0027nin engebeli yapısı nedeniyle potansiyelinin yüksek olduğu yenilenebilir enerji kaynağı hangisidir?",
+        "option_a":  "Güneş Enerjisi",
+        "option_b":  "Hidroelektrik Enerji",
+        "option_c":  "Rüzgâr Enerjisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Fay hatlarına paralellik gösteren, Denizli (Sarayköy) ve Aydın (Germencik) gibi yerlerde elektrik üretiminde ve konut ısıtmasında kullanılan enerji kaynağı hangisidir?",
+        "option_a":  "Jeotermal Enerji",
+        "option_b":  "Doğal Gaz",
+        "option_c":  "Güneş Enerjisi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Potansiyeli en yüksek olan bölgelerin Ege ve Marmara olduğu, İzmir (Çeşme) ve Balıkesir\u0027de yoğunlaşan santrallerle üretilen yenilenebilir enerji türü hangisidir?",
+        "option_a":  "Rüzgâr Enerjisi",
+        "option_b":  "Hidroelektrik Enerji",
+        "option_c":  "Biyokütle Enerjisi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bulutluluğun az, güneşlenme süresinin uzun olduğu Güneydoğu Anadolu ve Akdeniz bölgelerinde potansiyeli en yüksek olan enerji kaynağı hangisidir?",
+        "option_a":  "Jeotermal Enerji",
+        "option_b":  "Güneş Enerjisi (Solar)",
+        "option_c":  "Rüzgâr Enerjisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ağır sanayinin ham maddesi olan demir madeninin çıkarıldığı Sivas (Divriği) ve Malatya (Hekimhan-Hasançelebi), hangi bölgede yer alır?",
+        "option_a":  "Doğu Anadolu Bölgesi",
+        "option_b":  "İç Anadolu Bölgesi",
+        "option_c":  "Karadeniz Bölgesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Karabük ve Zonguldak (Ereğli) şehirlerindeki demir-çelik fabrikalarının kuruluş yeri seçiminde hangi faktör etkili olmuştur?",
+        "option_a":  "Limanlara yakınlık",
+        "option_b":  "Enerji kaynağına (taş kömürü) yakınlık",
+        "option_c":  "Demir madenine yakınlık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İskenderun\u0027daki demir-çelik fabrikasının kuruluş yeri seçiminde etkili olan temel faktör aşağıdakilerden hangisidir?",
+        "option_a":  "İş gücü fazlalığı",
+        "option_b":  "Enerji kaynakları",
+        "option_c":  "Ulaşım ve liman olanakları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Elektrik-elektronik sanayisinin önemli bir ham maddesi olan bakır, en çok hangi iki ilimizde çıkarılmaktadır?",
+        "option_a":  "Artvin (Murgul) ve Kastamonu (Küre)",
+        "option_b":  "Sivas (Divriği) ve Malatya (Hekimhan)",
+        "option_c":  "Konya (Seydişehir) ve Muğla (Fethiye)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de çıkarılan bakır madeninin işlendiği izabe tesisleri (fabrikaları) hangi üç ilimizde bulunmaktadır?",
+        "option_a":  "İzmir, İstanbul, Ankara",
+        "option_b":  "Samsun, Artvin (Murgul), Elazığ (Maden)",
+        "option_c":  "Konya, Kayseri, Sivas",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Demirin sertleşmesini sağlayarak paslanmaz çelik üretiminde kullanılan ve Elazığ (Guleman) çevresinde zengin yatakları bulunan maden hangisidir?",
+        "option_a":  "Krom",
+        "option_b":  "Bor",
+        "option_c":  "Mermer",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de çıkarılan krom madeninin işlenerek ferrokroma dönüştürüldüğü tesisler hangi iki ilimizde yer alır?",
+        "option_a":  "Antalya ve Elazığ",
+        "option_b":  "İzmir ve Bursa",
+        "option_c":  "Ankara ve Konya",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Hafif ve dayanıklı olması nedeniyle uçak ve otomotiv sanayisinde kullanılan alüminyumun ham maddesi olan boksit, sadece hangi ilçemizde işlenmektedir?",
+        "option_a":  "Konya (Seydişehir)",
+        "option_b":  "Elazığ (Maden)",
+        "option_c":  "Sivas (Divriği)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Dünya rezervlerinin %73\u0027üne sahip olduğumuz ve Balıkesir (Bigadiç), Kütahya (Emet) gibi yerlerden çıkarılan maden hangisidir?",
+        "option_a":  "Krom",
+        "option_b":  "Bor Mineralleri",
+        "option_c":  "Fosfat",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Suni gübre üretiminde kullanılan ve rezervlerimiz yetersiz olduğu için ithal ettiğimiz fosfat madeninin çıkarıldığı tek önemli yer neresidir?",
+        "option_a":  "Mardin (Mazıdağı)",
+        "option_b":  "Yozgat (Sorgun)",
+        "option_c":  "Artvin (Murgul)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sıvı halde bulunan tek metal olan ve sağlığa zararlı olduğu için üretimi durdurulan cıva madeninin yatakları hangi ilimizin ilçelerinde yoğunlaşmıştır?",
+        "option_a":  "İzmir (Ödemiş - Karaburun)",
+        "option_b":  "Artvin (Cerattepe)",
+        "option_c":  "Sivas (Divriği)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Demiri çeliğe dönüştürmede kullanılan manganez madeni en çok hangi ilimizde çıkarılmaktadır?",
+        "option_a":  "Denizli (Tavas)",
+        "option_b":  "Zonguldak (Ereğli)",
+        "option_c":  "Trabzon (Araklı)",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Cam, seramik ve kaynak elektrotları üretiminde kullanılan feldspat madeni rezervlerinin en çok olduğu bölgemiz hangisidir?",
+        "option_a":  "Doğu Anadolu",
+        "option_b":  "Ege Bölgesi",
+        "option_c":  "Karadeniz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin tuz ihtiyacı hangi üç kaynaktan karşılanmaktadır?",
+        "option_a":  "Nehirler, barajlar ve pınarlar",
+        "option_b":  "Tuz Gölü, kaya tuzu yatakları ve deniz suyu",
+        "option_c":  "Volkanik göller, maden suları ve akarsular",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin en büyük tuzlası olan ve deniz suyunun buharlaştırılmasıyla tuz elde edilen Çamaltı Tuzlası hangi ilimizdedir?",
+        "option_a":  "Mersin",
+        "option_b":  "Antalya",
+        "option_c":  "İzmir",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İnşaat sektöründe önemli bir yere sahip olan ve Afyon, Marmara Adası gibi yerlerde zengin yatakları bulunan mermer madeni için hangisi söylenemez?",
+        "option_a":  "Türkiye\u0027nin önemli ihraç ürünlerindendir.",
+        "option_b":  "Sadece iç piyasada kullanılır.",
+        "option_c":  "Başka bir kayacın başkalaşım geçirmesiyle oluşur.",
+        "correct_answer":  "b"
+    }
+]

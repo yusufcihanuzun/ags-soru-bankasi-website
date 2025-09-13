@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Yunanca \u0027philosophia\u0027 kelimesinden türeyen felsefenin kelime anlamı nedir?",
+        "option_a":  "Bilgelik arayışı",
+        "option_b":  "Bilgelik sevgisi",
+        "option_c":  "Mutlak bilgi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Felsefenin varlığın doğasını ve yapı taşlarını inceleyen uğraş alanı hangisidir?",
+        "option_a":  "Epistemoloji",
+        "option_b":  "Etik",
+        "option_c":  "Ontoloji",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Bilgi nedir?\u0027 ve \u0027Bir şeyin doğru olduğunu nasıl bilebiliriz?\u0027 gibi sorular felsefenin hangi alanıyla ilgilidir?",
+        "option_a":  "Epistemoloji",
+        "option_b":  "Aksiyoloji",
+        "option_c":  "Mantık",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Değerleri (etik ve estetik) ele alan felsefe dalı hangisidir?",
+        "option_a":  "Ontoloji",
+        "option_b":  "Aksiyoloji",
+        "option_c":  "Kozmoloji",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Var olan gerçektir ve duyu organlarıyla algılanır\u0027 düşüncesini savunan felsefi akım hangisidir?",
+        "option_a":  "İdealizm",
+        "option_b":  "Realizm",
+        "option_c":  "Pragmatizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Var olan zihnin yansımalarıdır, sezgisel düşüncelerdir\u0027 görüşü hangi felsefi akıma aittir?",
+        "option_a":  "Realizm",
+        "option_b":  "Natüralizm",
+        "option_c":  "İdealizm",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitimde faydacılığı ve yararcılığı temel alan, \u0027doğruluk fayda getirendir\u0027 diyen felsefi akım hangisidir?",
+        "option_a":  "Pragmatizm",
+        "option_b":  "Varoluşçuluk",
+        "option_c":  "Realizm",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bireyin özgür, serbest ortamlarda yetişmesini öngören ve okulları, ders zillerini reddeden felsefi akım hangisidir?",
+        "option_a":  "İdealizm",
+        "option_b":  "Natüralizm",
+        "option_c":  "Esasicilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireysel değerleri ve bireyin kendini gerçekleştirme sürecini ön planda tutan felsefi akım hangisidir?",
+        "option_a":  "Varoluşçuluk (Egzistansiyalizm)",
+        "option_b":  "Daimicilik",
+        "option_c":  "Pragmatizm",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Temeli Platon\u0027a dayanan, gerçek bilginin aklın ürünü olduğunu ve iyi, doğru, güzel gibi kavramların evrensel olduğunu savunan akım hangisidir?",
+        "option_a":  "Realizm",
+        "option_b":  "İdealizm",
+        "option_c":  "Natüralizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Temeli Aristo\u0027ya dayanan, bireyin doğuştan \u0027boş levha\u0027 (tabula rasa) halinde geldiğini savunan felsefi akım hangisidir?",
+        "option_a":  "İdealizm",
+        "option_b":  "Realizm",
+        "option_c":  "Varoluşçuluk",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "John Dewey\u0027in öncülerinden olduğu, \u0027Okul yaşamın ta kendisidir\u0027 anlayışını benimseyen felsefi akım hangisidir?",
+        "option_a":  "Realizm",
+        "option_b":  "Pragmatizm",
+        "option_c":  "İdealizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İdealizm akımında kullanılan temel akıl yürütme türü hangisidir?",
+        "option_a":  "Tümevarım",
+        "option_b":  "Analoji",
+        "option_c":  "Tümdengelim",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Realizm akımında bilginin elde edilmesinde hangi akıl yürütme türü kullanılır?",
+        "option_a":  "Tümevarım",
+        "option_b":  "Tümdengelim",
+        "option_c":  "Dedüksiyon",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Birey doğuştan iyidir, onu kirleten çevresidir\u0027 görüşü hangi felsefi akıma aittir?",
+        "option_a":  "Varoluşçuluk",
+        "option_b":  "Natüralizm",
+        "option_c":  "Realizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Değişmeyen evrensel bir eğitimi savunan, eğitimin yaşama hazırlık yeri olduğunu ve akıllı, seçkin bireyler yetiştirilmesi gerektiğini öne süren eğitim felsefesi hangisidir?",
+        "option_a":  "İlerlemecilik",
+        "option_b":  "Daimicilik",
+        "option_c":  "Yeniden Kurmacılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Geçmişten gelen temel bilgi ve değerlerin korunup aktarılmasını, konu alanının özümsenmesini ve eğitimde zorlama ile sıkı çalışmayı vurgulayan eğitim felsefesi hangisidir?",
+        "option_a":  "Esasicilik",
+        "option_b":  "Daimicilik",
+        "option_c":  "İlerlemecilik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bireyi merkeze alan, eğitimin bireyin ilgi ve ihtiyaçlarına göre düzenlenmesi gerektiğini savunan ve \u0027yaparak-yaşayarak öğrenme\u0027yi temel alan eğitim felsefesi hangisidir?",
+        "option_a":  "Daimicilik",
+        "option_b":  "Esasicilik",
+        "option_c":  "İlerlemecilik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitimin amacının toplumu yeniden düzenlemek olduğunu, toplumsal sorunlara duyarlı ve çözüm üreten bireyler yetiştirmeyi hedefleyen eğitim felsefesi hangisidir?",
+        "option_a":  "Yeniden Kurmacılık",
+        "option_b":  "İlerlemecilik",
+        "option_c":  "Esasicilik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Daimicilik eğitim felsefesi hangi felsefi akımlardan etkilenmiştir?",
+        "option_a":  "Pragmatizm ve Varoluşçuluk",
+        "option_b":  "İdealizm ve Realizm",
+        "option_c":  "Natüralizm ve Pragmatizm",
+        "correct_answer":  "b"
+    }
+]

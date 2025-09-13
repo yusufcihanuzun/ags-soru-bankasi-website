@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "1997 yılında zorunlu eğitimin 8 yıla çıkarılması hangi kanun ile sağlanmıştır?",
+        "option_a":  "4306 sayılı kanun",
+        "option_b":  "1739 sayılı kanun",
+        "option_c":  "6287 sayılı kanun",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "2012 yılında eğitim sistemini 4+4+4 şeklinde kademelendiren kanun hangisidir?",
+        "option_a":  "1739 sayılı kanun",
+        "option_b":  "4306 sayılı kanun",
+        "option_c":  "6287 sayılı kanun",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Ralph Tyler\u0027ın program geliştirme modelinde sorduğu dört temel soru arasında hangisi yer almaz?",
+        "option_a":  "Okul hangi eğitsel hedeflere ulaşmalıdır?",
+        "option_b":  "Bu hedeflere ulaşmak için hangi öğrenme yaşantıları sağlanmalıdır?",
+        "option_c":  "Öğretmenler ne kadar maaş almalıdır?",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hilda Taba\u0027nın program geliştirme modelinin en belirgin özelliği nedir?",
+        "option_a":  "Yukarıdan aşağıya bir yaklaşım sergilemesi",
+        "option_b":  "Aşağıdan yukarıya (tümevarım) bir yaklaşım sergilemesi",
+        "option_c":  "Sadece değerlendirme odaklı olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027nın 42. maddesi gereğince, Türkiye\u0027de ilköğretim kimler için zorunludur?",
+        "option_a":  "Sadece erkek çocuklar için",
+        "option_b":  "Sadece kız çocuklar için",
+        "option_c":  "Kız ve erkek bütün vatandaşlar için",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitim hakkının kullanılmasını düzenleyen, öğrencilerin hak ve sorumluluklarını belirleyen yasal metinler bütünü, eğitimin hangi temelini oluşturur?",
+        "option_a":  "Hukuksal Temel",
+        "option_b":  "Ekonomik Temel",
+        "option_c":  "Felsefi Temel",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Milli Eğitim Temel Kanunu\u0027na göre, eğitim sisteminin genel amaçları arasında hangisi yer almaz?",
+        "option_a":  "Atatürk inkılap ve ilkelerine bağlı vatandaşlar yetiştirmek",
+        "option_b":  "Bireyleri ilgi, istidat ve kabiliyetleri doğrultusunda yetiştirmek",
+        "option_c":  "Sadece belirli bir meslek grubuna eleman yetiştirmek",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğrencinin disiplin suçu işlemesi durumunda uygulanacak kuralların ve cezaların belirlendiği yönetmelikler, eğitimin hangi temelinin bir parçasıdır?",
+        "option_a":  "Sosyal Temel",
+        "option_b":  "Tarihsel Temel",
+        "option_c":  "Hukuksal Temel",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitimde fırsat eşitliği ilkesi, Anayasa\u0027nın hangi temel ilkesiyle doğrudan ilişkilidir?",
+        "option_a":  "Sosyal Devlet İlkesi",
+        "option_b":  "Laiklik İlkesi",
+        "option_c":  "Hukuk Devleti İlkesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir ülkede iktidarda olan siyasi partinin, kendi dünya görüşünü eğitim programlarına yansıtması, eğitimin hangi temelinin etkisini gösterir?",
+        "option_a":  "Ekonomik Temel",
+        "option_b":  "Politik Temel",
+        "option_c":  "Psikolojik Temel",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak\u0027 amacı, Milli Eğitim Temel Kanunu\u0027na göre hangi eğitim kademesinin amacıdır?",
+        "option_a":  "Okul öncesi eğitim",
+        "option_b":  "İlköğretim",
+        "option_c":  "Ortaöğretim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim sisteminin, ülkenin uluslararası alandaki hedeflerine ve dış politikasına hizmet edecek şekilde düzenlenmesi, eğitimin hangi temeliyle ilişkilidir?",
+        "option_a":  "Politik Temel",
+        "option_b":  "Sosyal Temel",
+        "option_c":  "Tarihsel Temel",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Eğitim kurumları dil, ırk, cinsiyet ve din ayırımı gözetilmeksizin herkese açıktır.\u0027 ilkesi, Milli Eğitim Temel Kanunu\u0027nun hangi temel ilkesidir?",
+        "option_a":  "Fırsat ve İmkân Eşitliği",
+        "option_b":  "Genellik ve Eşitlik",
+        "option_c":  "Süreklilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ders kitaplarının içeriğinin Milli Eğitim Bakanlığı tarafından denetlenmesi (Talim ve Terbiye Kurulu), eğitimin hangi temelinin bir yansımasıdır?",
+        "option_a":  "Hukuksal ve Politik Temel",
+        "option_b":  "Sadece Felsefi Temel",
+        "option_c":  "Sadece Ekonomik Temel",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Eğitim sistemimiz, her derecede ve her türde, okul içinde veya dışında, Milli Eğitimin genel amaçlarına ve temel ilkelerine uygun bir bütünlük arz eder\u0027 ilkesi hangisidir?",
+        "option_a":  "Eğitim Hakkı",
+        "option_b":  "Planlılık",
+        "option_c":  "Bütünlük",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Varoluşçuluk felsefesine göre insanın en temel özelliği nedir?",
+        "option_a":  "Akıllı olması",
+        "option_b":  "Özgür olması",
+        "option_c":  "Sosyal olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimde \u0027Büyük Buhran\u0027 sonrası toplumsal sorunlara çözüm arayan ve eğitimi bir reform aracı olarak gören felsefe hangisidir?",
+        "option_a":  "İlerlemecilik",
+        "option_b":  "Daimicilik",
+        "option_c":  "Yeniden Kurmacılık",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi eğitimin açık (formel) işlevlerinden biridir?",
+        "option_a":  "Eş seçimine yardımcı olma",
+        "option_b":  "Statü kazandırma",
+        "option_c":  "Kültürel mirası aktarma",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi eğitimin gizil (informel) işlevlerinden biridir?",
+        "option_a":  "Mesleki beceri kazandırma",
+        "option_b":  "Çocuk bakıcılığı yapma (kreş işlevi)",
+        "option_c":  "Vatandaşlık bilgisi verme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir toplumdaki teknolojik icatlar, hangi tür toplumsal değişmeye örnektir?",
+        "option_a":  "İç kaynaklı değişim",
+        "option_b":  "Dış kaynaklı değişim",
+        "option_c":  "Çevresel değişim",
+        "correct_answer":  "a"
+    }
+]

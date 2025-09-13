@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Programda \u0027üst düzey düşünme becerileri\u0027 olarak hangisi sayılamaz?",
+        "option_a":  "Eleştirel düşünme",
+        "option_b":  "Ezberleme",
+        "option_c":  "Problem çözme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Öz düzenleme\u0027 becerisi, öğrencinin hangi yeteneğiyle ilgilidir?",
+        "option_a":  "Başkalarını yönetme",
+        "option_b":  "Kendi öğrenme sürecini, motivasyonunu ve davranışlarını yönetme",
+        "option_c":  "Sadece zamanı planlama",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde yer alan \u0027estetik\u0027 kavramı hangi alanları kapsar?",
+        "option_a":  "Sadece resim ve müzik",
+        "option_b":  "Sanat, doğa, dil ve davranışlardaki güzellik ve uyum",
+        "option_c":  "Sadece matematik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Girişimcilik\u0027 becerisi, hangi tutum ve davranışları içerir?",
+        "option_a":  "Sadece riskten kaçınma",
+        "option_b":  "Yenilikçi fikirler üretme, risk alma ve bu fikirleri hayata geçirme",
+        "option_c":  "Mevcut durumu olduğu gibi koruma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yaşantı temelli öğrenme\u0027nin en belirgin özelliği nedir?",
+        "option_a":  "Öğrenmenin teorik olması",
+        "option_b":  "Öğrenmenin yaparak ve yaşayarak gerçekleşmesi",
+        "option_c":  "Öğrenmenin sadece dinleyerek gerçekleşmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027ne göre \u0027eğitimde feda edilecek fert yoktur\u0027 ilkesi ne anlama gelir?",
+        "option_a":  "Sadece başarılı öğrencilere odaklanmak",
+        "option_b":  "Her bir öğrencinin değerli olduğu ve potansiyelini gerçekleştirmesi için desteklenmesi gerektiği",
+        "option_c":  "Başarısız öğrencilerin sistem dışına çıkarılması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027İnovatif düşünme\u0027 ne demektir?",
+        "option_a":  "Geleneksel düşünce kalıplarına bağlı kalmak",
+        "option_b":  "Mevcut duruma yenilikçi ve özgün çözümler getirmek",
+        "option_c":  "Sadece icat yapmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelin \u0027ahlak\u0027 anlayışı nasıl bir temel üzerine kuruludur?",
+        "option_a":  "Sadece kurallara uymak",
+        "option_b":  "İyiyi ve kötüyü ayırt etme ve doğru olanı yapma iradesi gösterme",
+        "option_c":  "Başkaları tarafından kınanmaktan korkmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Programda \u0027disiplinler üstü\u0027 bir yaklaşımın benimsenmesi neyi ifade eder?",
+        "option_a":  "Derslerin birbirinden tamamen ayrı olduğunu",
+        "option_b":  "Belirli tema veya konuların farklı disiplinlerin bakış açılarıyla bütüncül olarak ele alındığını",
+        "option_c":  "Bazı disiplinlerin diğerlerinden daha üstün olduğunu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Portfolyo\u0027 değerlendirmesinin en önemli avantajı nedir?",
+        "option_a":  "Öğrenciyi tek bir sınavla değerlendirmek",
+        "option_b":  "Öğrencinin belirli bir süreçteki gelişimini somut kanıtlarla göstermek",
+        "option_c":  "Öğretmene daha az iş çıkarmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027ruh sağlığı\u0027 neden önemlidir?",
+        "option_a":  "Sadece akademik başarı için bir araçtır.",
+        "option_b":  "Bireyin bütüncül iyilik halinin ayrılmaz bir parçasıdır.",
+        "option_c":  "Sadece sorunlu öğrenciler için önemlidir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve erdemli insan\u0027 profili, bireyin topluma karşı nasıl bir sorumluluk taşıdığını vurgular?",
+        "option_a":  "Toplumdan kendini soyutlama",
+        "option_b":  "Toplumun gelişimine katkı sağlayan, sorumlu bir vatandaş olma",
+        "option_c":  "Sadece kendi haklarını koruma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Analitik düşünme\u0027 becerisi neyi içerir?",
+        "option_a":  "Bir bütünü parçalarına ayırmadan kabul etme",
+        "option_b":  "Bir konuyu veya problemi alt bileşenlerine ayırarak detaylı inceleme",
+        "option_c":  "Sadece sezgilerle hareket etme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretim programlarının \u0027ulusal ve evrensel\u0027 bir bakış açısına sahip olması ne anlama gelir?",
+        "option_a":  "Sadece yerel değerlere odaklanma",
+        "option_b":  "Kendi milli değerlerini korurken, evrensel insani değerleri ve farklı kültürleri de anlama",
+        "option_c":  "Sadece evrensel değerleri benimseyip milli değerleri reddetme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Proje tabanlı öğrenme\u0027de değerlendirme neye odaklanır?",
+        "option_a":  "Sadece ortaya çıkan son ürüne",
+        "option_b":  "Hem öğrencinin süreçteki çabasına hem de ortaya çıkan ürüne",
+        "option_c":  "Sadece öğrencinin sunum becerisine",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027veli\u0027nin rolü nedir?",
+        "option_a":  "Eğitim sürecinin dışında bir gözlemci",
+        "option_b":  "Eğitim sürecinin önemli bir paydaşı ve okulun iş birliği ortağı",
+        "option_c":  "Sadece okulun finansal destekçisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yansıtıcı düşünme\u0027 becerisi, bireyin ne yapmasına olanak tanır?",
+        "option_a":  "Hatalarını görmezden gelmesine",
+        "option_b":  "Kendi deneyimleri ve öğrenmeleri üzerine düşünerek sonuçlar çıkarmasına",
+        "option_c":  "Başkalarının düşüncelerini olduğu gibi kabul etmesine",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nin \u0027insan onuru\u0027na bakışı nasıldır?",
+        "option_a":  "İnsan onuru başarıya göre değişir.",
+        "option_b":  "Her insan doğuştan onurlu bir varlıktır ve saygıyı hak eder.",
+        "option_c":  "Onur, sadece belirli bir gruba aittir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Esneklik\u0027, öğretim programlarının hangi özelliğidir?",
+        "option_a":  "Katı ve değiştirilemez olma",
+        "option_b":  "Farklı öğrenci ihtiyaçlarına ve yerel koşullara uyarlanabilme",
+        "option_c":  "İçeriğinin belirsiz olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027öğrenme ortamı\u0027 nasıl olmalıdır?",
+        "option_a":  "Sadece fiziksel olarak sınıf ortamı",
+        "option_b":  "Öğrenmeyi destekleyen, güvenli, etkileşimli ve zengin uyarıcılara sahip fiziksel ve sosyal ortamlar",
+        "option_c":  "Öğrencilerin tamamen pasif olduğu bir ortam",
+        "correct_answer":  "b"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Laiklik ilkesi gereğince, Türkiye\u0027de \u0027Din kültürü ve ahlak bilgisi\u0027 dersi öğretimi nasıl düzenlenmiştir?",
+        "option_a":  "İsteğe bağlıdır.",
+        "option_b":  "Sadece belirli okullarda okutulur.",
+        "option_c":  "İlköğretim ve ortaöğretim kurumlarında zorunlu dersler arasında yer alır.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Felsefenin \u0027varlık\u0027 (ontoloji) alanında \u0027Varlık var mıdır?\u0027 sorusuna \u0027yoktur\u0027 yanıtını veren görüş hangisidir?",
+        "option_a":  "Realizm",
+        "option_b":  "Nihilizm (Hiççilik)",
+        "option_c":  "İdealizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Pragmatist eğitim anlayışında değerlendirme nasıl olmalıdır?",
+        "option_a":  "Sadece sonuç odaklı (ürün değerlendirme)",
+        "option_b":  "Süreç ve sonuç odaklı (tümel değerlendirme)",
+        "option_c":  "Değerlendirme yapılmamalıdır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Okul, küçük bir toplum modeli olmalıdır.\u0027 görüşü hangi eğitim felsefesine aittir?",
+        "option_a":  "Daimicilik",
+        "option_b":  "İlerlemecilik",
+        "option_c":  "Esasicilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir toplumdaki alt ve üst kültür grupları arasındaki etkileşim ve bu etkileşimin eğitime yansıması, eğitim sosyolojisinin hangi konusudur?",
+        "option_a":  "Eğitim ve Kültür İlişkisi",
+        "option_b":  "Eğitim ve Ekonomi İlişkisi",
+        "option_c":  "Eğitim ve Siyaset İlişkisi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Okulda öğretilen resmi müfredatın yanı sıra, öğrencilerin okulun sosyal ortamından, kurallarından ve öğretmen-öğrenci ilişkilerinden öğrendiklerini ifade eden kavram nedir?",
+        "option_a":  "Açık Program",
+        "option_b":  "Örtük Program",
+        "option_c":  "Ekstra Program",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027İnsan sermayesi\u0027 kuramına göre, eğitime yapılan yatırımın en önemli çıktısı nedir?",
+        "option_a":  "Bireyin sosyalleşmesi",
+        "option_b":  "Üretkenliğin ve ekonomik verimliliğin artması",
+        "option_c":  "Kültürel değerlerin korunması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de ilköğretim programlarının yapılandırmacı yaklaşıma göre yenilendiği yıl hangisidir?",
+        "option_a":  "1997",
+        "option_b":  "2005",
+        "option_c":  "2012",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Eğitim Temel Kanunu\u0027na göre, örgün eğitim hangi iki temel bölümden oluşur?",
+        "option_a":  "Okul öncesi ve İlköğretim",
+        "option_b":  "İlköğretim ve Ortaöğretim",
+        "option_c":  "Örgün eğitim ve Yaygın eğitim",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Örgün eğitim sisteminin dışında, bireylerin ihtiyaçlarına göre düzenlenen kurslar, seminerler gibi faaliyetler hangi eğitim türüne girer?",
+        "option_a":  "Örgün Eğitim",
+        "option_b":  "Hizmet İçi Eğitim",
+        "option_c":  "Yaygın Eğitim",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Türk milli eğitiminin amacı; yalnız zihin eğitimi yapmak değildir. Bedenen, zihnen ve ahlaken gelişmiş insanlar yetiştirmektir.\u0027 düşüncesi eğitimin hangi özelliğini vurgular?",
+        "option_a":  "Bütüncül yaklaşımını",
+        "option_b":  "Sadece akademik yönünü",
+        "option_c":  "Ekonomik yönünü",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Ahlak felsefesi\u0027 olarak da bilinen, \u0027iyi\u0027 ve \u0027kötü\u0027 eylemlerin doğasını inceleyen felsefe dalı hangisidir?",
+        "option_a":  "Estetik",
+        "option_b":  "Etik",
+        "option_c":  "Ontoloji",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Öğretmen, öğrencilerin öğrenme sürecinde bir rehberdir.\u0027 anlayışı en çok hangi eğitim felsefesiyle örtüşür?",
+        "option_a":  "Esasicilik",
+        "option_b":  "Daimicilik",
+        "option_c":  "İlerlemecilik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Savaşlar, göçler ve kültürel istilalar, toplumları nasıl bir değişime zorlar?",
+        "option_a":  "Planlı ve yavaş bir değişim",
+        "option_b":  "Zorunlu ve hızlı bir değişim",
+        "option_c":  "Değişime neden olmaz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimin ekonomik temelinde yer alan \u0027kalkınma\u0027 kavramı, sadece ekonomik büyümeyi mi ifade eder?",
+        "option_a":  "Evet, sadece ekonomik büyümeyi ifade eder.",
+        "option_b":  "Hayır, sosyal ve kültürel gelişmeyi de içeren çok boyutlu bir kavramdır.",
+        "option_c":  "Kalkınma kavramının eğitimle ilgisi yoktur.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Köy Enstitüleri\u0027nin \u0027iş içinde, iş için, işle eğitim\u0027 ilkesi, hangi eğitim felsefesinin uygulamasına bir örnek olarak görülebilir?",
+        "option_a":  "Daimicilik",
+        "option_b":  "Pragmatizm (İlerlemecilik)",
+        "option_c":  "İdealizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir kanunun Anayasa\u0027ya uygunluğunu denetleyen kurum hangisidir?",
+        "option_a":  "Danıştay",
+        "option_b":  "Anayasa Mahkemesi",
+        "option_c":  "Yargıtay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli Eğitim Bakanlığı\u0027nın merkez teşkilatında yer alan ve eğitimle ilgili temel politikaları belirleyen en üst karar organı hangisidir?",
+        "option_a":  "İl Milli Eğitim Müdürlüğü",
+        "option_b":  "Talim ve Terbiye Kurulu Başkanlığı",
+        "option_c":  "Milli Eğitim Şurası",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Okul müdürlerinin ve öğretmenlerin atanma ve yer değiştirme işlemleri hangi hukuki metinlere göre yapılır?",
+        "option_a":  "Anayasa",
+        "option_b":  "Kanunlar",
+        "option_c":  "Yönetmelikler",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitimde kullanılan yöntem ve tekniklerin, bilimsel verilere ve araştırmalara dayanması, Milli Eğitim Temel Kanunu\u0027nun hangi ilkesidir?",
+        "option_a":  "Bilimsellik",
+        "option_b":  "Planlılık",
+        "option_c":  "Karma Eğitim",
+        "correct_answer":  "a"
+    }
+]

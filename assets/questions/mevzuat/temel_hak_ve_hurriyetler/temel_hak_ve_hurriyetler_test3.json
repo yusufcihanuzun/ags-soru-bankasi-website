@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, siyasi partilere üye olabilen yükseköğretim elemanları, partilerin yalnızca hangi organlarında görev alabilirler?",
+        "option_a":  "İl ve ilçe teşkilatlarında",
+        "option_b":  "Sadece merkez organlarında",
+        "option_c":  "Gençlik kollarında",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kamu Başdenetçisi (Ombudsman) TBMM tarafından kaç yıllık bir süre için seçilir?",
+        "option_a":  "4 yıl",
+        "option_b":  "5 yıl",
+        "option_c":  "6 yıl",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesine bireysel başvuru yapılabilmesinin temel ön koşulu nedir?",
+        "option_a":  "İhlalin basın yoluyla duyurulmuş olması",
+        "option_b":  "Tüm olağan kanun yollarının tüketilmiş olması",
+        "option_c":  "İhlal iddiasının bir suç teşkil etmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İşçi ve işverenler arasındaki toplu iş sözleşmesi uyuşmazlıklarında grevin yasaklandığı veya ertelendiği durumlarda uyuşmazlığı çözen ve kararları kesin olan kurul hangisidir?",
+        "option_a":  "Kamu Görevlileri Hakem Kurulu",
+        "option_b":  "Yüksek Hakem Kurulu",
+        "option_c":  "Tahkim Kurulu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\"Hiç kimse, yalnızca sözleşmeden doğan bir yükümlülüğü yerine getirememesinden dolayı özgürlüğünden alıkonulamaz.\" hükmü hangi başlık altında yer alan bir güvencedir?",
+        "option_a":  "Mülkiyet hakkı",
+        "option_b":  "Suç ve cezalara ilişkin esaslar",
+        "option_c":  "Çalışma ve sözleşme hürriyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Devletin, şehir planlaması çerçevesinde vatandaşların konut ihtiyacını karşılayacak tedbirleri alması, Anayasa\u0027da hangi hak kapsamında düzenlenmiştir?",
+        "option_a":  "Konut dokunulmazlığı (Negatif Statü Hakkı)",
+        "option_b":  "Mülkiyet hakkı (Negatif Statü Hakkı)",
+        "option_c":  "Konut hakkı (Pozitif Statü Hakkı)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre hem dernekler hem de sendikalar için ortak olan temel ilke hangisidir?",
+        "option_a":  "Önceden izin almaksızın kurulabilmeleri",
+        "option_b":  "Sadece işçiler tarafından kurulabilmeleri",
+        "option_c":  "Devletten mali yardım alabilmeleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kişilerin şeref ve haysiyetlerine dokunan veya gerçeğe aykırı yayınlarla ilgili düzeltme ve cevap metni yayımlanmazsa, yayımlanmasının gerekip gerekmediğine hâkim, müracaat tarihinden itibaren en geç kaç gün içinde karar verir?",
+        "option_a":  "3 gün",
+        "option_b":  "7 gün",
+        "option_c":  "15 gün",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bilim ve sanat hürriyeti kapsamındaki \u0027yayma hakkı\u0027, Anayasa\u0027nın hangi hükümlerinin değiştirilmesi amacıyla kullanılamaz?",
+        "option_a":  "Temel hakların sınırlandırılmasına ilişkin hükümlerin",
+        "option_b":  "Değiştirilemez nitelikteki ilk üç madde hükümlerinin",
+        "option_c":  "Yargı bağımsızlığına ilişkin hükümlerin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kamu hizmetine girenlerin mal bildiriminde bulunma zorunluluğundan, Anayasa\u0027ya göre aşağıdakilerden hangisi istisna tutulamaz?",
+        "option_a":  "Yasama ve yürütme organlarında görev alanlar",
+        "option_b":  "Belediye meclis üyeleri",
+        "option_c":  "Kamuya yararlı dernek yöneticileri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre dilekçe hakkı hangi konuları kapsar?",
+        "option_a":  "Sadece kişisel dilek ve şikayetleri",
+        "option_b":  "Sadece kamu ile ilgili dilek ve şikayetleri",
+        "option_c":  "Hem kişisel hem de kamu ile ilgili dilek ve şikayetleri",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi Anayasa\u0027nın \"Sosyal Güvenlik Bakımından Özel Olarak Korunması Gerekenler\" başlığı altında sayılmamıştır?",
+        "option_a":  "Yaşlılar ve engelliler",
+        "option_b":  "İşsizler ve serbest meslek sahipleri",
+        "option_c":  "Harp ve vazife şehitlerinin dul ve yetimleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Seçim kanunları düzenlenirken birbiriyle bağdaştırılması gereken iki temel ilke hangisidir?",
+        "option_a":  "Genel oy ve eşit oy",
+        "option_b":  "Temsilde adalet ve yönetimde istikrar",
+        "option_c":  "Gizli oy ve tek dereceli seçim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, temel hak ve hürriyetler aşağıdakilerden hangisini amaçlayan faaliyetler biçiminde kullanılamaz?",
+        "option_a":  "Hükümeti eleştirmek",
+        "option_b":  "Demokratik ve laik Cumhuriyeti ortadan kaldırmak",
+        "option_c":  "Siyasi partilere üye olmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, kişinin yaşama hakkına dokunulmasına cevaz verilen zorunlu durumlar arasında hangisi sayılmamıştır?",
+        "option_a":  "Bir isyanın bastırılması",
+        "option_b":  "Meşru müdafaa hâli",
+        "option_c":  "Mahkemelerce verilen ölüm cezalarının infazı",
+        "correct_answer":  "c"
+    }
+]

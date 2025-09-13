@@ -1,0 +1,156 @@
+﻿[
+    {
+        "question_text":  "Güneşin doğuş ve batış anındaki kızııllık süresini ifade eden \u0027grup ve tan süresi\u0027 Türkiye\u0027de güneyden kuzeye gidildikçe nasıl değişir?",
+        "option_a":  "Uzar",
+        "option_b":  "Kısalır",
+        "option_c":  "Değişmez",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "21 Aralık tarihinden sonra Türkiye\u0027de gündüz ve gece süreleri nasıl bir değişim göstermeye başlar?",
+        "option_a":  "Gündüzler kısalmaya, geceler uzamaya başlar",
+        "option_b":  "Gündüzler uzamaya, geceler kısalmaya başlar",
+        "option_c":  "Sürelerde bir değişiklik olmaz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin doğu-batı yönünde çok geniş bir ülke olmaması, aşağıdakilerden hangisine olanak tanımıştır?",
+        "option_a":  "Birden fazla ortak saat kullanılmasına",
+        "option_b":  "Tek ortak saat uygulanmasına",
+        "option_c":  "Yerel saat farkının olmamasına",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dünya\u0027nın kendi ekseni etrafında batıdan doğuya dönmesi sonucu, Türkiye\u0027de yerel saat hangi yönde daha ileridir?",
+        "option_a":  "Batıda",
+        "option_b":  "Doğuda",
+        "option_c":  "Kuzeyde",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de cisimlerin gölge boyunun hiçbir zaman sıfır olmamasının nedeni nedir?",
+        "option_a":  "Yengeç Dönencesi\u0027nin kuzeyinde yer alması",
+        "option_b":  "Başlangıç Meridyeni\u0027nin doğusunda yer alması",
+        "option_c":  "Ortalama yükseltisinin fazla olması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir dağın güney yamacındaki bitkilerin kuzey yamacına göre daha erken olgunlaşması neyin bir sonucudur?",
+        "option_a":  "Enlem etkisinin",
+        "option_b":  "Bakı etkisinin",
+        "option_c":  "Yükselti etkisinin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin komşuları içinde yüz ölçümü en büyük olan ülke hangisidir?",
+        "option_a":  "Suriye",
+        "option_b":  "İran",
+        "option_c":  "Irak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bulgaristan ile demir yolu bağlantımızın olduğu sınır kapısı hangisidir?",
+        "option_a":  "Hamzabeyli",
+        "option_b":  "Dereköy",
+        "option_c":  "Kapıkule",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Nahçıvan ile olan ve en kısa kara sınırımızı oluşturan Dilucu Sınır Kapısı\u0027nın diğer adı nedir?",
+        "option_a":  "Umut",
+        "option_b":  "Hasret",
+        "option_c":  "Dostluk",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Silifke\u0027yi İç Anadolu Bölgesi\u0027ne bağlayan geçit aşağıdakilerden hangisidir?",
+        "option_a":  "Gülek",
+        "option_b":  "Sertavul",
+        "option_c":  "Çubuk",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Bakü-Tiflis-Ceyhan\u0027 ve \u0027Kerkük-Yumurtalık\u0027 gibi hatlar, Türkiye\u0027nin hangi enerji kaynağının taşınmasında önemli rol oynadığını gösterir?",
+        "option_a":  "Doğal gaz",
+        "option_b":  "Petrol",
+        "option_c":  "Kömür",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "21 Mart ve 23 Eylül tarihlerinde (ekinoks), aynı boylam üzerindeki noktalarda Güneş\u0027in doğuş ve batışı ile ilgili hangisi doğrudur?",
+        "option_a":  "Doğuda daha erken doğar, batıda daha geç batar",
+        "option_b":  "Her yerde aynı anda doğar ve aynı anda batar",
+        "option_c":  "Kuzeyde daha erken doğar ve daha geç batar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin matematik konumunun bir sonucu olarak, Akdeniz kıyılarındaki deniz suyu tuzluluğunun Karadeniz\u0027den fazla olmasının temel sebebi nedir?",
+        "option_a":  "Daha fazla nehrin dökülmesi",
+        "option_b":  "Daha sıcak ve buharlaşmanın fazla olması",
+        "option_c":  "Daha derin olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kastamonu\u0027da kıyı ile iç kesimleri birbirine bağlayan geçit aşağıdakilerden hangisidir?",
+        "option_a":  "Ilgaz",
+        "option_b":  "Ecevit",
+        "option_c":  "Bolu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi Türkiye\u0027nin göreceli (özel) konumunun sonuçlarından biridir?",
+        "option_a":  "Cephe yağışlarının görülmesi",
+        "option_b":  "Akdeniz iklim kuşağında yer alması",
+        "option_c":  "Asya ve Avrupa arasında enerji koridoru olması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Rize\u0027yi Bayburt\u0027a bağlayan ve metinde adı geçen geçit aşağıdakilerden hangisidir?",
+        "option_a":  "Kop Geçidi",
+        "option_b":  "Soğanlı Geçidi",
+        "option_c":  "Zigana Geçidi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin ortalama yükseltisi, yaklaşık olarak kaç metredir?",
+        "option_a":  "1132 m",
+        "option_b":  "1542 m",
+        "option_c":  "877 m",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin göreceli konumu gereği zengin olduğu belirtilen linyit, bor ve trona gibi kaynaklar hangi genel gruba aittir?",
+        "option_a":  "Tarım ürünleri",
+        "option_b":  "Madenler",
+        "option_c":  "Enerji kaynakları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Gerçek alan ile izdüşüm alan arasındaki farkın en az olduğu iki bölgemiz hangileridir?",
+        "option_a":  "Doğu Anadolu ve Karadeniz",
+        "option_b":  "Marmara ve Güneydoğu Anadolu",
+        "option_c":  "Ege ve Akdeniz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bulgaristan sınırındaki Dereköy Sınır Kapısı\u0027nın diğer adı nedir?",
+        "option_a":  "Umut",
+        "option_b":  "Aziziye",
+        "option_c":  "İpek Yolu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin kuzeyinde yer alan ve 23° 27\u0027 paraleli olan dönencenin adı nedir?",
+        "option_a":  "Yengeç Dönencesi",
+        "option_b":  "Oğlak Dönencesi",
+        "option_c":  "Ekvator",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Doğu-batı yönünde geniş olan Rusya gibi ülkelerin aksine Türkiye\u0027nin tek bir ortak saat kullanmasının nedeni nedir?",
+        "option_a":  "Nüfus yoğunluğunun az olması",
+        "option_b":  "Doğu-batı yönünde geniş yer kaplamaması",
+        "option_c":  "Ortalama yükseltisinin fazla olması",
+        "correct_answer":  "b"
+    }
+]

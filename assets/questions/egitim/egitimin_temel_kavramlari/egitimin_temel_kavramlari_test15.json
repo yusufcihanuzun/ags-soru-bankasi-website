@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Edgar Dale\u0027nin \u0027Yaşantı Konisi\u0027 modeline göre, aşağıdakilerden hangisi en kalıcı öğrenmeyi sağlayan yaşantıdır?",
+        "option_a":  "Sözel sembollerle (kitap okuyarak) öğrenme",
+        "option_b":  "Görsel sembolleri (grafikleri) inceleyerek öğrenme",
+        "option_c":  "Doğrudan ve amaçlı yaşantılar (bizzat yaparak) edinme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğretmenin derste konuyla ilgili bir film izletmesi, Yaşantı Konisi\u0027nin hangi basamağına denk gelir?",
+        "option_a":  "Dramatizasyonla edinilen yaşantılar",
+        "option_b":  "Hareketli resimlerle edinilen yaşantılar",
+        "option_c":  "Sergilerle edinilen yaşantılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin bir tarih olayını canlandırmaları (drama), Yaşantı Konisi\u0027nde hangi öğrenme düzeyine örnektir?",
+        "option_a":  "Model ve numunelerle edinilen yaşantılar",
+        "option_b":  "Dramatizasyonla edinilen yaşantılar",
+        "option_c":  "Gösterilerle (demonstrasyon) edinilen yaşantılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğretim materyali hazırlarken, en önemli ögenin en çok göze çarpacak şekilde yerleştirilmesi, hangi tasarım ilkesiyle ilgilidir?",
+        "option_a":  "Bütünlük",
+        "option_b":  "Denge",
+        "option_c":  "Vurgu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir sunumda veya afişte, birbiriyle ilişkili ögelerin birbirine yakın, ilişkisiz ögelerin ise uzak yerleştirilmesi hangi tasarım ilkesidir?",
+        "option_a":  "Hizalama",
+        "option_b":  "Yakınlık/Gruplama",
+        "option_c":  "Tekrar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyaldeki yazı tipi, renk, şekil gibi görsel unsurların tutarlı bir şekilde kullanılarak tasarımda bir bütünlük hissi yaratılması hangi ilkenin gereğidir?",
+        "option_a":  "Vurgu",
+        "option_b":  "Tekrar",
+        "option_c":  "Zıtlık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hazırlanan bir öğretim materyalinin, dersin hedeflerine ve kazanımlarına hizmet etmesi, materyal seçimindeki hangi temel ölçüttür?",
+        "option_a":  "Öğrenci özelliklerine uygunluk",
+        "option_b":  "Öğretim hedeflerine uygunluk",
+        "option_c":  "Ekonomiklik ve kullanışlılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyalde kullanılan renklerin, yazıların ve görsellerin öğrencinin yaşına, gelişim düzeyine ve ön bilgilerine hitap etmesi hangi ölçütle ilgilidir?",
+        "option_a":  "Hedeflere uygunluk",
+        "option_b":  "Öğrenci özelliklerine uygunluk",
+        "option_c":  "İçeriğin doğruluğu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretim materyalinin karmaşık olmaması, basit, anlaşılır ve sade bir dille hazırlanması hangi özelliğini vurgular?",
+        "option_a":  "Açıklık ve Anlaşılırlık",
+        "option_b":  "Dayanıklılık",
+        "option_c":  "Görsel Çekicilik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi öğretmenin sınıftaki rollerinden biri olan \u0027öğretimsel liderlik\u0027 kapsamında yer almaz?",
+        "option_a":  "Öğrenme ortamını düzenlemek",
+        "option_b":  "Öğrencilerin kişisel sorunlarını çözmek",
+        "option_c":  "Öğrenmeyi güdülemek ve kolaylaştırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sınıf kurallarının belirlenmesi sürecinde, kuralların \u0027olumsuz\u0027 ifadeler yerine \u0027olumlu\u0027 ifadelerle (örn: \u0027Koşma\u0027 yerine \u0027Yürüyelim\u0027) oluşturulmasının temel nedeni nedir?",
+        "option_a":  "Kuralların daha kısa olmasını sağlamak",
+        "option_b":  "Öğrenciden beklenen davranışı net bir şekilde ifade etmek",
+        "option_c":  "Öğretmenin otoritesini göstermek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğretmenin aynı anda birden fazla olayla veya durumla başa çıkabilme, sınıfın farklı yerlerinde olan bitenin farkında olma becerisine ne ad verilir?",
+        "option_a":  "Dalga Etkisi",
+        "option_b":  "Tepkisellik",
+        "option_c":  "Alandal Liderlik / Aynı Anda Birçok Şeyle Uğraşabilme (Withitness)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Öğretmenin bir öğrenciye gösterdiği tepkinin, diğer öğrencileri de etkilemesi durumuna ne denir?",
+        "option_a":  "Grup sinerjisi",
+        "option_b":  "Dalga Etkisi (Ripple Effect)",
+        "option_c":  "Zincirleme reaksiyon",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dersin akışını bozmadan, bir etkinlikten diğerine yumuşak ve kesintisiz geçişler yapabilme becerisi, sınıf yönetiminin hangi boyutuyla ilgilidir?",
+        "option_a":  "Momentum (Hız ve Akıcılık)",
+        "option_b":  "Disiplin",
+        "option_c":  "İlişki Yönetimi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sürekli olarak dersi kesen, ilgisiz sorular soran veya konuyu dağıtan bir öğrencinin temel amacı ne olabilir?",
+        "option_a":  "Güç arayışı",
+        "option_b":  "Dikkat çekme",
+        "option_c":  "İntikam alma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmenin kurallarına ve isteklerine sürekli karşı gelen, \u0027bana ne yapacağımı söyleyemezsin\u0027 tavrı sergileyen bir öğrenci, hangi amaçla istenmeyen davranış sergiliyor olabilir?",
+        "option_a":  "Dikkat çekme",
+        "option_b":  "Yetersizlik gösterme",
+        "option_c":  "Güç arayışı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Derslerde sürekli \u0027Ben yapamam, anlamıyorum\u0027 diyerek etkinliklere katılmayı reddeden bir öğrencinin davranışı altında yatan neden ne olabilir?",
+        "option_a":  "İntikam alma",
+        "option_b":  "Güç arayışı",
+        "option_c":  "Yetersizlikten kaçma / Yılma",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Öğretmenler odasında, meslektaşlarının yanında bir öğrencinin özel durumunu veya sırrını ifşa eden bir öğretmen, öncelikle hangi rehberlik ilkesini ihlal etmiştir?",
+        "option_a":  "Gönüllülük",
+        "option_b":  "Gizlilik",
+        "option_c":  "Bireysel Farklılıklara Saygı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir testin cevap anahtarının önceden öğrenciler tarafından ele geçirilmesi, testin en çok hangi özelliğini olumsuz etkiler?",
+        "option_a":  "Güvenirlik",
+        "option_b":  "Kullanışlılık",
+        "option_c":  "Geçerlik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi, öğretmenin sınıf içinde etkili bir iletişim kurmasını engelleyen \u0027iletişim engellerinden\u0027 biridir?",
+        "option_a":  "Empati kurmak",
+        "option_b":  "Etkin dinleme yapmak",
+        "option_c":  "Öğüt vermek, ahlak dersi vermek",
+        "correct_answer":  "c"
+    }
+]

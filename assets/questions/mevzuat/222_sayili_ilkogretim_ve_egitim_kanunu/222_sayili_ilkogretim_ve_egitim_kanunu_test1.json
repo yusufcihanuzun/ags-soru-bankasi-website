@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "222 sayılı kanuna göre, mecburi ilköğretim çağı hangi yaş aralığını kapsar?",
+        "option_a":  "5-13 yaş",
+        "option_b":  "6-14 yaş",
+        "option_c":  "7-15 yaş",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mecburi ilköğretim, çocuğun kaç yaşını bitirdiği yılın öğretim yılı sonunda başlar?",
+        "option_a":  "5",
+        "option_b":  "6",
+        "option_c":  "7",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi 222 sayılı kanunda sayılan mecburi ilköğretim kurumlarından biridir?",
+        "option_a":  "Okul öncesi eğitim kurumları",
+        "option_b":  "Yetiştirici ve tamamlayıcı sınıflar ve kurslar",
+        "option_c":  "Çıraklık okulları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Nüfusu az ve dağınık olan yerlerde, birden fazla köyün çocuklarının toplandığı yatılı okullara ne ad verilir?",
+        "option_a":  "Yatılı İlköğretim Bölge Okulları (YİBO)",
+        "option_b":  "Gezici Okullar",
+        "option_c":  "Merkez Okullar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Birleştirilmiş sınıfların da açılabileceği tek öğretmenli okullar, hangi nüfus kriterine göre kurulabilir?",
+        "option_a":  "Nüfusu 50\u0027den az olan yerlerde",
+        "option_b":  "Nüfusu 100\u0027den az olan yerlerde",
+        "option_c":  "Nüfusu 150\u0027den az olan yerlerde",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir öğretim yılı içinde, okulların öğretime başlamasından itibaren çocukların okula kayıt ve kabul işlemleri en geç hangi ayın sonuna kadar bitirilir?",
+        "option_a":  "Ağustos",
+        "option_b":  "Eylül",
+        "option_c":  "Ekim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okula kayıt sırasında veli ile okul idaresi arasında çocuğun yaşı konusunda bir anlaşmazlık çıkarsa, okul müdürünün yapması gereken nedir?",
+        "option_a":  "Veli beyanını esas almak",
+        "option_b":  "Durumu incelemesi için nüfus idaresine bildirmek",
+        "option_c":  "Çocuğu en yakın sağlık ocağına göndermek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Her yıl eylül ayının üçüncü haftası ne olarak kutlanır?",
+        "option_a":  "Öğretmenler Günü",
+        "option_b":  "İlköğretim Haftası",
+        "option_c":  "Cumhuriyet Haftası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mecburi öğrenim çağında olup da yurt dışında bulunan Türk vatandaşı çocukları için de 222 sayılı kanun hükümleri uygulanır mı?",
+        "option_a":  "Hayır, sadece yurt içindekiler için geçerlidir.",
+        "option_b":  "Evet, kanun hükümleri onlar için de geçerlidir.",
+        "option_c":  "Sadece Dışişleri Bakanlığı\u0027nın izniyle geçerlidir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir çocuğun okula devamı zorunludur. Geçerli bir mazereti olan öğrenciye okul idaresi en fazla kaç gün izin verebilir?",
+        "option_a":  "7 gün",
+        "option_b":  "10 gün",
+        "option_c":  "15 gün",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Okul idaresinin verdiği 15 günlük izinden daha uzun süreli izinleri verme yetkisi kime aittir?",
+        "option_a":  "İlçe Milli Eğitim Müdürü",
+        "option_b":  "Mülki amir (vali, kaymakam)",
+        "option_c":  "Okul Aile Birliği Başkanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Çocuğunu okula göndermeyen veli veya vasisine, okul idaresince yapılan tebliğe rağmen çocuğun okula devamını sağlamaması durumunda, her bir devamsızlık günü için ne kadar idari para cezası verilir?",
+        "option_a":  "15 Türk Lirası",
+        "option_b":  "50 Türk Lirası",
+        "option_c":  "100 Türk Lirası",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Çocuğunu okula göndermeyen veliye idari para cezasını verme yetkisi kime aittir?",
+        "option_a":  "Okul müdürü",
+        "option_b":  "Mülki amir",
+        "option_c":  "Köy muhtarı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir köydeki veya mahalledeki okul çağına girmiş çocukları tespit edip velilerine bildirmek, öncelikli olarak kimin görevidir?",
+        "option_a":  "Okul müdürü",
+        "option_b":  "Muhtar ve okul müdürü",
+        "option_c":  "Jandarma veya polis",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İlköğretim okulu öğretmenlerinin atamaları kim tarafından yapılır?",
+        "option_a":  "Milli Eğitim Bakanlığı",
+        "option_b":  "Valilikler",
+        "option_c":  "Okul Müdürlükleri",
+        "correct_answer":  "b"
+    }
+]

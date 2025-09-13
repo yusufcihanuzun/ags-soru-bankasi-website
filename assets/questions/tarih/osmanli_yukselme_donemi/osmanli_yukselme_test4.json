@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Yavuz Sultan Selim\u0027in Memlük Devleti\u0027ne son verdiği ve Mısır\u0027ın fethiyle sonuçlanan 1517 tarihli savaş hangisidir?",
+        "option_a":  "Mercidabık Savaşı",
+        "option_b":  "Ridaniye Savaşı",
+        "option_c":  "Çaldıran Savaşı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1576 yılında hangi Kuzey Afrika ülkesi Sokullu Mehmet Paşa döneminde Osmanlı egemenliğine girmiştir?",
+        "option_a":  "Fas",
+        "option_b":  "Cezayir",
+        "option_c":  "Tunus",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstanbul\u0027un Fethi, İslam dünyasında sevinçle karşılanarak hangi isimle nitelendirilmiştir?",
+        "option_a":  "Feth-i Celil",
+        "option_b":  "Feth-i Mübin",
+        "option_c":  "Feth-i Azam",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Fatih Sultan Mehmet döneminde, Belgrat hariç olmak üzere tamamen fethedilen Balkan ülkesi hangisidir?",
+        "option_a":  "Sırbistan",
+        "option_b":  "Arnavutluk",
+        "option_c":  "Bosna-Hersek",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kanuni, II. Selim ve III. Murat olmak üzere üç padişah döneminde sadrazamlık yapan ünlü devlet adamı kimdir?",
+        "option_a":  "Pargalı İbrahim Paşa",
+        "option_b":  "Sokullu Mehmet Paşa",
+        "option_c":  "Rüstem Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kanuni Sultan Süleyman\u0027ın Fransa\u0027ya kapitülasyon vermesinin temel amacı nedir?",
+        "option_a":  "Fransız mallarını ucuza almak",
+        "option_b":  "Avrupa\u0027da Hristiyan birliğini parçalamak",
+        "option_c":  "Akdeniz ticaretini canlandırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sokullu Mehmet Paşa\u0027nın, Marmara Denizi ile Karadeniz\u0027i bir kanal ile birleştirme projesindeki temel amaç neydi?",
+        "option_a":  "İstanbul\u0027un su ihtiyacını karşılamak",
+        "option_b":  "Donanma için alternatif bir yol ve kereste ihtiyacını gidermek",
+        "option_c":  "Tarım arazilerini sulamak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mercidabık Savaşı sırasında esir alınan son Abbasi halifesi kimdir?",
+        "option_a":  "Mütevekkil",
+        "option_b":  "Mustansır",
+        "option_c":  "Kaim",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstanbul\u0027un fethi için Fatih Sultan Mehmet tarafından döktürülen büyük topların adı nedir?",
+        "option_a":  "Şahi",
+        "option_b":  "Humbara",
+        "option_c":  "Badoluşka",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Fatih Sultan Mehmet döneminde kurulan ve dönemin en yüksek eğitim kurumu olan Sahn-ı Seman Medreselerine öğrenci yetiştirmek için açılan okullar hangisidir?",
+        "option_a":  "Enderun Mektebi",
+        "option_b":  "Sıbyan Mektepleri",
+        "option_c":  "Tetimme Medreseleri",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1492\u0027de İspanya\u0027daki zulümden kaçan Yahudi ve Müslümanları İstanbul\u0027a getiren Osmanlı denizcisi kimdir?",
+        "option_a":  "Piri Reis",
+        "option_b":  "Kemal Reis",
+        "option_c":  "Turgut Reis",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yavuz Sultan Selim\u0027in Doğu siyasetinde kendisine danışmanlık yapan İdris-i Bitlisi\u0027nin eserinin adı nedir?",
+        "option_a":  "Heşt-Behişt",
+        "option_b":  "Tarih-i Ebu\u0027l Feth",
+        "option_c":  "Selimname",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Çaldıran Zaferi\u0027nin ardından Yavuz Sultan Selim\u0027in hangi şehirdeki sanatçıları İstanbul\u0027a getirdiği belirtilmektedir?",
+        "option_a":  "İsfahan",
+        "option_b":  "Tebriz",
+        "option_c":  "Şam",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yavuz Sultan Selim, Şam\u0027da hangi ünlü İslam aliminin mezarını buldurup üzerine türbe ve külliye yaptırmıştır?",
+        "option_a":  "İmam Gazali",
+        "option_b":  "Muhyiddin Arabi",
+        "option_c":  "İmam Rabbani",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Fatih Sultan Mehmet\u0027in, Trabzonlu bilgin Amirutzes\u0027e çizdirdiği haritadaki yer adlarını hangi dile çevirttiği belirtilmektedir?",
+        "option_a":  "Latince",
+        "option_b":  "Farsça",
+        "option_c":  "Arapça",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Fatih Sultan Mehmet, fetihten sonra Ayasofya Kilisesi\u0027ni hangi isimle camiye dönüştürmüştür?",
+        "option_a":  "Fatih Camii",
+        "option_b":  "Ayasofya-i Kebir Cami-i Şerifi",
+        "option_c":  "Fetih Camisi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Karamanoğulları Beyliği\u0027ne hangi padişah döneminde tamamen son verilmiştir?",
+        "option_a":  "Fatih Sultan Mehmet",
+        "option_b":  "II. Bayezit",
+        "option_c":  "Yavuz Sultan Selim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kanuni Sultan Süleyman\u0027ın 1522\u0027de Saint Jean Şövalyeleri\u0027nden aldığı ve Doğu Akdeniz\u0027in güvenliği için stratejik öneme sahip olan ada hangisidir?",
+        "option_a":  "Kıbrıs",
+        "option_b":  "Girit",
+        "option_c":  "Rodos",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Ünlü denizci Turgut Reis hangi adanın kuşatması sırasında şehit olmuştur?",
+        "option_a":  "Rodos",
+        "option_b":  "Kıbrıs",
+        "option_c":  "Malta",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kanuni döneminin seferlerini \u0027Süleymanname\u0027 ve \u0027Beyan-ı Menazil-i Seferi Irakeyn\u0027 adlı eserlerinde anlatan ünlü minyatürcü kimdir?",
+        "option_a":  "Levni",
+        "option_b":  "Nakkaş Osman",
+        "option_c":  "Matrakçı Nasuh",
+        "correct_answer":  "c"
+    }
+]

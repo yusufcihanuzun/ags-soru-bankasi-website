@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Gerekli durumlarda ilk adımı cesurca atabilen bir kişilik özelliği, \u0027Yetkin ve Erdemli İnsan\u0027 profilinin hangi alt boyutuyla ilgilidir?",
+        "option_a":  "Bilge",
+        "option_b":  "Ahlaklı",
+        "option_c":  "Cesur",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Öğrencilerin uzun bir zaman dilimindeki çalışmalarını toplayarak gelişimlerini gösteren ve kendi süreçlerini de değerlendirme fırsatı sunan araç hangisidir?",
+        "option_a":  "Gözlem formu",
+        "option_b":  "Öğrenci seçki dosyası (Portfolyo)",
+        "option_c":  "Kavram haritası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli, öğrenme sürecinde hangi temel ilkeyi benimser?",
+        "option_a":  "Tek tip değerlendirme",
+        "option_b":  "Süreç ve sonuç odaklı bütünleşik değerlendirme",
+        "option_c":  "Sadece sonuç odaklı değerlendirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dijital teknolojileri amacına uygun ve güvenli bir şekilde kullanarak bilgiye erişme, üretme ve paylaşma becerisi, hangi okuryazarlık türüyle ilgilidir?",
+        "option_a":  "Veri okuryazarlığı",
+        "option_b":  "Dijital okuryazarlık",
+        "option_c":  "Finansal okuryazarlık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin düşüncelerini etkili bir şekilde ifade etme, farklı bakış açılarını anlama ve yapıcı iletişim kurma becerisi, hangi sosyal-duygusal öğrenme becerisi kapsamındadır?",
+        "option_a":  "Öz yönetim",
+        "option_b":  "İlişki kurma becerileri",
+        "option_c":  "Sorumlu karar alma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okulun kendi bağlamını, önceliklerini ve ihtiyaçlarını dikkate alarak öğretim programlarını şekillendirmesi, modelin hangi özelliğine dayanır?",
+        "option_a":  "Merkeziyetçi planlama",
+        "option_b":  "Okul temelli program geliştirme",
+        "option_c":  "Program dışı etkinlikler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sanat eserlerini anlama, yorumlama ve estetik duyarlılık geliştirme, hangi okuryazarlık türü ile doğrudan ilişkilidir?",
+        "option_a":  "Bilgi okuryazarlığı",
+        "option_b":  "Sanat okuryazarlığı",
+        "option_c":  "Vatandaşlık okuryazarlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin kendi öğrenme sürecini planlaması, izlemesi ve değerlendirmesi, hangi sosyal-duygusal öğrenme becerisiyle ilgilidir?",
+        "option_a":  "Öz farkındalık",
+        "option_b":  "Öz yönetim",
+        "option_c":  "Sosyal farkındalık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nin beceri profilinde yer alan \u0027eleştirel düşünme\u0027, hangi beceri alanı altında sınıflandırılır?",
+        "option_a":  "Üst düzey bilişsel beceriler",
+        "option_b":  "Sosyal-duygusal beceriler",
+        "option_c":  "Psikomotor beceriler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Modelde yer alan \u0027erdem-değer-eylem\u0027 çerçevesinin temel amacı nedir?",
+        "option_a":  "Öğrencilere sadece teorik bilgi aktarmak",
+        "option_b":  "Değerleri davranışa ve eyleme dönüştürmüş bireyler yetiştirmek",
+        "option_c":  "Öğrencilerin sınav başarısını artırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nin bütüncül eğitim yaklaşımı, insanın hangi boyutlarını kapsar?",
+        "option_a":  "Sadece zihin ve ruh",
+        "option_b":  "Sadece beden ve zihin",
+        "option_c":  "Zihin, ruh ve beden",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Modelde, öğrenme-öğretme sürecinde öğretmenin rolü nasıl tanımlanmıştır?",
+        "option_a":  "Bilgiyi doğrudan aktaran tek otorite",
+        "option_b":  "Öğrenme sürecini kolaylaştıran bir rehber",
+        "option_c":  "Sadece değerlendirme yapan bir gözlemci",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Epistemolojik bütünlük\u0027 kavramı, öğrencinin hangi yönüyle ilgilidir?",
+        "option_a":  "Varlığın doğasını anlaması",
+        "option_b":  "Değer ve etik anlayışı",
+        "option_c":  "Bilgiye ulaşma ve bilgiyi yapılandırma biçimi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Program geliştirme sürecinde paydaşların (öğretmen, veli, öğrenci) görüşlerinin alınması, modelin hangi ilkesini yansıtır?",
+        "option_a":  "Katılımcılık",
+        "option_b":  "Merkeziyetçilik",
+        "option_c":  "Bireysellik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Öğrencilerin toplumsal sorunlara duyarlı olmaları ve çözüm üretmeleri, hangi okuryazarlık becerisiyle desteklenir?",
+        "option_a":  "Medya okuryazarlığı",
+        "option_b":  "Vatandaşlık okuryazarlığı",
+        "option_c":  "Çevre okuryazarlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Aksiyolojik olgunluk\u0027 profili, öğrencinin hangi yönünü ifade eder?",
+        "option_a":  "Bilgiye bakış açısını",
+        "option_b":  "Değerler ve etik ile ilgili olgunluğunu",
+        "option_c":  "Zamanı yönetme becerisini",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nde \u0027okul dışı öğrenme ortamları\u0027 neden önemlidir?",
+        "option_a":  "Öğrenmeyi sadece okul binasıyla sınırlı tutmak için",
+        "option_b":  "Öğrenmeyi hayatın her alanına yaymak ve deneyimsel hale getirmek için",
+        "option_c":  "Öğretmenlerin iş yükünü azaltmak için",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir problemi tanımlama, farklı çözüm yolları üretme ve en uygununu seçme süreci, hangi üst düzey düşünme becerisini ifade eder?",
+        "option_a":  "Hafızada tutma",
+        "option_b":  "Problem çözme",
+        "option_c":  "Ezberleme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027Türkçenin bütün zenginliğiyle öğretilmesi\u0027 vurgusu, neyi amaçlamaktadır?",
+        "option_a":  "Yabancı dil öğrenimini engellemeyi",
+        "option_b":  "Öğrencilerin kendilerini etkili ifade etme ve düşünme becerilerini geliştirmeyi",
+        "option_c":  "Sadece dilbilgisi kurallarını öğretmeyi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin farklı kültürlere ve görüşlere saygı duyması, hangi sosyal-duygusal öğrenme becerisiyle ilgilidir?",
+        "option_a":  "Öz yönetim",
+        "option_b":  "Sosyal farkındalık",
+        "option_c":  "Sorumlu karar alma",
+        "correct_answer":  "b"
+    }
+]

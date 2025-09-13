@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "1962 - VII. Milli Eğitim Şurası\u0027nda alınan kararla aşağıdakilerden hangisi gerçekleşmiştir?",
+        "option_a":  "FATİH Projesi başlatılmıştır.",
+        "option_b":  "Programların geliştirilerek bütün yurt çapında uygulanması kararlaştırılmıştır.",
+        "option_c":  "8 yıllık ilköğretim uygulaması kabul edilmiştir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1739 sayılı Türk Milli Eğitim Temel Kanunu hangi yıl kabul edilmiştir?",
+        "option_a":  "1962",
+        "option_b":  "1973",
+        "option_c":  "1982",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1997\u0027de 4306 sayılı yasa ile ilköğretimin kesintisiz ve zorunlu olarak kaç yıla çıkarılması uygulaması konulmuştur?",
+        "option_a":  "5 yıl",
+        "option_b":  "11 yıl",
+        "option_c":  "8 yıl",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "2008\u0027de eğitimde teknolojinin etkin kullanımı için başlatılan projenin adı nedir?",
+        "option_a":  "EBA (Eğitim Bilişim Ağı)",
+        "option_b":  "FATİH Projesi",
+        "option_c":  "Milli Eğitimi Geliştirme Projesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "2012\u0027de eğitim süresinin 12 yıla çıkarılmasıyla gelen sistemin adı nedir?",
+        "option_a":  "8 Yıllık Kesintisiz Eğitim",
+        "option_b":  "4+4+4 Sistemi",
+        "option_c":  "Mesleki Eğitim Sistemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "2024-2025 eğitim yılında kademeli olarak uygulanmaya başlanan yeni öğretim modelinin adı nedir?",
+        "option_a":  "Serbest Müfredat",
+        "option_b":  "Türkiye Yüzyılı Maarif Modeli",
+        "option_c":  "Yapılandırmacı Model",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde \u0027Şaman\u0027 ve \u0027Kam\u0027 adı verilen kişiler hangi rolü üstlenmişlerdir?",
+        "option_a":  "Askerlik",
+        "option_b":  "Yöneticilik",
+        "option_c":  "Öğretmenlik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Uygurlarda okur-yazarlık ve bilgi düzeyinin Göktürklere göre daha yüksek olmasının temel sebebi nedir?",
+        "option_a":  "Göçebe yaşamaları",
+        "option_b":  "Uygur alfabesini kullanmaları",
+        "option_c":  "Savaşçılık özellikleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Farabi, Biruni, İbn-i Sina gibi kişilerin yetiştiği Türk-İslam devleti hangisidir?",
+        "option_a":  "Karahanlılar",
+        "option_b":  "Selçuklular",
+        "option_c":  "Osmanlılar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Selçuklu Devleti\u0027nde örgün eğitim kurumu olarak medreselere önem verilmesinin temel amacı nedir?",
+        "option_a":  "Sanatkâr yetiştirmek",
+        "option_b":  "Devlet başkanları ve bilginler yetiştirmek",
+        "option_c":  "Sadece din eğitimi vermek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1957\u0027de Maarif-i Umumiye Nezaretiyle (Genel Eğitim Bakanlığı) ilk defa bir bakanlığın kurulduğu dönem hangisidir?",
+        "option_a":  "Selçuklu Devleti",
+        "option_b":  "Osmanlı Devleti",
+        "option_c":  "Türkiye Cumhuriyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İsmail Hakkı Baltacıoğlu ve Sadrettin Celal Antel\u0027in iş ve okulu birleştiren eğitim modelinin adı nedir?",
+        "option_a":  "Köy Enstitüleri Modeli",
+        "option_b":  "Üretici Okul Modeli",
+        "option_c":  "Politeknik Model",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eski Mısır\u0027da okulların temel amacı neydi?",
+        "option_a":  "Sanatçı yetiştirmek",
+        "option_b":  "Asker yetiştirmek",
+        "option_c":  "Devlet dairelerine memur yetiştirmek",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hindistan\u0027daki kast sisteminde en üst sınıf olan \u0027Brahman\u0027lar hangi meslek grubunu oluştururdu?",
+        "option_a":  "Askerler (Kşatriya)",
+        "option_b":  "Din adamları, bilginler",
+        "option_c":  "İşçiler (Sudra)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimin planlanması, uygulanması ve denetlenmesi süreçlerini düzenleyen yasalara ne ad verilir?",
+        "option_a":  "Eğitimin Politik Temeli",
+        "option_b":  "Eğitimin Hukuksal Temeli",
+        "option_c":  "Eğitimin Ekonomik Temeli",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Cumhuriyeti Anayasası\u0027nın 42. maddesi hangi temel hakkı güvence altına alır?",
+        "option_a":  "Sağlık Hakkı",
+        "option_b":  "Mülkiyet Hakkı",
+        "option_c":  "Eğitim ve Öğrenim Hakkı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027de eğitim sisteminin genel esaslarını ve amaçlarını belirleyen 1739 sayılı kanun hangisidir?",
+        "option_a":  "İlköğretim ve Eğitim Kanunu",
+        "option_b":  "Milli Eğitim Temel Kanunu",
+        "option_c":  "Yükseköğretim Kanunu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Birleşmiş Milletler Çocuk Hakları Sözleşmesi gibi normlar, eğitimin hukuksal temelinin hangi unsurunu oluşturur?",
+        "option_a":  "Anayasa",
+        "option_b":  "Yönetmelikler ve Genelgeler",
+        "option_c":  "Uluslararası Sözleşmeler",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "MEB\u0027in yayınladığı okul yönetmelikleri, eğitimin hukuksal temelinin hangi unsuruna örnektir?",
+        "option_a":  "Yönetmelikler ve Genelgeler",
+        "option_b":  "Anayasa",
+        "option_c":  "Kanunlar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Eğitimin, bir toplumun politik değerleri, ideolojileri ve yönetim anlayışıyla şekillenmesini ifade eden temel hangisidir?",
+        "option_a":  "Hukuksal Temel",
+        "option_b":  "Politik Temel",
+        "option_c":  "Sosyal Temel",
+        "correct_answer":  "b"
+    }
+]

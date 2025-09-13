@@ -1,0 +1,121 @@
+﻿[
+    {
+        "question_text":  "Kamu görevlilerine, görevleriyle ilgili olarak yapılan isnatlardan dolayı açılan hakaret davalarında sanığa tanınan hak aşağıdakilerden hangisidir?",
+        "option_a":  "Masumiyet karinesi",
+        "option_b":  "İspat hakkı",
+        "option_c":  "Adil yargılanma hakkı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi, kamulaştırılan toprakların bedellerinin taksitle ödenebileceği amaçlar arasında yer almaz?",
+        "option_a":  "Büyük enerji ve sulama projeleri",
+        "option_b":  "Yeni ormanların yetiştirilmesi",
+        "option_c":  "Özel sanayi bölgeleri kurulması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi\u0027nin, bir siyasi partiyi devlet yardımından yoksun bırakma yerine \u0027temelli kapatma\u0027 kararı vermek zorunda olduğu durum hangisidir?",
+        "option_a":  "Parti tüzüğünün laikliğe aykırı olması",
+        "option_b":  "Suç işlenmesini teşvik etmesi",
+        "option_c":  "Yabancı devletlerden maddi yardım alması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Herkesin \u0027bilgi edinme\u0027 ve \u0027kamu denetçisine başvurma\u0027 hakkına sahip olduğu, Anayasa\u0027ya hangi yıl yapılan değişiklikle girmiştir?",
+        "option_a":  "2001",
+        "option_b":  "2007",
+        "option_c":  "2010",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Siyasi Partiler Kanunu\u0027na göre, genel seçimlerde oyların en az yüzde kaçını alan siyasi partiler devletten hazine yardımı almaya hak kazanır?",
+        "option_a":  "%1",
+        "option_b":  "%3",
+        "option_c":  "%5",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Olağan dönemde çıkarılan Cumhurbaşkanlığı Kararnameleri ile sosyal ve ekonomik haklar hakkında aşağıdakilerden hangisi yapılabilir?",
+        "option_a":  "Bu haklar kanuna gerek kalmadan sınırlanabilir.",
+        "option_b":  "Bu haklar kapsamında düzenleme yapılabilir.",
+        "option_c":  "Bu haklar tamamen askıya alınabilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre ailenin korunması kapsamında Devletin alması gereken tedbirler arasında aşağıdakilerden hangisi açıkça sayılmıştır?",
+        "option_a":  "Aile planlamasının öğretimi ve uygulanması",
+        "option_b":  "Eşlere zorunlu evlilik danışmanlığı verilmesi",
+        "option_c":  "Yeni evlenenlere konut kredisi sağlanması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, herhangi bir sebeple ödenmemiş kamulaştırma bedellerine uygulanacak faiz oranı nedir?",
+        "option_a":  "Yasal faiz oranı",
+        "option_b":  "Merkez Bankası reeskont faiz oranı",
+        "option_c":  "Kamu alacakları için öngörülen en yüksek faiz",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027nın vatandaşlık tanımına göre aşağıdakilerden hangisi doğrudur?",
+        "option_a":  "Sadece Türk babanın çocuğu Türk\u0027tür.",
+        "option_b":  "Türk babanın veya Türk ananın çocuğu Türk\u0027tür.",
+        "option_c":  "Türkiye\u0027de doğan herkes Türk\u0027tür.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, Kamu Denetçiliği Kurumu\u0027nun (Ombudsmanlık) temel görevi nedir?",
+        "option_a":  "İdarenin işleyişiyle ilgili şikâyetleri incelemek",
+        "option_b":  "Kamu görevlileri hakkında disiplin soruşturması yapmak",
+        "option_c":  "Mahkeme kararlarının yerindeliğini denetlemek",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi, diğer koşulları da sağlaması şartıyla, seçimlerde oy kullanma hakkına sahiptir?",
+        "option_a":  "Askeri öğrenciler",
+        "option_b":  "Ceza infaz kurumlarındaki tutuklular",
+        "option_c":  "Kasıtlı suçlardan hüküm giymiş ve cezası devam edenler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Temel hak ve hürriyetlerin sınırlandırılmasında, hakkın kullanılmasını imkânsız kılan veya aşırı derecede zorlaştıran müdahalelerin yasaklanması hangi ilkeyi ifade eder?",
+        "option_a":  "Ölçülülük ilkesi",
+        "option_b":  "Hakkın özüne dokunma yasağı",
+        "option_c":  "Kanunilik ilkesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027daki \"Bir kimsenin, başka bir kişinin fiilinden dolayı sorumlu tutulamaması\" hangi ceza hukuku ilkesinin bir gereğidir?",
+        "option_a":  "Masumiyet karinesi",
+        "option_b":  "Kanunilik ilkesi",
+        "option_c":  "Cezaların şahsiliği ilkesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Herkesin, önceden izin almadan toplantı ve gösteri yürüyüşü düzenleme hakkı Anayasa\u0027da hangi temel şarta bağlanmıştır?",
+        "option_a":  "Kamu düzenini bozmaması",
+        "option_b":  "Silahsız ve saldırısız olması",
+        "option_c":  "Valilikten onay alınması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre çevreyi korumak ve geliştirmek kimin ödevidir?",
+        "option_a":  "Sadece Devletin",
+        "option_b":  "Sadece vatandaşların",
+        "option_c":  "Hem Devletin hem de vatandaşların",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027de ikamet eden bir yabancının dilekçe hakkından faydalanabilmesi için ikamet etmesinin yanı sıra aranan diğer koşul nedir?",
+        "option_a":  "Türkçe bilmesi",
+        "option_b":  "En az 5 yıldır Türkiye\u0027de yaşaması",
+        "option_c":  "Karşılıklılık (mütekabiliyet) esasının bulunması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027nda ailenin statüsü nasıl tanımlanmıştır?",
+        "option_a":  "Toplumun en küçük birimi",
+        "option_b":  "Türk toplumunun temeli",
+        "option_c":  "Devletin koruması altındaki kurum",
+        "correct_answer":  "b"
+    }
+]

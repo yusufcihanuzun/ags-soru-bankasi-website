@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nde ahlaki gelişim hangi temel üzerine kurulmuştur?",
+        "option_a":  "Evrensel ve yerel değerlerin bütünlüğü",
+        "option_b":  "Sadece rekabetçi değerler",
+        "option_c":  "Bireysel çıkarlar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Programın öğrenciyi \u0027basitten karmaşığa\u0027 doğru geliştirmesi, hangi ilkeyle ilgilidir?",
+        "option_a":  "Bütünlük",
+        "option_b":  "Aşamalılık",
+        "option_c":  "Esneklik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Problem temelli öğrenme\u0027 yaklaşımında süreç nasıl başlar?",
+        "option_a":  "Öğretmenin konuyu anlatmasıyla",
+        "option_b":  "Gerçek hayatla ilişkili bir problemin sunulmasıyla",
+        "option_c":  "Bir sınav yapılmasıyla",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve Erdemli İnsan\u0027 profilinin \u0027estetik\u0027 alt boyutu neyi ifade eder?",
+        "option_a":  "Sadece güzel giyinmeyi",
+        "option_b":  "Sanata, doğaya ve çevresindeki güzelliklere karşı duyarlılığı",
+        "option_c":  "Sadece matematiksel güzelliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde \u0027öğrenme kanıtı\u0027 olarak ne kabul edilir?",
+        "option_a":  "Sadece sınav notları",
+        "option_b":  "Öğrencinin öğrenmeyi gerçekleştirdiğini gösteren her türlü ürün, performans ve davranış",
+        "option_c":  "Sadece öğretmenin gözlemleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Dijital vatandaşlık\u0027 kavramı hangi sorumlulukları içerir?",
+        "option_a":  "İnterneti sınırsızca ve sorumsuzca kullanmak",
+        "option_b":  "Çevrim içi ortamda etik ve sorumlu davranma, siber zorbalığa karşı durma",
+        "option_c":  "Sadece sosyal medya hesabı sahibi olmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nde \u0027okul iklimi\u0027nin nasıl olması hedeflenir?",
+        "option_a":  "Korku ve rekabete dayalı",
+        "option_b":  "Güven, saygı ve iş birliğine dayalı, pozitif bir öğrenme ortamı",
+        "option_c":  "Öğrencilerin pasif olduğu bir ortam",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Metaforik düşünme\u0027 becerisi öğrenciye ne kazandırır?",
+        "option_a":  "Kavramları sadece somut anlamlarıyla öğrenme",
+        "option_b":  "Bir kavramı başka bir kavram aracılığıyla anlama ve aralarında ilişki kurma",
+        "option_c":  "Sadece mecazi anlamları ezberleme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve Erdemli İnsan\u0027 profilinin \u0027bilge\u0027 alt boyutu, hangi özelliği vurgular?",
+        "option_a":  "Çok fazla bilgiye sahip olma",
+        "option_b":  "Bilgiyi içselleştirme, yerinde kullanma ve hikmet sahibi olma",
+        "option_c":  "Her konuda fikir sahibi olma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Farklılaştırılmış öğretim\u0027de öğretmenlerin hangi konuda esnek olması beklenir?",
+        "option_a":  "Sadece ders saatleri",
+        "option_b":  "İçerik, süreç, ürün ve öğrenme ortamı",
+        "option_c":  "Sadece sınıf kuralları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nin bilgi anlayışı nasıldır?",
+        "option_a":  "Bilgi, ezberlenmesi gereken statik bir yapıdır.",
+        "option_b":  "Bilgi, deneyimlerle ve sosyal etkileşimle yapılandırılan dinamik bir süreçtir.",
+        "option_c":  "Bilgi, sadece kitaplarda bulunan bir metadır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Sistem düşüncesi\u0027 becerisi, bireyin olayları nasıl görmesini sağlar?",
+        "option_a":  "Birbirinden kopuk parçalar olarak",
+        "option_b":  "Parçaları ve aralarındaki ilişkileri görerek bir bütün olarak",
+        "option_c":  "Sadece sonuçlarına odaklanarak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretim programlarında yer alan \u0027erdem-değer-eylem\u0027 bütünlüğü neyi amaçlar?",
+        "option_a":  "Değerlerin sadece bilinmesini",
+        "option_b":  "Değerlerin davranışa dönüşmesini",
+        "option_c":  "Sadece eylemlerin değerlendirilmesini",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yapıcı geri bildirim\u0027 nasıl olmalıdır?",
+        "option_a":  "Sadece olumsuz yönleri vurgulayan ve kişiliği hedef alan",
+        "option_b":  "Gelişime odaklanan, yol gösterici ve kişiliği değil davranışı hedef alan",
+        "option_c":  "Her zaman sadece olumlu olanı söyleyen",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Yetkin ve Erdemli İnsan\u0027 profilinin \u0027adil\u0027 alt boyutu, hangi ilkeyi temel alır?",
+        "option_a":  "Herkese eşit davranma",
+        "option_b":  "Hak ve hukuka uygun davranma, herkese hak ettiğini verme",
+        "option_c":  "Sadece güçlü olanın yanında yer alma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Modelde, \u0027merak\u0027 duygusunun öğrenmedeki rolü nedir?",
+        "option_a":  "Dikkati dağıtan bir engel",
+        "option_b":  "Öğrenme sürecini başlatan temel bir güdü",
+        "option_c":  "Sadece küçük yaşlarda önemli olan bir duygu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Okuryazarlık becerileri\u0027 alanı, modelde neden bu kadar geniş tutulmuştur?",
+        "option_a":  "Müfredatı karmaşıklaştırmak için",
+        "option_b":  "Öğrencileri 21. yüzyıl dünyasının gerektirdiği çeşitli bilgi ve becerilerle donatmak için",
+        "option_c":  "Sadece dijital becerilere odaklanmak için",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Sosyal-duygusal öğrenme becerileri\u0027nin akademik başarıya etkisi nasıldır?",
+        "option_a":  "Akademik başarıyı olumsuz etkiler",
+        "option_b":  "Akademik başarıyı destekler ve artırır",
+        "option_c":  "Akademik başarıyla hiçbir ilgisi yoktur",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Okul temelli program geliştirme\u0027, okullara hangi imkanı sunar?",
+        "option_a":  "Ulusal müfredatı tamamen reddetme",
+        "option_b":  "Kendi yerel koşullarına ve öğrenci profiline uygun uyarlamalar yapma",
+        "option_c":  "Tüm sorumluluğu bakanlığa bırakma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Yüzyılı Maarif Modeli\u0027nin nihai hedefi nedir?",
+        "option_a":  "Sadece sınavda başarılı olan bireyler yetiştirmek",
+        "option_b":  "Hem yetkin hem de erdemli, bütüncül gelişimini tamamlamış insanlar yetiştirmek",
+        "option_c":  "Sadece iyi bir meslek sahibi olan bireyler yetiştirmek",
+        "correct_answer":  "b"
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Yasama sorumsuzluğu milletvekilini hangi tür davalara karşı korur?",
+        "option_a":  "Sadece ceza davaları",
+        "option_b":  "Hem hukuk hem ceza davaları",
+        "option_c":  "Sadece hukuk davaları",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi, milletvekilliğini TBMM kararıyla sona erdiren bir durumdur?",
+        "option_a":  "Vatandaşlığın kaybı",
+        "option_b":  "İstifa",
+        "option_c":  "Milletvekilinin ölümü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milletvekillerinin aylık ödenek miktarı en fazla ne kadar olabilir?",
+        "option_a":  "Cumhurbaşkanı maaşını geçemez.",
+        "option_b":  "En yüksek devlet memurunun aldığı miktarı geçemez.",
+        "option_c":  "Asgari ücretin 10 katını geçemez.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM\u0027nin Radyo ve Televizyon Üst Kurulu (RTÜK) üyelerini seçmesi, ne tür bir yasama işlemidir?",
+        "option_a":  "Kanun",
+        "option_b":  "Parlamento Kararı",
+        "option_c":  "İç Tüzük değişikliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, Anayasa değişikliği teklifi için gereken en az milletvekili sayısı kaçtır?",
+        "option_a":  "151",
+        "option_b":  "301",
+        "option_c":  "200",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir Anayasa değişikliğinin TBMM\u0027de 410 oyla kabul edilmesi durumunda Cumhurbaşkanı\u0027nın hangisini yapma yetkisi yoktur?",
+        "option_a":  "Doğrudan onaylamak",
+        "option_b":  "Zorunlu referanduma sunmak",
+        "option_c":  "Meclis\u0027e geri göndermek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bütçe kanununun süresinde yürürlüğe konulamaması halinde ne olur?",
+        "option_a":  "Meclis seçimleri yenilenir.",
+        "option_b":  "Geçici bütçe kanunu çıkarılır.",
+        "option_c":  "Harcamalar durdurulur.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin uluslararası bir antlaşma ile bir kanun arasında çelişki olursa hangisi esas alınır?",
+        "option_a":  "Kanun hükmü",
+        "option_b":  "Anayasa Mahkemesi\u0027nin kararı",
+        "option_c":  "Uluslararası antlaşma hükmü",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hangi suç, genel veya özel af kapsamı dışında tutulmuştur?",
+        "option_a":  "Terör suçları",
+        "option_b":  "Orman suçları",
+        "option_c":  "Devlete karşı işlenen suçlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM tatildeyken ülkenin ani bir silahlı saldırıya uğraması durumunda TSK\u0027nın kullanılmasına kim karar verebilir?",
+        "option_a":  "Genelkurmay Başkanı",
+        "option_b":  "Milli Savunma Bakanı",
+        "option_c":  "Cumhurbaşkanı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "TBMM\u0027nin tatil dışında çalışmalarına ara vermesi en fazla kaç günü geçemez?",
+        "option_a":  "15 gün",
+        "option_b":  "10 gün",
+        "option_c":  "30 gün",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TBMM Başkanı seçilen bir kişi aşağıdakilerden hangisini yapabilir?",
+        "option_a":  "Meclis\u0027teki oylamalara katılmak",
+        "option_b":  "Partisinin grup toplantılarına katılmak",
+        "option_c":  "Milletvekilliği sıfatını korumak",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Siyasi parti gruplarının yapması yasaklanmış olan işlem aşağıdakilerden hangisidir?",
+        "option_a":  "Genel görüşme istemek",
+        "option_b":  "Meclis Başkanlığı için aday göstermek",
+        "option_c":  "Cumhurbaşkanlığı için aday göstermek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM Genel Kurulu\u0027ndaki görüşmelerin açıklığı ve yayımlanması ile ilgili temel kural nedir?",
+        "option_a":  "Görüşmeler kural olarak kapalıdır.",
+        "option_b":  "Görüşmeler herkese açıktır ve Tutanak Dergisi\u0027nde yayımlanır.",
+        "option_c":  "Sadece milletvekillerine açıktır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın, Meclis tarafından geri gönderilen bir kanunu aynen kabul etmesi durumunda, bu kanunu yayımlamak zorunda kalması için gereken çoğunluk nedir?",
+        "option_a":  "301",
+        "option_b":  "360",
+        "option_c":  "400",
+        "correct_answer":  "a"
+    }
+]

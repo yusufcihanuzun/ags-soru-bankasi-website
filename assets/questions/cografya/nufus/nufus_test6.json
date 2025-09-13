@@ -1,0 +1,79 @@
+﻿[
+    {
+        "question_text":  "Kırsal kesimde konutların yapımında en çok hangi faktör etkilidir?",
+        "option_a":  "Ekonomik faaliyet türü",
+        "option_b":  "Doğal çevrede kolay bulunan malzeme",
+        "option_c":  "Ulaşım imkanları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ormanlık alanlarda kırsal konutların en yaygın yapı malzemesi nedir?",
+        "option_a":  "Kerpiç",
+        "option_b":  "Ahşap",
+        "option_c":  "Taş",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurak ve yağışsız bölgelerde kırsal konutlar genellikle hangi malzemeden yapılır?",
+        "option_a":  "Kerpiç",
+        "option_b":  "Taş",
+        "option_c":  "Ahşap",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Toroslar ve Doğu Anadolu’nun dağlık kesimlerinde en çok kullanılan yapı malzemesi hangisidir?",
+        "option_a":  "Taş",
+        "option_b":  "Kerpiç",
+        "option_c":  "Ahşap",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Nevşehir-Kapadokya yöresinde geleneksel konutlar ve peri bacaları hangi malzemeden oyulmuştur?",
+        "option_a":  "Granit",
+        "option_b":  "Bazalt",
+        "option_c":  "Tüf",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hem ahşap hem de kerpiç kullanılarak yapılan ve \u0027hımış\u0027 adı verilen yapıların en yaygın olduğu bölge hangisidir?",
+        "option_a":  "Doğu Karadeniz",
+        "option_b":  "Batı Anadolu",
+        "option_c":  "Doğu Anadolu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yayla, Ağıl, Kom, Dam ve Oba gibi yerleşmelerin ortak özelliği nedir?",
+        "option_a":  "Devamlı köy altı yerleşmeleri olmaları",
+        "option_b":  "Geçici köy altı yerleşmeleri olmaları",
+        "option_c":  "Sadece Ege Bölgesi’nde görülmeleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Batı Karadeniz ve Marmara’da idari olarak ayrı köy sayılamayan devamlı yerleşme hangisidir?",
+        "option_a":  "Mezra",
+        "option_b":  "Divan",
+        "option_c":  "Mahalle",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eskiden geçici iken zamanla kalıcı hale gelen ve tarım-hayvancılıkla uğraşan yerleşme hangisidir?",
+        "option_a":  "Mezra",
+        "option_b":  "Çiftlik",
+        "option_c":  "Dam",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Geniş tarım arazileri üzerinde kurulmuş, tarım ve hayvancılığın yapıldığı devamlı yerleşme türü hangisidir?",
+        "option_a":  "Çiftlik",
+        "option_b":  "Ağıl",
+        "option_c":  "Kom",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Balıkçılık için kullanılan geçici kıyı yerleşmelerine ne ad verilir?",
+        "option_a":  "Oba",
+        "option_b":  "Yayla",
+        "option_c":  "Dalyan",
+        "correct_answer":  "c"
+    }
+]

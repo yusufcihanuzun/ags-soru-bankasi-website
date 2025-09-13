@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Güneydoğu Anadolu Bölgesi\u0027nde yer alan ve yayvan bir koniye sahip olan volkanik dağ hangisidir?",
+        "option_a":  "Nemrut Dağı",
+        "option_b":  "Karacadağ",
+        "option_c":  "Süphan Dağı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ege Bölgesi\u0027nde yer alan ve Türkiye\u0027nin en genç volkanik oluşumları olarak kabul edilen yer neresidir?",
+        "option_a":  "Bozdağlar",
+        "option_b":  "Kula çevresi",
+        "option_c":  "Menteşe yöresi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Oluşumu derinlik volkanizmasına (batolit) dayanan dağımız hangisidir?",
+        "option_a":  "Uludağ",
+        "option_b":  "Kaçkar Dağı",
+        "option_c":  "Ilgaz Dağı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aydın Dağları ve Menteşe Dağları hangi oluşum türüne örnektir?",
+        "option_a":  "Kıvrım Dağları",
+        "option_b":  "Kırık Dağları",
+        "option_c":  "Volkanik Dağlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdaki dağ ve oluşum eşleştirmelerinden hangisi yanlıştır?",
+        "option_a":  "Bolkar - Kıvrım",
+        "option_b":  "Aydın - Kırık",
+        "option_c":  "Karacadağ - Kırık",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Akdeniz Bölgesi\u0027nde yer alan masif arazi aşağıdakilerden hangisidir?",
+        "option_a":  "Kırşehir Masifi",
+        "option_b":  "Alanya - Anamur Masifi",
+        "option_c":  "Bitlis Masifi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Anadolu Bölgesi\u0027nde bulunan masif arazi hangisidir?",
+        "option_a":  "Mardin Masifi",
+        "option_b":  "Saruhan - Menteşe Masifi",
+        "option_c":  "Bitlis Masifi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İç Anadolu Bölgesi\u0027nde yer alan masif arazi hangisidir?",
+        "option_a":  "Kırşehir Masifi",
+        "option_b":  "Daday - Devrekani Masifi",
+        "option_c":  "Yıldız Masifi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Dördüncü Jeolojik Zaman\u0027da (Kuaterner) çökmeden önce, bugünkü Marmara Denizi\u0027nin yerinde ne bulunuyordu?",
+        "option_a":  "Bir plato",
+        "option_b":  "Bir akarsu vadisi",
+        "option_c":  "Bir iç göl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ege Denizi\u0027nin oluşumu sırasında sular altında kalmayan Egeid karasının yüksek kısımları neyi oluşturmuştur?",
+        "option_a":  "Ege adalarını",
+        "option_b":  "Platoları",
+        "option_c":  "Yarımadaları",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Alp-Himalaya sistemiyle oluşan ve Doğu Anadolu\u0027da yer alan sıradağlar hangisidir?",
+        "option_a":  "Canik Dağları",
+        "option_b":  "Karasu - Aras Dağları",
+        "option_c":  "Geyik Dağları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ege Bölgesi\u0027nde yer alan Kaz Dağı ile Yunt Dağı arasında bulunan kırık dağ hangisidir?",
+        "option_a":  "Madra Dağı",
+        "option_b":  "Bozdağlar",
+        "option_c":  "Aydın Dağları",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Haritada İç Anadolu\u0027da gösterilen Hınzır ve Tecer Dağları hangi oluşum türüne örnektir?",
+        "option_a":  "Volkanik Dağ",
+        "option_b":  "Kırık Dağ",
+        "option_c":  "Kıvrım Dağı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Engebe ve yükseltinin fazla olması nedeniyle ulaşımın gelişmediği iki coğrafi bölge hangileridir?",
+        "option_a":  "Marmara ve Ege",
+        "option_b":  "İç Anadolu ve Güneydoğu Anadolu",
+        "option_c":  "Doğu Anadolu ve Karadeniz",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Doğu Anadolu\u0027daki kıvrım dağlarından olan Sason ve Mastar dağları hangi dağ silsilesinin güneyinde yer alır?",
+        "option_a":  "Allahuekber Dağları",
+        "option_b":  "Karasu - Aras Dağları",
+        "option_c":  "Malatya Dağları",
+        "correct_answer":  "b"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "I. Haçlı Seferi\u0027nin etkisiyle Anadolu Selçuklu Devleti\u0027nin başkenti İznik\u0027ten nereye taşınmıştır?",
+        "option_a":  "Söğüt",
+        "option_b":  "Ankara",
+        "option_c":  "Konya",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anadolu Selçuklu Devleti\u0027ne en parlak dönemini yaşatan, Alanya (Alaiye) ve Kırım\u0027ın Suğdak Limanı\u0027nı fetheden hükümdar kimdir?",
+        "option_a":  "II. Kılıç Arslan",
+        "option_b":  "I. Gıyaseddin Keyhüsrev",
+        "option_c":  "Alaaddin Keykubat",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anadolu Selçuklu Devleti\u0027nde ikta topraklarının dağıtımından sorumlu olan divan ve görevlisi (pervaneci) hangisidir?",
+        "option_a":  "Divan-ı Ala",
+        "option_b":  "Divan-ı Pervane",
+        "option_c":  "Divan-ı Berid",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Karadeniz\u0027deki önemli bir ticaret limanı olan Sinop\u0027u fetheden Anadolu Selçuklu hükümdarı kimdir?",
+        "option_a":  "İzzettin Keykavus",
+        "option_b":  "I. Gıyaseddin Keyhüsrev",
+        "option_c":  "Kutalmışoğlu Süleyman Şah",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Ahi Evran\u0027ın eşi Fatma Bacı tarafından esnaf eşlerini eğitmek amacıyla kurulan ve dünyanın ilk kadın örgütlenmelerinden sayılan teşkilatın adı nedir?",
+        "option_a":  "Ahilik Teşkilatı",
+        "option_b":  "Gaziyan-ı Rum",
+        "option_c":  "Bacıyan-ı Rum",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kösedağ Savaşı\u0027ndan sonra Aydın ve çevresinde kurulan denizci beylik hangisidir?",
+        "option_a":  "Menteşeoğulları",
+        "option_b":  "Saruhanoğulları",
+        "option_c":  "Aydınoğulları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anadolu Selçukluları tarafından inşa edilen ilk medrese hangisidir?",
+        "option_a":  "Sivas Gök Medrese",
+        "option_b":  "Erzurum Çifte Minareli Medrese",
+        "option_c":  "Kayseri Kocahasan Medresesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anadolu\u0027nun kesin olarak Türk yurdu haline gelmesini sağlayan ve \"Yurttutan Savaşı\" olarak da bilinen 1176 tarihli savaş hangisidir?",
+        "option_a":  "Malazgirt Savaşı",
+        "option_b":  "Miryakefalon Savaşı",
+        "option_c":  "Kösedağ Savaşı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\"Şeyh-i Ekber\" (En Büyük Şeyh) lakabıyla tanınan ve Vahdet-i Vücud felsefesiyle Anadolu\u0027daki tasavvuf düşüncesini derinden etkileyen alim kimdir?",
+        "option_a":  "Mevlana Celaleddin Rumi",
+        "option_b":  "Muhyiddin Arabi",
+        "option_c":  "Hacı Bektaş Veli",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anadolu Selçuklu Devleti\u0027nin 1230 yılında Harzemşahlar ile yaptığı ve kazanarak Moğol istilasına karşı bir tampon bölge oluşturduğu savaş hangisidir?",
+        "option_a":  "Kösedağ Savaşı",
+        "option_b":  "Miryakefalon Savaşı",
+        "option_c":  "Yassıçemen Savaşı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Manisa ve çevresinde kurulan beylik aşağıdakilerden hangisidir?",
+        "option_a":  "Saruhanoğulları",
+        "option_b":  "Karesioğulları",
+        "option_c":  "Eşrefoğulları",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\"Makalat\" adlı eseriyle bilinen ünlü Türk mutasavvıfı kimdir?",
+        "option_a":  "Aşık Paşa",
+        "option_b":  "Hacı Bektaş Veli",
+        "option_c":  "Hoca Dehhani",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anadolu Selçuklu Devleti kim tarafından ve nerede kurulmuştur?",
+        "option_a":  "I. Kılıç Arslan - Konya",
+        "option_b":  "Alparslan - Malazgirt",
+        "option_c":  "Kutalmışoğlu Süleyman Şah - İznik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Konya\u0027da bulunan \"İnce Minareli Medrese\", \"Alaaddin Camii\" ve \"Karatay Medresesi\" hangi devletin mimari eserleridir?",
+        "option_a":  "Karamanoğulları",
+        "option_b":  "Anadolu Selçuklu Devleti",
+        "option_c":  "Büyük Selçuklu Devleti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kendilerini Anadolu Selçuklu Devleti\u0027nin devamı olarak gören ve Osmanlı Devleti\u0027ni en çok uğraştıran beylik hangisidir?",
+        "option_a":  "Germiyanoğulları",
+        "option_b":  "Karamanoğulları",
+        "option_c":  "Karesioğulları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anadolu\u0027da esnaf ve sanatkârları örgütleyen, temelleri I. Gıyaseddin Keyhüsrev zamanında Kayseri\u0027de atılan teşkilatın kurucusu kimdir?",
+        "option_a":  "Hacı Bektaş Veli",
+        "option_b":  "Ahi Evran",
+        "option_c":  "Mevlana",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Turnadağ Savaşı ile Osmanlı Devleti\u0027ne katılan ve son beylik olan hangisidir?",
+        "option_a":  "Karamanoğulları",
+        "option_b":  "Dulkadiroğulları",
+        "option_c":  "Candaroğulları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anadolu Selçuklu Devleti\u0027nin bilinen ilk camisi hangisidir?",
+        "option_a":  "Konya Alaaddin Camii",
+        "option_b":  "Sivas Ulu Camii",
+        "option_c":  "Kayseri Ulu Camii",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\"Selçuklu Tarihi\" adlı eserini I. Gıyaseddin Keyhüsrev\u0027e sunan tarihçi kimdir?",
+        "option_a":  "İbn Bibi",
+        "option_b":  "Ravendi",
+        "option_c":  "Hoca Dehhani",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Divan edebiyatının kurucusu olarak kabul edilen ve \"Selçuklu Şehnamesi\" adlı eseriyle tanınan şair kimdir?",
+        "option_a":  "Ravendi",
+        "option_b":  "Hoca Dehhani",
+        "option_c":  "Muhyiddin Arabi",
+        "correct_answer":  "b"
+    }
+]

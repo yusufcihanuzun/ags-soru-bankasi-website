@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Ertürk’e göre eğitimin tanımında yer alan ve sürecin bilinçli bir amaca yönelik olduğunu vurgulayan temel unsur hangisidir?",
+        "option_a":  "Yaşantı",
+        "option_b":  "Kasıtlılık",
+        "option_c":  "Davranış Değişikliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireyin kendi yaşantıları sonucunda davranışlarında meydana gelen kalıcı izli değişikliklere ne ad verilir?",
+        "option_a":  "Öğretme",
+        "option_b":  "Öğretim",
+        "option_c":  "Öğrenme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitimin planlı, programlı ve genellikle bir kurum çatısı altında profesyoneller tarafından yürütülen kısmına ne denir?",
+        "option_a":  "Öğretim",
+        "option_b":  "Kültürleme",
+        "option_c":  "Sargın Eğitim",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi formal eğitimin temel özelliklerinden biri değildir?",
+        "option_a":  "Planlı ve programlı olması",
+        "option_b":  "Sürecin sonunda diploma veya sertifika verilmesi",
+        "option_c":  "Her zaman olumlu davranışlar kazandırması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Belirli bir yaş grubundaki bireylere, okul öncesinden yükseköğretime kadar aşamalı ve sıralı bir yapı içinde sunulan eğitim türü hangisidir?",
+        "option_a":  "Yaygın Eğitim",
+        "option_b":  "Örgün Eğitim",
+        "option_c":  "İnformal Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Örgün eğitim sistemine hiç girmemiş veya herhangi bir kademesinden ayrılmış bireylere yönelik, yaş sınırı olmayan eğitim faaliyetlerini kapsayan eğitim türü hangisidir?",
+        "option_a":  "Hizmet İçi Eğitim",
+        "option_b":  "Sargın Eğitim",
+        "option_c":  "Yaygın Eğitim",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Halk Eğitim Merkezleri, Çıraklık Eğitim Merkezleri ve özel dershaneler hangi eğitim türü içinde yer alır?",
+        "option_a":  "Örgün Eğitim",
+        "option_b":  "Yaygın Eğitim",
+        "option_c":  "İnformal Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aile içinde, arkadaş ortamında veya kitle iletişim araçları yoluyla kendiliğinden gerçekleşen, plansız ve programsız eğitim türü hangisidir?",
+        "option_a":  "Formal Eğitim",
+        "option_b":  "İnformal Eğitim",
+        "option_c":  "Sargın Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İnformal eğitimin en belirgin özelliği aşağıdakilerden hangisidir?",
+        "option_a":  "Her zaman olumlu sonuçlar doğurması",
+        "option_b":  "Planlı ve amaçlı olması",
+        "option_c":  "Yaşam içinde kendiliğinden gerçekleşmesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bireyin bir hedef belirleyerek, kendi kendine öğrenme gerçekleştirmesi hangi kavrama örnektir?",
+        "option_a":  "Gelişigüzel Kültürleme",
+        "option_b":  "Sargın Eğitim",
+        "option_c":  "Örtük Program",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sargın eğitimi, genel informal eğitimden ayıran temel fark nedir?",
+        "option_a":  "Bir kurumda gerçekleşmesi",
+        "option_b":  "Bireyin öğrenme sürecini kendisinin planlaması ve istemesi",
+        "option_c":  "Sonunda bir belge alınması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Örtük program (gizil öğrenme) hangi eğitim türü kapsamında değerlendirilir?",
+        "option_a":  "Formal Eğitim",
+        "option_b":  "İnformal Eğitim",
+        "option_c":  "Yaygın Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk Milli Eğitim Sistemi\u0027nin yapısı hangi iki ana bölümden oluşur?",
+        "option_a":  "İlköğretim ve Ortaöğretim",
+        "option_b":  "Örgün Eğitim ve Yaygın Eğitim",
+        "option_c":  "Okul Öncesi ve Yükseköğretim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027deki 12 yıllık zorunlu eğitim hangi kademeleri kapsamaktadır?",
+        "option_a":  "Okul Öncesi, İlkokul, Ortaokul",
+        "option_b":  "İlkokul, Ortaokul, Lise",
+        "option_c":  "Ortaokul, Lise, Ön Lisans",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk Milli Eğitim Sisteminde ilkokula başlama yaşı, ilgili yılın sonu itibarıyla kaç ayını doldurmuş olmaktır?",
+        "option_a":  "66 ay",
+        "option_b":  "69 ay",
+        "option_c":  "72 ay",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1739 Sayılı Milli Eğitim Temel Kanunu\u0027na göre, eğitim kurumlarının dil, ırk, cinsiyet ve din ayrımı gözetmeksizin herkese açık olmasını ifade eden ilke hangisidir?",
+        "option_a":  "Fırsat ve İmkân Eşitliği",
+        "option_b":  "Genellik ve Eşitlik",
+        "option_c":  "Eğitim Hakkı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimde bireylerin ilgi, istidat ve kabiliyetleri doğrultusunda çeşitli programlara veya okullara yönlendirilmeleri hangi temel ilkenin bir gereğidir?",
+        "option_a":  "Süreklilik",
+        "option_b":  "Planlılık",
+        "option_c":  "Yöneltme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Maddi imkânlardan yoksun başarılı öğrencilerin en yüksek eğitim kademelerine kadar öğrenim görmelerini sağlamak amacıyla burs, kredi gibi araçlarla desteklenmesi hangi ilke kapsamındadır?",
+        "option_a":  "Fırsat ve İmkân Eşitliği",
+        "option_b":  "Genellik ve Eşitlik",
+        "option_c":  "Süreklilik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bireyin hayat boyu eğitim ihtiyacını karşılamak ve toplumun gelişimine uyumunu sağlamak amacını taşıyan ilke hangisidir?",
+        "option_a":  "Planlılık",
+        "option_b":  "Süreklilik",
+        "option_c":  "Bilimsellik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim programlarının ve materyallerinin her türlü dogmatik düşünceden uzak, bilimsel ve teknolojik esaslara uygun olarak geliştirilmesini öngören ilke hangisidir?",
+        "option_a":  "Laiklik",
+        "option_b":  "Bilimsellik",
+        "option_c":  "Planlılık",
+        "correct_answer":  "b"
+    }
+]

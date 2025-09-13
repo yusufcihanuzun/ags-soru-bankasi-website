@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Ortalama yükseltisi en az olan bölgemiz Marmara olmasına rağmen, yer şekilleri bakımından en düz bölgemiz hangisidir?",
+        "option_a":  "İç Anadolu Bölgesi",
+        "option_b":  "Güneydoğu Anadolu Bölgesi",
+        "option_c":  "Ege Bölgesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Orojenez sırasında esnek tabakaların kıvrılmasıyla oluşan yüksek kısımlara (dağ) ne ad verilir?",
+        "option_a":  "Antiklinal",
+        "option_b":  "Senklinal",
+        "option_c":  "Graben",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kıvrılma sonucu oluşan çanak şeklindeki alçak kısımlara (dağ oluğu) ne ad verilir?",
+        "option_a":  "Horst",
+        "option_b":  "Antiklinal",
+        "option_c":  "Senklinal",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Küre, Ilgaz, Canik ve Kaçkar dağları hangi dağ silsilesi içinde yer alır?",
+        "option_a":  "Toros Dağları",
+        "option_b":  "Kuzey Anadolu Dağları",
+        "option_c":  "Batı Anadolu Dağları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bolkar, Aladağlar ve Tahtalı dağları hangi dağ silsilesi içinde yer alır?",
+        "option_a":  "Toros Dağları",
+        "option_b":  "Kuzey Anadolu Dağları",
+        "option_c":  "Doğu Anadolu Dağları",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sert tabakaların kırılmasıyla oluşan dağlarda yüksekte kalan bloklara (dağ) ne denir?",
+        "option_a":  "Horst",
+        "option_b":  "Graben",
+        "option_c":  "Senklinal",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kırılma sonucu oluşan ve ova halini alan çöküntü alanlarına ne ad verilir?",
+        "option_a":  "Antiklinal",
+        "option_b":  "Horst",
+        "option_c":  "Graben",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kırık dağ oluşumlarının en yaygın olduğu bölgemiz hangisidir?",
+        "option_a":  "Karadeniz Bölgesi",
+        "option_b":  "İç Anadolu Bölgesi",
+        "option_c":  "Ege Bölgesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdaki dağlardan hangisi Ege Bölgesi\u0027nde yer alan bir kırık dağıdır?",
+        "option_a":  "Köroğlu Dağları",
+        "option_b":  "Giresun Dağları",
+        "option_c":  "Madra Dağı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hatay\u0027da bulunan Amanos (Nur) Dağları\u0027nın oluşum türü nedir?",
+        "option_a":  "Kıvrım Dağı",
+        "option_b":  "Kırık Dağı",
+        "option_c":  "Volkanik Dağ",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Volkanik dağlar en çok hangi iki bölgemizde yoğunlaşmıştır?",
+        "option_a":  "Marmara ve Ege",
+        "option_b":  "Doğu Anadolu ve İç Anadolu",
+        "option_c":  "Akdeniz ve Karadeniz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdaki dağlardan hangisi volkanik kökenli değildir?",
+        "option_a":  "Süphan Dağı",
+        "option_b":  "Hasan Dağı",
+        "option_c":  "Yıldız Dağları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Erciyes, Melendiz ve Hasan Dağı hangi bölgemizde yer alan volkanik dağlardır?",
+        "option_a":  "İç Anadolu Bölgesi",
+        "option_b":  "Doğu Anadolu Bölgesi",
+        "option_c":  "Ege Bölgesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin en yüksek dağı olan Ağrı Dağı\u0027nın oluşum şekli nedir?",
+        "option_a":  "Kıvrım",
+        "option_b":  "Kırık",
+        "option_c":  "Volkanik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdaki volkanik dağlardan hangisi İç Anadolu Bölgesi\u0027nde yer almaz?",
+        "option_a":  "Karadağ",
+        "option_b":  "Karacadağ",
+        "option_c":  "Tendürek",
+        "correct_answer":  "c"
+    }
+]

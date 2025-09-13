@@ -1,0 +1,100 @@
+﻿[
+    {
+        "question_text":  "Hangi millet, ataları olarak Hunları ve özellikle Attila\u0027yı kabul ettiği için ülkesinin uluslararası adı (Hungary) bu kökene dayanır?",
+        "option_a":  "Bulgarlar",
+        "option_b":  "Macarlar",
+        "option_c":  "Romenler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türk topluluklarından Peçeneklerdeki meclise ne ad verilirdi?",
+        "option_a":  "Millet Meclisi",
+        "option_b":  "Seçkinler Meclisi",
+        "option_c":  "Komenton",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türk devletlerinde hekim veya tabip anlamına gelen devlet görevlisi kimdir?",
+        "option_a":  "Aygucı (Vezir)",
+        "option_b":  "Otacı (Emçi)",
+        "option_c":  "Bitikçi (Yazıcı)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde at üzerinde karşılıklı mızraklarla oynanan ve günümüzde de devam eden ata sporu hangisidir?",
+        "option_a":  "Gökbörü",
+        "option_b":  "Cirit",
+        "option_c":  "Çevgen",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İlk Türk devletlerinde iki kişi arasında bir tahta üzerinde 48 taşla oynanan zekâ oyununun adı nedir?",
+        "option_a":  "Tepük",
+        "option_b":  "Mangala",
+        "option_c":  "Küreş",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türk devletlerinde \u0027sivil yönetici\u0027 anlamına gelen görevli kimdir?",
+        "option_a":  "Apa",
+        "option_b":  "Şad",
+        "option_c":  "Tutuk",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde \u0027bakan\u0027 anlamına gelen görevli kimdir?",
+        "option_a":  "Tudun",
+        "option_b":  "Buyruk",
+        "option_c":  "Erkin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde \u0027askerî vali\u0027 anlamına gelen görevli kimdir?",
+        "option_a":  "Şad",
+        "option_b":  "Apa",
+        "option_c":  "Tutuk",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Tuna Bulgarlarında bulunan meclisin adı nedir?",
+        "option_a":  "Millet Meclisi",
+        "option_b":  "İhtiyarlar Meclisi",
+        "option_c":  "Seçkinler Meclisi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Avrupa Hun Devleti\u0027ndeki meclise ne ad verilirdi?",
+        "option_a":  "Komenton",
+        "option_b":  "Nazırlar Meclisi",
+        "option_c":  "Seçkinler Meclisi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Attila\u0027 ve \u0027Sihirli Geyik\u0027 destanları hangi Türk devletine aittir?",
+        "option_a":  "Asya Hunları",
+        "option_b":  "Köktürkler",
+        "option_c":  "Avrupa Hunları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Yaratılış Destanı\u0027 hangi Türk topluluğuna aittir?",
+        "option_a":  "Kırgızlar",
+        "option_b":  "Altay (Yakut) Türkleri",
+        "option_c":  "Bulgarlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türk inancında \u0027kefen\u0027 anlamına gelen kavram nedir?",
+        "option_a":  "Eşük",
+        "option_b":  "Yuğ",
+        "option_c":  "Kült",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi İslamiyet öncesi Türk hükümdarlarının kullandığı unvanlardan biri değildir?",
+        "option_a":  "Kağan",
+        "option_b":  "Tanhu",
+        "option_c":  "Melik",
+        "correct_answer":  "c"
+    }
+]

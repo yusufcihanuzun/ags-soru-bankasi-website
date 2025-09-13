@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "TBMM\u0027ye karşı isyan edenlerin \"vatan haini\" sayılarak İstiklal Mahkemeleri\u0027nde yargılanması için çıkarılan kanun hangisidir?",
+        "option_a":  "Takrir-i Sükun Kanunu",
+        "option_b":  "Teşkilat-ı Esasiye Kanunu",
+        "option_c":  "Hıyanet-i Vataniye Kanunu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Asker kaçaklarını önlemek ve düzenli orduya katılımı artırmak amacıyla çıkarılan kanun hangisidir?",
+        "option_a":  "Firariler Kanunu",
+        "option_b":  "Düzenli Ordu Yasası",
+        "option_c":  "Seferberlik Kanunu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "I. TBMM\u0027nin meclis içi çalışma usullerini ve toplantı yeter sayısını belirlemek için çıkardığı kanun hangisidir?",
+        "option_a":  "Meclis İç Tüzüğü",
+        "option_b":  "Nisab-ı Müzakere Kanunu",
+        "option_c":  "Teşkilat-ı Esasiye",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurtuluş Savaşı yıllarında lüks tüketimi ve israfı önlemek amacıyla çıkarılan kanun hangisidir?",
+        "option_a":  "Tekalif-i Milliye Emirleri",
+        "option_b":  "Men-i Müskirat Kanunu",
+        "option_c":  "Men-i İsrafat Kanunu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "I. TBMM tarafından çıkarılan ve ülkede alkollü içkilerin satılmasını yasaklayan kanun hangisidir?",
+        "option_a":  "Men-i Müskirat Kanunu",
+        "option_b":  "Men-i İsrafat Kanunu",
+        "option_c":  "Hıyanet-i Vataniye Kanunu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Doğrudan İstanbul Hükümeti tarafından çıkarılan ve \"Kuvayı Muhammediye\" adıyla da bilinen ayaklanma hangisidir?",
+        "option_a":  "Bolu Ayaklanması",
+        "option_b":  "Çerkez Ethem Ayaklanması",
+        "option_c":  "Ahmet Anzavur Ayaklanması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İstanbul Hükümeti\u0027nin, Boğazların güvenliğini sağlamak amacıyla kurduğu ve \"Hilafet Ordusu\" olarak da bilinen isyancı birlik hangisidir?",
+        "option_a":  "Kuvayı İnzibatiye",
+        "option_b":  "Kuvayı Milliye",
+        "option_c":  "Yeşil Ordu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstanbul Hükümeti ile İtilaf Devletleri\u0027nin kışkırtmaları sonucu çıkan Bolu, Düzce, Hendek ve Yozgat gibi isyanların çıkmasındaki en önemli neden nedir?",
+        "option_a":  "Düzenli orduya katılmak istememeleri",
+        "option_b":  "Halkın dinî duygularının istismar edilmesi",
+        "option_c":  "Azınlık haklarını genişletmek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Konya\u0027da çıkan ve Milli Mücadele\u0027ye büyük zorluklar yaşatan isyan hangisidir?",
+        "option_a":  "Koçgiri Ayaklanması",
+        "option_b":  "Delibaş Mehmet Ayaklanması",
+        "option_c":  "Milli Aşireti Ayaklanması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Başlangıçta Kuvayımilliyeci olup, düzenli ordu kurulunca TBMM\u0027ye isyan eden komutanlar kimlerdir?",
+        "option_a":  "Ahmet Anzavur ve Delibaş Mehmet",
+        "option_b":  "Çerkez Ethem ve Demirci Mehmet Efe",
+        "option_c":  "Ali Batı ve Şeyh Eşref",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Çerkez Ethem\u0027in isyanı, hangi savaş sırasında Türk ordusunu zor durumda bırakmıştır?",
+        "option_a":  "Sakarya Meydan Muharebesi",
+        "option_b":  "II. İnönü Muharebesi",
+        "option_c":  "I. İnönü Muharebesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "I. TBMM döneminde en uzun süren azınlık isyanı hangisidir?",
+        "option_a":  "Ermeni İsyanı",
+        "option_b":  "Rum İsyanı",
+        "option_c":  "Yahudi İsyanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Anadolu\u0027da bir devlet kurmayı amaçlayan azınlık isyanı hangisidir?",
+        "option_a":  "Rum İsyanı",
+        "option_b":  "Ermeni İsyanı",
+        "option_c":  "Süryani İsyanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "TBMM\u0027nin, ayaklanmalara karşı otoritesini artırmak için çıkardığı ve isyan edenleri \"vatan haini\" sayan kanun hangisidir?",
+        "option_a":  "Hıyanet-i Vataniye Kanunu",
+        "option_b":  "Firariler Kanunu",
+        "option_c":  "Takrir-i Sükun Kanunu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "TBMM\u0027nin, isyancıları ve asker kaçaklarını yargılamak için kurduğu mahkemelerin adı nedir?",
+        "option_a":  "Divan-ı Harb",
+        "option_b":  "Nizamiye Mahkemeleri",
+        "option_c":  "İstiklal Mahkemeleri",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İstanbul Hükümeti\u0027nin Şeyhülislamı Dürrizade Abdullah Efendi\u0027nin Milli Mücadele aleyhindeki fetvasına karşılık, Ankara\u0027da Milli Mücadele\u0027yi destekleyen fetvayı yayımlayan müftü kimdir?",
+        "option_a":  "Mehmet Rıfat Börekçi",
+        "option_b":  "Adnan Adıvar",
+        "option_c":  "Mustafa Fehmi Gerçeker",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstiklal Mahkemeleri\u0027nin üyeleri kimlerden seçilmiştir?",
+        "option_a":  "Hukuk fakültesi mezunları arasından",
+        "option_b":  "İstanbul\u0027dan atanan kadılardan",
+        "option_c":  "TBMM milletvekilleri arasından",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İstiklal Mahkemeleri\u0027nin \"seyyar mahkemeler\" olarak nitelendirilmesinin sebebi nedir?",
+        "option_a":  "Yargılamaları hızlı yapmaları",
+        "option_b":  "Gerekli görülen yerlere giderek yargılama yapmaları",
+        "option_c":  "Kararlarını hemen infaz etmeleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İstiklal Mahkemeleri\u0027nin kararlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+        "option_a":  "Kararların temyiz hakkı (itiraz yolu) yoktur.",
+        "option_b":  "Kararlar sadece para cezası içermektedir.",
+        "option_c":  "Kararların padişah tarafından onaylanması gerekir.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "I. TBMM döneminde İstiklal Mahkemeleri\u0027nin kurulmasının en önemli sonucu ne olmuştur?",
+        "option_a":  "İstanbul Hükümeti ile ilişkiler düzelmiştir.",
+        "option_b":  "TBMM\u0027nin otoritesi artmış ve düzenli ordunun kurulumu hızlanmıştır.",
+        "option_c":  "İtilaf Devletleri ile barış görüşmeleri başlamıştır.",
+        "correct_answer":  "b"
+    }
+]

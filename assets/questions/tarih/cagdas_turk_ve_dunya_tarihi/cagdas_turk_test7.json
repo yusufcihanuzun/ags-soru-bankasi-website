@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin I. Dünya Savaşı\u0027na girmesine neden olan ve Yavuz ile Midilli gemilerinin Rus limanlarını bombalamasıyla başlayan olay hangisidir?",
+        "option_a":  "Çanakkale Savaşı",
+        "option_b":  "Karadeniz Baskını",
+        "option_c":  "Kafkas Cephesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İngiltere ile Fransa arasında 1916 yılında imzalanan ve Osmanlı topraklarını gizlice paylaşmayı öngören antlaşmanın adı nedir?",
+        "option_a":  "Sykes-Picot Antlaşması",
+        "option_b":  "Balfour Deklarasyonu",
+        "option_c":  "Lozan Antlaşması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "I. Dünya Savaşı sırasında Osmanlı Devleti\u0027nin açtığı hangi cephe, stratejik açıdan büyük başarı kazanılan bir cephedir?",
+        "option_a":  "Kanal Cephesi",
+        "option_b":  "Çanakkale Cephesi",
+        "option_c":  "Kafkas Cephesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sovyetler Birliği\u0027nde Lenin\u0027in ölümünden sonra iktidarı ele geçiren lider kimdir?",
+        "option_a":  "Leon Troçki",
+        "option_b":  "Joseph Stalin",
+        "option_c":  "Nikita Kruşçev",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İtalya\u0027nın Habeşistan\u0027ı işgal etmesi üzerine kurulan ve etkisiz kalmasıyla eleştirilen uluslararası örgüt hangisidir?",
+        "option_a":  "Milletler Cemiyeti",
+        "option_b":  "Birleşmiş Milletler",
+        "option_c":  "NATO",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de çok partili hayata geçiş denemelerinden biri olan ve kısa sürede kapatılan parti hangisidir?",
+        "option_a":  "Serbest Cumhuriyet Fırkası",
+        "option_b":  "Demokrat Parti",
+        "option_c":  "Terakkiperver Cumhuriyet Fırkası",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Soğuk Savaş döneminde ABD\u0027nin Sovyetler Birliği\u0027ni çevreleme politikasının adı nedir?",
+        "option_a":  "Domino Teorisi",
+        "option_b":  "Containment (Çevreleme)",
+        "option_c":  "Marshall Planı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1929 Dünya Ekonomik Buhranı en çok hangi ülkeyi etkileyerek Nazi Partisi\u0027nin yükselmesine zemin hazırlamıştır?",
+        "option_a":  "İtalya",
+        "option_b":  "Almanya",
+        "option_c":  "Fransa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin NATO\u0027ya üye olabilmek için asker gönderdiği savaş hangisidir?",
+        "option_a":  "Kore Savaşı",
+        "option_b":  "Vietnam Savaşı",
+        "option_c":  "Körfez Savaşı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "II. Dünya Savaşı sırasında Japonya\u0027nın ABD\u0027nin Pearl Harbor üssüne saldırmasıyla ABD\u0027nin savaşa girmesine neden olan tarih hangisidir?",
+        "option_a":  "7 Aralık 1941",
+        "option_b":  "1 Eylül 1939",
+        "option_c":  "6 Haziran 1944",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin I. Dünya Savaşı\u0027nda Hicaz-Yemen cephesinde direniş gösteren komutan kimdir?",
+        "option_a":  "Mustafa Kemal Atatürk",
+        "option_b":  "Fahreddin Paşa",
+        "option_c":  "Kazım Karabekir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İngiltere ve Fransa\u0027nın 1938 yılında Almanya\u0027ya taviz vererek Çekoslovakya\u0027nın Südet bölgesini vermesine neden olan politika hangisidir?",
+        "option_a":  "Anschluss",
+        "option_b":  "Yatıştırma Politikası",
+        "option_c":  "Lebensraum",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye Cumhuriyeti\u0027nin ilk kadın milletvekilleri hangi yıl TBMM\u0027ye girmiştir?",
+        "option_a":  "1930",
+        "option_b":  "1935",
+        "option_c":  "1946",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mussolini\u0027nin \"Kara Gömlekliler\" adlı paramiliter gücüyle iktidarı ele geçirmesi hangi olayla gerçekleşmiştir?",
+        "option_a":  "Roma Yürüyüşü",
+        "option_b":  "Münih Konferansı",
+        "option_c":  "Berlin Buhranı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "ABD Başkanı Truman\u0027ın, Türkiye ve Yunanistan\u0027a ekonomik ve askeri yardım yapılmasını öngören politikasına ne ad verilir?",
+        "option_a":  "Marshall Planı",
+        "option_b":  "Truman Doktrini",
+        "option_c":  "Eisenhower Doktrini",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1945 yılında II. Dünya Savaşı\u0027nın bitmesinden kısa süre sonra imzalanan ve BM\u0027nin kurulduğu konferans hangisidir?",
+        "option_a":  "San Francisco Konferansı",
+        "option_b":  "Yalta Konferansı",
+        "option_c":  "Potsdam Konferansı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "II. Dünya Savaşı\u0027ndan sonra Almanya\u0027nın doğusu hangi ülkenin kontrolüne geçmiştir?",
+        "option_a":  "ABD",
+        "option_b":  "Sovyetler Birliği",
+        "option_c":  "İngiltere",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de 1940\u0027ta çıkarılan ve köylülerden alınan ürün vergisi nedeniyle tepki çeken uygulama nedir?",
+        "option_a":  "Aşar Vergisi",
+        "option_b":  "Toprak Mahsulleri Vergisi",
+        "option_c":  "Varlık Vergisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İngiltere\u0027nin, Osmanlı topraklarını paylaşmak için Araplarla gizli anlaşmalar yapmasına neden olan mektup diplomasisi hangisidir?",
+        "option_a":  "Sykes-Picot",
+        "option_b":  "McMahon Antlaşması",
+        "option_c":  "Balfour Deklarasyonu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin, İngilizlere karşı Çanakkale Savaşı\u0027nda büyük başarı kazandığı tarih hangi yıldır?",
+        "option_a":  "1915",
+        "option_b":  "1920",
+        "option_c":  "1912",
+        "correct_answer":  "a"
+    }
+]

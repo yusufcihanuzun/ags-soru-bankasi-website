@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "İslamiyet öncesi Türk devletlerinde devlet meselelerinin görüşüldüğü meclise ne ad verilir?",
+        "option_a":  "Divan",
+        "option_b":  "Kurultay",
+        "option_c":  "Meclis-i Ali",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde sözlü hukuk kurallarına ne denir?",
+        "option_a":  "Yargu",
+        "option_b":  "Tüz",
+        "option_c":  "Töre",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Dünyanın en eski halısı olarak kabul edilen Pazırık Halısı, hangi Türk devletine aittir?",
+        "option_a":  "Köktürkler",
+        "option_b":  "Asya Hunları",
+        "option_c":  "Uygurlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türk inancında cennet anlamına gelen kavram hangisidir?",
+        "option_a":  "Tamu",
+        "option_b":  "Uçmağ",
+        "option_c":  "Kurgan",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde cenaze törenlerine verilen isim nedir?",
+        "option_a":  "Yuğ",
+        "option_b":  "Şölen",
+        "option_c":  "Toy",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türklerin milli alfabeleri olarak kabul edilen yazılar hangileridir?",
+        "option_a":  "Soğd ve Kiril",
+        "option_b":  "Köktürk ve Uygur",
+        "option_c":  "Arap ve Latin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Orta Asya\u0027nın en gelişmiş kültür merkezi hangisidir?",
+        "option_a":  "Afanesyova",
+        "option_b":  "Andronova",
+        "option_c":  "Tagar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Çin kaynaklarına göre \u0027Türk\u0027 adının anlamı nedir?",
+        "option_a":  "Güzel insan",
+        "option_b":  "Miğfer",
+        "option_c":  "Olgunluk çağı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Türkiye\u0027 adı ilk defa hangi kaynaklarda Orta Asya için kullanılmıştır?",
+        "option_a":  "Çin",
+        "option_b":  "Bizans",
+        "option_c":  "İran",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İskit (Saka) ordusunda yer alan kadın savaşçılara ne ad verilirdi?",
+        "option_a":  "Hatun",
+        "option_b":  "Amazon",
+        "option_c":  "Böri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027İstiklali feda etmeyi gülünç ve utanç verici bulurum.\u0027 sözü hangi Batı Hun hükümdarına aittir?",
+        "option_a":  "Balamir",
+        "option_b":  "Uldız",
+        "option_c":  "Çiçi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Tunguzlara toprak vermeyerek vatan sevgisinden ilk bahseden Türk hükümdarı kimdir?",
+        "option_a":  "Teoman",
+        "option_b":  "Mete Han",
+        "option_c":  "Kiok",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027İstersem güneşin battığı yere kadar her yeri zapt edebilirim.\u0027 sözünü söyleyen Avrupa Hun hükümdarı kimdir?",
+        "option_a":  "Attila",
+        "option_b":  "Uldız",
+        "option_c":  "Balamir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Attila, Almanların ünlü Nibelüngen Destanı\u0027nda hangi isimle geçmektedir?",
+        "option_a":  "Ares",
+        "option_b":  "Flagellum Dei",
+        "option_c":  "Etzel",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Çin kaynaklarında Avarlar hangi isimle anılmıştır?",
+        "option_a":  "Apar",
+        "option_b":  "Juan-Juan",
+        "option_c":  "Kuman",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1071 Malazgirt Savaşı sırasında Bizans ordusundan Selçuklu tarafına geçen Türk boyları hangileridir?",
+        "option_a":  "Avarlar ve Bulgarlar",
+        "option_b":  "Uzlar ve Peçenekler",
+        "option_c":  "Hazarlar ve Sibirler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türk tarihinde ilk \u0027Türkoloji Enstitüsü\u0027nü kuranlar kimlerdir?",
+        "option_a":  "Macarlar",
+        "option_b":  "Bulgarlar",
+        "option_c":  "Avarlar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türk tarihinde ordusuna ücretli asker alan ilk Türk devleti hangisidir?",
+        "option_a":  "Uygurlar",
+        "option_b":  "Hazarlar",
+        "option_c":  "Avarlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kıpçakların (Kumanlar) oluşturduğu Türkçe, Farsça ve Latince sözlüğün adı nedir?",
+        "option_a":  "Divanü Lügati\u0027t-Türk",
+        "option_b":  "Codex Cumanicus",
+        "option_c":  "Rihle",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Uygurlarda resim sanatıyla uğraşanlara ne ad verilirdi?",
+        "option_a":  "Bedizci",
+        "option_b":  "Kam",
+        "option_c":  "Bitikçi",
+        "correct_answer":  "a"
+    }
+]

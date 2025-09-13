@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Asya Hun Devleti\u0027nin kurucusu kimdir?",
+        "option_a":  "Mete Han",
+        "option_b":  "Teoman",
+        "option_c":  "Kürşad",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Boyları Türk tarihinde ilk kez tek bayrak altında toplayıp Asya Hun Devleti\u0027ne en parlak dönemini yaşatan lider?",
+        "option_a":  "Mete Han",
+        "option_b":  "Teoman",
+        "option_c":  "Kürşad",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türklere başkentlik yapan ve \u0027Toprak Ana\u0027 olarak isimlendirilen şehir hangisidir?",
+        "option_a":  "Karabalsagun",
+        "option_b":  "Ötüken",
+        "option_c":  "Semerkant",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Şu Destanı\u0027nda yer alan, altın ve gümüş işlemeciliğinde iyi oldukları için \u0027Bozkırın Kuyumcuları\u0027 olarak bilinen Türk topluluğu hangisidir?",
+        "option_a":  "İskitler(sakalar)",
+        "option_b":  "Türgişler",
+        "option_c":  "Hunlar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Hunlar kimin liderliğinde batıya doğru göç etmiştir?",
+        "option_a":  "Attila",
+        "option_b":  "Balamir",
+        "option_c":  "Mete Han",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkler Anadolu\u0027ya ilk kez kimin döneminde gelmiştir?",
+        "option_a":  "Attila",
+        "option_b":  "Uldız",
+        "option_c":  "Balamir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kıpçak Türklerine ait; Türkçe, Farsça ve Latince dillerinde hazırlanmış ve günümüze ulaşan önemli sözlük eseri aşağıdakilerden hangisidir?",
+        "option_a":  "Divân-ü Lügati\u0027t-Türk",
+        "option_b":  "Codex Cumanicus",
+        "option_c":  "Kutadgu Bilig",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Oğuzlar ile Kıpçaklar arasındaki mücadeleleri konu alan, hem tarihi hem de edebi açıdan önemli eser aşağıdakilerden hangisidir?",
+        "option_a":  "Dede Korkut Hikâyeleri",
+        "option_b":  "Manas Destanı",
+        "option_c":  "Alp Er Tunga Destanı",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Türk\u0027 adını kullanarak kurulan ilk devletin başında yer alan hükümdar kimdir?",
+        "option_a":  "Mete Han",
+        "option_b":  "Bumin Kağan",
+        "option_c":  "Kürşad",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Attila\u0027nın Roma\u0027yı fethinden vazgeçmesinde etkili olan, doğuda tehlike oluşturan devlet hangisidir?",
+        "option_a":  "Akhun",
+        "option_b":  "Bizans",
+        "option_c":  "Sasani",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Avarlar, en güçlü dönemini hangi lider döneminde yaşamıştır?",
+        "option_a":  "Almış Han",
+        "option_b":  "Balamir",
+        "option_c":  "Bayan Han",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Batılılar tarafından “Türklerin Bismarck’ı” olarak anılan ve “Apa Tarkan” unvanıyla bilinen kişi kimdir?",
+        "option_a":  "Bilge Kağan",
+        "option_b":  "Vezir Tonyukuk",
+        "option_c":  "Kül Tigin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Uygur Devleti’nin kurucusu kimdir?",
+        "option_a":  "Moyençur",
+        "option_b":  "Kutluk Bilge Kül Kağan",
+        "option_c":  "Bögü Kağan",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Uygurlar, Manihaizm dinini hangi hükümdar döneminde resmî din olarak kabul etmiştir?",
+        "option_a":  "Moyençur",
+        "option_b":  "Bögü Kağan",
+        "option_c":  "Kutluk Bilge Kül Kağan",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Uygurların tarihte ilk defa kullandığı kâğıt paranın adı nedir?",
+        "option_a":  "Çav",
+        "option_b":  "Sikke",
+        "option_c":  "Tamga",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Yenisey Kitabeleri ve Manas Destanı gibi önemli eserleri günümüze ulaştıran; tarihte milletlerarası yarışmalar düzenleyen Türk devleti hangisidir?",
+        "option_a":  "Kırgızlar",
+        "option_b":  "Karluklar",
+        "option_c":  "Uygurlar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İslamiyet’i kabul eden ilk Müslüman Türk boyu aşağıdakilerden hangisidir?",
+        "option_a":  "Karluklar",
+        "option_b":  "Oğuzlar",
+        "option_c":  "Kırgızlar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kendi adına ilk kez para bastıran Türk hükümdarı kimdir?",
+        "option_a":  "Baga Tarkan",
+        "option_b":  "Satuk Buğra Han",
+        "option_c":  "Alp Tigin",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Macar Devleti’nin kurucusu kimdir?",
+        "option_a":  "Arpad",
+        "option_b":  "Almış Han",
+        "option_c":  "Boris Han",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Hazarlarla birlikte Müslüman Araplara karşı savaşarak Orta Asya’da İslamiyet’in yayılmasını geciktiren Türk devleti hangisidir?",
+        "option_a":  "Türgişler",
+        "option_b":  "Karluklar",
+        "option_c":  "Gazneliler",
+        "correct_answer":  "a"
+    }
+]

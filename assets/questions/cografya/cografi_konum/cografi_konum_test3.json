@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Aşağıdakilerden hangisi Türkiye\u0027nin Orta Kuşak\u0027ta yer almasının bir sonucudur?",
+        "option_a":  "Doğu-batı yönlü geniş yer kaplamaması",
+        "option_b":  "Dört mevsimin belirgin olarak görülmesi",
+        "option_c":  "Yer çekiminin güneyden kuzeye artması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin Yengeç Dönencesi\u0027nin kuzeyinde yer almasının bir sonucu olarak cisimlerin gölgesi daima hangi yönü gösterir?",
+        "option_a":  "Güney",
+        "option_b":  "Doğu",
+        "option_c":  "Kuzey",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Dağların güneye bakan yamaçlarının daha sıcak olması ve kalıcı kar sınırının daha yüksek olması hangi kavramla açıklanır?",
+        "option_a":  "Bakı",
+        "option_b":  "Enlem",
+        "option_c":  "Boylam",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Yıl içinde gece-gündüz süre farkının en fazla olduğu ilimiz hangisidir?",
+        "option_a":  "Hatay",
+        "option_b":  "Sinop",
+        "option_c":  "İzmir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aynı anda farklı iklim tiplerinin görülmesi neyin sonucudur?",
+        "option_a":  "Mutlak Konum",
+        "option_b":  "Göreceli Konum",
+        "option_c":  "Enlem",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yıl içinde dört mevsimin belirgin olarak yaşanması neyin sonucudur?",
+        "option_a":  "Mutlak Konum",
+        "option_b":  "Göreceli Konum",
+        "option_c":  "Yükselti",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Çin\u0027den İngiltere\u0027ye demir yolu ile yapılacak ticarette İpek Demir Yolu hattı hangi komşumuz üzerinden Türkiye\u0027ye giriş yapar?",
+        "option_a":  "İran",
+        "option_b":  "Gürcistan",
+        "option_c":  "Suriye",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İskenderun\u0027u Hatay\u0027a (Amik Ovası\u0027na) bağlayan geçidin adı nedir?",
+        "option_a":  "Gülek",
+        "option_b":  "Sertavul",
+        "option_c":  "Belen",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Trabzon\u0027u Gümüşhane\u0027ye bağlayan geçidin adı nedir?",
+        "option_a":  "Kop",
+        "option_b":  "Zigana (Kalkanlı)",
+        "option_c":  "Ovit",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Rus doğal gazını Karadeniz üzerinden Trakya\u0027ya ve oradan Avrupa\u0027ya taşıyacak olan proje hangisidir?",
+        "option_a":  "TANAP",
+        "option_b":  "TAP",
+        "option_c":  "Türk Akımı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin gerçek alanı ile izdüşüm alanı arasındaki farkın en fazla olduğu coğrafi bölge hangisidir?",
+        "option_a":  "Marmara Bölgesi",
+        "option_b":  "Güneydoğu Anadolu Bölgesi",
+        "option_c":  "Doğu Anadolu Bölgesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Gerçek alan ile izdüşüm alan arasındaki farkın en az olduğu bölgelerimizden biri hangisidir?",
+        "option_a":  "Karadeniz Bölgesi",
+        "option_b":  "Akdeniz Bölgesi",
+        "option_c":  "Marmara Bölgesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027de linyit, trona ve krom gibi yer altı kaynaklarının bulunması, konum özelliklerinden hangisiyle ilgilidir?",
+        "option_a":  "Mutlak Konum",
+        "option_b":  "Göreceli (Özel) Konum",
+        "option_c":  "Enlem Derecesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aynı enlem üzerinde bulunan merkezlerde, aşağıdakilerden hangisinin farklılık göstermesi özel konumun etkisiyle açıklanır?",
+        "option_a":  "Gece-gündüz süreleri",
+        "option_b":  "Çizgisel hız",
+        "option_c":  "Sıcaklık değerleri",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin en batıdaki uç noktası olan Avlaka Burnu, hangi idari sınırlarımız içinde yer alır?",
+        "option_a":  "Edirne",
+        "option_b":  "İzmir",
+        "option_c":  "Çanakkale (Gökçeada)",
+        "correct_answer":  "c"
+    }
+]

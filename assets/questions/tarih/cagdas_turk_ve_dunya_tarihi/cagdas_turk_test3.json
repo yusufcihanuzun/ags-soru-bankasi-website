@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "1951 yılında Halkevleri ve Köy Enstitüleri hangi parti döneminde kapatılmıştır?",
+        "option_a":  "Cumhuriyet Halk Partisi",
+        "option_b":  "Milli Kalkınma Partisi",
+        "option_c":  "Demokrat Parti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Müttefiklerin 1944 yılında Fransa\u0027yı Alman işgalinden kurtarmak için yaptıkları büyük çıkarma harekâtının adı nedir?",
+        "option_a":  "Meşale Harekâtı",
+        "option_b":  "Husky Harekâtı",
+        "option_c":  "Normandiya Çıkarması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1986 yılında SSCB\u0027de yaşanan ve büyük bir çevre felaketine yol açan nükleer santral kazasının adı nedir?",
+        "option_a":  "Fukuşima Faciası",
+        "option_b":  "Çernobil Faciası",
+        "option_c":  "Three Mile Island Kazası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1925 yılında Almanya, Fransa, İngiltere, İtalya gibi devletler arasında imzalanan ve Almanya\u0027nın batı sınırlarını güvence altına alan antlaşma hangisidir?",
+        "option_a":  "Briand-Kellogg Paktı",
+        "option_b":  "Locarno Antlaşması",
+        "option_c":  "Versay Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İtalya\u0027da Faşist lider Benito Mussolini\u0027ye verilen \"lider\" anlamına gelen unvan nedir?",
+        "option_a":  "Führer",
+        "option_b":  "Duçe",
+        "option_c":  "Kaudillo",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "ABD Başkanı\u0027nın, SSCB tehdidine karşı komünizmin yayılmasını önleme (çevreleme) politikasına ne ad verilir?",
+        "option_a":  "Truman Doktrini",
+        "option_b":  "Marshall Planı",
+        "option_c":  "Eisenhower Doktrini",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de II. Dünya Savaşı\u0027ndan sonra kurulan ilk muhalefet partisi hangisidir?",
+        "option_a":  "Demokrat Parti",
+        "option_b":  "Millet Partisi",
+        "option_c":  "Milli Kalkınma Partisi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1929 Krizi sonrası ABD\u0027de başkan seçilen ve \"New Deal\" (Yeni Düzen) adıyla bilinen ekonomi politikalarını başlatan başkan kimdir?",
+        "option_a":  "Herbert Hoover",
+        "option_b":  "Franklin D. Roosevelt",
+        "option_c":  "Woodrow Wilson",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1961 Anayasası ile Türkiye\u0027de ilk kez kurulan kurumlar arasında hangileri yer alır?",
+        "option_a":  "Danıştay ve Sayıştay",
+        "option_b":  "Anayasa Mahkemesi ve Devlet Planlama Teşkilatı (DPT)",
+        "option_c":  "Yargıtay ve TRT",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1960\u0027lı yıllarda Türkiye\u0027de başlayan ve yurt dışına, özellikle Almanya\u0027ya yönelik iş gücü göçünün temel nedeni nedir?",
+        "option_a":  "Siyasi baskılar",
+        "option_b":  "Eğitim olanakları",
+        "option_c":  "Ekonomik nedenler ve işsizlik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1979 yılında Şah Rıza Pehlevi\u0027yi devirerek İran İslam Cumhuriyeti\u0027ni kuran lider kimdir?",
+        "option_a":  "Saddam Hüseyin",
+        "option_b":  "Ayetullah Humeyni",
+        "option_c":  "Hafız Esad",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "II. Dünya Savaşı sırasında Türkiye\u0027nin izlediği temel dış politika neydi?",
+        "option_a":  "Mihver Devletleri\u0027ni desteklemek",
+        "option_b":  "Müttefik Devletleri\u0027ni desteklemek",
+        "option_c":  "Denge Siyaseti izleyerek savaş dışı kalmak",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1985\u0027te SSCB\u0027de iktidara gelen ve \"Glasnost\" (şeffaflık) ile \"Perestroyka\" (yeniden yapılanma) politikalarını başlatan lider kimdir?",
+        "option_a":  "Leonid Brejnev",
+        "option_b":  "Mihail Gorbaçov",
+        "option_c":  "Boris Yeltsin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Nazi Almanyası\u0027nın gizli polis teşkilatının adı nedir?",
+        "option_a":  "SS",
+        "option_b":  "Gestapo",
+        "option_c":  "SA",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1929 yılında New York borsasının çökmesiyle başlayan ve tüm dünyayı etkileyen olaya ne ad verilir?",
+        "option_a":  "Kara Perşembe (Dünya Ekonomik Bunalımı)",
+        "option_b":  "Sanayi Devrimi",
+        "option_c":  "Bolşevik Devrimi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de II. Dünya Savaşı yıllarında çıkarılan ve servet sahiplerinden bir defaya mahsus alınan, özellikle gayrimüslimleri hedef aldığı için eleştirilen verginin adı nedir?",
+        "option_a":  "Toprak Mahsulleri Vergisi",
+        "option_b":  "Varlık Vergisi",
+        "option_c":  "Aşar Vergisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Doğu Bloku\u0027nda lideri idam edilen tek ülke olan Romanya\u0027nın devrik diktatörü kimdir?",
+        "option_a":  "Enver Hoca",
+        "option_b":  "Nicolae Ceaușescu",
+        "option_c":  "Todor Jivkov",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İspanya\u0027da 1936\u0027da başlayan iç savaşı kazanarak totaliter bir rejim kuran lider kimdir?",
+        "option_a":  "Benito Mussolini",
+        "option_b":  "General Franco",
+        "option_c":  "Adolf Hitler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1946 yılında Celal Bayar, Adnan Menderes, Refik Koraltan ve Fuat Köprülü\u0027nün CHP\u0027den ayrılarak kurduğu parti hangisidir?",
+        "option_a":  "Millet Partisi",
+        "option_b":  "Milli Kalkınma Partisi",
+        "option_c":  "Demokrat Parti",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1948 yılında İsrail Devleti\u0027nin kurulmasından hemen sonra başlayan ilk Arap-İsrail Savaşı\u0027nda İsrail\u0027e karşı savaşan Arap ülkeleri arasında hangisi yer alır?",
+        "option_a":  "Mısır",
+        "option_b":  "İran",
+        "option_c":  "Türkiye",
+        "correct_answer":  "a"
+    }
+]

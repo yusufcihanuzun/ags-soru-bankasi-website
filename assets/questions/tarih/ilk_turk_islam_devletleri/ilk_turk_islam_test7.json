@@ -1,0 +1,79 @@
+﻿[
+    {
+        "question_text":  "Türk-İslam medreselerinde \u0027trigonometri\u0027 dersi hangi isimle okutulurdu?",
+        "option_a":  "Müsellesat",
+        "option_b":  "Hendese",
+        "option_c":  "Riyaziye",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Hz. Muhammed\u0027in hayatını (biyografisini) inceleyen bilim dalına ne ad verilir?",
+        "option_a":  "Hadis",
+        "option_b":  "Siyer",
+        "option_c":  "Megazi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Renkli cam parçalarının birleştirilmesiyle yapılan süsleme sanatına ne ad verilir?",
+        "option_a":  "Vitray",
+        "option_b":  "Telkâri",
+        "option_c":  "Ebru",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Coğrafya alanındaki çalışmalarıyla bilinen, Batı Avrupa\u0027yı aslına uygun çizen ilk kişi olan ve Ekvator\u0027dan bahseden bilim insanı kimdir?",
+        "option_a":  "Biruni",
+        "option_b":  "İdrisi",
+        "option_c":  "Hazini",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yaptığı hassas terazi (Mizanü\u0027l-Hikme) ile metallerin saflık oranlarını ölçen, mekanik ve astronomi alimi kimdir?",
+        "option_a":  "İbni Heysem",
+        "option_b":  "Harezmi",
+        "option_c":  "Hazini",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Tarih-i Yemin\u0027 adlı eseriyle Gazneli Devleti dönemini anlatan tarihçi kimdir?",
+        "option_a":  "Utbi",
+        "option_b":  "Firdevsi",
+        "option_c":  "Nizamülmülk",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkçenin Farsçadan daha zengin bir dil olduğunu kanıtlamak amacıyla \u0027Muhakemet\u0027ül Lügateyn\u0027 adlı eseri yazan Çağatay şairi kimdir?",
+        "option_a":  "Yusuf Has Hacip",
+        "option_b":  "Ali Şir Nevai",
+        "option_c":  "Edip Ahmet Yükneki",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Karahanlılar döneminin en önemli sözlü edebiyat örneği sayılan ve bir hükümdarın Müslüman olma sürecini anlatan destan hangisidir?",
+        "option_a":  "Oğuz Kağan Destanı",
+        "option_b":  "Manas Destanı",
+        "option_c":  "Satuk Buğra Han Destanı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "MEB lise ders kitabına göre, kölelerden ordu kurma sistemi olan \u0027Gulam Sistemi\u0027 ilk olarak hangi Türk-İslam devletinde uygulanmıştır?",
+        "option_a":  "Gazneliler",
+        "option_b":  "Karahanlılar",
+        "option_c":  "Büyük Selçuklular",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hükümdarın katıldığı törenleri ve yol güzergahını düzenleyen saray görevlisine ne ad verilirdi?",
+        "option_a":  "Serhenk",
+        "option_b":  "Candar",
+        "option_c":  "Alemdar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İslam dünyasında bilimleri ilk kez sınıflandırdığı için bu alanda öncü kabul edilen ve \u0027İhsaül-Ulüm\u0027 (Bilimlerin Sayımı) eserini yazan filozof kimdir?",
+        "option_a":  "İbni Sina",
+        "option_b":  "Gazali",
+        "option_c":  "Farabi",
+        "correct_answer":  "c"
+    }
+]

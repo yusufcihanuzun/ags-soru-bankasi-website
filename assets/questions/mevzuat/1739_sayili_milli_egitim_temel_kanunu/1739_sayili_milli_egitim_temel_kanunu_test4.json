@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Yaygın eğitimin, örgün eğitim ile bütünleşmesini ve eşgüdümünü sağlamak kimin görevidir?",
+        "option_a":  "Milli Eğitim Bakanlığı",
+        "option_b":  "Yükseköğretim Kurulu",
+        "option_c":  "Valilikler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Öğretmenlerin, adaylık döneminde yetiştirilmelerinden kim sorumludur?",
+        "option_a":  "Okul müdürü",
+        "option_b":  "Milli Eğitim Bakanlığı",
+        "option_c":  "Üniversiteler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okullara arsa, bina gibi ayni yardımlar veya nakdi bağışlar yapılabilir mi?",
+        "option_a":  "Hayır, yasaktır.",
+        "option_b":  "Evet, devlet veya özel kişiler bağış yapabilir.",
+        "option_c":  "Sadece yurtdışından bağış kabul edilebilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim ve öğretim hizmetlerinin denetimi ile görevli olanlar kimlerdir?",
+        "option_a":  "Sadece okul müdürleri",
+        "option_b":  "Bakanlık müfettişleri ve eğitim denetmenleri",
+        "option_c":  "Vali ve kaymakamlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hangi temel ilke, eğitimin hayat boyu süren bir faaliyet olduğunu belirtir?",
+        "option_a":  "Süreklilik",
+        "option_b":  "Planlılık",
+        "option_c":  "Bilimsellik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Mecburi ilköğretim çağı bittiği halde ilköğretimi tamamlayamayanlar için hangi seçenek sunulur?",
+        "option_a":  "Eğitim hakları sona erer.",
+        "option_b":  "Yaygın eğitim yoluyla tamamlama imkanı verilir.",
+        "option_c":  "Para cezası uygulanır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ortaöğretim kurumları arasında, öğrencilerin ilgi ve yeteneklerine göre geçiş yapmaları mümkün müdür?",
+        "option_a":  "Hayır, geçiş yasaktır.",
+        "option_b":  "Evet, bakanlığın belirlediği esaslara göre mümkündür.",
+        "option_c":  "Sadece il içinde mümkündür.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yükseköğretimde bilimsel araştırma ve yayın faaliyetlerini teşvik etmek kimin görevidir?",
+        "option_a":  "Devletin",
+        "option_b":  "Üniversitelerin",
+        "option_c":  "Öğretim üyelerinin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yaygın eğitim kurslarını başarıyla bitirenlere verilen belgeler, mesleğe girişte veya terfide geçerli midir?",
+        "option_a":  "Evet, her zaman geçerlidir.",
+        "option_b":  "Hayır, hiçbir geçerliliği yoktur.",
+        "option_c":  "İlgili mevzuata göre değerlendirilir.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Öğretmenlerin mesleki yeterliliklerinin belirlenmesi ve değerlendirilmesi hangi kuruma aittir?",
+        "option_a":  "YÖK",
+        "option_b":  "MEB",
+        "option_c":  "ÖSYM",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okul binalarının eğitim ve öğretime uygunluğu kim tarafından denetlenir?",
+        "option_a":  "Belediye",
+        "option_b":  "Sağlık Bakanlığı",
+        "option_c":  "Milli Eğitim Bakanlığı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitim araç ve gereçlerinin öğrencilerin gelişim özelliklerine uygunluğu kim tarafından kontrol edilir?",
+        "option_a":  "Yayınevleri",
+        "option_b":  "Milli Eğitim Bakanlığı",
+        "option_c":  "Okul Aile Birlikleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Başka bir ülkenin eğitim programını uygulayan özel okullar açılabilir mi?",
+        "option_a":  "Evet, hiçbir kısıtlama olmadan açılabilir.",
+        "option_b":  "Hayır, kesinlikle yasaktır.",
+        "option_c":  "Evet, ancak MEB\u0027in onayı ve denetimine tabidir.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027İlköğretim haftası\u0027 ne zaman başlar?",
+        "option_a":  "Okulların açıldığı ilk hafta",
+        "option_b":  "Eylül ayının üçüncü haftası",
+        "option_c":  "Ekim ayının ilk haftası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yöneltme faaliyetlerinde hangi araçlardan yararlanılır?",
+        "option_a":  "Sadece sınav sonuçları",
+        "option_b":  "Rehberlik servisleri ve objektif ölçme-değerlendirme metotları",
+        "option_c":  "Sadece öğretmen görüşleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yüksek lisans ve doktora eğitimi, yükseköğretimin hangi basamağında yer alır?",
+        "option_a":  "Lisans",
+        "option_b":  "Lisansüstü",
+        "option_c":  "Ön lisans",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1739 sayılı kanun, öğretmenlik mesleğinin kariyer basamaklarına ayrılmasını öngörür mü?",
+        "option_a":  "Evet, öğretmen, uzman öğretmen, başöğretmen olarak belirtir.",
+        "option_b":  "Hayır, bu konu başka bir kanunla düzenlenir.",
+        "option_c":  "Sadece aday ve asil öğretmen ayrımı yapar.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yurt dışında yaşayan Türk çocuklarının eğitimi için programlar hazırlamak kimin görevidir?",
+        "option_a":  "Dışişleri Bakanlığı",
+        "option_b":  "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı",
+        "option_c":  "Milli Eğitim Bakanlığı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir okulda müdür olabilmek için öğretmenlik yapmış olmak şart mıdır?",
+        "option_a":  "Hayır, şart değildir.",
+        "option_b":  "Evet, öğretmen kökenli olmak temel şartlardandır.",
+        "option_c":  "Sadece liselerde müdür olmak için şarttır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okul kantinlerinin işletilmesi ve denetimi hangi mevzuata göre yapılır?",
+        "option_a":  "Belediye mevzuatına",
+        "option_b":  "Sağlık Bakanlığı mevzuatına",
+        "option_c":  "Milli Eğitim Bakanlığı mevzuatına",
+        "correct_answer":  "c"
+    }
+]

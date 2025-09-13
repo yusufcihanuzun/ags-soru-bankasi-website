@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, olağan dönemlerde temel hak ve hürriyetlerin sınırlandırılması aşağıdakilerden hangisi ile yapılmalıdır?",
+        "option_a":  "Cumhurbaşkanı Kararnamesi ile",
+        "option_b":  "Kanunla",
+        "option_c":  "Yönetmelikle",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Savaş, seferberlik veya olağanüstü hâllerde dahi dokunulamayacak olan \"sert çekirdek haklar\" arasında hangisi yer almaz?",
+        "option_a":  "Yaşama hakkı",
+        "option_b":  "Din ve vicdan hürriyeti",
+        "option_c":  "Konut dokunulmazlığı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, yabancıların temel hak ve hürriyetleri hangi ilkeye uygun olarak kanunla sınırlanabilir?",
+        "option_a":  "Mütekabiliyet (karşılıklılık) esasına",
+        "option_b":  "Milletlerarası hukuka",
+        "option_c":  "Ölçülülük ilkesine",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kişiyi devlete ve topluma karşı koruyan, devletin müdahale etmemesi gereken haklar hangi statüde yer alır?",
+        "option_a":  "Pozitif Statü Hakları (İsteme Hakları)",
+        "option_b":  "Aktif Statü Hakları (Katılma Hakları)",
+        "option_c":  "Negatif Statü Hakları (Koruyucu Haklar)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdaki haklardan hangisi \"Sosyal ve Ekonomik Haklar ve Ödevler\" (Pozitif Statü Hakları) arasında yer alır?",
+        "option_a":  "Mülkiyet hakkı",
+        "option_b":  "Konut hakkı",
+        "option_c":  "Dernek kurma hürriyeti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre \"Vergi Ödevi\" hangi hak kategorisi içinde düzenlenmiştir?",
+        "option_a":  "Siyasi Haklar ve Ödevler",
+        "option_b":  "Kişinin Hakları ve Ödevleri",
+        "option_c":  "Sosyal ve Ekonomik Haklar ve Ödevleri",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Anayasaya göre, toplu olarak işlenen suçlarda yakalanan veya tutuklanan bir kişi, en geç ne kadar süre içinde hâkim önüne çıkarılır?",
+        "option_a":  "48 saat",
+        "option_b":  "4 gün",
+        "option_c":  "7 gün",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, bir vatandaşın yurt dışına çıkma hürriyeti hangi durumda ve kimin kararıyla sınırlanabilir?",
+        "option_a":  "Milli güvenlik sebebiyle İçişleri Bakanı kararıyla",
+        "option_b":  "Kamu düzeni sebebiyle savcı kararıyla",
+        "option_c":  "Suç soruşturması veya kovuşturması sebebiyle hâkim kararıyla",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi, önceden izin alınmadan kullanılabilen haklardan biri değildir?",
+        "option_a":  "Dernek kurma hakkı",
+        "option_b":  "Radyo ve televizyon yayını yapma hakkı",
+        "option_c":  "Toplantı ve gösteri yürüyüşü düzenleme hakkı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "2004 Anayasa değişikliği ile Türk hukuk sisteminden tamamen kaldırılan ceza aşağıdakilerden hangisidir?",
+        "option_a":  "Genel müsadere cezası",
+        "option_b":  "Ağırlaştırılmış müebbet hapis cezası",
+        "option_c":  "Ölüm cezası",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa\u0027nın \"Suç ve cezalara ilişkin esaslar\" bölümüne 2001 yılında eklenen ve delillerle ilgili önemli bir güvence getiren hüküm hangisidir?",
+        "option_a":  "Ceza sorumluluğu şahsidir.",
+        "option_b":  "Kanuna aykırı olarak elde edilmiş bulgular, delil olarak kabul edilemez.",
+        "option_c":  "Kimse, işlendiği zaman suç olmayan bir fiilden dolayı cezalandırılamaz.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasaya göre, temel ve ortaöğretim kurumlarında Türk vatandaşlarına ana dilleri olarak Türkçeden başka bir dilin okutulması ve öğretilmesi konusunda hangisi doğrudur?",
+        "option_a":  "Velinin izniyle mümkündür.",
+        "option_b":  "Okutulamaz ve öğretilemez.",
+        "option_c":  "Milli Eğitim Bakanlığı\u0027nın kararıyla mümkündür.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1982 Anayasası\u0027na göre, memurlar ve diğer kamu görevlilerinin toplu sözleşme yapması sırasında uyuşmazlık çıkması hâlinde başvurabilecekleri ve kararları kesin olan kurum hangisidir?",
+        "option_a":  "Yüksek Hakem Kurulu",
+        "option_b":  "Kamu Görevlileri Hakem Kurulu",
+        "option_c":  "Tahkim Kurulu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasaya göre kamulaştırma bedelinin taksitle ödenmesi durumunda bu süre en fazla kaç yılı aşamaz?",
+        "option_a":  "3 yıl",
+        "option_b":  "5 yıl",
+        "option_c":  "10 yıl",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Spor federasyonlarının spor faaliyetlerinin yönetimine ve disiplinine ilişkin kararlarına karşı hangi yola başvurulur ve bu başvuruyu karara bağlayan kurumun kararları için yargı yolu açık mıdır?",
+        "option_a":  "İdare Mahkemesi - Yargı yolu açıktır.",
+        "option_b":  "Tahkim Kurulu - Yargı yolu kapalıdır.",
+        "option_c":  "Danıştay - Yargı yolu açıktır.",
+        "correct_answer":  "b"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Kanal Cephesi\u0027nin devamı niteliğinde olan ve Mustafa Kemal\u0027in başarılı bir savunma hattı kurduğu cephe hangisidir?",
+        "option_a":  "Irak Cephesi",
+        "option_b":  "Hicaz-Yemen Cephesi",
+        "option_c":  "Suriye-Filistin Cephesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İtilaf Devletleri arasında yapılan ve Boğazların Çarlık Rusya\u0027ya bırakılmasını öngören gizli antlaşma hangisidir?",
+        "option_a":  "Londra Antlaşması",
+        "option_b":  "İstanbul Antlaşması",
+        "option_c":  "Sykes-Picot Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İngiltere ve Fransa\u0027nın Orta Doğu\u0027yu kendi aralarında paylaştığı gizli antlaşma hangisidir?",
+        "option_a":  "Sykes-Picot Antlaşması",
+        "option_b":  "Mac Mahon Antlaşması",
+        "option_c":  "Saint Jean de Maurienne Antlaşması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İngiltere ile Mekke Emiri Şerif Hüseyin arasında yapılan ve Araplara bağımsızlık vaat eden gizli antlaşma hangisidir?",
+        "option_a":  "Sykes-Picot Antlaşması",
+        "option_b":  "Mac Mahon Antlaşması",
+        "option_c":  "Petrograd Protokolü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İzmir ve çevresinin İtalya\u0027ya verildiği gizli antlaşma hangisidir?",
+        "option_a":  "Londra Antlaşması",
+        "option_b":  "Saint Jean de Maurienne Antlaşması",
+        "option_c":  "İstanbul Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. Dünya Savaşı sırasındaki gizli antlaşmaları dünya kamuoyuna duyuran devlet hangisidir?",
+        "option_a":  "ABD",
+        "option_b":  "Sovyet Rusya",
+        "option_c":  "İngiltere",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "I. Dünya Savaşı\u0027ndan sonra Almanya\u0027da ortaya çıkan ve Adolf Hitler\u0027in liderliğini yaptığı totaliter rejim hangisidir?",
+        "option_a":  "Faşizm",
+        "option_b":  "Nazizm",
+        "option_c":  "Komünizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "ABD Başkanı Wilson tarafından yayımlanan ve savaş sonrası barışın esaslarını belirleyen prensiplerin en önemli maddelerinden biri nedir?",
+        "option_a":  "Galip devletler mağlup devletlerden toprak ve savaş tazminatı almayacak.",
+        "option_b":  "Sömürgecilik sistemi devam edecek.",
+        "option_c":  "Devletlerarası gizli antlaşmalar yapılacak.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Wilson İlkeleri\u0027nde yer alan \"Her millet kendi geleceğine kendisi karar verecek\" maddesi, hangi kavramın temelini oluşturmuştur?",
+        "option_a":  "Manda ve Himaye",
+        "option_b":  "Ulusal Egemenlik (Self-determinasyon)",
+        "option_c":  "Sömürgecilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Wilson İlkeleri\u0027nin 12. maddesine göre, Osmanlı Devleti içinde Türklerin çoğunlukta olduğu yerlerin kime bırakılması öngörülmüştür?",
+        "option_a":  "Milletler Cemiyeti\u0027ne",
+        "option_b":  "Manda yönetimine",
+        "option_c":  "Türklere",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "I. Dünya Savaşı\u0027nı sona erdiren ateşkes antlaşmaları arasında Almanya\u0027nın imzaladığı antlaşma hangisidir?",
+        "option_a":  "Rethondes",
+        "option_b":  "Selanik",
+        "option_c":  "Villa Gusti",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin I. Dünya Savaşı\u0027ndan çekildiği, Rauf Orbay tarafından imzalanan ateşkes antlaşması hangisidir?",
+        "option_a":  "Sevr Antlaşması",
+        "option_b":  "Mondros Ateşkes Antlaşması",
+        "option_c":  "Mudanya Ateşkes Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mondros Ateşkes Antlaşması\u0027nın, \"İtilaf Devletleri, güvenliklerini tehdit eden herhangi bir bölgeyi işgal edebilecek\" şeklindeki en tehlikeli maddesi hangisidir?",
+        "option_a":  "1. Madde",
+        "option_b":  "7. Madde",
+        "option_c":  "24. Madde",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mondros\u0027un 24. maddesi, \"Vilayet-i Sitte\u0027de (Altı İl) bir karışıklık çıkarsa buralar işgal edilecek\" diyerek, hangi devletin kurulmasını amaçlamıştır?",
+        "option_a":  "Pontus Rum Devleti",
+        "option_b":  "Büyük Yunanistan",
+        "option_c":  "Büyük Ermenistan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Mondros Ateşkesi\u0027nden sonra işgale uğrayan ilk Osmanlı toprağı Musul iken, Anadolu\u0027da işgale uğrayan ilk toprak parçası neresidir?",
+        "option_a":  "İzmir",
+        "option_b":  "İstanbul",
+        "option_c":  "Hatay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Paris Barış Konferansı\u0027nda, daha önce gizli antlaşmalarla İtalya\u0027ya bırakılan İzmir ve çevresi, hangi devlete verilmiştir?",
+        "option_a":  "Fransa",
+        "option_b":  "İngiltere",
+        "option_c":  "Yunanistan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "I. Dünya Savaşı\u0027ndan sonra kalıcı barışı sağlamak amacıyla kurulan uluslararası teşkilatın adı nedir?",
+        "option_a":  "Birleşmiş Milletler",
+        "option_b":  "Milletler Cemiyeti (Cemiyet-i Akvam)",
+        "option_c":  "NATO",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İzmir\u0027in işgaline karşı ilk kurşunu atan ve \"Hukuk-u Beşer\" gazetesi başyazarı olan kişi kimdir?",
+        "option_a":  "Hasan Tahsin",
+        "option_b":  "Süleyman Fethi Bey",
+        "option_c":  "Kara Mehmet Çavuş",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İzmir\u0027in işgalinin haksız olduğunu belirten ilk uluslararası belge hangisidir?",
+        "option_a":  "General Harbord Raporu",
+        "option_b":  "Amiral Bristol Raporu",
+        "option_c":  "Milne Hattı Raporu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tüm yararlı cemiyetler, hangi kongrede \"Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti\" adı altında birleştirilmiştir?",
+        "option_a":  "Erzurum Kongresi",
+        "option_b":  "Balıkesir Kongresi",
+        "option_c":  "Sivas Kongresi",
+        "correct_answer":  "c"
+    }
+]

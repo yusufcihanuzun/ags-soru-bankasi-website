@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Türkiye\u0027nin en uzun kara yolu tüneli olan Ovit Tüneli hangi iki ili birbirine bağlar?",
+        "option_a":  "Trabzon - Gümüşhane",
+        "option_b":  "Rize - Erzurum",
+        "option_c":  "Kastamonu - Çankırı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Azerbaycan doğal gazını Anadolu üzerinden Avrupa\u0027ya taşıyan ve 2018\u0027de açılan proje hangisidir?",
+        "option_a":  "Mavi Akım",
+        "option_b":  "TANAP",
+        "option_c":  "Türk Akımı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin ortalama yükseltisinin fazla olmasının temel nedeni nedir?",
+        "option_a":  "I. Jeolojik Zaman\u0027da oluşması",
+        "option_b":  "Batıdan doğuya doğru sıcaklığın artması",
+        "option_c":  "Yükseltinin batıdan doğuya doğru artması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin gerçek alanı ile izdüşüm alanı arasındaki farkın fazla olmasının sebebi nedir?",
+        "option_a":  "Ülkemizin engebeli ve yüksek olması",
+        "option_b":  "Ülkemizin bir yarımada olması",
+        "option_c":  "Ülkemizin tek ortak saat kullanması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye hangi paralel daireleri ve meridyenler arasında yer alır?",
+        "option_a":  "26-45 Kuzey paralelleri / 36-42 Doğu meridyenleri",
+        "option_b":  "36-42 Kuzey paralelleri / 26-45 Doğu meridyenleri",
+        "option_c":  "36-42 Güney paralelleri / 26-45 Batı meridyenleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin en kuzey ve en güney uç noktaları sırasıyla hangi illerimizdedir?",
+        "option_a":  "Sinop - Antalya",
+        "option_b":  "Kırklareli - Mersin",
+        "option_c":  "Sinop - Hatay",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin en batı ve en doğu uç noktaları sırasıyla nerelerdir?",
+        "option_a":  "İzmir - Van",
+        "option_b":  "Çanakkale (Gökçeada) - Iğdır",
+        "option_c":  "Edirne - Kars",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin kuzeyi ile güneyi arasındaki kuş uçuşu uzaklık yaklaşık kaç kilometredir?",
+        "option_a":  "111 km",
+        "option_b":  "766 km",
+        "option_c":  "666 km",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Ekvator\u0027dan kutuplara doğru gidildikçe değişen olaylar neyin etkisiyle açıklanır?",
+        "option_a":  "Boylamın etkisi",
+        "option_b":  "Enlemin etkisi",
+        "option_c":  "Göreceli konumun etkisi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Enlemin etkisine bağlı olarak Türkiye\u0027de güneyden kuzeye gidildikçe aşağıdakilerden hangisi artar?",
+        "option_a":  "Sıcaklık değerleri",
+        "option_b":  "Çizgisel hız",
+        "option_c":  "Yer çekimi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027de en uzun gündüzün yaşandığı ve kuzeye doğru gündüz süresinin uzadığı tarih hangisidir?",
+        "option_a":  "21 Aralık",
+        "option_b":  "21 Haziran",
+        "option_c":  "23 Eylül",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027de en uzun gecenin yaşandığı ve kuzeye doğru gece süresinin uzadığı tarih hangisidir?",
+        "option_a":  "21 Mart",
+        "option_b":  "21 Haziran",
+        "option_c":  "21 Aralık",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin en doğusu ile en batısı arasındaki zaman farkı kaç dakikadır?",
+        "option_a":  "19 dakika",
+        "option_b":  "76 dakika",
+        "option_c":  "66 dakika",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye\u0027nin yıl boyunca kullandığı tek ortak saat hangi meridyene aittir?",
+        "option_a":  "26° Doğu (Çanakkale)",
+        "option_b":  "30° Doğu (İzmit)",
+        "option_c":  "45° Doğu (Iğdır)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Boylamlar arasındaki mesafenin Sinop\u0027ta mı yoksa Hatay\u0027da mı daha az olmasının temel nedeni nedir?",
+        "option_a":  "Yerel saat farkı",
+        "option_b":  "Dünya\u0027nın şekli",
+        "option_c":  "Yükselti",
+        "correct_answer":  "b"
+    }
+]

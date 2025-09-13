@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Sayıştay\u0027ın denetim alanı dışında kalan kurum hangisidir?",
+        "option_a":  "Belediyeler",
+        "option_b":  "Köy muhtarlıkları",
+        "option_c":  "Üniversiteler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Diğer mahkemeler ile Anayasa Mahkemesi arasında bir görev uyuşmazlığı çıkarsa kimin kararı esas alınır?",
+        "option_a":  "Uyuşmazlık Mahkemesi\u0027nin kararı",
+        "option_b":  "Anayasa Mahkemesi\u0027nin kararı",
+        "option_c":  "Yargıtay\u0027ın kararı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın Yükseköğretim Kurulu\u0027nun göstereceği adaylar arasından Anayasa Mahkemesi\u0027ne seçeceği 3 üyenin en az kaçı hukukçu olmak zorundadır?",
+        "option_a":  "En az biri",
+        "option_b":  "En az ikisi",
+        "option_c":  "Hepsi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yargıtay ve Danıştay başkanlarının süresi dolduğunda yeniden seçilmeleri mümkün müdür?",
+        "option_a":  "Hayır, sadece bir kez seçilirler.",
+        "option_b":  "Evet, yeniden seçilebilirler.",
+        "option_c":  "Sadece bir kez daha seçilebilirler.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Adalet hizmetlerinin denetimi, Adalet Bakanlığı\u0027nca kimler aracılığıyla yapılır?",
+        "option_a":  "Sadece adalet müfettişleri",
+        "option_b":  "Adalet müfettişleri ve iç denetçiler",
+        "option_c":  "Sadece savcılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi Genel Kurulu\u0027nun toplanabilmesi için gereken asgari üye sayısı kaçtır?",
+        "option_a":  "12",
+        "option_b":  "10",
+        "option_c":  "8",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi\u0027nin, iptal ettiği bir kanun hükmünün yürürlüğünü 1 yıla kadar erteleme kararının temel amacı nedir?",
+        "option_a":  "TBMM\u0027ye zaman tanımak",
+        "option_b":  "Yargı yükünü azaltmak",
+        "option_c":  "Hukuki boşluk doğmasını önlemek",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "HSK üyeliği için TBMM\u0027de yapılan oylamanın üçüncü turunda, bir adayın seçilebilmesi için gereken çoğunluk nedir?",
+        "option_a":  "Üye tamsayısının 2/3\u0027ü",
+        "option_b":  "Üye tamsayısının 3/5\u0027i",
+        "option_c":  "En çok oyu alan adayın seçilmesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sayıştay\u0027ın mahalli idarelerin hesap ve işlemlerinin denetimi sonucunda çıkardığı raporlar nereye sunulur?",
+        "option_a":  "İçişleri Bakanlığı\u0027na",
+        "option_b":  "Doğrudan Cumhurbaşkanlığı\u0027na",
+        "option_c":  "İlgili mahalli idare meclisine",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir mahkemenin, somut norm denetimi için Anayasa Mahkemesi\u0027ne başvurması ve 5 ay içinde karar gelmemesi durumunda ne yapması gerekir?",
+        "option_a":  "Dava düşer.",
+        "option_b":  "Anayasa Mahkemesi\u0027nin kararını beklemeye devam eder.",
+        "option_c":  "Mevcut kanuna göre davayı sonuçlandırır.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa Mahkemesi kararlarının Resmî Gazete\u0027de yayımlanması zorunlu mudur?",
+        "option_a":  "Evet, tüm kararlar hemen yayımlanır.",
+        "option_b":  "Sadece Yüce Divan kararları yayımlanır.",
+        "option_c":  "Sadece iptal kararları yayımlanır.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Adli yargıdaki \u0027temyiz\u0027 ve idari yargıdaki \u0027temyiz\u0027 incelemelerini yapan yüksek mahkemeler sırasıyla hangileridir?",
+        "option_a":  "Yargıtay - Danıştay",
+        "option_b":  "Danıştay - Yargıtay",
+        "option_c":  "İkisi de Anayasa Mahkemesi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın HSK\u0027ya seçeceği 4 üyenin aday kaynağı nerelerdir?",
+        "option_a":  "Sadece hâkim ve savcılar",
+        "option_b":  "Sadece avukatlar",
+        "option_c":  "Hukukçu öğretim üyeleri ve avukatlar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sayıştay, denetimlerini yaparken hangi ilkelere uymak zorundadır?",
+        "option_a":  "Sadece hukuka uygunluk",
+        "option_b":  "Hem hukuka uygunluk hem de performans",
+        "option_c":  "Sadece performans ve verimlilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir hâkimin vicdani kanaatine göre hüküm vermesi, hangi ilkenin bir gereğidir?",
+        "option_a":  "Mahkemelerin kuruluşu",
+        "option_b":  "Hâkimlik teminatı",
+        "option_c":  "Mahkemelerin bağımsızlığı",
+        "correct_answer":  "c"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Bir konunun \u0027Neden?\u0027, \u0027Ne?\u0027, \u0027Nasıl?\u0027, \u0027Nerede?\u0027, \u0027Ne zaman?\u0027, \u0027Kim?\u0027 soruları çerçevesinde sistemli bir şekilde incelenmesini sağlayan tartışma tekniği hangisidir?",
+        "option_a":  "Sokratik Tartışma",
+        "option_b":  "Balık Kılçığı (Neden-Sonuç Diyagramı)",
+        "option_c":  "Beş N Bir K (5N1K)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğrencinin, ödevini zamanında teslim etme davranışını alışkanlık haline getirmesi, duyuşsal alanın hangi basamağına ulaştığını gösterir?",
+        "option_a":  "Değer Verme",
+        "option_b":  "Örgütleme",
+        "option_c":  "Kişilik Haline Getirme",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir bireyin, bilgisayar klavyesine bakmadan on parmakla yazı yazabilmesi, psikomotor alanın hangi basamağında olduğunu gösterir?",
+        "option_a":  "Kılavuzla Yapma",
+        "option_b":  "Beceri Haline Getirme (Mekanikleşme)",
+        "option_c":  "Duruma Uydurma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Adaylık devresi içinde veya sonunda \u0027disiplin cezası almış olan\u0027 aday memurlara 657 Sayılı Kanun\u0027a göre nasıl bir işlem yapılır?",
+        "option_a":  "Kademe ilerlemesi durdurulur.",
+        "option_b":  "Uyarma cezası verilir.",
+        "option_c":  "Görevlerine son verilir.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türk Milli Eğitim Sisteminde yer alan \u0027yöneltme\u0027 ilkesi, ilk olarak hangi eğitim kademesinde başlar?",
+        "option_a":  "Okul Öncesi",
+        "option_b":  "İlköğretim",
+        "option_c":  "Ortaöğretim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir sınıftaki öğrencilerin puanlarının aritmetik ortalamasının 50, standart sapmasının 5 olduğu bir sınavda, 60 puan alan bir öğrencinin Z puanı kaçtır?",
+        "option_a":  "+1",
+        "option_b":  "+2",
+        "option_c":  "+3",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Z puanı +2 olan bir öğrencinin T puanı kaçtır? (T=10Z+50)",
+        "option_a":  "60",
+        "option_b":  "70",
+        "option_c":  "80",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir sınavda, sınıfın çoğunluğu yüksek puanlar almış ve sadece birkaç öğrenci düşük puan almışsa, bu puan dağılımı için ne söylenebilir?",
+        "option_a":  "Normal Dağılım",
+        "option_b":  "Sağa Çarpık (Pozitif Kayışlı)",
+        "option_c":  "Sola Çarpık (Negatif Kayışlı)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi bir \u0027mutlak değerlendirme\u0027 örneğidir?",
+        "option_a":  "Sınavda ilk üçe giren öğrencilere hediye verilmesi.",
+        "option_b":  "KPSS\u0027de en yüksek puanı alan adayın atanması.",
+        "option_c":  "Sürücü belgesi sınavında 100 üzerinden 70 alanların başarılı sayılması.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027İyi bir vatandaş, vergisini zamanında öder\u0027 düşüncesiyle hareket eden bir birey, Kohlberg\u0027e göre hangi ahlaki gelişim evresindedir?",
+        "option_a":  "Saf Çıkarcı Eğilim",
+        "option_b":  "Kanun ve Düzen Eğilimi",
+        "option_c":  "Sosyal Sözleşme Eğilimi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dersin giriş aşamasında öğrencilerin konuya karşı ilgisini çekmek ve onları motive etmek için yapılan etkinliklere ne ad verilir?",
+        "option_a":  "Dikkati Çekme",
+        "option_b":  "Güdüleme",
+        "option_c":  "Hedeften Haberdar Etme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Öğrencilere o günkü derste ne öğreneceklerini ve bu öğrendiklerinin ne işe yarayacağını söylemek, dersin hangi aşamasında yer alır?",
+        "option_a":  "Geçiş",
+        "option_b":  "Hedeften Haberdar Etme / Güdüleme",
+        "option_c":  "Değerlendirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir kavramın özelliklerini, örneklerini ve örnek olmayanlarını bir şema üzerinde göstererek öğretmeyi amaçlayan öğretim aracı hangisidir?",
+        "option_a":  "Kavram Haritası",
+        "option_b":  "Zihin Haritası",
+        "option_c":  "Bilgi Haritası",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Merkezi bir kavramdan yola çıkarak, serbest çağrışım yoluyla renkli ve resimli bir şekilde fikirlerin organize edildiği görsel araç hangisidir?",
+        "option_a":  "Kavram Haritası",
+        "option_b":  "Zihin Haritası",
+        "option_c":  "Anlam Çözümleme Tablosu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir problemin olası nedenlerini ve alt nedenlerini balık kılçığına benzer bir diyagram üzerinde göstererek analiz etmeyi sağlayan teknik hangisidir?",
+        "option_a":  "Beyin Fırtınası",
+        "option_b":  "Altı Şapkalı Düşünme",
+        "option_c":  "Balık Kılçığı (Neden-Sonuç Diyagramı)",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Devlet memurunun, göreviyle ilgili veya görevi sırasında edindiği gizli bilgileri, yetkili bakanın izni olmadan açıklaması fiili, hangi disiplin cezasını gerektirir?",
+        "option_a":  "Aylıktan Kesme",
+        "option_b":  "Kademe İlerlemesinin Durdurulması",
+        "option_c":  "Devlet Memurluğundan Çıkarma",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kadın memura, çocuğunu emzirmesi için doğum sonrası analık izni süresinin bitim tarihinden itibaren ilk altı ayda günde kaç saat süt izni verilir?",
+        "option_a":  "Bir buçuk saat",
+        "option_b":  "İki saat",
+        "option_c":  "Üç saat",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz\u0027 ifadesi, 1739 Sayılı Kanun\u0027un hangi temel ilkesini doğrudan ifade eder?",
+        "option_a":  "Genellik ve Eşitlik",
+        "option_b":  "Eğitim Hakkı",
+        "option_c":  "Fırsat ve İmkân Eşitliği",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi, Halk Eğitim Merkezlerinin yürüttüğü yaygın eğitim faaliyetlerinden biri değildir?",
+        "option_a":  "Meslek kazandırma kursları",
+        "option_b":  "Okuma-yazma kursları",
+        "option_c":  "Lisans diploması programları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğrencinin, kendisi hakkında farkındalık kazanması, güçlü ve zayıf yönlerini tanıması, hangi zeka alanının gelişmiş olduğunu gösterir?",
+        "option_a":  "Sosyal Zeka (Kişilerarası)",
+        "option_b":  "İçsel Zeka (Özedönük)",
+        "option_c":  "Mantıksal Zeka",
+        "correct_answer":  "b"
+    }
+]

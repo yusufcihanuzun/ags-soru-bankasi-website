@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Olağanüstü hâl süresinin uzatılmasındaki dört aylık süre sınırı hangi durumda aranmaz?",
+        "option_a":  "Doğal afet",
+        "option_b":  "Ağır ekonomik bunalım",
+        "option_c":  "Savaş hâli",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "2017 Anayasa değişikliği ile yürütme organının hangi düzenleyici işlemi kaldırılmıştır?",
+        "option_a":  "Yönetmelik",
+        "option_b":  "Tüzük",
+        "option_c":  "Kararname",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir kamu tüzel kişiliği ne ile kurulur?",
+        "option_a":  "Sadece kanunla",
+        "option_b":  "Sadece Cumhurbaşkanlığı Kararnamesi ile",
+        "option_c":  "Kanunla veya Cumhurbaşkanlığı Kararnamesi ile",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı yardımcıları ve bakanlar görevleriyle ilgili olmayan suçlarda hangi hukuki korumadan faydalanır?",
+        "option_a":  "Yasama sorumsuzluğu",
+        "option_b":  "Yasama dokunulmazlığı",
+        "option_c":  "Hiçbir korumadan faydalanamazlar.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı, hangi durumda TBMM\u0027de yasama yılı açılış konuşması yapar?",
+        "option_a":  "Her yasama yılı başında yapmak zorundadır.",
+        "option_b":  "Gerekli gördüğü takdirde yapar.",
+        "option_c":  "Sadece seçildiği ilk yıl yapar.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yargıtay Cumhuriyet Başsavcısı ve vekilini kim seçer?",
+        "option_a":  "Hâkimler ve Savcılar Kurulu",
+        "option_b":  "Yargıtay Genel Kurulu",
+        "option_c":  "Cumhurbaşkanı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milli güvenlik siyasetinin tayini, tespiti ve uygulanması ile ilgili tavsiye kararlarını Cumhurbaşkanı\u0027na bildiren kurul hangisidir?",
+        "option_a":  "Bakanlar Kurulu",
+        "option_b":  "Devlet Denetleme Kurulu",
+        "option_c":  "Milli Güvenlik Kurulu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Cumhurbaşkanlığı Kararnameleri, Resmî Gazete\u0027de yayımlandıktan sonra yürürlük tarihi belirtilmemişse ne zaman yürürlüğe girer?",
+        "option_a":  "Yayımlandığı gün",
+        "option_b":  "Yayımından 15 gün sonra",
+        "option_c":  "Yayımından 45 gün sonra",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın, Genelkurmay Başkanı\u0027nı atama yetkisi hangi bakanlığa bağlı olarak kullanılır?",
+        "option_a":  "İçişleri Bakanlığı",
+        "option_b":  "Adalet Bakanlığı",
+        "option_c":  "Milli Savunma Bakanlığı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hangisi Anayasa\u0027da hem hak hem de ödev olarak düzenlenmiştir?",
+        "option_a":  "Vergi ödevi",
+        "option_b":  "Vatan hizmeti",
+        "option_c":  "Seçme hakkı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milletlerarası antlaşmaları onaylama ve yayımlama görevi kime aittir?",
+        "option_a":  "TBMM Başkanı\u0027na",
+        "option_b":  "Dışişleri Bakanı\u0027na",
+        "option_c":  "Cumhurbaşkanı\u0027na",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Yükseköğretim Kurulu (YÖK) üyelerini seçme yetkisi kime aittir?",
+        "option_a":  "Üniversitelerarası Kurul\u0027a",
+        "option_b":  "Cumhurbaşkanı\u0027na",
+        "option_c":  "Milli Eğitim Bakanı\u0027na",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı\u0027nın ikinci döneminde iken, bizzat kendisinin erken seçim kararı alması durumunda tekrar aday olabilir mi?",
+        "option_a":  "Evet, olabilir.",
+        "option_b":  "Hayır, olamaz.",
+        "option_c":  "TBMM\u0027nin onayı ile olabilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Cumhurbaşkanı yardımcısı veya bakan olarak atanan bir milletvekilinin milletvekilliği ne olur?",
+        "option_a":  "Sona erer.",
+        "option_b":  "Devam eder.",
+        "option_c":  "Dondurulur.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Yönetmeliklerin, hiyerarşik olarak hangisine aykırı olmaması gerekir?",
+        "option_a":  "Genelgelere",
+        "option_b":  "Kanunlara ve Cumhurbaşkanlığı Kararnamelerine",
+        "option_c":  "Anayasa Mahkemesi kararlarına",
+        "correct_answer":  "b"
+    }
+]

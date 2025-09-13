@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Özel okulların açılması ve faaliyet göstermesi, hangi hukuki düzenlemelere tabidir?",
+        "option_a":  "Sadece Anayasa",
+        "option_b":  "Milli Eğitim Bakanlığı\u0027nın kanun ve yönetmeliklerine",
+        "option_c":  "Uluslararası anlaşmalara",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim politikalarının oluşturulmasında sivil toplum kuruluşları, sendikalar ve veli dernekleri gibi grupların görüşlerinin alınması, hangi yönetim anlayışının bir gereğidir?",
+        "option_a":  "Otoriter Yönetim",
+        "option_b":  "Katılımcı ve Demokratik Yönetim",
+        "option_c":  "Merkeziyetçi Yönetim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027Aklını kullanma cesaretini göster!\u0027 (Sapere Aude) sözüyle bilinen Aydınlanma Çağı\u0027nın öncüsü, rasyonalizm ve empirizmi birleştiren (kritisizm) filozof kimdir?",
+        "option_a":  "Hegel",
+        "option_b":  "Immanuel Kant",
+        "option_c":  "Nietzsche",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir eğitim programının hedeflerinin, toplumun genel felsefesi ve değer yargılarıyla tutarlı olması gerekliliği, programın hangi temeliyle ilgilidir?",
+        "option_a":  "Psikolojik Temel",
+        "option_b":  "Felsefi Temel",
+        "option_c":  "Ekonomik Temel",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitimde öğrencinin kendi varoluşunu gerçekleştirmesi ve seçimleriyle kendini oluşturması gerektiğini savunan eğitim anlayışı hangi felsefeye dayanır?",
+        "option_a":  "Realizm",
+        "option_b":  "İdealizm",
+        "option_c":  "Varoluşçuluk",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Toplumun, bireylerin hangi davranışlarının ödüllendirilip hangilerinin cezalandırılacağını belirleyen mekanizmalar bütününe ne ad verilir?",
+        "option_a":  "Toplumsal Değişim",
+        "option_b":  "Toplumsal Kontrol",
+        "option_c":  "Toplumsal Hareketlilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitime erişimde bölgeler arası farklılıkların ve sosyo-ekonomik engellerin olması, eğitimin hangi temel ilkesinin zedelendiğini gösterir?",
+        "option_a":  "Süreklilik",
+        "option_b":  "Fırsat ve İmkân Eşitliği",
+        "option_c":  "Bilimsellik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\u0027İnsan sermayesi\u0027 kavramı, bireylerin sahip olduğu hangi özelliği bir yatırım aracı olarak görür?",
+        "option_a":  "Fiziksel güç",
+        "option_b":  "Doğuştan gelen statü",
+        "option_c":  "Eğitim ve beceriler",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027FATİH Projesi\u0027 (Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi) program geliştirmenin hangi temeline doğrudan bir yatırım olarak görülebilir?",
+        "option_a":  "Tarihsel Temel",
+        "option_b":  "Teknolojik Temel",
+        "option_c":  "Felsefi Temel",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tarih boyunca eğitim sistemlerinin, geçmişteki başarılı uygulamaları model alması veya başarısız uygulamalardan kaçınması, program geliştirmenin hangi temelinin önemini gösterir?",
+        "option_a":  "Tarihsel Temel",
+        "option_b":  "Hukuksal Temel",
+        "option_c":  "Ekonomik Temel",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir okulda öğrencilere yönelik siber zorbalığın önlenmesi için kurallar konulması ve seminerler düzenlenmesi, eğitimin hangi hukuksal metinleriyle doğrudan ilişkilidir?",
+        "option_a":  "Sadece Anayasa",
+        "option_b":  "Okul Yönetmelikleri ve MEB Genelgeleri",
+        "option_c":  "Sadece Kanunlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir ülkede zorunlu eğitim süresinin artırılması veya azaltılması kararı, kim tarafından alınır?",
+        "option_a":  "Okul Müdürleri",
+        "option_b":  "Siyasi Otorite (Yasama Organı)",
+        "option_c":  "Veli Dernekleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdaki eğitim felsefelerinden hangisi, \u0027değişim\u0027 kavramını programın merkezine yerleştirir?",
+        "option_a":  "Daimicilik",
+        "option_b":  "Esasicilik",
+        "option_c":  "İlerlemecilik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Eğitim yoluyla farklı kültürlerden gelen bireylerin ortak bir \u0027milli kimlik\u0027 etrafında birleşmesi, eğitimin hangi işlevine örnektir?",
+        "option_a":  "Sosyalleştirme",
+        "option_b":  "Ekonomik",
+        "option_c":  "Seçme ve yerleştirme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Bir şirketin, çalışanlarının mesleki gelişimini sağlamak için düzenlediği eğitimler ne tür bir eğitimdir?",
+        "option_a":  "Örgün Eğitim",
+        "option_b":  "Yaygın Eğitim (Hizmet İçi Eğitim)",
+        "option_c":  "Sargın Eğitim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "II. Meşrutiyet Dönemi\u0027nde eğitimde \u0027millilik\u0027 fikrini savunan ve \u0027Yeni Hayat\u0027 ve \u0027Türkçülüğün Esasları\u0027 gibi eserleriyle tanınan düşünür kimdir?",
+        "option_a":  "İsmail Hakkı Baltacıoğlu",
+        "option_b":  "Prens Sabahattin",
+        "option_c":  "Ziya Gökalp",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Adem-i merkeziyet\u0027 (yerinden yönetim) ve \u0027teşebbüs-ü şahsi\u0027 (bireysel girişimcilik) ilkelerini eğitim sistemine uygulamak isteyen II. Meşrutiyet dönemi düşünürü kimdir?",
+        "option_a":  "Ziya Gökalp",
+        "option_b":  "Prens Sabahattin",
+        "option_c":  "Tevfik Fikret",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin kişisel verilerinin (notları, disiplin durumu vb.) gizliliği, hangi hukuksal ilke kapsamında korunur?",
+        "option_a":  "Eğitim Hakkı",
+        "option_b":  "Özel Hayatın Gizliliği",
+        "option_c":  "Fırsat Eşitliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Eğitim programlarının, belirli siyasi partilerin değil, devletin genel ve kalıcı politikalarına dayanması gerektiği ilkesi, eğitimin hangi özelliğini vurgular?",
+        "option_a":  "Partiler üstü bir politika olması gerektiğini",
+        "option_b":  "Siyasetten tamamen bağımsız olduğunu",
+        "option_c":  "Sadece ekonomik hedeflere odaklandığını",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Politeknik eğitimin temel amacı nedir?",
+        "option_a":  "Sadece teorik bilgi aktarmak",
+        "option_b":  "Bilimsel bilgiyi üretim süreçleriyle birleştirmek",
+        "option_c":  "Bireyleri sanatsal faaliyetlere yönlendirmek",
+        "correct_answer":  "b"
+    }
+]

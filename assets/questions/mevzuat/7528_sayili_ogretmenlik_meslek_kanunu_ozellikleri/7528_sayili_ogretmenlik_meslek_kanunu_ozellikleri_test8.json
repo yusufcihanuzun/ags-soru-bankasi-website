@@ -1,0 +1,72 @@
+﻿[
+    {
+        "question_text":  "Disiplin cezasına yapılan itirazın Disiplin veya Akademik Kurul tarafından kabul edilmesi üzerine ceza kaldırıldığında, eğitim ve uygulama merkezi müdürü fiile uygun daha hafif bir ceza verme yetkisine sahip midir?",
+        "option_a":  "Hayır, dosya tamamen kapanır.",
+        "option_b":  "Evet, 15 gün içinde fiile uygun bir alt ceza takdir edebilir.",
+        "option_c":  "Evet, ancak sadece \u0027Uyarma\u0027 cezası verebilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "7528 sayılı kanuna göre, öğretmen adaylarına yapılacak tebligatlar hangi kanun hükümlerine göre gerçekleştirilir?",
+        "option_a":  "657 sayılı Devlet Memurları Kanunu",
+        "option_b":  "7201 sayılı Tebligat Kanunu",
+        "option_c":  "Türk Medeni Kanunu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Özel program ve proje uygulayan bir okula atanan veya görevlendirilen bir öğretim elemanı veya öğretmenin bu görevi, özlük hakları, atama ve terfi yönünden nasıl bir sonuç doğurur?",
+        "option_a":  "Kazanılmış hak sayılır ve terfilerine esas alınır.",
+        "option_b":  "Emeklilik hizmet süresini iki kat artırır.",
+        "option_c":  "Kazanılmış hak doğurmaz.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Disiplin soruşturması sırasında, hakkında soruşturma açılan öğretmen adayının, her ne sebeple olursa olsun Akademiden ayrılmış olması soruşturmanın devamına engel teşkil eder mi?",
+        "option_a":  "Evet, aday ayrıldığı için soruşturma düşer.",
+        "option_b":  "Hayır, soruşturmanın devamına ve cezanın uygulanmasına engel teşkil etmez.",
+        "option_c":  "Sadece Akademiden çıkarma cezasını gerektiren durumlarda devam eder.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademide sözleşmeli olarak istihdam edilen ve 5434 sayılı Kanun ile ilgileri devam ettirilen personelin emekli kesenekleri ve kurum karşılıkları nasıl karşılanır?",
+        "option_a":  "Tamamı personel tarafından karşılanır.",
+        "option_b":  "Emekli kesenekleri kendilerince, kurum karşılıkları Bakanlık tarafından karşılanır.",
+        "option_c":  "Tamamı Bakanlık tarafından karşılanır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Disiplin Kurulu\u0027nun üyesi olan bir Akademik Kurul üyesi, Akademik Kurul\u0027a yapılan bir itirazın görüşüldüğü toplantıya katılıp oy kullanabilir mi?",
+        "option_a":  "Evet, her iki kurulun da üyesi olduğu için katılabilir.",
+        "option_b":  "Sadece görüş bildirebilir ama oy kullanamaz.",
+        "option_c":  "Hayır, ilgili toplantılara katılamaz ve oy kullanamaz.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Yurt içi veya yurt dışında ulusal veya uluslararası proje yürüten bir okula, 2547 sayılı Yükseköğretim Kanunu\u0027nun 38. maddesi kapsamında kimlerin okul müdürü olarak görevlendirilmesi mümkündür?",
+        "option_a":  "Sadece Milli Eğitim Bakanlığı müfettişlerinin",
+        "option_b":  "Üniversitelerde görev yapan öğretim elemanlarının",
+        "option_c":  "Sadece en az 20 yıl hizmeti olan öğretmenlerin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Disiplin soruşturması tamamlandığında hazırlanan raporda, isnat edilen suç sabit bulunursa muhakkik ne yapar?",
+        "option_a":  "Doğrudan disiplin cezasını uygular.",
+        "option_b":  "Eyleme uyan disiplin cezasını teklif eder.",
+        "option_c":  "Sadece durum tespiti yapar, ceza teklif etmez.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akademideki sözleşmeli eğitim personeli, kazanç getirici başka bir iş yapabilir veya resmi ya da özel bir müessesede maaşlı/ücretli olarak görev alabilir mi?",
+        "option_a":  "Evet, ek gelir elde etmek serbesttir.",
+        "option_b":  "Sadece Bakanlık izniyle mümkündür.",
+        "option_c":  "Hayır, kazanç getirici başka bir iş yapamaz.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir fiilin, hazırlık eğitimi süresi içinde tekerrürü (tekrarlanması) durumunda hangi disiplin işlemi uygulanır?",
+        "option_a":  "Aynı disiplin cezası tekrar verilir.",
+        "option_b":  "Bir derece ağır ceza uygulanır.",
+        "option_c":  "Sözlü olarak uyarılır.",
+        "correct_answer":  "b"
+    }
+]

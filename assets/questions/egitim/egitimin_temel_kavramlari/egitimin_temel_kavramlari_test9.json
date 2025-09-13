@@ -1,0 +1,135 @@
+﻿[
+    {
+        "question_text":  "Beyaz önlüklü bir doktordan korkan çocuğun, beyaz önlüklü berberden de korkması hangi öğrenme kavramına örnektir?",
+        "option_a":  "Ayırt etme",
+        "option_b":  "Sönme",
+        "option_c":  "Uyarıcı genellemesi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Milli Eğitim Temel Kanunu\u0027na göre Türk Milli Eğitiminin genel amacı, Türk vatandaşlarını hangi niteliklere sahip bireyler olarak yetiştirmektir?",
+        "option_a":  "Sadece mesleki becerileri yüksek bireyler",
+        "option_b":  "Atatürk ilke ve inkılaplarına bağlı, beden, zihin, ahlak ve duygu bakımından dengeli ve sağlıklı bireyler",
+        "option_c":  "Yükseköğrenime devam edebilecek akademik başarıya sahip bireyler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin problem çözerken farklı çözüm yolları denemesi ve en etkili olanı seçmesi, Vygotsky\u0027nin hangi kavramıyla daha çok ilişkilidir?",
+        "option_a":  "Yakınsal Gelişim Alanı",
+        "option_b":  "Yapı İskelesi",
+        "option_c":  "İçselleştirme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Aferin\u0027, \u0027Çok güzel olmuş\u0027 gibi sözel ifadeler veya bir gülümseme, ne tür pekiştireçlere örnektir?",
+        "option_a":  "Birincil Pekiştireç",
+        "option_b":  "Sosyal Pekiştireç",
+        "option_c":  "Sembolik Pekiştireç",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir testteki maddelerin (soruların) birbirleriyle ne kadar tutarlı olduğunu belirlemeye yönelik güvenirlik hesaplama yöntemi hangisidir?",
+        "option_a":  "Test-Tekrar Test Yöntemi",
+        "option_b":  "İç Tutarlılık (KR-20, Cronbach Alfa)",
+        "option_c":  "Paralel Formlar Yöntemi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğretmenin ders anlatırken jest ve mimiklerini etkili bir şekilde kullanması, hangi iletişim türüne örnektir?",
+        "option_a":  "Sözlü İletişim",
+        "option_b":  "Sözsüz İletişim (Beden Dili)",
+        "option_c":  "Yazılı İletişim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sınıf yönetiminde, istenmeyen bir davranış ortaya çıktığında anında müdahale etmek, hangi ilkenin bir gereğidir?",
+        "option_a":  "Önlemsellik",
+        "option_b":  "Tepkisellik",
+        "option_c":  "Gelişimsel Yaklaşım",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmenin, öğrencilerin yaş, gelişim özellikleri ve bireysel farklılıklarını dikkate alarak sınıf kurallarını ve etkinliklerini düzenlemesi, hangi sınıf yönetimi yaklaşımına örnektir?",
+        "option_a":  "Tepkisel Yaklaşım",
+        "option_b":  "Önlemsel Yaklaşım",
+        "option_c":  "Gelişimsel Yaklaşım",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İstenmeyen davranışların ortaya çıkmasını engellemek için önceden planlama yapmayı, kuralları netleştirmeyi ve fiziksel ortamı düzenlemeyi temel alan sınıf yönetimi yaklaşımı hangisidir?",
+        "option_a":  "Bütünsel (Sistem) Yaklaşım",
+        "option_b":  "Önlemsel Yaklaşım",
+        "option_c":  "Tepkisel Yaklaşım",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Önlemsel, tepkisel ve gelişimsel yaklaşımları bir arada kullanarak duruma en uygun olanı seçmeyi öneren sınıf yönetimi yaklaşımı hangisidir?",
+        "option_a":  "Geleneksel Yaklaşım",
+        "option_b":  "Bütünsel (Sistem) Yaklaşım",
+        "option_c":  "Gelişimsel Yaklaşım",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencilerin oturduğu sıraların, öğretmenin ve yazı tahtasının konumunun oluşturduğu alana ne ad verilir?",
+        "option_a":  "Sınıfın Fiziksel Düzeni",
+        "option_b":  "Psikososyal Ortam",
+        "option_c":  "Öğretimsel Liderlik",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Sınıfta olumlu bir rekabet ortamı, karşılıklı saygı ve güvene dayalı ilişkiler, sınıfın hangi boyutunu oluşturur?",
+        "option_a":  "Fiziksel Boyut",
+        "option_b":  "Psikososyal Boyut (Sınıf İklimi)",
+        "option_c":  "Yönetimsel Boyut",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğretmenin zamanı etkili kullanması, dersi planlaması, materyalleri hazırlaması ve öğrenci katılımını sağlaması, sınıf yönetiminin hangi boyutuyla ilgilidir?",
+        "option_a":  "Zaman Yönetimi",
+        "option_b":  "İlişki Yönetimi",
+        "option_c":  "Davranış Yönetimi",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi istenmeyen öğrenci davranışlarının temel nedenlerinden biri olarak kabul edilemez?",
+        "option_a":  "Dikkati çekme isteği",
+        "option_b":  "Öğrencinin dersi çok iyi bilmesi",
+        "option_c":  "Dersin sıkıcı veya zor olması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İstenmeyen bir davranış sergileyen öğrenciyi görmezden gelmek, hangi davranış değiştirme stratejisine bir örnektir?",
+        "option_a":  "Sözel olmayan uyarı",
+        "option_b":  "Sönmeye tabi tutma",
+        "option_c":  "Ara verme (Time-out)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İstenmeyen davranışta bulunan öğrenciye kaş göz işareti yapmak veya yanına yaklaşmak gibi tepkiler, hangi müdahale tekniğidir?",
+        "option_a":  "Sözel Uyarı",
+        "option_b":  "Sözel Olmayan Uyarı",
+        "option_c":  "Görmezden Gelme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrenciye, yaptığı olumlu bir davranışın hemen ardından \u0027Bu soruyu çözme şeklini çok beğendim\u0027 demek, hangi kavramla açıklanır?",
+        "option_a":  "Dönüt",
+        "option_b":  "Pekiştirme",
+        "option_c":  "Ceza",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Öğrencinin bir ödevi nasıl daha iyi yapabileceğine dair yol gösterici bilgi ve açıklamalar içeren geri bildirime ne denir?",
+        "option_a":  "Pekiştirme",
+        "option_b":  "Düzeltme",
+        "option_c":  "Dönüt",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Bireyin, yetenek ve ilgileri doğrultusunda bir meslek seçmesine, mesleğe hazırlanmasına ve mesleki gelişimini sürdürmesine sistemli olarak yardım etme\u0027 süreci, hangi rehberlik alanına girer?",
+        "option_a":  "Eğitsel Rehberlik",
+        "option_b":  "Kişisel-Sosyal Rehberlik",
+        "option_c":  "Mesleki Rehberlik",
+        "correct_answer":  "c"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Atatürk ilkelerinin ortak özellikleri arasında hangisi yer alır?",
+        "option_a":  "Birbirinden tamamen bağımsızdırlar.",
+        "option_b":  "Sadece Türk toplumuna özgüdürler.",
+        "option_c":  "Akla ve bilime dayanırlar, birbirini tamamlarlar.",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Atatürk ilkelerinin hedefleri arasında yer alan \"Milli egemenliğe dayalı, demokratik bir yönetim oluşturmak\" hangi ilkenin temel hedefidir?",
+        "option_a":  "Cumhuriyetçilik",
+        "option_b":  "Laiklik",
+        "option_c":  "Halkçılık",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Atatürk ilkelerinin hedefleri arasında yer alan \"Milli bağımsızlığı korumak\" öncelikle hangi ilkeyle ilgilidir?",
+        "option_a":  "Devletçilik",
+        "option_b":  "Halkçılık",
+        "option_c":  "Milliyetçilik",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Atatürk ilkelerinin genel özellikleri arasında belirtilen \"Evrensel yönleri ile diğer uluslara da örnek teşkil etmiştir\" ifadesi, ilkelerin hangi yönünü vurgular?",
+        "option_a":  "Sadece milli olmasını",
+        "option_b":  "Evrensel (tüm insanlığı ilgilendiren) yönünü",
+        "option_c":  "Değişmez olmasını",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1 Kasım 1922\u0027de Saltanatın kaldırılmasının en önemli ve acil sebebi nedir?",
+        "option_a":  "Padişah Vahdettin\u0027in yurt dışına kaçması",
+        "option_b":  "Lozan Konferansı\u0027na İstanbul Hükümeti\u0027nin de davet edilmesiyle ortaya çıkan ikilik",
+        "option_c":  "Cumhuriyet rejimine geçişin hızlandırılmak istenmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Saltanatın kaldırılmasıyla aşağıdakilerden hangisi gerçekleşmiştir?",
+        "option_a":  "Osmanlı Devleti hukuken sona ermiştir.",
+        "option_b":  "Halifelik makamı da kaldırılmıştır.",
+        "option_c":  "Başkent İstanbul\u0027dan Ankara\u0027ya taşınmıştır.",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Saltanatın kaldırılmasından sonra son Osmanlı padişahı Vahdettin\u0027in yurt dışına kaçmasıyla, TBMM tarafından Halife olarak seçilen kişi kimdir?",
+        "option_a":  "Abdülmecid Efendi",
+        "option_b":  "Tevfik Paşa",
+        "option_c":  "Damat Ferit Paşa",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Ankara\u0027nın başkent olması (13 Ekim 1923) için kanun teklifini TBMM\u0027ye sunan devlet adamı kimdir?",
+        "option_a":  "Mustafa Kemal Paşa",
+        "option_b":  "Kazım Karabekir Paşa",
+        "option_c":  "İsmet Paşa",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "29 Ekim 1923\u0027te Cumhuriyetin ilan edilmesinin en önemli gerekçesi nedir?",
+        "option_a":  "Saltanatın kaldırılmasıyla ortaya çıkan devlet başkanlığı (rejim) sorununu çözmek",
+        "option_b":  "İtilaf Devletleri\u0027nin baskısını azaltmak",
+        "option_c":  "Ekonomik krizi aşmak",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Cumhuriyetin ilanı ile birlikte Türkiye Cumhuriyeti\u0027nin ilk Cumhurbaşkanı kim olmuştur?",
+        "option_a":  "İsmet İnönü",
+        "option_b":  "Fethi Okyar",
+        "option_c":  "Mustafa Kemal Atatürk",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye Cumhuriyeti\u0027nin ilk Başbakanı kimdir?",
+        "option_a":  "İsmet İnönü",
+        "option_b":  "Fethi Okyar",
+        "option_c":  "Celal Bayar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye Cumhuriyeti\u0027nin ilk Meclis Başkanı kimdir?",
+        "option_a":  "İsmet İnönü",
+        "option_b":  "Fethi Okyar",
+        "option_c":  "Kazım Karabekir",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "3 Mart 1924\u0027te Halifeliğin kaldırılmasının nedenleri arasında, Halife Abdülmecid Efendi\u0027nin nasıl davranması gösterilmektedir?",
+        "option_a":  "Yurt dışına sık sık seyahat etmesi",
+        "option_b":  "Kendini padişah gibi görmesi ve devlet başkanı gibi davranması",
+        "option_c":  "İnkılaplara açıkça karşı çıkması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Halifeliğin kaldırıldığı 3 Mart 1924 günü kabul edilen kanunlar arasında hangisi yer alır?",
+        "option_a":  "Medeni Kanun\u0027un kabulü",
+        "option_b":  "Tevhid-i Tedrisat Kanunu\u0027nun kabulü",
+        "option_c":  "Soyadı Kanunu\u0027nun kabulü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Halifeliğin kaldırılmasıyla birlikte, din işlerini siyasetten ayırmak ve yürütmek amacıyla kurulan kurum hangisidir?",
+        "option_a":  "Şeriye ve Evkaf Vekaleti",
+        "option_b":  "Diyanet İşleri Başkanlığı",
+        "option_c":  "Vakıflar Genel Müdürlüğü",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yine 3 Mart 1924\u0027te, ordunun siyasetten ayrılması ilkesi doğrultusunda kaldırılan bakanlık hangisidir?",
+        "option_a":  "Milli Savunma Bakanlığı",
+        "option_b":  "Erkan-ı Harbiye Vekaleti",
+        "option_c":  "Bahriye Vekaleti",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1921 Anayasası\u0027nın (Teşkilat-ı Esasiye) en temel özelliği nedir?",
+        "option_a":  "Padişahın yetkilerini kısıtlaması",
+        "option_b":  "Egemenliği kayıtsız şartsız millete vermesi",
+        "option_c":  "Çift meclisli bir sistem öngörmesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1924 Anayasası\u0027nda yer alan ancak 1928 yılında anayasadan çıkarılan madde hangisidir?",
+        "option_a":  "\"Türkiye Devleti\u0027nin başkenti Ankara\u0027dır.\"",
+        "option_b":  "\"Egemenlik kayıtsız şartsız milletindir.\"",
+        "option_c":  "\"Devletin dini İslam\u0027dır.\"",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1937 yılında 1924 Anayasası\u0027na eklenen ilkeler hangileridir?",
+        "option_a":  "Cumhuriyetçilik, Milliyetçilik, Halkçılık",
+        "option_b":  "Laiklik, Devletçilik, İnkılapçılık",
+        "option_c":  "Atatürk\u0027ün altı ilkesinin tamamı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1926\u0027da kabul edilen Türk Medeni Kanunu hangi ülkenin medeni kanunu örnek alınarak hazırlanmıştır?",
+        "option_a":  "Fransa",
+        "option_b":  "İsviçre",
+        "option_c":  "Almanya",
+        "correct_answer":  "b"
+    }
+]

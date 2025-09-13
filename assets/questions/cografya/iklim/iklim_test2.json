@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "1 m³ havanın belirli bir sıcaklıkta taşıyabileceği en fazla nem miktarına ne denir?",
+        "option_a":  "Mutlak nem",
+        "option_b":  "Maksimum nem",
+        "option_c":  "Bağıl nem",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Sıcaklıkla doğru orantılı olan ve Türkiye\u0027de en fazla Güneydoğu Anadolu Bölgesi\u0027nde görülen nem türü hangisidir?",
+        "option_a":  "Bağıl Nem",
+        "option_b":  "Mutlak Nem",
+        "option_c":  "Maksimum Nem",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Havanın doyma oranını ifade eden, sıcaklıkla ters orantılı olan ve Türkiye\u0027de en fazla Karadeniz Bölgesi\u0027nde görülen nem türü hangisidir?",
+        "option_a":  "Bağıl Nem (Nispi Nem)",
+        "option_b":  "Mutlak Nem",
+        "option_c":  "Maksimum Nem",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Her mevsim yağışlı olan, en fazla yağışı sonbaharda alan ve bitki örtüsü orman olan iklim tipi hangisidir?",
+        "option_a":  "Akdeniz İklimi",
+        "option_b":  "Karadeniz İklimi",
+        "option_c":  "Karasal İklim",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yazları sıcak ve kurak, kışları ılık ve yağışlı olan, bitki örtüsü maki olan iklim tipi hangisidir?",
+        "option_a":  "Akdeniz İklimi",
+        "option_b":  "Karadeniz İklimi",
+        "option_c":  "Step Karasal İklim",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İç Anadolu Bölgesi\u0027nde görülen, en fazla yağışı ilkbaharda alan ve doğal bitki örtüsü bozkır olan iklim tipi hangisidir?",
+        "option_a":  "Sert Karasal İklim",
+        "option_b":  "Step Karasal (Yarı Kurak Karasal) İklim",
+        "option_c":  "Akdeniz İklimi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Erzurum-Kars bölümünde görülen, kışları uzun ve sert geçen, en fazla yağışı yaz aylarında alan iklim tipi hangisidir?",
+        "option_a":  "Step Karasal İklim",
+        "option_b":  "Karadeniz İklimi",
+        "option_c":  "Sert Karasal İklim",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Akdeniz iklim alanında maki bitki örtüsünün tahrip edilmesiyle ortaya çıkan dikenli çalı topluluğuna ne ad verilir?",
+        "option_a":  "Garig",
+        "option_b":  "Psödomaki",
+        "option_c":  "Antropojen bozkır",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Karadeniz Bölgesi\u0027nde ormanların tahrip edilmesi sonucunda ortaya çıkan yalancı maki türü bitki örtüsü hangisidir?",
+        "option_a":  "Garig",
+        "option_b":  "Alpin çayırları",
+        "option_c":  "Psödomaki",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Sadece belirli bir coğrafi bölgede yetişen, başka yerde bulunmayan bitki türlerine ne ad verilir?",
+        "option_a":  "Relikt (Kalıntı) Bitki",
+        "option_b":  "Endemik Bitki",
+        "option_c":  "Anıt Ağaç",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Köyceğiz çevresinde görülen Sığla ağacı ve Göller Yöresi\u0027ndeki Kasnak meşesi ne tür bitkilere örnektir?",
+        "option_a":  "Endemik bitkiler",
+        "option_b":  "Relikt bitkiler",
+        "option_c":  "Psödomakiler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye\u0027de ormanların bölgelere göre dağılışında ilk sırada yer alan bölgemiz hangisidir?",
+        "option_a":  "Akdeniz Bölgesi",
+        "option_b":  "Karadeniz Bölgesi",
+        "option_c":  "Ege Bölgesi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Akdeniz iklim sahasında kızılçam ormanlarının tahribatıyla ortaya çıkan, zeytin, defne, keçiboynuzu gibi türlerden oluşan bitki örtüsü hangisidir?",
+        "option_a":  "Bozkır",
+        "option_b":  "Orman",
+        "option_c":  "Maki",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İç kesimlerde ormanların insanlar tarafından tahrip edilmesiyle oluşan kısa boylu ot topluluklarına ne ad verilir?",
+        "option_a":  "Antropojen bozkır",
+        "option_b":  "Alpin çayırları",
+        "option_c":  "Garig",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Yüksek dağlarda (yaklaşık 2000 metreden sonra) görülen, büyükbaş hayvancılık ve yaylacılık için elverişli olan bitki örtüsü hangisidir?",
+        "option_a":  "Maki",
+        "option_b":  "Bozkır",
+        "option_c":  "Alpin çayırları",
+        "correct_answer":  "c"
+    }
+]

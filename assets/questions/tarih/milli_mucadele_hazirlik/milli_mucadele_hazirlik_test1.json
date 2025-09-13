@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Mustafa Kemal, 19 Mayıs 1919\u0027da Samsun\u0027a çıktığında resmi görevi neydi?",
+        "option_a":  "Yıldırım Orduları Grup Komutanı",
+        "option_b":  "9. Ordu Müfettişi",
+        "option_c":  "Temsil Heyeti Başkanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in, İstanbul\u0027a geldiğinde işgal donanmasını görünce yaveri Cevat Abbas\u0027a söylediği ünlü söz hangisidir?",
+        "option_a":  "\"Hatt-ı müdafaa yoktur, sath-ı müdafaa vardır.\"",
+        "option_b":  "\"Geldikleri gibi giderler.\"",
+        "option_c":  "\"Ordular, ilk hedefiniz Akdeniz\u0027dir.\"",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in, Samsun\u0027dan sonra geçtiği ve milli bilinci uyandırmak amacıyla ilk genelgeyi yayımladığı yer neresidir?",
+        "option_a":  "Amasya",
+        "option_b":  "Erzurum",
+        "option_c":  "Havza",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Havza Genelgesi\u0027nde, hangi olayın mitingler düzenlenerek protesto edilmesi istenmiştir?",
+        "option_a":  "İstanbul\u0027un işgali",
+        "option_b":  "İzmir\u0027in işgali",
+        "option_c":  "Mondros\u0027un imzalanması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Havza Genelgesi\u0027nin ardından Mustafa Kemal\u0027e İstanbul Hükümeti tarafından verilen ilk tepki ne olmuştur?",
+        "option_a":  "Terfi ettirilmesi",
+        "option_b":  "İstanbul\u0027a geri çağrılması",
+        "option_c":  "Yetkilerinin artırılması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kurtuluş Savaşı\u0027nın \"gerekçesi, amacı ve yöntemi\" ilk kez hangi belgede belirtilmiştir?",
+        "option_a":  "Havza Genelgesi",
+        "option_b":  "Amasya Genelgesi",
+        "option_c":  "Erzurum Kongresi Kararları",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Amasya Genelgesi\u0027nde yer alan \"Milletin bağımsızlığını, yine milletin azmi ve kararı kurtaracaktır\" maddesi, ilk kez hangi ilkeyi işaret etmiştir?",
+        "option_a":  "Tam bağımsızlık",
+        "option_b":  "Ulusal egemenlik",
+        "option_c":  "Batıcılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Amasya Genelgesi\u0027nin Rauf Orbay ve Ali Fuat Cebesoy gibi komutanlarla birlikte imzalanmasının temel amacı nedir?",
+        "option_a":  "İstanbul Hükümeti\u0027nden onay almak",
+        "option_b":  "Milli Mücadele\u0027yi kişisel olmaktan çıkarıp halka mal etmek",
+        "option_c":  "İtilaf Devletleri\u0027ne gözdağı vermek",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "\"Artık İstanbul, Anadolu\u0027ya hâkim değil, tabi olmak zorundadır.\" sözünü Mustafa Kemal hangi olaydan sonra söylemiştir?",
+        "option_a":  "Samsun\u0027a çıktıktan sonra",
+        "option_b":  "Havza Genelgesi\u0027nden sonra",
+        "option_c":  "Amasya Genelgesi\u0027nden sonra",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Mustafa Kemal, \"sine-i millete dönmek\" diyerek askerlik mesleğinden ve resmi görevinden hangi olaydan önce istifa etmiştir?",
+        "option_a":  "Amasya Genelgesi\u0027nden önce",
+        "option_b":  "Erzurum Kongresi\u0027nden önce",
+        "option_c":  "Sivas Kongresi\u0027nden önce",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Toplanış amacı bakımından bölgesel, aldığı kararlar açısından ulusal olan kongre hangisidir?",
+        "option_a":  "Sivas Kongresi",
+        "option_b":  "Alaşehir Kongresi",
+        "option_c":  "Erzurum Kongresi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Erzurum Kongresi\u0027nin toplanmasını sağlayan cemiyetler hangileridir?",
+        "option_a":  "Kilikyalılar ve Redd-i İlhak Cemiyetleri",
+        "option_b":  "Trabzon Muhafaza-i Hukuk ve Şark Vilayetleri Müdafaa-i Hukuk Cemiyetleri",
+        "option_c":  "Millî Kongre ve Trakya Paşaeli Cemiyetleri",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Erzurum Kongresi\u0027nde \"Manda ve himaye kabul edilemez\" kararının alınması, öncelikle hangi ilkenin hedeflendiğini gösterir?",
+        "option_a":  "Ulusal egemenlik",
+        "option_b":  "Tam bağımsızlık",
+        "option_c":  "Yurtta barış, cihanda barış",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Milli sınırlardan ilk kez bahsedildiği belge hangisidir?",
+        "option_a":  "Amasya Genelgesi",
+        "option_b":  "Erzurum Kongresi Kararları",
+        "option_c":  "Misakımillî",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Erzurum Kongresi\u0027nde alınan \"Kuvayımilliyeyi etkin, milli iradeyi hâkim kılmak esastır\" kararı hangi iki hedefin birlikte yürütüleceğini göstermektedir?",
+        "option_a":  "Ulusal bağımsızlık ve ulusal egemenlik",
+        "option_b":  "Saltanatın devamı ve tam bağımsızlık",
+        "option_c":  "Manda yönetimi ve ekonomik kalkınma",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Temsil Heyeti\u0027nin (Heyet-i Temsiliye) kurulması kararı ilk kez nerede alınmıştır?",
+        "option_a":  "Amasya Genelgesi\u0027nde (temelleri atıldı)",
+        "option_b":  "Erzurum Kongresi\u0027nde (bölgesel olarak kuruldu)",
+        "option_c":  "Sivas Kongresi\u0027nde (ulusal hale getirildi)",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Erzurum Kongresi\u0027nde, İstanbul Hükümeti\u0027nin denetlenmesi amacıyla hangi kurumun derhal toplanması istenmiştir?",
+        "option_a":  "Ayan Meclisi",
+        "option_b":  "Mebusan Meclisi",
+        "option_c":  "Divan-ı Hümayun",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hacım Muhittin Bey\u0027in topladığı Balıkesir ve Alaşehir Kongreleri\u0027nin en önemli sonucu ne olmuştur?",
+        "option_a":  "Manda ve himaye ilk kez reddedilmiştir.",
+        "option_b":  "Batı Cephesi kurulmuştur.",
+        "option_c":  "Tüm cemiyetler birleştirilmiştir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mustafa Kemal\u0027in katıldığı kongreler arasında hangisi yer almaz?",
+        "option_a":  "Erzurum Kongresi",
+        "option_b":  "Sivas Kongresi",
+        "option_c":  "Balıkesir Kongresi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Hem toplanış amacı hem de aldığı kararlar bakımından ulusal olan tek kongre hangisidir?",
+        "option_a":  "Erzurum Kongresi",
+        "option_b":  "Sivas Kongresi",
+        "option_c":  "Afyon Kongresi",
+        "correct_answer":  "b"
+    }
+]

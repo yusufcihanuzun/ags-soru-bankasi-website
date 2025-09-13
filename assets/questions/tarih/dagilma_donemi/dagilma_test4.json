@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "III. Selim\u0027in, yapacağı ıslahatlar hakkında fikir alışverişinde bulunmak için aktif hale getirdiği danışma meclisinin adı nedir?",
+        "option_a":  "Divan-ı Hümayun",
+        "option_b":  "Meşveret Meclisi",
+        "option_c":  "Meclis-i Vala",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "III. Selim\u0027in, karaborsanın önüne geçmek ve tahıl tedarikini düzenlemek amacıyla kurduğu kurum hangisidir?",
+        "option_a":  "İrad-ı Cedit Hazinesi",
+        "option_b":  "Menzil Teşkilatı",
+        "option_c":  "Zahire Nazırlığı",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "III. Selim döneminde yerli malı kullanımını teşvik etme politikasının bir parçası olarak ne gibi bir uygulama başlatılmıştır?",
+        "option_a":  "İthal mallara ek vergi konulması",
+        "option_b":  "Yabancı kumaş giymenin yasaklanması",
+        "option_c":  "Saraydaki altın ve gümüşlerin eritilerek para basılması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "III. Selim döneminde Viyana\u0027ya daimi elçi olarak atanan ve Avrupa\u0027daki gelişmeleri raporlayan devlet adamı kimdir?",
+        "option_a":  "Yusuf Agâh Efendi",
+        "option_b":  "28 Mehmet Çelebi",
+        "option_c":  "Ebubekir Ratıp Efendi",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1804 yılında Kara Yorgi önderliğinde isyan ederek Osmanlı Devleti\u0027nden ilk imtiyazı elde eden toplum hangisidir?",
+        "option_a":  "Rumlar",
+        "option_b":  "Bulgarlar",
+        "option_c":  "Sırplar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "1815\u0027te toplanan Viyana Kongresi\u0027nde Rus Çarı I. Aleksander tarafından ilk kez gündeme getirilen ve \u0027Osmanlı\u0027yı paylaşma planı\u0027 anlamına gelen sorun nedir?",
+        "option_a":  "Boğazlar Sorunu",
+        "option_b":  "Şark Sorunu (Doğu Sorunu)",
+        "option_c":  "Mısır Sorunu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Rumların isyan etmesi amacıyla Aleksander İpsilanti tarafından kurulan cemiyetin adı nedir?",
+        "option_a":  "Etnik-i Eterya",
+        "option_b":  "Mavri Mira",
+        "option_c":  "Pontus Rum",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "1827\u0027de İngiltere, Fransa ve Rusya\u0027nın, Rum isyanına destek olmak amacıyla Osmanlı donanmasını yaktığı olay hangisidir?",
+        "option_a":  "Çeşme Baskını",
+        "option_b":  "Navarin Olayı",
+        "option_c":  "Sinop Baskını",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1829 Edirne Antlaşması ile Osmanlı Devleti\u0027nden ayrılarak bağımsızlığını kazanan ilk Balkan ulusu hangisidir?",
+        "option_a":  "Sırbistan",
+        "option_b":  "Romanya",
+        "option_c":  "Yunanistan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin, Mısır Valisi Mehmet Ali Paşa\u0027ya karşı Rusya\u0027dan yardım istemesi üzerine imzaladığı ve \u0027Boğazlar Sorunu\u0027nu başlatan antlaşma hangisidir?",
+        "option_a":  "Londra Antlaşması",
+        "option_b":  "Hünkâr İskelesi Antlaşması",
+        "option_c":  "Kütahya Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Osmanlı Devleti\u0027nin ekonomisini dışa bağımlı hale getiren ve bir \u0027yarı sömürge\u0027 antlaşması olarak kabul edilen 1838 tarihli antlaşma hangisidir?",
+        "option_a":  "Paris Antlaşması",
+        "option_b":  "Hünkâr İskelesi Antlaşması",
+        "option_c":  "Baltalimanı Antlaşması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kırım Savaşı sırasında Rusların, Sinop\u0027ta Osmanlı donanmasını yakmasıyla başlayan savaşın nedenlerinden biri olan sorun hangisidir?",
+        "option_a":  "Kutsal Yerler Sorunu",
+        "option_b":  "Mülteci Sorunu",
+        "option_c":  "Azınlıklar Sorunu",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Kırım Savaşı sırasında yaralı İngiliz ve Osmanlı askerlerini tedavi eden ve \u0027Lambalı Kadın\u0027 olarak anılan modern hemşireliğin kurucusu kimdir?",
+        "option_a":  "Clara Barton",
+        "option_b":  "Florence Nightingale",
+        "option_c":  "Nene Hatun",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1856 Paris Antlaşması ile Osmanlı Devleti ilk kez ne sayılmıştır?",
+        "option_a":  "Bir Avrupa devleti",
+        "option_b":  "Topraklarını geri alan devlet",
+        "option_c":  "Tarafsız devlet",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "1877-78 Osmanlı-Rus Savaşı (93 Harbi) sırasında Plevne\u0027deki savunmasıyla destanlaşan komutan kimdir?",
+        "option_a":  "Gazi Muhtar Paşa",
+        "option_b":  "Gazi Osman Paşa",
+        "option_c":  "Cezzar Ahmet Paşa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İmzalanmasına rağmen yürürlüğe girmeyen ilk antlaşma olan Ayastefanos Antlaşması\u0027nın yerine, hangi antlaşma imzalanmıştır?",
+        "option_a":  "Paris Antlaşması",
+        "option_b":  "Berlin Antlaşması",
+        "option_c":  "Bükreş Antlaşması",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ermeni sorununun ilk kez uluslararası bir sorun haline geldiği antlaşma hangisidir?",
+        "option_a":  "Ayastefanos Antlaşması",
+        "option_b":  "Paris Antlaşması",
+        "option_c":  "Berlin Antlaşması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "II. Mahmut ile Ayanlar arasında imzalanan ve Osmanlı tarihinde padişahın yetkilerini ilk kez kısıtlayan belge hangisidir?",
+        "option_a":  "Tanzimat Fermanı",
+        "option_b":  "Sened-i İttifak",
+        "option_c":  "Islahat Fermanı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "1826\u0027da Yeniçeri Ocağı\u0027nın kaldırılması olayına ne ad verilir?",
+        "option_a":  "Vaka-i Vakvakiye",
+        "option_b":  "Vaka-yı Hayriye",
+        "option_c":  "Edirne Vakası",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Padişahın kendi gücünün üstünde kanun gücünü ilk kez kabul ettiği ve anayasacılığa geçişin ilk aşaması sayılan ferman hangisidir?",
+        "option_a":  "Islahat Fermanı",
+        "option_b":  "Kanun-i Esasi",
+        "option_c":  "Tanzimat Fermanı",
+        "correct_answer":  "c"
+    }
+]

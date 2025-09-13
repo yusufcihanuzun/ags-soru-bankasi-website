@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Türk tiyatrosunun temelini atan orta oyununu bulan Türk devleti hangisidir?",
+        "option_a":  "Köktürkler",
+        "option_b":  "Kırgızlar",
+        "option_c":  "Uygurlar",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Cengiz Han\u0027a itaat eden ilk Türk devleti hangisidir?",
+        "option_a":  "Uygurlar",
+        "option_b":  "Kırgızlar",
+        "option_c":  "Karluklar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Gök Tanrı\u0027nın hükümdara verdiği ekonomik güce (pay, hisse) ne denir?",
+        "option_a":  "Kut",
+        "option_b":  "Ülüş",
+        "option_c":  "Küç",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İkili teşkilat sisteminde devletin batı kanadını yöneten kişiye genellikle hangi unvan verilirdi?",
+        "option_a":  "Kağan",
+        "option_b":  "Yabgu",
+        "option_c":  "Tigin",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hükümdar oğlunu (Tigin) eğiten kişiye ne ad verilirdi?",
+        "option_a":  "Şad",
+        "option_b":  "Ataman (İnanç/İnal)",
+        "option_c":  "Tudun",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesinde ayak topuna (futbol) verilen isim nedir?",
+        "option_a":  "Tepük",
+        "option_b":  "Küreş",
+        "option_c":  "Cirit",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde mezarlara ne ad verilirdi?",
+        "option_a":  "Balbal",
+        "option_b":  "Kurgan",
+        "option_c":  "Yuğ",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ergenekon ve Bozkurt destanları hangi Türk devletine aittir?",
+        "option_a":  "Asya Hunları",
+        "option_b":  "Köktürkler",
+        "option_c":  "Uygurlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tarihte atı evcilleştirip bir savaş aracı olarak kullanan ve üzengiyi ilk defa icat eden Türk boyu hangisidir?",
+        "option_a":  "Hunlar",
+        "option_b":  "İskitler (Sakalar)",
+        "option_c":  "Avarlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Tarihteki ilk Türk-Çin antlaşması hangisidir?",
+        "option_a":  "Margus Antlaşması",
+        "option_b":  "Anatolyus Antlaşması",
+        "option_c":  "Kuzey Şansi Antlaşması",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Ordusunda Amazon adı verilen kadın savaşçılar bulunan İskitleri yöneten kadın hükümdar kimdir?",
+        "option_a":  "Tomris Hatun",
+        "option_b":  "Razia Sultan",
+        "option_c":  "Mama Hatun",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Mete Han\u0027ın, Çin\u0027i fethettiği halde ilhak etmeyip sadece vergiye bağlamasının temel sebebi nedir?",
+        "option_a":  "Çin ordusunun gücünden çekinmesi",
+        "option_b":  "Türklerin Çin kültürü içinde asimile olmasını engellemek",
+        "option_c":  "Sasanilerin baskısı yüzünden",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kavimler Göçü\u0027nün sonuçlarından biri olarak Avrupa\u0027da kilisenin güçlenmesiyle ortaya çıkan ve Orta Çağ\u0027a damgasını vuran düşünce sistemi hangisidir?",
+        "option_a":  "Feodalite",
+        "option_b":  "Skolastik Düşünce",
+        "option_c":  "Hümanizm",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Üzengiyi Avrupa\u0027ya taşıyan ve Germen ile Slav halklarını yönetim ve askerlik alanında etkileyen Türk devleti hangisidir?",
+        "option_a":  "Avarlar",
+        "option_b":  "Hunlar",
+        "option_c":  "Peçenekler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Köktürklerin Bizans\u0027a gönderdiği elçi Maniech\u0027e karşılık Bizans\u0027tan gelen elçinin adı nedir?",
+        "option_a":  "Priskos",
+        "option_b":  "Zemarkhos",
+        "option_c":  "Leo",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Hangi Köktürk kağanının Budizm\u0027i benimsemesi, halkı ile arasının açılmasına yol açmıştır?",
+        "option_a":  "Bumin Kağan",
+        "option_b":  "Mukan Kağan",
+        "option_c":  "Tapo Kağan",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Karahanlı Devleti\u0027nin kuruluşunda etkili olan Türk boyu hangisidir?",
+        "option_a":  "Karluklar",
+        "option_b":  "Oğuzlar",
+        "option_c":  "Kıpçaklar",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Güneşin doğduğu yerden battığı yere kadar olan tüm coğrafyayı Türk hükümdarlarının idare etmesi ülküsüne ne ad verilir?",
+        "option_a":  "Nizam-ı Alem",
+        "option_b":  "Türk Cihan Hâkimiyeti",
+        "option_c":  "Kızıl Elma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İslamiyet öncesi Türklerde \u0027düğün\u0027lere ne ad verilirdi?",
+        "option_a":  "Şölen",
+        "option_b":  "Toy",
+        "option_c":  "Törün",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Madencilik sanatının önemli bir eseri olan \u0027Altın Elbiseli Adam\u0027 zırhı hangi devlete aittir?",
+        "option_a":  "Asya Hunları",
+        "option_b":  "İskitler",
+        "option_c":  "Köktürkler",
+        "correct_answer":  "a"
+    }
+]

@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Televizyon, Dale\u0027nin Yaşantı Konisi\u0027nde hangi basamağa daha yakındır?",
+        "option_a":  "Soyut yaşantılar",
+        "option_b":  "Gözlem yoluyla edinilen yaşantılar",
+        "option_c":  "Doğrudan edinilen yaşantılar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir afiş tasarımında en etkili vurgu nasıl yaratılır?",
+        "option_a":  "Küçük ve ince yazılarla",
+        "option_b":  "Büyük, kalın veya zıt renkli öğelerle",
+        "option_c":  "Sadece benzer renkler kullanarak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Materyal tasarımında \u0027simetrik denge\u0027 ne anlama gelir?",
+        "option_a":  "Öğelerin bir eksenin her iki tarafına eşit olarak dağılması",
+        "option_b":  "Öğelerin bir eksenin sadece bir tarafında toplanması",
+        "option_c":  "Öğelerin rastgele dağılması",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "\u0027Asimetrik denge\u0027 nasıl bir etki yaratır?",
+        "option_a":  "Durağan ve resmi",
+        "option_b":  "Dinamik ve modern",
+        "option_c":  "Karmaşık ve düzensiz",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir sunumda yazı rengi ile zemin rengi arasında yeterli kontrast olmaması neye yol açar?",
+        "option_a":  "Okunabilirliğin düşmesine",
+        "option_b":  "Sunumun daha ilgi çekici olmasına",
+        "option_c":  "Mesajın daha hızlı iletilmesine",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Dersin hedeflerine en uygun materyali seçmek için öğretmenin öncelikle neyi analiz etmesi gerekir?",
+        "option_a":  "Okulun teknolojik imkanlarını",
+        "option_b":  "Öğrenci grubunun özelliklerini ve dersin hedeflerini",
+        "option_c":  "Kendi materyal hazırlama becerilerini",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir coğrafya dersinde yeryüzü şekillerini öğretmek için en etkili materyal hangisidir?",
+        "option_a":  "Yazılı bir metin",
+        "option_b":  "Kabartma harita (model)",
+        "option_c":  "Siyasi harita",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi bir \u0027eğitim teknolojisi\u0027 örneğidir?",
+        "option_a":  "Ders sırasında kullanılan bir tepegöz",
+        "option_b":  "Okulun kullandığı öğrenci bilgi sistemi",
+        "option_c":  "Bir konuyu anlatan poster",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Aşağıdakilerden hangisi bir \u0027öğretim teknolojisi\u0027 örneğidir?",
+        "option_a":  "E-okul sistemi",
+        "option_b":  "Okulun web sitesi",
+        "option_c":  "Ders için hazırlanmış bir animasyon",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "İletişim sürecinde mesajın gönderildiği yola ne ad verilir?",
+        "option_a":  "Kaynak",
+        "option_b":  "Dönüt",
+        "option_c":  "Kanal",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir öğretmenin ders anlatırken çok hızlı konuşması, iletişimde ne tür bir engel oluşturur?",
+        "option_a":  "Fiziksel engel",
+        "option_b":  "Kaynak kaynaklı engel",
+        "option_c":  "Alıcı kaynaklı engel",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir öğrencinin dersi dinlemek yerine hayal kurması, iletişimde ne tür bir engele örnektir?",
+        "option_a":  "Psikolojik engel",
+        "option_b":  "Fiziksel engel",
+        "option_c":  "Semantik engel",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Materyal tasarımında \u0027bütünlük\u0027 ilkesi neden önemlidir?",
+        "option_a":  "Materyalin daha karmaşık görünmesini sağlar.",
+        "option_b":  "Öğelerin birbiriyle ilişkili olduğu mesajını verir.",
+        "option_c":  "Renk kullanımını kısıtlar.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir sunumda sadece büyük harf kullanmak neden önerilmez?",
+        "option_a":  "Estetik görünmez.",
+        "option_b":  "Okumayı zorlaştırır ve yavaşlatır.",
+        "option_c":  "Yazım kurallarına aykırıdır.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Gerçek nesnelerin kullanılamayacak kadar büyük, küçük veya tehlikeli olduğu durumlarda ne kullanılır?",
+        "option_a":  "Grafikler",
+        "option_b":  "Modeller",
+        "option_c":  "Resimler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Dale\u0027nin yaşantı konisine göre aşağıdakilerden hangisi diğerlerine göre daha soyuttur?",
+        "option_a":  "Sergi",
+        "option_b":  "Radyo kaydı",
+        "option_c":  "Gezi",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyalde kullanılan çizgi türü, izleyicide farklı duygular uyandırabilir. Hangisi gücü ve kararlılığı temsil eder?",
+        "option_a":  "İnce, eğik çizgiler",
+        "option_b":  "Kalın, dikey çizgiler",
+        "option_c":  "Yatay çizgiler",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir materyalde kullanılan alanın (boşluk) işlevi nedir?",
+        "option_a":  "Dikkati dağıtmak",
+        "option_b":  "Öğeleri ayırmak, dinlendirici bir etki yaratmak",
+        "option_c":  "Maliyetini artırmak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir ders materyalinin en sonunda yer alması gereken bölüm hangisidir?",
+        "option_a":  "Konu özeti",
+        "option_b":  "Değerlendirme soruları",
+        "option_c":  "Kaynakça",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Etkileşimli (akıllı) tahtanın geleneksel tahtalara göre en büyük avantajı nedir?",
+        "option_a":  "Daha ucuz olması",
+        "option_b":  "Daha kolay temizlenmesi",
+        "option_c":  "İnternet erişimi ve multimedya desteği sunması",
+        "correct_answer":  "c"
+    }
+]

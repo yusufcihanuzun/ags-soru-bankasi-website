@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Türkiye’de şehirleşmenin en hızlı olduğu dönem hangisidir?",
+        "option_a":  "1950 sonrası",
+        "option_b":  "1923-1950 arası",
+        "option_c":  "2000 sonrası",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’de şehirleşmeyi hızlandıran en önemli etken nedir?",
+        "option_a":  "Turizm",
+        "option_b":  "Sanayileşme",
+        "option_c":  "Tarım",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’de iç göçlerin en önemli nedeni nedir?",
+        "option_a":  "Ekonomik sebepler",
+        "option_b":  "Siyasi sebepler",
+        "option_c":  "Depremler",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’de dış göçlerin en fazla olduğu dönem hangisidir?",
+        "option_a":  "1960 sonrası",
+        "option_b":  "1923-1930 arası",
+        "option_c":  "2000 sonrası",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’den en fazla işçi göçü hangi ülkeye olmuştur?",
+        "option_a":  "ABD",
+        "option_b":  "Almanya",
+        "option_c":  "Fransa",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’ye en fazla göç hangi ülkeden gelmektedir?",
+        "option_a":  "Suriye",
+        "option_b":  "Irak",
+        "option_c":  "Yunanistan",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’de nüfus artış hızının en yüksek olduğu bölge hangisidir?",
+        "option_a":  "Doğu Anadolu",
+        "option_b":  "Güneydoğu Anadolu",
+        "option_c":  "Marmara",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’de nüfus artış hızının en düşük olduğu bölge hangisidir?",
+        "option_a":  "Ege",
+        "option_b":  "Doğu Anadolu",
+        "option_c":  "İç Anadolu",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’nin en kalabalık şehri hangisidir?",
+        "option_a":  "İzmir",
+        "option_b":  "İstanbul",
+        "option_c":  "Ankara",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Türkiye’nin nüfus bakımından en küçük ili hangisidir?",
+        "option_a":  "Bayburt",
+        "option_b":  "Tunceli",
+        "option_c":  "Ardahan",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’de nüfus yoğunluğu en fazla olan il hangisidir?",
+        "option_a":  "Kocaeli",
+        "option_b":  "Bursa",
+        "option_c":  "İstanbul",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye’de nüfus yoğunluğu en az olan il hangisidir?",
+        "option_a":  "Tunceli",
+        "option_b":  "Bayburt",
+        "option_c":  "Ardahan",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’nin doğurganlık oranı en yüksek bölgesi hangisidir?",
+        "option_a":  "Güneydoğu Anadolu",
+        "option_b":  "Ege",
+        "option_c":  "Marmara",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Türkiye’nin doğurganlık oranı en düşük bölgesi hangisidir?",
+        "option_a":  "İç Anadolu",
+        "option_b":  "Ege",
+        "option_c":  "Marmara",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Türkiye’de kadın nüfusunun erkek nüfusundan fazla olmasının en önemli sebebi nedir?",
+        "option_a":  "Erkeklerin savaşlarda daha çok kayıp vermesi",
+        "option_b":  "Kadınların doğum yapması",
+        "option_c":  "Erkeklerin dış göçlere daha fazla katılması",
+        "correct_answer":  "c"
+    }
+]

@@ -1,0 +1,107 @@
+﻿[
+    {
+        "question_text":  "Vakıflar tarafından kurulan yükseköğretim kurumları (vakıf üniversiteleri) hangi statüye tabidir?",
+        "option_a":  "Özel işletme statüsüne",
+        "option_b":  "Devlet üniversitelerine tanınan mali kolaylıklara",
+        "option_c":  "Devlet üniversiteleri için geçerli Anayasal hükümlere",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kamu kurumu niteliğindeki meslek kuruluşlarının amaçları arasında hangisi yer almaz?",
+        "option_a":  "Meslek mensuplarının müşterek ihtiyaçlarını karşılamak",
+        "option_b":  "Siyasi faaliyette bulunmak",
+        "option_c":  "Meslek disiplinini ve ahlakını korumak",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Kamu kurumu niteliğindeki meslek kuruluşlarının üst kuruluşlarının organları kim tarafından görevden alınabilir?",
+        "option_a":  "Mahkeme kararıyla",
+        "option_b":  "İçişleri Bakanı kararıyla",
+        "option_c":  "Cumhurbaşkanı kararıyla",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Diyanet İşleri Başkanlığı görevlerini hangi temel ilke doğrultusunda yürütür?",
+        "option_a":  "Milliyetçilik",
+        "option_b":  "Laiklik",
+        "option_c":  "Devletçilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Memurlara verilen uyarma ve kınama cezalarına karşı yargı yolunu açan Anayasa değişikliği hangi yılda yapılmıştır?",
+        "option_a":  "2004",
+        "option_b":  "2017",
+        "option_c":  "2010",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Merkezi idare, mahalli idarelerin hangi işlemleri üzerinde vesayet denetimi yetkisine sahiptir?",
+        "option_a":  "Sadece mali işlemleri",
+        "option_b":  "Sadece aldığı kararlar",
+        "option_c":  "Eylem ve işlemleri ile kararları",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "\u0027Yetki genişliği\u0027 ilkesi hangi idari birim için geçerlidir ve bu yetkiyi kim kullanır?",
+        "option_a":  "Belediye için - Belediye Başkanı",
+        "option_b":  "İl için - Vali",
+        "option_c":  "Bakanlık için - Bakan",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yükseköğretim üst kuruluşlarını kim denetler?",
+        "option_a":  "TBMM",
+        "option_b":  "Sayıştay",
+        "option_c":  "Devlet Denetleme Kurulu",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Anayasa\u0027ya göre, aşağıdakilerden hangisi bir kamu hizmeti görme şekli değildir?",
+        "option_a":  "Vakıf kurmak",
+        "option_b":  "Memurluk ve diğer kamu görevliliği",
+        "option_c":  "Sözleşmeli personel olmak",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "RTÜK üyeleri kimler arasından seçilir?",
+        "option_a":  "Milletvekilleri arasından",
+        "option_b":  "Basın-yayın ve iletişim alanında uzman kişiler arasından",
+        "option_c":  "Hukukçular arasından",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Atatürk Araştırma Merkezi hangi kurumun çatısı altındadır?",
+        "option_a":  "Milli Eğitim Bakanlığı",
+        "option_b":  "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu",
+        "option_c":  "Kültür ve Turizm Bakanlığı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir kanun veya Cumhurbaşkanlığı Kararnamesi olmadan yönetmelik çıkarılabilir mi?",
+        "option_a":  "Evet, idarenin takdir yetkisiyle çıkarılabilir.",
+        "option_b":  "Hayır, mutlaka bir kanun veya kararnameye dayanması gerekir.",
+        "option_c":  "Sadece Cumhurbaşkanı çıkarabilir.",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Mahalli idarelerin organlık sıfatını kaybetmelerine ilişkin denetimi kim yapar?",
+        "option_a":  "İçişleri Bakanlığı",
+        "option_b":  "Yargı",
+        "option_c":  "Valilik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Yükseköğretim Kurulu (YÖK) anayasal olarak nasıl bir organdır?",
+        "option_a":  "Bir bakanlık",
+        "option_b":  "Bir yüksek mahkeme",
+        "option_c":  "Bir kamu tüzel kişiliği",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Kamu kurumu niteliğindeki meslek kuruluşlarının zorunlu organları ne ile gösterilir?",
+        "option_a":  "Anayasa",
+        "option_b":  "Kanun",
+        "option_c":  "Yönetmelik",
+        "correct_answer":  "b"
+    }
+]

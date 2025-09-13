@@ -1,0 +1,142 @@
+﻿[
+    {
+        "question_text":  "Erikson\u0027un psikososyal gelişim kuramına göre, bebeklik döneminde (0-1 yaş) başarıyla atlatılması gereken temel kriz hangisidir?",
+        "option_a":  "Özerkliğe Karşı Kuşku ve Utanç",
+        "option_b":  "Temel Güvene Karşı Güvensizlik",
+        "option_c":  "Girişimciliğe Karşı Suçluluk",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Ergenlik döneminde bireyin \u0027Ben kimim?\u0027 sorusuna yanıt aradığı ve başarıyla çözmesi gereken psikososyal kriz hangisidir?",
+        "option_a":  "Yakınlığa Karşı Yalıtılmışlık",
+        "option_b":  "Kimlik Kazanmaya Karşı Rol Karmaşası",
+        "option_c":  "Üretkenliğe Karşı Durgunluk",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Maslow\u0027un ihtiyaçlar hiyerarşisine göre, en temel ve öncelikli olan ihtiyaç basamağı hangisidir?",
+        "option_a":  "Güvenlik İhtiyacı",
+        "option_b":  "Fizyolojik İhtiyaçlar",
+        "option_c":  "Ait Olma ve Sevgi İhtiyacı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireyin potansiyelini tam olarak ortaya koyma ve olabileceği en iyi kişi olma arzusunu ifade eden Maslow\u0027un hiyerarşisindeki en üst basamak hangisidir?",
+        "option_a":  "Saygı İhtiyacı",
+        "option_b":  "Kendini Gerçekleştirme",
+        "option_c":  "Bilişsel İhtiyaçlar",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Pavlov\u0027un deneyindeki zil sesinin, başlangıçta bir anlam ifade etmezken daha sonra tek başına salya salgısına yol açması, zil sesinin ne tür bir uyarıcı haline geldiğini gösterir?",
+        "option_a":  "Nötr Uyarıcı",
+        "option_b":  "Koşullu Uyarıcı",
+        "option_c":  "Koşulsuz Uyarıcı",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir davranışın arkasından gelen ve o davranışın tekrarlanma olasılığını artıran uyarıcıya ne ad verilir?",
+        "option_a":  "Ceza",
+        "option_b":  "Pekiştireç",
+        "option_c":  "Sönme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "İstenmeyen bir davranışın ardından ortama itici bir uyarıcı verilmesi (örn: ödevini yapmayan çocuğa odasını toplatmak) ne tür bir cezadır?",
+        "option_a":  "1. Tip Ceza",
+        "option_b":  "2. Tip Ceza",
+        "option_c":  "Olumsuz Pekiştirme",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "İstenmeyen bir davranışın ardından ortamdan hoşa giden bir uyarıcının çekilmesi (örn: yaramazlık yapan çocuğun tabletini elinden almak) ne tür bir cezadır?",
+        "option_a":  "1. Tip Ceza",
+        "option_b":  "2. Tip Ceza",
+        "option_c":  "Olumlu Pekiştirme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Rehberlik hizmetlerinin merkezinde hangi ilke yer alır?",
+        "option_a":  "Bireye yol gösterme",
+        "option_b":  "Bireyin kendini tanımasına ve gerçekleştirmesine yardım etme",
+        "option_c":  "Bireyin tüm sorunlarını çözme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireyin yeteneklerini, ilgilerini, güçlü ve zayıf yönlerini tanımasına yardımcı olan rehberlik hizmeti hangisidir?",
+        "option_a":  "Bireyi Tanıma",
+        "option_b":  "Yöneltme ve Yerleştirme",
+        "option_c":  "Psikolojik Danışma",
+        "correct_answer":  "a"
+    },
+    {
+        "question_text":  "Öğrencilerin kendilerine uygun bir okul, bölüm, ders veya meslek seçmelerine yardımcı olan rehberlik hizmeti hangisidir?",
+        "option_a":  "Oryantasyon",
+        "option_b":  "Yöneltme ve Yerleştirme",
+        "option_c":  "İzleme",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okula yeni başlayan öğrencilerin okula ve çevresine uyum sağlamalarına yardımcı olmak amacıyla sunulan hizmet hangisidir?",
+        "option_a":  "Danışmanlık",
+        "option_b":  "Oryantasyon",
+        "option_c":  "Sevk",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir konuda uzmanlık gerektiren ve okul rehber öğretmeninin yetkisini aşan durumlarda öğrencinin ilgili bir uzmana (psikiyatrist vb.) yönlendirilmesi hangi hizmet kapsamındadır?",
+        "option_a":  "İzleme",
+        "option_b":  "Sevk (Refere)",
+        "option_c":  "Müşavirlik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Okul rehber öğretmeninin, okuldaki diğer öğretmenlere ve yöneticilere rehberlik anlayışının yaygınlaşması için bilgi vermesi ve onlarla iş birliği yapması hangi hizmettir?",
+        "option_a":  "Araştırma ve Değerlendirme",
+        "option_b":  "Müşavirlik (Konsültasyon)",
+        "option_c":  "Bireyi Tanıma",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bireyin eğitsel, mesleki ve kişisel-sosyal alanlarda gelişimini sağlamaya yönelik olan rehberlik türleri aşağıdakilerden hangisidir?",
+        "option_a":  "İşlevine Göre Rehberlik",
+        "option_b":  "Problem Alanına Göre Rehberlik",
+        "option_c":  "Birey Sayısına Göre Rehberlik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir ölçme aracının, ölçmek istediği özelliği başka değişkenlerle karıştırmadan, doğru ve tam olarak ölçebilme derecesine ne denir?",
+        "option_a":  "Güvenirlik",
+        "option_b":  "Geçerlik",
+        "option_c":  "Kullanışlılık",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir ölçme aracının farklı zamanlarda veya farklı kişiler tarafından uygulandığında tutarlı ve kararlı sonuçlar vermesi hangi özelliğidir?",
+        "option_a":  "Geçerlik",
+        "option_b":  "Güvenirlik",
+        "option_c":  "Objektiflik",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir testin ölçmek istediği konuları ve hedefleri ne derece kapsadığını ve örneklediğini gösteren geçerlik türü hangisidir?",
+        "option_a":  "Yordama Geçerliği",
+        "option_b":  "Yapı Geçerliği",
+        "option_c":  "Kapsam Geçerliği",
+        "correct_answer":  "c"
+    },
+    {
+        "question_text":  "Bir testten alınan puanların, gelecekteki bir performansı veya başarıyı ne kadar doğru tahmin edebildiğini gösteren geçerlik türü hangisidir?",
+        "option_a":  "Görünüş Geçerliği",
+        "option_b":  "Yordama Geçerliği",
+        "option_c":  "Kapsam Geçerliği",
+        "correct_answer":  "b"
+    },
+    {
+        "question_text":  "Bir ölçme aracının hazırlanmasının, uygulanmasının ve puanlanmasının kolay ve ekonomik olması hangi özelliğini ifade eder?",
+        "option_a":  "Güvenirlik",
+        "option_b":  "Geçerlik",
+        "option_c":  "Kullanışlılık",
+        "correct_answer":  "c"
+    }
+]
