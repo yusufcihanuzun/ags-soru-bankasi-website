@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html class="scroll-smooth" lang="tr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Gizlilik Politikası - AGS KPSS YKS YDS Soru Kartları</title>
+    <meta name="description"
+        content="AGS KPSS YKS YDS Soru Kartları uygulaması gizlilik politikası. Kullanıcı verilerinin toplanması, kullanılması ve korunması hakkında bilgi." />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,container-queries"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Fredoka:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        primary: "#6366F1",
+                        secondary: "#14B8A6",
+                        tertiary: "#F97316",
+                        accent: "#8B5CF6",
+                        "soft-pink": "#818CF8",
+                        "soft-blue": "#99F6E4",
+                        "background-light": "#FFF9F2",
+                    },
+                    fontFamily: {
+                        sans: ["Quicksand", "sans-serif"],
+                        display: ["Fredoka", "sans-serif"],
+                    },
+                    borderRadius: {
+                        '3xl': '2rem',
+                        '4xl': '3rem',
+                    },
+                },
+            },
+        };
+    </script>
+    <style type="text/tailwindcss">
+        @layer base {
+        body {
+            @apply selection:bg-primary/30;
+        }
+    }
+    .bubble-bg {
+        background-image: radial-gradient(circle at 10% 20%, rgba(99, 102, 241, 0.05) 0%, transparent 20%),
+                          radial-gradient(circle at 90% 80%, rgba(20, 184, 166, 0.05) 0%, transparent 20%);
+    }
+    .glass-morphism {
+        background: rgba(255, 255, 255, 0.7);
+        backdrop-filter: blur(8px);
+        border: 2px solid rgba(255, 255, 255, 0.5);
+    }
+</style>
+</head>
+
+<body class="font-sans antialiased bg-background-light text-slate-700 bubble-bg">
+
+    <!-- Navbar -->
+    <nav class="sticky top-4 z-50 mx-auto max-w-6xl px-4">
+        <div
+            class="glass-morphism rounded-3xl shadow-xl px-6 py-3 flex justify-between items-center border-2 border-white">
+            <a href="index.html" class="flex items-center gap-2 no-underline">
+                <div class="bg-primary p-2 rounded-2xl rotate-3 shadow-lg">
+                    <span class="material-symbols-outlined text-white font-bold">rocket_launch</span>
+                </div>
+                <span class="font-display font-bold text-lg md:text-xl tracking-tight text-slate-800">AGS KPSS YKS YDS
+                    <span class="text-primary">Soru Kartları</span></span>
+            </a>
+            <a href="index.html"
+                class="bg-gradient-to-r from-primary to-soft-pink text-white px-6 py-2 rounded-2xl font-bold shadow-lg shadow-primary/30 hover:shadow-primary/50 transition-all hover:-translate-y-1 active:scale-95 text-sm md:text-base no-underline">
+                ← Ana Sayfa
+            </a>
+        </div>
+    </nav>
+
+    <!-- Content -->
+    <div class="max-w-4xl mx-auto px-4 pt-24 pb-16">
+
+        <!-- Header -->
+        <div class="text-center mb-12">
+            <div
+                class="inline-block px-4 py-2 rounded-full bg-primary/10 text-primary font-bold text-sm mb-6 border-2 border-primary/20">
+                <span class="material-symbols-outlined text-sm align-middle mr-1">shield</span> Gizliliğin Bizim İçin
+                Önemli
+            </div>
+            <h1 class="font-display text-4xl md:text-5xl font-bold text-slate-900 mb-4">Gizlilik Politikası</h1>
+            <p class="text-lg text-slate-500 font-medium">Verilerinizi nasıl koruduğumuzu öğrenin</p>
+        </div>
+
+        <!-- App Info Card -->
+        <div class="bg-white rounded-4xl shadow-xl p-8 mb-8 border-2 border-primary/10">
+            <div class="grid md:grid-cols-2 gap-6">
+                <div class="flex items-center gap-4">
+                    <div
+                        class="w-14 h-14 bg-primary/10 rounded-2xl flex items-center justify-center text-primary shrink-0">
+                        <span class="material-symbols-outlined text-3xl">apps</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Uygulama</div>
+                        <div class="text-lg font-bold text-slate-800">AGS KPSS YKS YDS Soru Kartları</div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary shrink-0">
+                        <span class="material-symbols-outlined text-3xl">person</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Geliştirici</div>
+                        <div class="text-lg font-bold text-slate-800">217</div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div
+                        class="w-14 h-14 bg-tertiary/10 rounded-2xl flex items-center justify-center text-tertiary shrink-0">
+                        <span class="material-symbols-outlined text-3xl">category</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Kategori</div>
+                        <div class="text-lg font-bold text-slate-800">Eğitim</div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div
+                        class="w-14 h-14 bg-accent/10 rounded-2xl flex items-center justify-center text-accent shrink-0">
+                        <span class="material-symbols-outlined text-3xl">update</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Son Güncelleme</div>
+                        <div class="text-lg font-bold text-slate-800">19 Şubat 2026</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Platform Badges -->
+        <div class="flex flex-wrap gap-4 justify-center mb-12">
+            <div
+                class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <svg class="w-5 h-5 text-secondary" fill="currentColor" viewBox="0 0 24 24">
+                    <path
+                        d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L6.05,21.34L14.54,12.85L16.81,15.12M20.16,10.81C20.5,11.08 20.75,11.5 20.75,12C20.75,12.5 20.53,12.92 20.16,13.19L17.89,14.5L15.39,12L17.89,9.5L20.16,10.81M6.05,2.66L16.81,8.88L14.54,11.15L6.05,2.66Z" />
+                </svg>
+                Google Play Uyumlu
+            </div>
+            <div
+                class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <svg class="w-5 h-5 text-slate-700" fill="currentColor" viewBox="0 0 24 24">
+                    <path
+                        d="M18.71 19.5C17.88 20.74 17 21.95 15.66 21.97C14.32 22 13.89 21.18 12.37 21.18C10.84 21.18 10.37 21.95 9.1 22C7.79 22.05 6.8 20.68 5.96 19.47C4.25 16.56 2.93 11.3 4.7 7.72C5.57 5.94 7.36 4.86 9.28 4.84C10.56 4.82 11.78 5.72 12.57 5.72C13.36 5.72 14.85 4.62 16.4 4.8C17.03 4.83 18.8 5.05 19.96 6.68C19.87 6.74 17.57 8.1 17.6 10.89C17.63 14.22 20.5 15.34 20.53 15.35C20.5 15.42 20.06 16.93 18.71 19.5M13 3.5C13.73 2.67 14.94 2.04 15.94 2C16.07 3.17 15.6 4.35 14.9 5.19C14.21 6.04 13.07 6.7 11.95 6.61C11.8 5.46 12.36 4.26 13 3.5Z" />
+                </svg>
+                App Store Uyumlu
+            </div>
+            <div
+                class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <span class="material-symbols-outlined text-primary text-xl">verified</span>
+                KVKK Uyumlu
+            </div>
+            <div
+                class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <span class="material-symbols-outlined text-accent text-xl">public</span>
+                GDPR Uyumlu
+            </div>
+        </div>
+
+        <!-- Sections -->
+        <div class="space-y-6">
+
+            <!-- 1. Giriş -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
+                        <span class="material-symbols-outlined">info</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">1. Giriş</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    AGS KPSS YKS YDS Soru Kartları ("Uygulama"), 217 ("Geliştirici", "biz") tarafından geliştirilmiştir.
+                    Bu Gizlilik Politikası, uygulamamızı kullanırken kişisel bilgilerinizin nasıl toplandığını,
+                    kullanıldığını, paylaşıldığını ve korunduğunu açıklar. Uygulamamızı kullanarak bu politikayı kabul
+                    etmiş sayılırsınız.
+                </p>
+                <p class="text-slate-600 leading-relaxed mt-3">
+                    Bu politika, Google Play Store ve Apple App Store politikalarına, 6698 sayılı Kişisel Verilerin
+                    Korunması Kanunu'na (KVKK) ve Avrupa Birliği Genel Veri Koruma Tüzüğü'ne (GDPR) uygun olarak
+                    hazırlanmıştır.
+                </p>
+            </div>
+
+            <!-- 2. Topladığımız Veriler -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
+                        <span class="material-symbols-outlined">database</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">2. Topladığımız Veriler</h2>
+                </div>
+
+                <h3 class="font-bold text-slate-700 mt-4 mb-2">2.1 Kullanıcı Tarafından Sağlanan Veriler</h3>
+                <ul class="list-none space-y-2">
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span>
+                        Kullanıcı adı (isteğe bağlı, cihazda saklanır)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> Test
+                        sonuçları ve performans verileri</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span>
+                        Uygulama içi tercihler ve ayarlar</li>
+                </ul>
+
+                <h3 class="font-bold text-slate-700 mt-6 mb-2">2.2 Otomatik Toplanan Veriler</h3>
+                <ul class="list-none space-y-2">
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> Cihaz
+                        bilgileri (model, işletim sistemi sürümü, benzersiz cihaz tanımlayıcıları)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span>
+                        Uygulama performans verileri ve çökme raporları (Firebase Crashlytics)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span>
+                        Uygulama kullanım istatistikleri (Firebase Analytics)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> Reklam
+                        tanımlayıcıları (Google AdMob)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> IP
+                        adresi (anonim hale getirilmiş)</li>
+                </ul>
+
+                <h3 class="font-bold text-slate-700 mt-6 mb-2">2.3 Toplamadığımız Veriler</h3>
+                <div class="bg-secondary/5 rounded-2xl p-4 border border-secondary/10">
+                    <ul class="list-none space-y-2">
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span>
+                            Konum bilgisi toplamıyoruz</li>
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span>
+                            Rehber, kamera veya mikrofon erişimi talep etmiyoruz</li>
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span>
+                            Finansal veya ödeme bilgisi toplamıyoruz</li>
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span>
+                            Hassas kişisel bilgi (sağlık, ırk, din vb.) toplamıyoruz</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 3. Üçüncü Taraf Hizmetler -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">share</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">3. Üçüncü Taraf Hizmetler</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">
+                    Uygulamamız aşağıdaki üçüncü taraf hizmetlerini kullanmaktadır. Bu hizmetlerin kendi gizlilik
+                    politikaları geçerlidir:
+                </p>
+                <div class="grid md:grid-cols-2 gap-4">
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Google AdMob</h4>
+                        <p class="text-sm text-slate-500 mb-2">Reklam gösterimi için kullanılır. Reklam tanımlayıcıları
+                            ve cihaz bilgilerini toplayabilir.</p>
+                        <a href="https://policies.google.com/privacy" target="_blank" rel="noopener"
+                            class="text-sm text-primary font-bold hover:underline">Google Gizlilik Politikası →</a>
+                    </div>
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Firebase Analytics</h4>
+                        <p class="text-sm text-slate-500 mb-2">Uygulama kullanım istatistikleri ve performans ölçümü
+                            için kullanılır.</p>
+                        <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener"
+                            class="text-sm text-primary font-bold hover:underline">Firebase Gizlilik Politikası →</a>
+                    </div>
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Firebase Crashlytics</h4>
+                        <p class="text-sm text-slate-500 mb-2">Uygulama çökme raporları ve hata takibi için kullanılır.
+                        </p>
+                        <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener"
+                            class="text-sm text-primary font-bold hover:underline">Firebase Gizlilik Politikası →</a>
+                    </div>
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Google Play Hizmetleri</h4>
+                        <p class="text-sm text-slate-500 mb-2">Uygulama dağıtımı ve güncelleme hizmetleri için
+                            kullanılır.</p>
+                        <a href="https://policies.google.com/privacy" target="_blank" rel="noopener"
+                            class="text-sm text-primary font-bold hover:underline">Google Gizlilik Politikası →</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4. Verilerin Kullanım Amacı -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
+                        <span class="material-symbols-outlined">target</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">4. Verilerin Kullanım Amacı</h2>
+                </div>
+                <ul class="list-none space-y-3">
+                    <li class="flex items-start gap-3 text-slate-600"><span
+                            class="w-8 h-8 bg-primary/10 rounded-lg flex items-center justify-center text-primary shrink-0"><span
+                                class="material-symbols-outlined text-sm">school</span></span> Eğitim hizmeti sağlama,
+                        soru kartı ve test sunma</li>
+                    <li class="flex items-start gap-3 text-slate-600"><span
+                            class="w-8 h-8 bg-secondary/10 rounded-lg flex items-center justify-center text-secondary shrink-0"><span
+                                class="material-symbols-outlined text-sm">analytics</span></span> Kişiselleştirilmiş
+                        ilerleme ve başarı istatistikleri sunma</li>
+                    <li class="flex items-start gap-3 text-slate-600"><span
+                            class="w-8 h-8 bg-tertiary/10 rounded-lg flex items-center justify-center text-tertiary shrink-0"><span
+                                class="material-symbols-outlined text-sm">build</span></span> Uygulama performansını
+                        iyileştirme ve hataları düzeltme</li>
+                    <li class="flex items-start gap-3 text-slate-600"><span
+                            class="w-8 h-8 bg-accent/10 rounded-lg flex items-center justify-center text-accent shrink-0"><span
+                                class="material-symbols-outlined text-sm">ads_click</span></span> Google AdMob
+                        aracılığıyla reklam gösterimi</li>
+                </ul>
+            </div>
+
+            <!-- 5. Veri Saklama ve Güvenlik -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
+                        <span class="material-symbols-outlined">lock</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">5. Veri Saklama ve Güvenlik</h2>
+                </div>
+                <div class="space-y-4">
+                    <div class="bg-primary/5 rounded-2xl p-5 border border-primary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">📱 Yerel Depolama</h4>
+                        <p class="text-slate-600 text-sm">Kullanıcı verileriniz (test sonuçları, ilerleme, tercihler)
+                            cihazınızda yerel olarak SQLite veritabanında saklanır. Bu veriler sunucularımıza
+                            gönderilmez.</p>
+                    </div>
+                    <div class="bg-secondary/5 rounded-2xl p-5 border border-secondary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">🔒 Veri Güvenliği</h4>
+                        <p class="text-slate-600 text-sm">Verileriniz cihazınızda güvenli bir şekilde depolanır. Üçüncü
+                            taraf hizmetler ile paylaşılan veriler şifreli bağlantılar (HTTPS/TLS) üzerinden iletilir.
+                        </p>
+                    </div>
+                    <div class="bg-tertiary/5 rounded-2xl p-5 border border-tertiary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">🗑️ Veri Silme</h4>
+                        <p class="text-slate-600 text-sm">Uygulamayı cihazınızdan kaldırdığınızda yerel olarak saklanan
+                            tüm verileriniz kalıcı olarak silinir. Uygulama içinden de test geçmişinizi ve verilerinizi
+                            silebilirsiniz.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 6. Kullanıcı Hakları -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
+                        <span class="material-symbols-outlined">gavel</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">6. Kullanıcı Hakları (KVKK & GDPR)</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">
+                    KVKK madde 11 ve GDPR kapsamında aşağıdaki haklara sahipsiniz:
+                </p>
+                <div class="grid md:grid-cols-2 gap-3">
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3">
+                        <span class="text-secondary font-bold">✓</span> Kişisel verilerinizin işlenip işlenmediğini
+                        öğrenme
+                    </div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3">
+                        <span class="text-secondary font-bold">✓</span> İşlenmişse buna ilişkin bilgi talep etme
+                    </div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3">
+                        <span class="text-secondary font-bold">✓</span> Verilerin amacına uygun kullanılıp
+                        kullanılmadığını öğrenme
+                    </div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3">
+                        <span class="text-secondary font-bold">✓</span> Verilerin düzeltilmesini veya silinmesini isteme
+                    </div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3">
+                        <span class="text-secondary font-bold">✓</span> İşlemenin kısıtlanmasını talep etme
+                    </div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3">
+                        <span class="text-secondary font-bold">✓</span> Veri taşınabilirliği hakkı
+                    </div>
+                </div>
+            </div>
+
+            <!-- 7. Çocukların Gizliliği -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">child_care</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">7. Çocukların Gizliliği</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    Uygulamamız öncelikli olarak 18 yaş ve üzeri kullanıcılar için tasarlanmıştır. 13 yaş altındaki
+                    çocuklardan bilerek kişisel bilgi toplamıyoruz. 13-18 yaş arası kullanıcılar, ebeveyn veya vasi
+                    onayı ile uygulamayı kullanabilir. COPPA (Children's Online Privacy Protection Act) ve ilgili
+                    uluslararası düzenlemelere uygunluk sağlıyoruz. Bir çocuğun izin olmadan bize kişisel bilgi
+                    sağladığını fark ederseniz, lütfen bizimle iletişime geçin.
+                </p>
+            </div>
+
+            <!-- 8. Reklam -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
+                        <span class="material-symbols-outlined">ads_click</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">8. Reklamlar ve Çerezler</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">
+                    Uygulamamız Google AdMob aracılığıyla reklam göstermektedir. AdMob, kişiselleştirilmiş reklam
+                    göstermek için reklam tanımlayıcıları ve çerezler kullanabilir.
+                </p>
+                <div class="bg-accent/5 rounded-2xl p-5 border border-accent/10">
+                    <h4 class="font-bold text-slate-800 mb-2">Reklam Tercihlerinizi Yönetin</h4>
+                    <ul class="list-none space-y-2 text-sm text-slate-600">
+                        <li class="flex items-start gap-2"><span class="text-accent">•</span> <strong>Android:</strong>
+                            Ayarlar → Google → Reklamlar → Reklam kimliğini sıfırla / Kişiselleştirilmiş reklamları
+                            kapat</li>
+                        <li class="flex items-start gap-2"><span class="text-accent">•</span> <strong>iOS:</strong>
+                            Ayarlar → Gizlilik ve Güvenlik → İzleme → Uygulamaların İzleme İsteklerine İzin Ver
+                            seçeneğini kapatın</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 9. Veri Paylaşımı -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
+                        <span class="material-symbols-outlined">swap_horiz</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">9. Veri Paylaşımı ve Aktarımı</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">Kişisel bilgilerinizi satmayız, kiralamayız veya
+                    pazarlama amacıyla üçüncü taraflarla paylaşmayız. Veriler yalnızca şu durumlarda paylaşılabilir:</p>
+                <ul class="list-none space-y-2">
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-primary mt-1">•</span> Yukarıda
+                        belirtilen üçüncü taraf hizmet sağlayıcılarla (Google) işlevsellik amacıyla</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-primary mt-1">•</span> Yasal
+                        zorunluluk durumlarında (mahkeme kararı, yasal süreç)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-primary mt-1">•</span>
+                        Kullanıcının açık rızası olması halinde</li>
+                </ul>
+            </div>
+
+            <!-- 10. Uluslararası Veri Aktarımı -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
+                        <span class="material-symbols-outlined">public</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">10. Uluslararası Veri Aktarımı</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    Google hizmetleri (AdMob, Firebase) aracılığıyla toplanan anonim veriler, Türkiye dışındaki
+                    sunucularda işlenebilir. Google, bu aktarımlar için uygun güvenlik önlemlerini sağlamaktadır.
+                    Detaylı bilgi için <a href="https://policies.google.com/privacy" target="_blank" rel="noopener"
+                        class="text-primary font-bold hover:underline">Google Gizlilik Politikası</a>'nı
+                    inceleyebilirsiniz.
+                </p>
+            </div>
+
+            <!-- 11. Politika Değişiklikleri -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">edit_note</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">11. Politika Değişiklikleri</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler uygulama içi bildirim
+                    ve/veya bu sayfa üzerinden duyurulacaktır. Güncellemeler yayınlandıktan sonra uygulamayı kullanmaya
+                    devam etmeniz, değişiklikleri kabul ettiğiniz anlamına gelir. Politikayı düzenli olarak kontrol
+                    etmenizi öneririz.
+                </p>
+            </div>
+
+            <!-- 12. İletişim -->
+            <div class="bg-gradient-to-br from-primary to-accent rounded-3xl shadow-xl p-8 text-white">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-white/20 rounded-xl flex items-center justify-center">
+                        <span class="material-symbols-outlined">mail</span>
+                    </div>
+                    <h2 class="text-xl font-bold">12. İletişim</h2>
+                </div>
+                <p class="text-white/90 leading-relaxed mb-6">
+                    Gizlilik politikamız hakkında sorularınız, veri talepleriniz veya geri bildirimleriniz için bizimle
+                    iletişime geçebilirsiniz:
+                </p>
+                <div class="space-y-3">
+                    <div class="flex items-center gap-3 bg-white/10 rounded-2xl px-5 py-3">
+                        <span class="material-symbols-outlined">mail</span>
+                        <div>
+                            <div class="text-white/70 text-sm font-bold">E-posta</div>
+                            <a href="mailto:yusufcihanuzun@gmail.com"
+                                class="text-white font-bold hover:underline">yusufcihanuzun@gmail.com</a>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-3 bg-white/10 rounded-2xl px-5 py-3">
+                        <span class="material-symbols-outlined">person</span>
+                        <div>
+                            <div class="text-white/70 text-sm font-bold">Geliştirici</div>
+                            <span class="text-white font-bold">217</span>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-3 bg-white/10 rounded-2xl px-5 py-3">
+                        <span class="material-symbols-outlined">store</span>
+                        <div>
+                            <div class="text-white/70 text-sm font-bold">Google Play</div>
+                            <a href="https://play.google.com/store/apps/details?id=com.agsapp.quiz&hl=tr"
+                                target="_blank" rel="noopener" class="text-white font-bold hover:underline">AGS KPSS YKS
+                                YDS Soru Kartları</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 13. Yasal Uyumluluk -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
+                        <span class="material-symbols-outlined">verified</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">13. Yasal Uyumluluk</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-3">Bu uygulama ve gizlilik politikası aşağıdaki
+                    düzenlemelere uygun olarak hazırlanmıştır:</p>
+                <div class="grid md:grid-cols-2 gap-3">
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🇹🇷 KVKK</span>
+                        <p class="text-sm text-slate-500 mt-1">6698 sayılı Kişisel Verilerin Korunması Kanunu</p>
+                    </div>
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🇪🇺 GDPR</span>
+                        <p class="text-sm text-slate-500 mt-1">Avrupa Birliği Genel Veri Koruma Tüzüğü</p>
+                    </div>
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🤖 Google Play</span>
+                        <p class="text-sm text-slate-500 mt-1">Google Play Geliştirici Politikaları</p>
+                    </div>
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🍎 App Store</span>
+                        <p class="text-sm text-slate-500 mt-1">Apple App Store İnceleme Yönergeleri</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Footer Note -->
+        <div class="text-center mt-12 text-slate-400 text-sm font-medium">
+            <p>Bu gizlilik politikası AGS KPSS YKS YDS Soru Kartları uygulaması için hazırlanmıştır.</p>
+            <p>Son güncelleme: 19 Şubat 2026 • Bu uygulama resmi kurumlarla bağlantılı değildir.</p>
+        </div>
+    </div>
+
+</body>
+
+</html>
