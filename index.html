@@ -158,6 +158,15 @@
                     başarıyı oyun gibi yakala!
                 </p>
                 <div class="flex flex-col sm:flex-row justify-center lg:justify-start gap-6">
+                    <!-- Hero Smart Button (Mobile Only) -->
+                    <a id="smartHeroBtn"
+                        class="md:hidden group relative px-10 py-5 bg-gradient-to-r from-primary to-accent text-white font-bold text-xl rounded-3xl shadow-2xl shadow-primary/40 transition-all hover:scale-105 active:scale-95"
+                        href="#">
+                        <span class="flex items-center gap-2">
+                            <span class="material-symbols-outlined font-bold">download</span>
+                            Hemen İndir!
+                        </span>
+                    </a>
                     <a class="group relative px-10 py-5 bg-primary text-white font-bold text-xl rounded-3xl shadow-2xl shadow-primary/40 transition-all hover:scale-105 active:scale-95"
                         href="#indir">
                         <span class="flex items-center gap-2">
@@ -625,11 +634,18 @@
         });
 
         // Update link immediately
-        const os = getOS();
-        const btn = document.getElementById('smartDownloadBtn');
-        if (os === 'iOS') btn.href = APP_STORE_URL;
-        else if (os === 'Android') btn.href = GOOGLE_PLAY_URL;
-        else btn.href = "#indir";
+        function initSmartLinks() {
+            const os = getOS();
+            const floatingBtn = document.getElementById('smartDownloadBtn');
+            const heroBtn = document.getElementById('smartHeroBtn');
+
+            const targetUrl = os === 'iOS' ? APP_STORE_URL : (os === 'Android' ? GOOGLE_PLAY_URL : "#indir");
+
+            if (floatingBtn) floatingBtn.href = targetUrl;
+            if (heroBtn) heroBtn.href = targetUrl;
+        }
+
+        initSmartLinks();
     </script>
 </body>
 
