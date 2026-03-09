@@ -79,6 +79,16 @@
         gap: 24px;
     }
     .mobile-menu.active { display: flex; }
+    /* Smart Download Button */
+    .smart-download-btn {
+        @apply fixed bottom-6 left-1/2 -translate-x-1/2 z-[60] md:hidden
+               bg-gradient-to-r from-primary to-accent text-white px-8 py-4 
+               rounded-full font-bold shadow-2xl shadow-primary/40 
+               flex items-center gap-3 scale-0 transition-all duration-500;
+    }
+    .smart-download-btn.show {
+        @apply scale-100;
+    }
 </style>
 </head>
 
@@ -555,10 +565,71 @@
         </div>
     </footer>
 
+    <!-- Smart Floating Button -->
+    <a id="smartDownloadBtn" href="#" class="smart-download-btn">
+        <span class="material-symbols-outlined font-bold">download</span>
+        <span>Hemen Ücretsiz İndir!</span>
+    </a>
+
     <script>
+        const GOOGLE_PLAY_URL = "https://play.google.com/store/apps/details?id=com.agsapp.quiz&hl=tr";
+        const APP_STORE_URL = "https://apps.apple.com/tr/app/ags-kpss-yks-yds-soru-kartlar%C4%B1/id6759535690?l=tr";
+
+        function getOS() {
+            const userAgent = window.navigator.userAgent;
+            const platform = window.navigator.platform;
+            const macosPlatforms = ['Macintosh', 'MacIntel', 'MacPPC', 'Mac68K'];
+            const windowsPlatforms = ['Win32', 'Win64', 'Windows', 'WinCE'];
+            const iosPlatforms = ['iPhone', 'iPad', 'iPod'];
+
+            if (macosPlatforms.indexOf(platform) !== -1) return 'Mac OS';
+            if (iosPlatforms.indexOf(platform) !== -1) return 'iOS';
+            if (windowsPlatforms.indexOf(platform) !== -1) return 'Windows';
+            if (/Android/.test(userAgent)) return 'Android';
+            if (!platform && /Linux/.test(userAgent)) return 'Linux';
+
+            return 'unknown';
+        }
+
+        function updateSmartButton() {
+            const btn = document.getElementById('smartDownloadBtn');
+            const os = getOS();
+
+            if (os === 'iOS') {
+                btn.href = APP_STORE_URL;
+            } else if (os === 'Android') {
+                btn.href = GOOGLE_PLAY_URL;
+            } else {
+                // Desktop or unknown: scroll to download section
+                btn.href = "#indir";
+            }
+
+            // Show button after a small delay
+            setTimeout(() => {
+                btn.classList.add('show');
+            }, 1000);
+        }
+
         function toggleMenu() {
             document.getElementById('mobileMenu').classList.toggle('active');
         }
+
+        // Initialize on load
+        window.addEventListener('scroll', () => {
+            const btn = document.getElementById('smartDownloadBtn');
+            if (window.scrollY > 300) {
+                btn.classList.add('show');
+            } else {
+                btn.classList.remove('show');
+            }
+        });
+
+        // Update link immediately
+        const os = getOS();
+        const btn = document.getElementById('smartDownloadBtn');
+        if (os === 'iOS') btn.href = APP_STORE_URL;
+        else if (os === 'Android') btn.href = GOOGLE_PLAY_URL;
+        else btn.href = "#indir";
     </script>
 </body>
 
