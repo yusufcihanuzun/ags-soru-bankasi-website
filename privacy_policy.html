@@ -78,8 +78,33 @@
         </div>
     </nav>
 
-    <!-- Content -->
-    <div class="max-w-4xl mx-auto px-4 pt-24 pb-16">
+    
+    <!-- Language Toggle Script -->
+    <script>
+        function toggleLang() {
+            const tr = document.getElementById('content-tr');
+            const en = document.getElementById('content-en');
+            const btn = document.getElementById('lang-btn');
+            if (tr.style.display === 'none') {
+                tr.style.display = 'block';
+                en.style.display = 'none';
+                btn.innerHTML = '🇬🇧 Switch to English';
+            } else {
+                tr.style.display = 'none';
+                en.style.display = 'block';
+                btn.innerHTML = '🇹🇷 Türkçeye Geç';
+            }
+        }
+    </script>
+
+    <!-- Language Toggle Button -->
+    <div class="max-w-4xl mx-auto px-4 pt-20 pb-2 flex justify-end">
+        <button id="lang-btn" onclick="toggleLang()" class="bg-white/80 backdrop-blur-md px-6 py-2 rounded-2xl shadow-lg border-2 border-primary/20 font-bold text-sm text-primary hover:bg-primary hover:text-white transition-all cursor-pointer">
+            🇬🇧 Switch to English
+        </button>
+    </div>
+<!-- Content -->
+    <div id="content-tr" class="max-w-4xl mx-auto px-4 pb-16">
 
         <!-- Header -->
         <div class="text-center mb-12">
@@ -316,14 +341,39 @@
                 </ul>
             </div>
 
-            <!-- 5. Veri Saklama ve Güvenlik -->
+            <!-- 5. Uygulama İçi Satın Alımlar ve Abonelikler -->
+            <div
+                class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">payments</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">5. Uygulama İçi Satın Alımlar ve Abonelikler</h2>
+                </div>
+                <div class="space-y-4">
+                    <p class="text-slate-600 leading-relaxed mb-4">
+                        Uygulamamız Premium özellikler sunmak için otomatik yenilenen abonelikler (Aylık/Yıllık) veya
+                        tek seferlik satın alım seçenekleri sunabilir.
+                    </p>
+                    <div class="bg-tertiary/5 rounded-2xl p-5 border border-tertiary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">💳 Ödeme İşlemleri</h4>
+                        <p class="text-slate-600 text-sm">
+                            Tüm finansal işlemler ve ödeme altyapısı kullandığınız platforma (Apple App Store veya
+                            Google Play Store) aittir. <b>Hiçbir kredi kartı veya ödeme bilginizi cihazımızda veya
+                                sunucularımızda toplamıyoruz ve saklamıyoruz.</b>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 6. Veri Saklama ve Güvenlik -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
                         <span class="material-symbols-outlined">lock</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">5. Veri Saklama ve Güvenlik</h2>
+                    <h2 class="text-xl font-bold text-slate-800">6. Veri Saklama ve Güvenlik</h2>
                 </div>
                 <div class="space-y-4">
                     <div class="bg-primary/5 rounded-2xl p-5 border border-primary/10">
@@ -347,14 +397,14 @@
                 </div>
             </div>
 
-            <!-- 6. Kullanıcı Hakları -->
+            <!-- 7. Kullanıcı Hakları -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
                         <span class="material-symbols-outlined">gavel</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">6. Kullanıcı Hakları (KVKK & GDPR)</h2>
+                    <h2 class="text-xl font-bold text-slate-800">7. Kullanıcı Hakları (KVKK & GDPR)</h2>
                 </div>
                 <p class="text-slate-600 leading-relaxed mb-4">
                     KVKK madde 11 ve GDPR kapsamında aşağıdaki haklara sahipsiniz:
@@ -383,14 +433,14 @@
                 </div>
             </div>
 
-            <!-- 7. Çocukların Gizliliği -->
+            <!-- 8. Çocukların Gizliliği -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
                         <span class="material-symbols-outlined">child_care</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">7. Çocukların Gizliliği</h2>
+                    <h2 class="text-xl font-bold text-slate-800">8. Çocukların Gizliliği</h2>
                 </div>
                 <p class="text-slate-600 leading-relaxed">
                     Uygulamamız öncelikli olarak 18 yaş ve üzeri kullanıcılar için tasarlanmıştır. 13 yaş altındaki
@@ -401,18 +451,20 @@
                 </p>
             </div>
 
-            <!-- 8. Reklam -->
+            <!-- 9. Reklam -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
                         <span class="material-symbols-outlined">ads_click</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">8. Reklamlar ve Çerezler</h2>
+                    <h2 class="text-xl font-bold text-slate-800">9. Reklamlar ve Çerezler</h2>
                 </div>
                 <p class="text-slate-600 leading-relaxed mb-4">
                     Uygulamamız Google AdMob aracılığıyla reklam göstermektedir. AdMob, kişiselleştirilmiş reklam
-                    göstermek için reklam tanımlayıcıları ve çerezler kullanabilir.
+                    göstermek için reklam tanımlayıcıları ve çerezler kullanabilir. <b>Apple (iOS) cihazlarda, izin
+                        vermeniz durumunda Uygulama Takip Şeffaflığı (App Tracking Transparency) kapsamında size daha
+                        ilgi çekici reklamlar sunmak için cihaz tanımlayıcılarınızı kullanabiliriz.</b>
                 </p>
                 <div class="bg-accent/5 rounded-2xl p-5 border border-accent/10">
                     <h4 class="font-bold text-slate-800 mb-2">Reklam Tercihlerinizi Yönetin</h4>
@@ -421,20 +473,20 @@
                             Ayarlar → Google → Reklamlar → Reklam kimliğini sıfırla / Kişiselleştirilmiş reklamları
                             kapat</li>
                         <li class="flex items-start gap-2"><span class="text-accent">•</span> <strong>iOS:</strong>
-                            Ayarlar → Gizlilik ve Güvenlik → İzleme → Uygulamaların İzleme İsteklerine İzin Ver
-                            seçeneğini kapatın</li>
+                            Ayarlar → Gizlilik ve Güvenlik → Takip Etme / İzleme → Uygulamaların Takip İsteğinde
+                            Bulunmasına İzin Ver seçeneğini kapatın veya uygulamaya özel izninizi geri çekin.</li>
                     </ul>
                 </div>
             </div>
 
-            <!-- 9. Veri Paylaşımı -->
+            <!-- 10. Veri Paylaşımı -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
                         <span class="material-symbols-outlined">swap_horiz</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">9. Veri Paylaşımı ve Aktarımı</h2>
+                    <h2 class="text-xl font-bold text-slate-800">10. Veri Paylaşımı ve Aktarımı</h2>
                 </div>
                 <p class="text-slate-600 leading-relaxed mb-4">Kişisel bilgilerinizi satmayız, kiralamayız veya
                     pazarlama amacıyla üçüncü taraflarla paylaşmayız. Veriler yalnızca şu durumlarda paylaşılabilir:</p>
@@ -448,14 +500,14 @@
                 </ul>
             </div>
 
-            <!-- 10. Uluslararası Veri Aktarımı -->
+            <!-- 11. Uluslararası Veri Aktarımı -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
                         <span class="material-symbols-outlined">public</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">10. Uluslararası Veri Aktarımı</h2>
+                    <h2 class="text-xl font-bold text-slate-800">11. Uluslararası Veri Aktarımı</h2>
                 </div>
                 <p class="text-slate-600 leading-relaxed">
                     Google hizmetleri (AdMob, Firebase) aracılığıyla toplanan anonim veriler, Türkiye dışındaki
@@ -466,14 +518,14 @@
                 </p>
             </div>
 
-            <!-- 11. Politika Değişiklikleri -->
+            <!-- 12. Politika Değişiklikleri -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
                         <span class="material-symbols-outlined">edit_note</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">11. Politika Değişiklikleri</h2>
+                    <h2 class="text-xl font-bold text-slate-800">12. Politika Değişiklikleri</h2>
                 </div>
                 <p class="text-slate-600 leading-relaxed">
                     Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler uygulama içi bildirim
@@ -483,13 +535,13 @@
                 </p>
             </div>
 
-            <!-- 12. İletişim -->
+            <!-- 13. İletişim -->
             <div class="bg-gradient-to-br from-primary to-accent rounded-3xl shadow-xl p-8 text-white">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-white/20 rounded-xl flex items-center justify-center">
                         <span class="material-symbols-outlined">mail</span>
                     </div>
-                    <h2 class="text-xl font-bold">12. İletişim</h2>
+                    <h2 class="text-xl font-bold">13. İletişim</h2>
                 </div>
                 <p class="text-white/90 leading-relaxed mb-6">
                     Gizlilik politikamız hakkında sorularınız, veri talepleriniz veya geri bildirimleriniz için bizimle
@@ -523,14 +575,14 @@
                 </div>
             </div>
 
-            <!-- 13. Yasal Uyumluluk -->
+            <!-- 14. Yasal Uyumluluk -->
             <div
                 class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
                 <div class="flex items-center gap-3 mb-4">
                     <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
                         <span class="material-symbols-outlined">verified</span>
                     </div>
-                    <h2 class="text-xl font-bold text-slate-800">13. Yasal Uyumluluk</h2>
+                    <h2 class="text-xl font-bold text-slate-800">14. Yasal Uyumluluk</h2>
                 </div>
                 <p class="text-slate-600 leading-relaxed mb-3">Bu uygulama ve gizlilik politikası aşağıdaki
                     düzenlemelere uygun olarak hazırlanmıştır:</p>
@@ -563,6 +615,395 @@
         </div>
     </div>
 
+
+    <!-- Content EN -->
+    <div id="content-en" class="max-w-4xl mx-auto px-4 pb-16" style="display: none;">
+        <!-- Header -->
+        <div class="text-center mb-12">
+            <div class="inline-block px-4 py-2 rounded-full bg-primary/10 text-primary font-bold text-sm mb-6 border-2 border-primary/20">
+                <span class="material-symbols-outlined text-sm align-middle mr-1">shield</span> Your Privacy Matters
+            </div>
+            <h1 class="font-display text-4xl md:text-5xl font-bold text-slate-900 mb-4">Privacy Policy</h1>
+            <p class="text-lg text-slate-500 font-medium">Learn how we protect your data</p>
+        </div>
+
+        <!-- App Info Card -->
+        <div class="bg-white rounded-4xl shadow-xl p-8 mb-8 border-2 border-primary/10">
+            <div class="grid md:grid-cols-2 gap-6">
+                <div class="flex items-center gap-4">
+                    <div class="w-14 h-14 bg-primary/10 rounded-2xl flex items-center justify-center text-primary shrink-0">
+                        <span class="material-symbols-outlined text-3xl">apps</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Application</div>
+                        <div class="text-lg font-bold text-slate-800">AGS KPSS YKS YDS Soru Kartları</div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary shrink-0">
+                        <span class="material-symbols-outlined text-3xl">person</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Developer</div>
+                        <div class="text-lg font-bold text-slate-800">217</div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div class="w-14 h-14 bg-tertiary/10 rounded-2xl flex items-center justify-center text-tertiary shrink-0">
+                        <span class="material-symbols-outlined text-3xl">category</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Category</div>
+                        <div class="text-lg font-bold text-slate-800">Education</div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div class="w-14 h-14 bg-accent/10 rounded-2xl flex items-center justify-center text-accent shrink-0">
+                        <span class="material-symbols-outlined text-3xl">update</span>
+                    </div>
+                    <div>
+                        <div class="text-sm font-bold text-slate-400 uppercase tracking-wider">Last Update</div>
+                        <div class="text-lg font-bold text-slate-800">February 19, 2026</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Platform Badges -->
+        <div class="flex flex-wrap gap-4 justify-center mb-12">
+            <div class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <svg class="w-5 h-5 text-secondary" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L6.05,21.34L14.54,12.85L16.81,15.12M20.16,10.81C20.5,11.08 20.75,11.5 20.75,12C20.75,12.5 20.53,12.92 20.16,13.19L17.89,14.5L15.39,12L17.89,9.5L20.16,10.81M6.05,2.66L16.81,8.88L14.54,11.15L6.05,2.66Z" />
+                </svg> Google Play Compliant
+            </div>
+            <div class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <svg class="w-5 h-5 text-slate-700" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M18.71 19.5C17.88 20.74 17 21.95 15.66 21.97C14.32 22 13.89 21.18 12.37 21.18C10.84 21.18 10.37 21.95 9.1 22C7.79 22.05 6.8 20.68 5.96 19.47C4.25 16.56 2.93 11.3 4.7 7.72C5.57 5.94 7.36 4.86 9.28 4.84C10.56 4.82 11.78 5.72 12.57 5.72C13.36 5.72 14.85 4.62 16.4 4.8C17.03 4.83 18.8 5.05 19.96 6.68C19.87 6.74 17.57 8.1 17.6 10.89C17.63 14.22 20.5 15.34 20.53 15.35C20.5 15.42 20.06 16.93 18.71 19.5M13 3.5C13.73 2.67 14.94 2.04 15.94 2C16.07 3.17 15.6 4.35 14.9 5.19C14.21 6.04 13.07 6.7 11.95 6.61C11.8 5.46 12.36 4.26 13 3.5Z" />
+                </svg> App Store Compliant
+            </div>
+            <div class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <span class="material-symbols-outlined text-primary text-xl">verified</span> KVKK Compliant
+            </div>
+            <div class="inline-flex items-center gap-2 px-5 py-3 bg-white rounded-2xl shadow-md border-2 border-slate-100 font-bold text-sm text-slate-600">
+                <span class="material-symbols-outlined text-accent text-xl">public</span> GDPR Compliant
+            </div>
+        </div>
+
+        <!-- Sections -->
+        <div class="space-y-6">
+
+            <!-- 1. Introduction -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
+                        <span class="material-symbols-outlined">info</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">1. Introduction</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    AGS KPSS YKS YDS Soru Kartları ("Application"), is developed by 217 ("Developer", "we").
+                    This Privacy Policy explains how your personal information is collected, used, shared, and protected when using our application.
+                    By using our application, you agree to this policy.
+                </p>
+                <p class="text-slate-600 leading-relaxed mt-3">
+                    This policy is prepared in compliance with Google Play Store and Apple App Store policies, the Personal Data Protection Law (KVKK), and the General Data Protection Regulation (GDPR).
+                </p>
+            </div>
+
+            <!-- 2. Data We Collect -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
+                        <span class="material-symbols-outlined">database</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">2. Data We Collect</h2>
+                </div>
+
+                <h3 class="font-bold text-slate-700 mt-4 mb-2">2.1 Data Provided by the User</h3>
+                <ul class="list-none space-y-2">
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> Username (optional, stored locally)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> Test results and performance data</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> In-app preferences and settings</li>
+                </ul>
+
+                <h3 class="font-bold text-slate-700 mt-6 mb-2">2.2 Automatically Collected Data</h3>
+                <ul class="list-none space-y-2">
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> Device information (model, OS version, unique device identifiers)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> App performance data and crash reports (Firebase Crashlytics)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> App usage statistics (Firebase Analytics)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> Advertising identifiers (Google AdMob)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">•</span> IP Address (anonymized)</li>
+                </ul>
+
+                <h3 class="font-bold text-slate-700 mt-6 mb-2">2.3 Data We Do NOT Collect</h3>
+                <div class="bg-secondary/5 rounded-2xl p-4 border border-secondary/10">
+                    <ul class="list-none space-y-2">
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span> We do not collect location data</li>
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span> We do not request access to contacts, camera, or microphone</li>
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span> We do not collect financial or payment information</li>
+                        <li class="flex items-start gap-2 text-slate-600"><span class="text-secondary mt-1">✓</span> We do not collect sensitive personal data (health, race, religion, etc.)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 3. Third-Party Services -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">share</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">3. Third-Party Services</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">
+                    Our application uses the following third-party services. Their respective privacy policies apply:
+                </p>
+                <div class="grid md:grid-cols-2 gap-4">
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Google AdMob</h4>
+                        <p class="text-sm text-slate-500 mb-2">Used for advertising. May collect advertising identifiers and device information.</p>
+                        <a href="https://policies.google.com/privacy" target="_blank" rel="noopener" class="text-sm text-primary font-bold hover:underline">Google Privacy Policy →</a>
+                    </div>
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Firebase Analytics</h4>
+                        <p class="text-sm text-slate-500 mb-2">Used for app usage statistics and performance measurement.</p>
+                        <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener" class="text-sm text-primary font-bold hover:underline">Firebase Privacy Policy →</a>
+                    </div>
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Firebase Crashlytics</h4>
+                        <p class="text-sm text-slate-500 mb-2">Used for app crash reports and bug tracking.</p>
+                        <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener" class="text-sm text-primary font-bold hover:underline">Firebase Privacy Policy →</a>
+                    </div>
+                    <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100">
+                        <h4 class="font-bold text-slate-800 mb-2">Google Play Services</h4>
+                        <p class="text-sm text-slate-500 mb-2">Used for app distribution and update services.</p>
+                        <a href="https://policies.google.com/privacy" target="_blank" rel="noopener" class="text-sm text-primary font-bold hover:underline">Google Privacy Policy →</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4. Purpose of Data Use -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
+                        <span class="material-symbols-outlined">target</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">4. Purpose of Data Use</h2>
+                </div>
+                <ul class="list-none space-y-3">
+                    <li class="flex items-start gap-3 text-slate-600"><span class="w-8 h-8 bg-primary/10 rounded-lg flex items-center justify-center text-primary shrink-0"><span class="material-symbols-outlined text-sm">school</span></span> Providing educational services, question cards, and tests</li>
+                    <li class="flex items-start gap-3 text-slate-600"><span class="w-8 h-8 bg-secondary/10 rounded-lg flex items-center justify-center text-secondary shrink-0"><span class="material-symbols-outlined text-sm">analytics</span></span> Providing personalized progress and success statistics</li>
+                    <li class="flex items-start gap-3 text-slate-600"><span class="w-8 h-8 bg-tertiary/10 rounded-lg flex items-center justify-center text-tertiary shrink-0"><span class="material-symbols-outlined text-sm">build</span></span> Improving app performance and fixing bugs</li>
+                    <li class="flex items-start gap-3 text-slate-600"><span class="w-8 h-8 bg-accent/10 rounded-lg flex items-center justify-center text-accent shrink-0"><span class="material-symbols-outlined text-sm">ads_click</span></span> Displaying ads via Google AdMob</li>
+                </ul>
+            </div>
+
+            <!-- 5. In-App Purchases and Subscriptions -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">payments</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">5. In-App Purchases and Subscriptions</h2>
+                </div>
+                <div class="space-y-4">
+                    <p class="text-slate-600 leading-relaxed mb-4">
+                        Our app may offer auto-renewable subscriptions (Monthly/Yearly) or one-time payment options to provide Premium features.
+                    </p>
+                    <div class="bg-tertiary/5 rounded-2xl p-5 border border-tertiary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">💳 Payment Processing</h4>
+                        <p class="text-slate-600 text-sm">
+                            All financial transactions and payment infrastructure belong to your platform (Apple App Store or Google Play Store). <b>We do NOT collect or store your credit card or payment information on our devices or servers.</b>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 6. Data Retention and Security -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
+                        <span class="material-symbols-outlined">lock</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">6. Data Retention and Security</h2>
+                </div>
+                <div class="space-y-4">
+                    <div class="bg-primary/5 rounded-2xl p-5 border border-primary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">📱 Local Storage</h4>
+                        <p class="text-slate-600 text-sm">Your user data (test results, progress, preferences) is stored locally using an SQLite database on your device. This data is not sent to our servers.</p>
+                    </div>
+                    <div class="bg-secondary/5 rounded-2xl p-5 border border-secondary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">🔒 Data Security</h4>
+                        <p class="text-slate-600 text-sm">Your data is stored securely on your device. Data shared with third-party services is transmitted over encrypted connections (HTTPS/TLS).</p>
+                    </div>
+                    <div class="bg-tertiary/5 rounded-2xl p-5 border border-tertiary/10">
+                        <h4 class="font-bold text-slate-800 mb-2">🗑️ Data Deletion</h4>
+                        <p class="text-slate-600 text-sm">When you uninstall the application from your device, all locally stored data is permanently deleted. You can also delete your test history and data from within the app.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 7. User Rights -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
+                        <span class="material-symbols-outlined">gavel</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">7. User Rights (KVKK & GDPR)</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">
+                    Under KVKK Article 11 and GDPR, you have the following rights:
+                </p>
+                <div class="grid md:grid-cols-2 gap-3">
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3"><span class="text-secondary font-bold">✓</span> Right to know whether personal data is processed</div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3"><span class="text-secondary font-bold">✓</span> Right to request information if processed</div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3"><span class="text-secondary font-bold">✓</span> Right to learn the purpose of processing</div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3"><span class="text-secondary font-bold">✓</span> Right to request rectification or deletion</div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3"><span class="text-secondary font-bold">✓</span> Right to request restriction of processing</div>
+                    <div class="flex items-start gap-2 text-slate-600 bg-slate-50 rounded-xl p-3"><span class="text-secondary font-bold">✓</span> Right to data portability</div>
+                </div>
+            </div>
+
+            <!-- 8. Children's Privacy -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">child_care</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">8. Children's Privacy</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    Our application is primarily designed for users aged 18 and over. We do not knowingly collect personal information from children under 13. Users aged 13-18 may use the application with parental or guardian consent. We comply with COPPA (Children's Online Privacy Protection Act) and relevant international regulations. If you become aware that a child has provided us with personal information without consent, please contact us.
+                </p>
+            </div>
+
+            <!-- 9. Advertising -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
+                        <span class="material-symbols-outlined">ads_click</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">9. Advertising and Cookies</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">
+                    Our application displays ads via Google AdMob. AdMob may use advertising identifiers and cookies to serve personalized ads. <b>On Apple (iOS) devices, with your permission under App Tracking Transparency, we may use your device identifiers to serve you more engaging ads.</b>
+                </p>
+                <div class="bg-accent/5 rounded-2xl p-5 border border-accent/10">
+                    <h4 class="font-bold text-slate-800 mb-2">Manage Your Ad Preferences</h4>
+                    <ul class="list-none space-y-2 text-sm text-slate-600">
+                        <li class="flex items-start gap-2"><span class="text-accent">•</span> <strong>Android:</strong> Settings → Google → Ads → Reset advertising ID / Opt out of Ads Personalization</li>
+                        <li class="flex items-start gap-2"><span class="text-accent">•</span> <strong>iOS:</strong> Settings → Privacy & Security → Tracking → Turn off Allow Apps to Request to Track or revoke app-specific permission.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 10. Data Sharing -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-primary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary">
+                        <span class="material-symbols-outlined">swap_horiz</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">10. Data Sharing and Transfer</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-4">We do not sell, rent, or share your personal information with third parties for marketing purposes. Data may only be shared in the following cases:</p>
+                <ul class="list-none space-y-2">
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-primary mt-1">•</span> With the third-party service providers mentioned above (Google) for functionality purposes</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-primary mt-1">•</span> Due to legal obligations (court order, legal process)</li>
+                    <li class="flex items-start gap-2 text-slate-600"><span class="text-primary mt-1">•</span> With explicit consent of the user</li>
+                </ul>
+            </div>
+
+            <!-- 11. International Data Transfer -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-secondary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-secondary/10 rounded-xl flex items-center justify-center text-secondary">
+                        <span class="material-symbols-outlined">public</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">11. International Data Transfer</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    Anonymous data collected via Google services (AdMob, Firebase) may be processed on servers outside of Turkey. Google provides appropriate security measures for these transfers. For detailed information, you can review the <a href="https://policies.google.com/privacy" target="_blank" rel="noopener" class="text-primary font-bold hover:underline">Google Privacy Policy</a>.
+                </p>
+            </div>
+
+            <!-- 12. Policy Changes -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-tertiary/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-tertiary/10 rounded-xl flex items-center justify-center text-tertiary">
+                        <span class="material-symbols-outlined">edit_note</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">12. Policy Changes</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed">
+                    We may update this privacy policy from time to time. Significant changes will be announced via in-app notifications and/or on this page. By continuing to use the application after updates are published, you accept the changes. We recommend checking the policy regularly.
+                </p>
+            </div>
+
+            <!-- 13. Contact -->
+            <div class="bg-gradient-to-br from-primary to-accent rounded-3xl shadow-xl p-8 text-white">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-white/20 rounded-xl flex items-center justify-center">
+                        <span class="material-symbols-outlined">mail</span>
+                    </div>
+                    <h2 class="text-xl font-bold">13. Contact</h2>
+                </div>
+                <p class="text-white/90 leading-relaxed mb-6">
+                    For your questions, data requests, or feedback regarding our privacy policy, you can contact us:
+                </p>
+                <div class="space-y-3">
+                    <div class="flex items-center gap-3 bg-white/10 rounded-2xl px-5 py-3">
+                        <span class="material-symbols-outlined">mail</span>
+                        <div>
+                            <div class="text-white/70 text-sm font-bold">Email</div>
+                            <a href="mailto:yusufcihanuzun@gmail.com" class="text-white font-bold hover:underline">yusufcihanuzun@gmail.com</a>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-3 bg-white/10 rounded-2xl px-5 py-3">
+                        <span class="material-symbols-outlined">person</span>
+                        <div>
+                            <div class="text-white/70 text-sm font-bold">Developer</div>
+                            <span class="text-white font-bold">217</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 14. Legal Compliance -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 border-2 border-transparent hover:border-accent/10 transition-all">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center text-accent">
+                        <span class="material-symbols-outlined">verified</span>
+                    </div>
+                    <h2 class="text-xl font-bold text-slate-800">14. Legal Compliance</h2>
+                </div>
+                <p class="text-slate-600 leading-relaxed mb-3">This application and privacy policy are prepared in accordance with the following regulations:</p>
+                <div class="grid md:grid-cols-2 gap-3">
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🇹🇷 KVKK</span>
+                        <p class="text-sm text-slate-500 mt-1">Law on Protection of Personal Data No. 6698</p>
+                    </div>
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🇪🇺 GDPR</span>
+                        <p class="text-sm text-slate-500 mt-1">General Data Protection Regulation</p>
+                    </div>
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🤖 Google Play</span>
+                        <p class="text-sm text-slate-500 mt-1">Google Play Developer Policies</p>
+                    </div>
+                    <div class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-slate-800">🍎 App Store</span>
+                        <p class="text-sm text-slate-500 mt-1">Apple App Store Review Guidelines</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Footer Note -->
+        <div class="text-center mt-12 text-slate-400 text-sm font-medium">
+            <p>This privacy policy was prepared for the AGS KPSS YKS YDS Soru Kartları application.</p>
+            <p>Last update: February 19, 2026 • This app is not affiliated with official institutions.</p>
+        </div>
+    </div>
 </body>
 
 </html>
